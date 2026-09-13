@@ -1,0 +1,1074 @@
+<!-- ==========================================================================
+   FACTS SMASHERS RACING - LIVE RACING & LEADERBOARD HUB (2-COLUMN WIDGET)
+   Drop this into an Elementor HTML widget on any page.
+   
+   Standards:
+   - Strict 15px left/right padding across all devices (Zero compound shrinking)
+   - Boxed layout (max-width: 1200px, centered)
+   - Brand Palette: Racing Red #D33C45, Warm Gold #E0A33A, Ivory #FAF8DA, Slate #0f172a
+   ========================================================================== -->
+
+<div class="fsr-racing-hub-wrapper">
+  <div class="fsr-racing-hub-header">
+    <div class="fsr-hub-kicker">
+      <span class="fsr-hub-kicker-dot"></span>
+      <span>Live Racing Intelligence</span>
+    </div>
+    <h2 class="fsr-hub-title">Race Calendar &amp; Top Earners</h2>
+    <p class="fsr-hub-subtitle">
+      Track marquee Stakes races across North America &amp; worldwide, alongside current season earnings leaders.
+    </p>
+  </div>
+
+  <div class="fsr-racing-hub-grid">
+    <!-- ====================================================================
+         COLUMN 1: UPCOMING RACES (USA & GLOBAL)
+         ==================================================================== -->
+    <div class="fsr-hub-col fsr-races-col">
+      <div class="fsr-col-header">
+        <div class="fsr-col-title-wrap">
+          <span class="fsr-col-icon">🏁</span>
+          <h3 class="fsr-col-title">Upcoming Marquee Races</h3>
+        </div>
+        <!-- Filter Tabs -->
+        <div class="fsr-pills-filter" id="fsrRaceFilters">
+          <button type="button" class="fsr-pill-btn is-active" data-filter="all">All</button>
+          <button type="button" class="fsr-pill-btn" data-filter="usa">🇺🇸 USA</button>
+          <button type="button" class="fsr-pill-btn" data-filter="global">🌍 Global</button>
+        </div>
+      </div>
+
+      <div class="fsr-cards-list" id="fsrRacesList">
+        <!-- Rendered via JS dynamically -->
+      </div>
+    </div>
+
+    <!-- ====================================================================
+         COLUMN 2: TOP EARNERS (HORSES & JOCKEYS)
+         ==================================================================== -->
+    <div class="fsr-hub-col fsr-earners-col">
+      <div class="fsr-col-header">
+        <div class="fsr-col-title-wrap">
+          <span class="fsr-col-icon">🏆</span>
+          <h3 class="fsr-col-title">Top Earners</h3>
+        </div>
+        <!-- Toggle Tabs -->
+        <div class="fsr-pills-filter" id="fsrEarnerToggle">
+          <button type="button" class="fsr-pill-btn is-active" data-view="horses">🏇 Horses</button>
+          <button type="button" class="fsr-pill-btn" data-view="jockeys">👤 Jockeys</button>
+        </div>
+      </div>
+
+      <div class="fsr-cards-list" id="fsrEarnersList">
+        <!-- Rendered via JS dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <div class="fsr-hub-footer">
+    <span class="fsr-footer-sync">🔄 Updated live with official racing entries</span>
+    <span class="fsr-footer-brand">Facts Smashers Racing</span>
+  </div>
+</div>
+
+<style>
+  /* ==========================================================================
+     0. ROOT & UNIVERSAL RESET (STRICT 15PX PADDING + 1200PX BOXED)
+     ========================================================================== */
+  .fsr-racing-hub-wrapper,
+  .fsr-racing-hub-wrapper * {
+    box-sizing: border-box !important;
+  }
+
+  .fsr-racing-hub-wrapper {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+    width: 100% !important;
+    max-width: 1200px !important;
+    margin: 30px auto !important;
+    padding: 0 15px !important;
+    overflow-x: hidden !important;
+  }
+
+  /* Header Section */
+  .fsr-racing-hub-header {
+    text-align: center !important;
+    margin-bottom: 32px !important;
+  }
+
+  .fsr-hub-kicker {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    background: #FAF8DA !important;
+    color: #D33C45 !important;
+    font-size: 11.5px !important;
+    font-weight: 800 !important;
+    letter-spacing: 0.12em !important;
+    text-transform: uppercase !important;
+    padding: 5px 16px !important;
+    border-radius: 30px !important;
+    border: 1px solid rgba(224, 163, 58, 0.4) !important;
+    margin-bottom: 12px !important;
+    box-shadow: 0 2px 8px rgba(211, 60, 69, 0.06) !important;
+  }
+
+  .fsr-hub-kicker-dot {
+    width: 7px !important;
+    height: 7px !important;
+    border-radius: 50% !important;
+    background: #D33C45 !important;
+    display: inline-block !important;
+  }
+
+  .fsr-hub-title {
+    color: #0f172a !important;
+    font-size: 34px !important;
+    font-weight: 900 !important;
+    letter-spacing: -0.02em !important;
+    text-transform: uppercase !important;
+    margin: 0 0 10px 0 !important;
+    line-height: 1.2 !important;
+  }
+
+  .fsr-hub-subtitle {
+    color: #64748b !important;
+    font-size: 15px !important;
+    line-height: 1.6 !important;
+    margin: 0 auto !important;
+    max-width: 680px !important;
+    font-weight: 500 !important;
+  }
+
+  /* ==========================================================================
+     1. 2-COLUMN GRID LAYOUT
+     ========================================================================== */
+  .fsr-racing-hub-grid {
+    display: grid !important;
+    grid-template-columns: 1.15fr 0.85fr !important;
+    gap: 28px !important;
+    align-items: start !important;
+    width: 100% !important;
+  }
+
+  .fsr-hub-col {
+    background: #ffffff !important;
+    border-radius: 22px !important;
+    border: 1.5px solid #E8E2BE !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03) !important;
+    padding: 24px !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  /* Column Header & Filter Buttons */
+  .fsr-col-header {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    flex-wrap: wrap !important;
+    gap: 12px !important;
+    padding-bottom: 18px !important;
+    margin-bottom: 18px !important;
+    border-bottom: 1.5px solid #f1f5f9 !important;
+  }
+
+  .fsr-col-title-wrap {
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+  }
+
+  .fsr-col-icon {
+    font-size: 20px !important;
+    line-height: 1 !important;
+  }
+
+  .fsr-col-title {
+    font-size: 19px !important;
+    font-weight: 900 !important;
+    color: #0f172a !important;
+    margin: 0 !important;
+    letter-spacing: -0.01em !important;
+  }
+
+  /* Filter Pill Tabs */
+  .fsr-pills-filter {
+    display: inline-flex !important;
+    background: #FAF8DA !important;
+    padding: 4px !important;
+    border-radius: 30px !important;
+    border: 1px solid rgba(224, 163, 58, 0.4) !important;
+    gap: 4px !important;
+  }
+
+  .fsr-pill-btn {
+    background: transparent !important;
+    border: none !important;
+    border-radius: 20px !important;
+    padding: 6px 14px !important;
+    font-size: 12px !important;
+    font-weight: 800 !important;
+    color: #64748b !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+    line-height: 1 !important;
+  }
+
+  .fsr-pill-btn:hover {
+    color: #0f172a !important;
+  }
+
+  .fsr-pill-btn.is-active {
+    background: #D33C45 !important;
+    color: #FAF8DA !important;
+    box-shadow: 0 2px 8px rgba(211, 60, 69, 0.25) !important;
+  }
+
+  /* ==========================================================================
+     2. RACE CARDS (COLUMN 1)
+     ========================================================================== */
+  .fsr-cards-list {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 14px !important;
+  }
+
+  .fsr-race-card {
+    background: #fafaf9 !important;
+    border: 1.5px solid #E8E2BE !important;
+    border-radius: 16px !important;
+    padding: 16px 18px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  }
+
+  .fsr-race-card:hover {
+    transform: translateY(-3px) !important;
+    border-color: #D33C45 !important;
+    background: #ffffff !important;
+    box-shadow: 0 8px 24px rgba(211, 60, 69, 0.09) !important;
+  }
+
+  .fsr-race-top {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+  }
+
+  .fsr-race-grade {
+    background: #D33C45 !important;
+    color: #FAF8DA !important;
+    font-size: 10.5px !important;
+    font-weight: 900 !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    padding: 4px 10px !important;
+    border-radius: 20px !important;
+  }
+
+  .fsr-race-country-badge {
+    background: #f1f5f9 !important;
+    color: #475569 !important;
+    font-size: 11px !important;
+    font-weight: 800 !important;
+    padding: 3px 8px !important;
+    border-radius: 12px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 4px !important;
+  }
+
+  .fsr-race-date-badge {
+    font-size: 12px !important;
+    font-weight: 800 !important;
+    color: #C77B27 !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+  }
+
+  .fsr-race-name {
+    font-size: 16.5px !important;
+    font-weight: 900 !important;
+    color: #0f172a !important;
+    margin: 0 !important;
+    line-height: 1.3 !important;
+  }
+
+  .fsr-race-meta-row {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+    font-size: 13px !important;
+    color: #64748b !important;
+    font-weight: 600 !important;
+    padding-top: 8px !important;
+    border-top: 1px solid #f1f5f9 !important;
+  }
+
+  .fsr-race-track {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 5px !important;
+    color: #334155 !important;
+    font-weight: 700 !important;
+  }
+
+  .fsr-race-purse {
+    font-weight: 900 !important;
+    color: #D33C45 !important;
+    font-size: 14px !important;
+  }
+
+  .fsr-race-contenders {
+    font-size: 11.5px !important;
+    color: #64748b !important;
+    background: #f8fafc !important;
+    padding: 6px 10px !important;
+    border-radius: 8px !important;
+    border: 1px dashed #e2e8f0 !important;
+    line-height: 1.4 !important;
+  }
+
+  .fsr-contenders-lbl {
+    font-weight: 800 !important;
+    color: #0f172a !important;
+    margin-right: 4px !important;
+  }
+
+  .fsr-contenders-txt {
+    color: #475569 !important;
+    font-weight: 500 !important;
+  }
+
+  /* ==========================================================================
+     3. TOP EARNERS LEADERBOARD (COLUMN 2)
+     ========================================================================== */
+  .fsr-earner-card {
+    background: #ffffff !important;
+    border: 1.5px solid #E8E2BE !important;
+    border-radius: 16px !important;
+    padding: 14px 16px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 14px !important;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  }
+
+  .fsr-earner-card:hover {
+    transform: translateY(-2px) !important;
+    border-color: #E0A33A !important;
+    box-shadow: 0 6px 18px rgba(224, 163, 58, 0.12) !important;
+  }
+
+  /* Rank Badge */
+  .fsr-rank-num {
+    width: 38px !important;
+    height: 38px !important;
+    border-radius: 50% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 15px !important;
+    font-weight: 900 !important;
+    flex-shrink: 0 !important;
+    border: 1.5px solid #E8E2BE !important;
+    background: #FAF8DA !important;
+    color: #0f172a !important;
+  }
+
+  .fsr-rank-1 {
+    background: linear-gradient(135deg, #FFD700, #FFA500) !important;
+    color: #ffffff !important;
+    border-color: #FFA500 !important;
+    box-shadow: 0 3px 10px rgba(255, 165, 0, 0.4) !important;
+  }
+
+  .fsr-rank-2 {
+    background: linear-gradient(135deg, #E2E8F0, #94A3B8) !important;
+    color: #ffffff !important;
+    border-color: #94A3B8 !important;
+  }
+
+  .fsr-rank-3 {
+    background: linear-gradient(135deg, #FDBA74, #C2410C) !important;
+    color: #ffffff !important;
+    border-color: #C2410C !important;
+  }
+
+  .fsr-earner-info {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 3px !important;
+    flex-grow: 1 !important;
+  }
+
+  .fsr-earner-name {
+    font-size: 15.5px !important;
+    font-weight: 900 !important;
+    color: #0f172a !important;
+    margin: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+  }
+
+  .fsr-earner-sub {
+    font-size: 12px !important;
+    font-weight: 600 !important;
+    color: #64748b !important;
+  }
+
+  .fsr-earner-cash {
+    font-size: 16px !important;
+    font-weight: 900 !important;
+    color: #0f172a !important;
+    text-align: right !important;
+    white-space: nowrap !important;
+  }
+
+  .fsr-earner-cash-label {
+    font-size: 10px !important;
+    font-weight: 700 !important;
+    color: #C77B27 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+  }
+
+  /* ==========================================================================
+     4. FOOTER & BRANDING
+     ========================================================================== */
+  .fsr-hub-footer {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+    margin-top: 24px !important;
+    padding-top: 14px !important;
+    border-top: 1px solid #f1f5f9 !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    color: #94a3b8 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+  }
+
+  .fsr-footer-brand {
+    color: #D33C45 !important;
+  }
+
+  /* ==========================================================================
+     5. RESPONSIVE BREAKPOINTS (STRICT 15PX GUTTERS)
+     ========================================================================== */
+  @media (max-width: 900px) {
+    .fsr-racing-hub-grid {
+      grid-template-columns: 1fr !important;
+      gap: 24px !important;
+    }
+
+    .fsr-hub-title {
+      font-size: 28px !important;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .fsr-racing-hub-wrapper {
+      padding-left: 15px !important;
+      padding-right: 15px !important;
+      margin-top: 20px !important;
+    }
+
+    .fsr-hub-col {
+      padding: 16px !important;
+      border-radius: 18px !important;
+    }
+
+    .fsr-hub-title {
+      font-size: 24px !important;
+    }
+
+    .fsr-col-title {
+      font-size: 17px !important;
+    }
+  }
+</style>
+
+<script>
+  (function () {
+    // Live Auto-Update Data Endpoint (from your GitHub Actions scraper)
+    const DATA_URL = "https://raw.githubusercontent.com/farazajmal/horse/main/racing_data.json";
+
+    // Embedded Data Store (Fallback & Instant Initial Render)
+    const RACING_DATA = {
+      "last_updated": "September 13, 2026 - 08:25 PM",
+      "races": [
+            {
+                  "name": "Jockey Club Gold Cup (Grade 1)",
+                  "raw_name": "Jockey Club Gold Cup",
+                  "track": "Belmont at the Big A / Saratoga",
+                  "track_code": "Bel",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 18, 2026",
+                  "dist": "1  1/4 m (Dirt)",
+                  "grade": "Grade 1",
+                  "purse": "$1,000,000",
+                  "isUsa": true,
+                  "contenders": "Baeza,Phileas Fogg,Render Judgment,Banishing,Stars and Stripes,Chunk of Gold,Forever Young"
+            },
+            {
+                  "name": "Presque Isle Downs Masters (Grade 2)",
+                  "raw_name": "Presque Isle Downs Masters",
+                  "track": "Presque Isle Downs",
+                  "track_code": "Pid",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 18, 2026",
+                  "dist": "6 1/2 f (Synth)",
+                  "grade": "Grade 2",
+                  "purse": "$500,000",
+                  "isUsa": true,
+                  "contenders": "Reagan's Flame,Mitole Magic,Love Cervere,Stylet,Thank You Amy,Inspire Courage,Lost And Found"
+            },
+            {
+                  "name": "Gallant Bob (Grade 2)",
+                  "raw_name": "Gallant Bob",
+                  "track": "Parx Racing",
+                  "track_code": "Prx",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 19, 2026",
+                  "dist": "6 f (Dirt)",
+                  "grade": "Grade 2",
+                  "purse": "$500,000",
+                  "isUsa": true,
+                  "contenders": "Solitude Dude"
+            },
+            {
+                  "name": "Dogwood Stakes (Grade 3)",
+                  "raw_name": "Dogwood Stakes",
+                  "track": "Churchill Downs",
+                  "track_code": "CD",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 19, 2026",
+                  "dist": "7 f (Dirt)",
+                  "grade": "Grade 3",
+                  "purse": "$300,000",
+                  "isUsa": true,
+                  "contenders": "Where Luck Lives,Movie Night,A Fine Chardonnay,Explora,Conceit,My Steel Magnolia"
+            },
+            {
+                  "name": "Pennsylvania Derby (Grade 1)",
+                  "raw_name": "Pennsylvania Derby",
+                  "track": "Parx Racing",
+                  "track_code": "Prx",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 19, 2026",
+                  "dist": "1 1/8 m (Dirt)",
+                  "grade": "Grade 1",
+                  "purse": "$1,000,000",
+                  "isUsa": true,
+                  "contenders": "The Puma,Zihnal,Further Ado,Iron Honor,Sassmaster"
+            },
+            {
+                  "name": "Durham Cup (Grade 3)",
+                  "raw_name": "Durham Cup",
+                  "track": "Woodbine",
+                  "track_code": "WO",
+                  "country": "Canada",
+                  "flag": "🇨🇦",
+                  "date": "Sep 19, 2026",
+                  "dist": "1 1/16 m (Synth)",
+                  "grade": "Grade 3",
+                  "purse": "$300,000",
+                  "isUsa": false,
+                  "contenders": "Hunt Master,Runaway Again,War Court,Sedburys Ghost"
+            },
+            {
+                  "name": "Cotillion (Grade 1)",
+                  "raw_name": "Cotillion",
+                  "track": "Parx Racing",
+                  "track_code": "Prx",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 19, 2026",
+                  "dist": "1 1/16 m (Dirt)",
+                  "grade": "Grade 1",
+                  "purse": "$1,000,000",
+                  "isUsa": true,
+                  "contenders": "Zany,Always A Runner,My Miss Mo"
+            },
+            {
+                  "name": "Beldame (Grade 2)",
+                  "raw_name": "Beldame",
+                  "track": "Belmont at the Big A / Saratoga",
+                  "track_code": "Bel",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 25, 2026",
+                  "dist": "1 1/8 m (Dirt)",
+                  "grade": "Grade 2",
+                  "purse": "$500,000",
+                  "isUsa": true,
+                  "contenders": "Fully Subscribed,Nitrogen"
+            },
+            {
+                  "name": "Flower Bowl Stakes (Grade 2)",
+                  "raw_name": "Flower Bowl Stakes",
+                  "track": "Belmont at the Big A / Saratoga",
+                  "track_code": "Bel",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 26, 2026",
+                  "dist": "1  1/4 m (Turf)",
+                  "grade": "Grade 2",
+                  "purse": "$500,000",
+                  "isUsa": true,
+                  "contenders": "Bellezza,Kathynmarissa,Fionn,Sunlit Uplands"
+            },
+            {
+                  "name": "Goodwood Stakes (Grade 1)",
+                  "raw_name": "Goodwood Stakes",
+                  "track": "Santa Anita Park",
+                  "track_code": "SA",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 26, 2026",
+                  "dist": "1 1/8 m (Dirt)",
+                  "grade": "Grade 1",
+                  "purse": "$1,000,000",
+                  "isUsa": true,
+                  "contenders": "Baeza,Caldera"
+            },
+            {
+                  "name": "Joe Hirsch Turf Classic (Grade 1)",
+                  "raw_name": "Joe Hirsch Turf Classic",
+                  "track": "Belmont at the Big A / Saratoga",
+                  "track_code": "Bel",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 26, 2026",
+                  "dist": "1  1/2m (Turf)",
+                  "grade": "Grade 1",
+                  "purse": "$1,000,000",
+                  "isUsa": true,
+                  "contenders": "Minaret Station"
+            },
+            {
+                  "name": "John Henry Turf Championship (Grade 2)",
+                  "raw_name": "John Henry Turf Championship",
+                  "track": "Santa Anita Park",
+                  "track_code": "SA",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 26, 2026",
+                  "dist": "1  1/4 m (Turf)",
+                  "grade": "Grade 2",
+                  "purse": "$500,000",
+                  "isUsa": true,
+                  "contenders": "Mondego"
+            },
+            {
+                  "name": "Vosburgh (Grade 3)",
+                  "raw_name": "Vosburgh",
+                  "track": "Belmont at the Big A / Saratoga",
+                  "track_code": "Bel",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 26, 2026",
+                  "dist": "7 f (Dirt)",
+                  "grade": "Grade 3",
+                  "purse": "$300,000",
+                  "isUsa": true,
+                  "contenders": ""
+            },
+            {
+                  "name": "Santa Anita Sprint Championship (Grade 2)",
+                  "raw_name": "Santa Anita Sprint Championship",
+                  "track": "Santa Anita Park",
+                  "track_code": "SA",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 27, 2026",
+                  "dist": "6 f (Dirt)",
+                  "grade": "Grade 2",
+                  "purse": "$500,000",
+                  "isUsa": true,
+                  "contenders": "Lovesick Blues"
+            },
+            {
+                  "name": "Winter Memories (Grade 3)",
+                  "raw_name": "Winter Memories",
+                  "track": "Belmont at the Big A / Saratoga",
+                  "track_code": "Bel",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Sep 27, 2026",
+                  "dist": "1 mile (Turf)",
+                  "grade": "Grade 3",
+                  "purse": "$300,000",
+                  "isUsa": true,
+                  "contenders": "Shelzawa"
+            },
+            {
+                  "name": "Phoenix (Grade 2)",
+                  "raw_name": "Phoenix",
+                  "track": "Keeneland",
+                  "track_code": "Kee",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Oct 02, 2026",
+                  "dist": "6 f (Dirt)",
+                  "grade": "Grade 2",
+                  "purse": "$500,000",
+                  "isUsa": true,
+                  "contenders": "Hymn"
+            },
+            {
+                  "name": "Champagne (Grade 1)",
+                  "raw_name": "Champagne",
+                  "track": "Belmont at the Big A / Saratoga",
+                  "track_code": "Bel",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Oct 03, 2026",
+                  "dist": "1 mile (Dirt)",
+                  "grade": "Grade 1",
+                  "purse": "$1,000,000",
+                  "isUsa": true,
+                  "contenders": "The Good Life,Club Reign,U. S. S. Valor,Twinkle Town,Q B Rocket,Gaudreau"
+            },
+            {
+                  "name": "Oak Leaf (Grade 2)",
+                  "raw_name": "Oak Leaf",
+                  "track": "Santa Anita Park",
+                  "track_code": "SA",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Oct 03, 2026",
+                  "dist": "1 1/16 m (Dirt)",
+                  "grade": "Grade 2",
+                  "purse": "$500,000",
+                  "isUsa": true,
+                  "contenders": "Crazy Hot Mess,Miss Monica"
+            },
+            {
+                  "name": "Canadian International (Grade 1)",
+                  "raw_name": "Canadian International",
+                  "track": "Woodbine",
+                  "track_code": "WO",
+                  "country": "Canada",
+                  "flag": "🇨🇦",
+                  "date": "Oct 03, 2026",
+                  "dist": "1  1/2m (Turf)",
+                  "grade": "Grade 1",
+                  "purse": "$1,000,000",
+                  "isUsa": false,
+                  "contenders": "Tawny Port,Il Siciliano"
+            },
+            {
+                  "name": "Frizette (Grade 1)",
+                  "raw_name": "Frizette",
+                  "track": "Belmont at the Big A / Saratoga",
+                  "track_code": "Bel",
+                  "country": "USA",
+                  "flag": "🇺🇸",
+                  "date": "Oct 03, 2026",
+                  "dist": "1 mile (Dirt)",
+                  "grade": "Grade 1",
+                  "purse": "$1,000,000",
+                  "isUsa": true,
+                  "contenders": "Forever Carina,Libby Lloyd"
+            }
+      ],
+      "horses": [
+            {
+                  "rank": 1,
+                  "name": "Forever Young (JPN)",
+                  "sub": "Starts: 2 • Wins: 1 • Top 3: 2",
+                  "cash": "$12,400,000",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 2,
+                  "name": "Magnitude",
+                  "sub": "Starts: 4 • Wins: 3 • Top 3: 3",
+                  "cash": "$8,334,500",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 3,
+                  "name": "Golden Tempo",
+                  "sub": "Starts: 6 • Wins: 3 • Top 3: 6",
+                  "cash": "$4,750,000",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 4,
+                  "name": "Nysos",
+                  "sub": "Starts: 2 • Wins: 1 • Top 3: 2",
+                  "cash": "$4,050,000",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 5,
+                  "name": "Renegade",
+                  "sub": "Starts: 6 • Wins: 3 • Top 3: 5",
+                  "cash": "$2,435,000",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 6,
+                  "name": "Skippylongstocking",
+                  "sub": "Starts: 5 • Wins: 2 • Top 3: 5",
+                  "cash": "$2,247,400",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 7,
+                  "name": "Tumbarumba",
+                  "sub": "Starts: 2 • Wins: 0 • Top 3: 1",
+                  "cash": "$2,240,000",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 8,
+                  "name": "Royal Champion (IRE)",
+                  "sub": "Starts: 1 • Wins: 1 • Top 3: 1",
+                  "cash": "$1,800,000",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 9,
+                  "name": "Napoleon Solo",
+                  "sub": "Starts: 5 • Wins: 1 • Top 3: 3",
+                  "cash": "$1,691,520",
+                  "flag": "🏇"
+            },
+            {
+                  "rank": 10,
+                  "name": "Bishops Bay",
+                  "sub": "Starts: 4 • Wins: 1 • Top 3: 3",
+                  "cash": "$1,655,000",
+                  "flag": "🏇"
+            }
+      ],
+      "jockeys": [
+            {
+                  "rank": 1,
+                  "name": "Jose L. Ortiz",
+                  "sub": "Starts: 1,048 • Wins: 242 (23%)",
+                  "cash": "$41,377,063",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 2,
+                  "name": "Flavien Prat",
+                  "sub": "Starts: 980 • Wins: 240 (24%)",
+                  "cash": "$39,030,994",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 3,
+                  "name": "Irad Ortiz, Jr.",
+                  "sub": "Starts: 881 • Wins: 213 (24%)",
+                  "cash": "$27,384,135",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 4,
+                  "name": "Tyler Gaffalione",
+                  "sub": "Starts: 990 • Wins: 141 (14%)",
+                  "cash": "$19,803,332",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 5,
+                  "name": "Manuel Franco",
+                  "sub": "Starts: 1,033 • Wins: 225 (22%)",
+                  "cash": "$19,361,941",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 6,
+                  "name": "John R. Velazquez",
+                  "sub": "Starts: 635 • Wins: 107 (17%)",
+                  "cash": "$16,969,992",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 7,
+                  "name": "Luis Saez",
+                  "sub": "Starts: 855 • Wins: 141 (16%)",
+                  "cash": "$16,759,375",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 8,
+                  "name": "Ryusei Sakai",
+                  "sub": "Starts: 10 • Wins: 2 (20%)",
+                  "cash": "$13,320,100",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 9,
+                  "name": "Junior Alvarado",
+                  "sub": "Starts: 559 • Wins: 82 (15%)",
+                  "cash": "$12,556,782",
+                  "flag": "👤"
+            },
+            {
+                  "rank": 10,
+                  "name": "Paco Lopez",
+                  "sub": "Starts: 1,029 • Wins: 261 (25%)",
+                  "cash": "$12,021,415",
+                  "flag": "👤"
+            }
+      ]
+};
+
+    // 1. Render Races
+    function renderRaces(filter = 'all') {
+      const container = document.getElementById('fsrRacesList');
+      if (!container) return;
+
+      const filtered = RACING_DATA.races.filter(race => {
+        if (filter === 'usa') return race.isUsa;
+        if (filter === 'global') return !race.isUsa;
+        return true;
+      });
+
+      if (filtered.length === 0) {
+        container.innerHTML = `
+          <div style="text-align: center; padding: 40px 20px; color: #94a3b8; font-weight: 600;">
+            No upcoming races found for this selection.
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = filtered.map(race => {
+        const contendersHtml = race.contenders ? `
+          <div class="fsr-race-contenders">
+            <span class="fsr-contenders-lbl">Contenders:</span>
+            <span class="fsr-contenders-txt">${race.contenders}</span>
+          </div>
+        ` : '';
+
+        return `
+          <div class="fsr-race-card">
+            <div class="fsr-race-top">
+              <div style="display: flex; align-items: center; gap: 6px;">
+                <span class="fsr-race-grade">${race.grade}</span>
+                <span class="fsr-race-country-badge">${race.flag} ${race.country}</span>
+              </div>
+              <span class="fsr-race-date-badge">📅 ${race.date}</span>
+            </div>
+            <h4 class="fsr-race-name">${race.raw_name || race.name}</h4>
+            <div class="fsr-race-meta-row">
+              <span class="fsr-race-track">📍 ${race.track} • ${race.dist}</span>
+              <span class="fsr-race-purse">Purse: ${race.purse}</span>
+            </div>
+            ${contendersHtml}
+          </div>
+        `;
+      }).join('');
+    }
+
+    // 2. Render Top Earners
+    function renderEarners(view = 'horses') {
+      const container = document.getElementById('fsrEarnersList');
+      if (!container) return;
+
+      const list = view === 'horses' ? RACING_DATA.horses : RACING_DATA.jockeys;
+
+      if (!list || list.length === 0) {
+        container.innerHTML = `
+          <div style="text-align: center; padding: 40px 20px; color: #94a3b8; font-weight: 600;">
+            No leaderboard data available.
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = list.map(item => `
+        <div class="fsr-earner-card">
+          <div class="fsr-rank-num fsr-rank-${item.rank}">${item.rank}</div>
+          <div class="fsr-earner-info">
+            <h4 class="fsr-earner-name">${item.flag} ${item.name}</h4>
+            <span class="fsr-earner-sub">${item.sub}</span>
+          </div>
+          <div class="fsr-earner-cash">
+            <div>${item.cash}</div>
+            <div class="fsr-earner-cash-label">Earnings</div>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    // 3. Setup Interactive Event Listeners
+    function initHub() {
+      renderRaces('all');
+      renderEarners('horses');
+
+      // Race Filter Buttons
+      const raceFilters = document.getElementById('fsrRaceFilters');
+      if (raceFilters) {
+        raceFilters.querySelectorAll('.fsr-pill-btn').forEach(btn => {
+          btn.addEventListener('click', function () {
+            raceFilters.querySelectorAll('.fsr-pill-btn').forEach(b => b.classList.remove('is-active'));
+            this.classList.add('is-active');
+            renderRaces(this.getAttribute('data-filter'));
+          });
+        });
+      }
+
+      // Earner Toggle Buttons
+      const earnerToggle = document.getElementById('fsrEarnerToggle');
+      if (earnerToggle) {
+        earnerToggle.querySelectorAll('.fsr-pill-btn').forEach(btn => {
+          btn.addEventListener('click', function () {
+            earnerToggle.querySelectorAll('.fsr-pill-btn').forEach(b => b.classList.remove('is-active'));
+            this.classList.add('is-active');
+            renderEarners(this.getAttribute('data-view'));
+          });
+        });
+      }
+
+      // Optional: Auto-fetch fresh JSON if remote DATA_URL is configured
+      if (typeof DATA_URL !== 'undefined' && DATA_URL) {
+        fetch(DATA_URL)
+          .then(res => res.json())
+          .then(data => {
+            if (data && (data.races || data.horses)) {
+              if (data.races) RACING_DATA.races = data.races;
+              if (data.horses) RACING_DATA.horses = data.horses;
+              if (data.jockeys) RACING_DATA.jockeys = data.jockeys;
+              const activeRaceFilter = document.querySelector('#fsrRaceFilters .fsr-pill-btn.is-active');
+              const activeEarnerView = document.querySelector('#fsrEarnerToggle .fsr-pill-btn.is-active');
+              renderRaces(activeRaceFilter ? activeRaceFilter.getAttribute('data-filter') : 'all');
+              renderEarners(activeEarnerView ? activeEarnerView.getAttribute('data-view') : 'horses');
+            }
+          })
+          .catch(() => { /* Silent fallback to embedded data */ });
+      }
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initHub);
+    } else {
+      initHub();
+    }
+  })();
+</script>
+
+
