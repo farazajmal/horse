@@ -263,13 +263,16 @@ def scrape_bloodhorse_stakes_entries():
                             is_usa = (country == "USA")
                             break
 
+                    # Format Purse
+                    clean_purse = purse_val if purse_val.startswith('$') else f"${purse_val.replace('$', '')}"
+
                     races.append({
                         "name": race_name,
                         "raw_name": race_name,
                         "track": track_val,
                         "grade": grade_label,
                         "dist": f"{dist_val} ({sf_val})",
-                        "purse": f"Purse: {purse_val}",
+                        "purse": clean_purse,
                         "date": date_val,
                         "country": country,
                         "flag": flag,
@@ -346,24 +349,44 @@ def main():
     print("FACTS SMASHERS RACING - BLOODHORSE LIVE SCRAPER & AGGREGATOR")
     print("=================================================================")
 
-    # 1. Dynamically calculate the active year (e.g., 2026, 2027, etc.)
     current_year = datetime.now().year
     print(f"[*] Active Scraping Year: {current_year}")
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     json_path = os.path.join(script_dir, "racing_data.json")
 
-    # 2. Scrape Horses & Jockeys from BloodHorse for active year
+    # 2. Load existing cache if available
+    existing_data = {}
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+        except Exception:
+            pass
+
+    # 3. Scrape Horses & Jockeys from BloodHorse for active year
     horses = scrape_bloodhorse_horses(current_year)
+    if not horses and existing_data.get("horses"):
+        print("[*] Retaining existing top horses data.")
+        horses = existing_data["horses"]
+
     jockeys = scrape_bloodhorse_jockeys(current_year)
+    if not jockeys and existing_data.get("jockeys"):
+        print("[*] Retaining existing top jockeys data.")
+        jockeys = existing_data["jockeys"]
 
-    # 3. Scrape Stakes Entries from BloodHorse
+    # 4. Scrape Stakes Entries from BloodHorse
     races = scrape_bloodhorse_stakes_entries()
+    if not races and existing_data.get("races"):
+        print("[*] Retaining existing stakes entries data.")
+        races = existing_data["races"]
 
-    # 4. Scrape Recent Race Results from BloodHorse
+    # 5. Scrape Recent Race Results from BloodHorse
     recent_results = scrape_bloodhorse_race_results()
+    if not recent_results and existing_data.get("recent_results"):
+        recent_results = existing_data["recent_results"]
 
-    # 5. Compile Master Dataset
+    # 6. Compile Master Dataset
     master_data = {
         "last_updated": datetime.now().strftime("%B %d, %Y - %I:%M %p"),
         "year": current_year,
@@ -373,12 +396,12 @@ def main():
         "recent_results": recent_results
     }
 
-    # 6. Export to racing_data.json
+    # 7. Export to racing_data.json
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(master_data, f, indent=2, ensure_ascii=False)
     print(f"[OK] Exported live JSON data to: {json_path}")
 
-    # 7. Update racing-hub-widget.html
+    # 8. Update racing-hub-widget.html
     widget_path = os.path.join(script_dir, "racing-hub-widget.html")
     update_widget_html(master_data, widget_path)
 
