@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every 2 hours
     - cron: '0 */2 * * *'
-  workflow_dispatch: # Allows manual trigger anytime
+  workflow_dispatch: # Allows manual trigger from GitHub UI anytime
 
 permissions:
   contents: write
@@ -39,6 +39,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No updates to commit."
           else
-            git commit -m "Auto-update live racing data [skip ci]"
+            git commit -m "Auto-update live racing data & leaderboards [skip ci]"
             git push
           fi
