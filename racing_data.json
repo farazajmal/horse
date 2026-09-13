@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 13, 2026 - 06:30 PM",
+  "last_updated": "September 13, 2026 - 10:03 PM",
   "year": 2026,
   "races": [
     {
@@ -123,6 +123,18 @@
       "isUsa": true
     },
     {
+      "name": "Floral Park S.",
+      "raw_name": "Floral Park S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Turf)",
+      "purse": "$175,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Harrods Creek S.",
       "raw_name": "Harrods Creek S.",
       "track": "Churchill Downs",
@@ -226,6 +238,126 @@
       "dist": "1 1/16 miles (Turf)",
       "purse": "$75,000",
       "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Weather Vane S.",
+      "raw_name": "Weather Vane S.",
+      "track": "Laurel Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Philly Special S.",
+      "raw_name": "Philly Special S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$150,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Stable Recovery S.",
+      "raw_name": "Stable Recovery S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Liberty Bell S.",
+      "raw_name": "Liberty Bell S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Greenwood Cup S.",
+      "raw_name": "Greenwood Cup S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "1 1/2 miles (Dirt)",
+      "purse": "$150,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Parx Dirt Mile S.",
+      "raw_name": "Parx Dirt Mile S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$300,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Gallant Bob S. (G2)",
+      "raw_name": "Gallant Bob S. (G2)",
+      "track": "Parx Racing",
+      "grade": "Grade 2",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$400,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Cotillion S. (G1)",
+      "raw_name": "Cotillion S. (G1)",
+      "track": "Parx Racing",
+      "grade": "Grade 1",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$1,000,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Pennsylvania Derby (G1)",
+      "raw_name": "Pennsylvania Derby (G1)",
+      "track": "Parx Racing",
+      "grade": "Grade 1",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$1,000,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Pitre GMC Albuquerque Distaff S.",
+      "raw_name": "Pitre GMC Albuquerque Distaff S.",
+      "track": "Albuquerque",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "9/20",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -447,6 +579,30 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 10, MSW",
+      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Sunday, September 13, 2026, Race 10 MSW 6 1/2 furlongs $120,000 3 yo's up Dirt FT Big Jake Army Mule - Beyond Heavenly Nomolimbo Mo Town - Pretty Zippy C's Today McKinzie - Into Candy View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 9, ALW",
+      "details": "Churchill Downs, Race 9, ALW Churchill Downs , Sunday, September 13, 2026, Race 9 ALW 6 furlongs $127,000 Fillies and Mares 3 yo's up Dirt FT Spun Candy Hard Spun - Sugar Plum Fairy White Smoke Essential Quality - Mira Alta Yo Fancy Yaupon - Clarendon Fancy View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, CLM",
+      "details": "Churchill Downs, Race 8, CLM Churchill Downs , Sunday, September 13, 2026, Race 8 CLM 1 1/16 miles $76,000 3 yo's up Turf FM Sound Cause Brody's Cause - Queen of Scat Snare Vekoma - Keri Belle Taunting Daredevil - Rendition View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 6, MSW",
+      "details": "Churchill Downs, Race 6, MSW Churchill Downs , Sunday, September 13, 2026, Race 6 MSW 1 mile $120,000 Fillies 2 yo Dirt FT High Speed Reed Upstart - She's the Berries Peony Park Omaha Beach - After the Rose Clever Miss Gun Runner - Untapable View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 5, AOC",
+      "details": "Churchill Downs, Race 5, AOC Churchill Downs , Sunday, September 13, 2026, Race 5 AOC 7 furlongs $141,000 Fillies and Mares 3 yo's up Dirt FT Nooni Win Win Win - Unanimity Roswell Into Mischief - Acoma Coaster Vekoma - Lavishly View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 4, MCL",
+      "details": "Churchill Downs, Race 4, MCL Churchill Downs , Sunday, September 13, 2026, Race 4 MCL 1 1/8 miles $67,000 3 yo's up Turf FM Spun Legacy Hard Spun - Tiz a Legacy Nyquistador Nyquist - Bashful New Fund Maxfield - Praia View Details"
+    },
+    {
       "title": "Churchill Downs, Race 2, CLM",
       "details": "Churchill Downs, Race 2, CLM Churchill Downs , Sunday, September 13, 2026, Race 2 CLM 7 1/2 furlongs $89,000 3 yo's up Dirt FT Classic Car Wash Noble Bird - East Lake Classic Timing Difference Munnings - Bernadreamy Can't Hush This Not This Time - Awe Hush View Details"
     },
@@ -455,56 +611,32 @@
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Sunday, September 13, 2026, Race 1 MCL 1 mile $57,000 Fillies 2 yo Dirt FT Midnight Escapade Silver State - Fold Em Extra Benefits Mandaloun - Kika Bride Authentic - Fiancee View Details"
     },
     {
+      "title": "Gulfstream Park, Race 7, AOC",
+      "details": "Gulfstream Park, Race 7, AOC Gulfstream Park , Sunday, September 13, 2026, Race 7 AOC 1 mile 70 Yards $62,500 3 yo's up All Weather Track FT High Lateen Neolithic - Lateen Redland Rebels Uncle Chuck - Kombat Cat Paris Surprise City of Light - Warm Water View Details"
+    },
+    {
+      "title": "Gulfstream Park, Race 5, MSW",
+      "details": "Gulfstream Park, Race 5, MSW Gulfstream Park , Sunday, September 13, 2026, Race 5 MSW 1 mile 70 Yards $60,000 3 yo's up All Weather Track FT Ciborio Raging Bull (FR) - Lady Macha (GB) Twirling Twirling Candy - Heart d'Oro Coristine Liam's Map - Gomogotcha View Details"
+    },
+    {
       "title": "Gulfstream Park, Race 1, MCL",
       "details": "Gulfstream Park, Race 1, MCL Gulfstream Park , Sunday, September 13, 2026, Race 1 MCL 1 mile 70 Yards $34,000 Fillies 2 yo All Weather Track FT Ailsa's Angel Uncle Chuck - Pioneer Alexis Cathedral Sun Authentic - Legerity Sweetgreen Colonel Liam - Dolcisima View Details"
     },
     {
-      "title": "Monmouth Park, Race 2, MSW",
-      "details": "Monmouth Park, Race 2, MSW Monmouth Park , Sunday, September 13, 2026, Race 2 MSW 6 furlongs $51,250 2 yo Dirt SY It's Prime Time Army Mule - The Girl Luvs Gold Coastal Evacuation Sea Wizard - Hotsy Totsy (IRE) Sun Tan Man Engage - Alta Velocita View Details"
+      "title": "Los Alamitos Race Course, Race 4, AOC",
+      "details": "Los Alamitos Race Course, Race 4, AOC LOS ALAMITOS RACE COURSE , Sunday, September 13, 2026, Race 4 AOC 5 1/2 furlongs $51,000 Fillies and Mares 3 yo's up Dirt FT Baby Needs Shoes Smiling Tiger - Addictive Hurricane Layla I'll Have Another - Epistemology Christa McAuliffe Grazen - Heat the Rocks View Details"
     },
     {
-      "title": "Monmouth Park, Race 1, MSW",
-      "details": "Monmouth Park, Race 1, MSW Monmouth Park , Sunday, September 13, 2026, Race 1 MSW 1 1/16 miles $40,000 3 yo's up Dirt SY Smooth Transition Constitution - Peaceful Knowledge Sharing Maclean's Music - Mabsota Oxford Street Uncle Mo - Exotic Notion View Details"
+      "title": "Laurel Park, Race 8, ALW",
+      "details": "Laurel Park, Race 8, ALW Laurel Park , Sunday, September 13, 2026, Race 8 ALW 1 1/16 miles $48,040 3 yo's up Dirt GD Our Notion Great Notion - Line of Music Bill of Rights Constitution - Real Good Time Roll On Jesse Jess's Dream - Past Perfect View Details"
     },
     {
-      "title": "Petticoat S.",
-      "details": "Petticoat S. Albuquerque , Saturday, September 12, 2026, Race 8 STK 6 1/2 furlongs $75,000 Fillies 3 yo Dirt FT Bye Bye Vicki Sporting Chance - Two Stepper Marka Marking - Tilla Cat Holy Miss Holy Lute - Point to Point View Details Watch Replay View Stakes Recap"
+      "title": "Laurel Park, Race 7, MCL",
+      "details": "Laurel Park, Race 7, MCL Laurel Park , Sunday, September 13, 2026, Race 7 MCL 5 furlongs $46,255 2 yo Dirt GD Monster Mitch Great Notion - Las Setas Engaged Is Better Engage - She's Mo Better Aruba Ariba Holy Boss - Pick Your Pleasure View Details"
     },
     {
-      "title": "Albuquerque, Race 6, ALW",
-      "details": "Albuquerque, Race 6, ALW Albuquerque , Saturday, September 12, 2026, Race 6 ALW 6 furlongs $36,400 3 yo's up Dirt FT American Ranger Bb American Anthem - Gift Card Eyecandothisallday Proceed - Amy's Lyin My Peaches Q Train Rider Blues - Baby Lets Rock View Details Watch Replay"
-    },
-    {
-      "title": "Belterra Park, Race 1, ALW",
-      "details": "Belterra Park, Race 1, ALW Belterra Park , Saturday, September 12, 2026, Race 1 ALW 1 mile 70 Yards $21,300 3 yo's up Dirt FT Low Standards By My Standards - Starship Made It Lightning Speed Tom's d'Etat - Radiant Sky Sweet Kylie Independence Hall - Kyles Marigold View Details Watch Replay"
-    },
-    {
-      "title": "Canterbury Park, Race 7, MSW",
-      "details": "Canterbury Park, Race 7, MSW Canterbury Park , Saturday, September 12, 2026, Race 7 MSW 5 furlongs $28,000 Fillies 2 yo Dirt FT Orphan Addy Tapiture - It's Tamareno Sheza Bougie Leofric - Sheza Chattykat Freedom's Reel Independence Hall - Photoplay View Details Watch Replay"
-    },
-    {
-      "title": "Canterbury Park, Race 6, AOC",
-      "details": "Canterbury Park, Race 6, AOC Canterbury Park , Saturday, September 12, 2026, Race 6 AOC 6 furlongs $24,000 3 yo's up Dirt FT Happy Dancer Runhappy - Selva Aero Star Cajun Breeze - Love My Sunshine Thealligatorhunter Overanalyze - Garden Gloves View Details Watch Replay"
-    },
-    {
-      "title": "Canterbury Park, Race 4, MSW",
-      "details": "Canterbury Park, Race 4, MSW Canterbury Park , Saturday, September 12, 2026, Race 4 MSW 5 furlongs $23,000 3, 4, 5 yo's Turf FM Miracle Mula Mendelssohn - Altoon Tap the Kid Tapiture - Reign Suzanne Combat Carl Silver State - Morning Molly View Details Watch Replay"
-    },
-    {
-      "title": "Canterbury Park, Race 1, MSW",
-      "details": "Canterbury Park, Race 1, MSW Canterbury Park , Saturday, September 12, 2026, Race 1 MSW 5 furlongs $23,000 2 yo Turf FM Into Music Mutasaabeq - My Sister's Keeper He's So Smooth Maximus Mischief - Smooth Dancer Armed With Magic Army Mule - Blocks of Magic View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 11, MSW",
-      "details": "Churchill Downs, Race 11, MSW Churchill Downs , Saturday, September 12, 2026, Race 11 MSW 6 1/2 furlongs $120,000 Fillies and Mares 3 yo's up Dirt FT Ready Comete More Than Ready - Speight's Comete Treat Yourself Twirling Candy - Stifle Yourself Shewontbudge Army Mule - Joyful Frolic View Details"
-    },
-    {
-      "title": "Iroquois S. (G3)",
-      "details": "Iroquois S. (G3) Churchill Downs , Saturday, September 12, 2026, Race 10 STK 1 mile $300,000 2 yo Dirt FT Salahudin Uncle Mo - Weekend Strike He Is No Lie Early Voting - Truth in the Lies Caribbean Life Life Is Good - Caribbean Babe View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Fasig-Tipton Locust Grove S. (G2)",
-      "details": "Fasig-Tipton Locust Grove S. (G2) Churchill Downs , Saturday, September 12, 2026, Race 9 STK 1 1/16 miles $400,000 Fillies and Mares 3 yo's up Dirt FT Splendora Audible - Miss Freeze Yes It Tiz Tiz the Law - Entangle (GB) Immersive Nyquist - Gap Year View Details Watch Replay View Stakes Recap"
+      "title": "Laurel Park, Race 5, MCL",
+      "details": "Laurel Park, Race 5, MCL Laurel Park , Sunday, September 13, 2026, Race 5 MCL 6 furlongs $43,700 3, 4, 5 6 yo's Dirt GD Pippin the Warrior Madefromlucky - Samurai Steph Love Yourself Blofeld - La Piu Bella Scrutinator Candy Ride (ARG) - Sauvecito View Details"
     }
   ]
 }
