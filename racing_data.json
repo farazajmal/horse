@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 14, 2026 - 07:00 PM",
+  "last_updated": "September 14, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -361,6 +361,54 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Lady Finger S.",
+      "raw_name": "Lady Finger S.",
+      "track": "Finger Lakes",
+      "grade": "Stakes",
+      "dist": "5 1/2 furlongs (Dirt)",
+      "purse": "$100,634",
+      "date": "9/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Aspirant S.",
+      "raw_name": "Aspirant S.",
+      "track": "Finger Lakes",
+      "grade": "Stakes",
+      "dist": "5 1/2 furlongs (Dirt)",
+      "purse": "$99,615",
+      "date": "9/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Niagara S.",
+      "raw_name": "Niagara S.",
+      "track": "Finger Lakes",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "9/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Ontario County S.",
+      "raw_name": "Ontario County S.",
+      "track": "Finger Lakes",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "9/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -579,6 +627,10 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 6, ALW",
+      "details": "Finger Lakes, Race 6, ALW Finger Lakes , Monday, September 14, 2026, Race 6 ALW 5 1/2 furlongs $26,500 Fillies and Mares 3 yo's up Dirt FT Bald Kitten Bustin Stones - Twice for Honey Playingon Broadway Bustin Stones - Any Valid Saturday Gresham's Law Central Banker - Hunnybunnerdini View Details"
+    },
+    {
       "title": "Finger Lakes, Race 3, AOC",
       "details": "Finger Lakes, Race 3, AOC Finger Lakes , Monday, September 14, 2026, Race 3 AOC 5 1/2 furlongs $25,000 3 yo's up Dirt FT Puckish Honest Mischief - Helen's Tiger Coin Jar Central Banker - Mystery Mix Stars N Stones Bustin Stones - Rockin Emmzy View Details"
     },
@@ -587,12 +639,40 @@
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, September 14, 2026, Race 1 ALW 5 1/2 furlongs $26,500 3 yo's up Dirt FT Romantic Charmer Mendelssohn - True Charm Hamilton's Reason Sharp Azteca - Super Savvy Kings Dancer War Dancer - Contender's Queen View Details"
     },
     {
+      "title": "Horseshoe Indianapolis, Race 3, MSW",
+      "details": "Horseshoe Indianapolis, Race 3, MSW Horseshoe Indianapolis , Monday, September 14, 2026, Race 3 MSW 5 1/2 furlongs $32,000 Fillies 2 yo Dirt FT Chickies Perch Into Mischief - Dawn the Destroyer Summer Dream Into Mischief - Summer Promise Go Missy Go Knicks Go - Missap View Details"
+    },
+    {
+      "title": "Presque Isle Downs, Race 3, AOC",
+      "details": "Presque Isle Downs, Race 3, AOC Presque Isle Downs , Monday, September 14, 2026, Race 3 AOC 1 mile 70 Yards $36,000 Fillies and Mares 3 yo's up All Weather Track FT Border Control Mendelssohn - Border Dispute Needed Brethren - Necessary La Artista Klimt - Eye'll Be Fine View Details"
+    },
+    {
+      "title": "Presque Isle Downs, Race 2, MSW",
+      "details": "Presque Isle Downs, Race 2, MSW Presque Isle Downs , Monday, September 14, 2026, Race 2 MSW 6 furlongs $31,000 Fillies 2 yo All Weather Track FT Sinful Mischief Peace and Justice - Sinwaan Sinking Coin Cyberknife - Rocking Redhead Lil' Sway Bolt d'Oro - Legal Mind View Details"
+    },
+    {
+      "title": "Presque Isle Downs, Race 1, MSW",
+      "details": "Presque Isle Downs, Race 1, MSW Presque Isle Downs , Monday, September 14, 2026, Race 1 MSW 6 1/2 furlongs $31,000 3 yo's up All Weather Track FT Shy Boy Sea Wizard - Super Melody Warrior's Mission Warrior's Reward - Hardly Mate Cosmic Connection Eastwood - Street Shiner View Details"
+    },
+    {
+      "title": "Parx Racing, Race 8, AOC",
+      "details": "Parx Racing, Race 8, AOC Parx Racing , Monday, September 14, 2026, Race 8 AOC 6 1/2 furlongs $52,000 3 yo's up Dirt FT Duration Mitole - Smile More Souper Tuscan Vino Rosso - Ciuri Lasso Brethren - Gabrielleelizabeth View Details"
+    },
+    {
+      "title": "Parx Racing, Race 7, MSW",
+      "details": "Parx Racing, Race 7, MSW Parx Racing , Monday, September 14, 2026, Race 7 MSW 6 furlongs $50,000 Fillies and Mares 3 yo's up Dirt FT Kool Karoline Not This Time - Awesome Investment Haunting Echoes Echo Town - Silent Street Lucky Lu Lu Rowayton - Helene Jacqueline View Details"
+    },
+    {
       "title": "Parx Racing, Race 5, MSW",
       "details": "Parx Racing, Race 5, MSW Parx Racing , Monday, September 14, 2026, Race 5 MSW 6 furlongs $50,000 3 yo's up Dirt FT Highway Patrol Street Boss - Escalante Lasting Quality Quality Road - Storm Rising Spartacus Curlin - Marion Ravenwood View Details"
     },
     {
       "title": "Parx Racing, Race 4, MSW",
       "details": "Parx Racing, Race 4, MSW Parx Racing , Monday, September 14, 2026, Race 4 MSW 6 furlongs $40,000 Fillies and Mares 3 yo's up Dirt FT Thisgirlsgotchill Winchill - Tuffgirlsdontcry Amor Ala Mexicana Hoppertunity - Dancingwithdebbie Catch Me a Catch Tiz the Law - Rare Match View Details"
+    },
+    {
+      "title": "Thistledown, Race 7, ALW",
+      "details": "Thistledown, Race 7, ALW Thistledown , Monday, September 14, 2026, Race 7 ALW 6 furlongs $29,700 Fillies and Mares 3 yo's up Dirt FT Toastmaster Take Charge Indy - Champagne All Day Kissin Cash Shancelot - Slam Chowder Midnight Wonder Midnight Lute - Lela View Details"
     },
     {
       "title": "Thistledown, Race 3, ALW",
@@ -605,38 +685,6 @@
     {
       "title": "Albuquerque, Race 7, ALW",
       "details": "Albuquerque, Race 7, ALW Albuquerque , Sunday, September 13, 2026, Race 7 ALW 7 furlongs $41,800 3 yo's up Dirt FT Awesome Road Quality Road - Orate Bye Mark Valeski - Creative Trick Ocelot Big Blue Kitten - More Miss Crissy View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 10, MSW",
-      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Sunday, September 13, 2026, Race 10 MSW 6 1/2 furlongs $120,000 3 yo's up Dirt FT Big Jake Army Mule - Beyond Heavenly Nomolimbo Mo Town - Pretty Zippy C's Today McKinzie - Into Candy View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, ALW",
-      "details": "Churchill Downs, Race 9, ALW Churchill Downs , Sunday, September 13, 2026, Race 9 ALW 6 furlongs $127,000 Fillies and Mares 3 yo's up Dirt FT Spun Candy Hard Spun - Sugar Plum Fairy White Smoke Essential Quality - Mira Alta Yo Fancy Yaupon - Clarendon Fancy View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 8, CLM",
-      "details": "Churchill Downs, Race 8, CLM Churchill Downs , Sunday, September 13, 2026, Race 8 CLM 1 1/16 miles $76,000 3 yo's up Turf FM Sound Cause Brody's Cause - Queen of Scat Snare Vekoma - Keri Belle Taunting Daredevil - Rendition View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 6, MSW",
-      "details": "Churchill Downs, Race 6, MSW Churchill Downs , Sunday, September 13, 2026, Race 6 MSW 1 mile $120,000 Fillies 2 yo Dirt FT High Speed Reed Upstart - She's the Berries Peony Park Omaha Beach - After the Rose Clever Miss Gun Runner - Untapable View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, AOC",
-      "details": "Churchill Downs, Race 5, AOC Churchill Downs , Sunday, September 13, 2026, Race 5 AOC 7 furlongs $141,000 Fillies and Mares 3 yo's up Dirt FT Nooni Win Win Win - Unanimity Roswell Into Mischief - Acoma Coaster Vekoma - Lavishly View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 4, MCL",
-      "details": "Churchill Downs, Race 4, MCL Churchill Downs , Sunday, September 13, 2026, Race 4 MCL 1 1/8 miles $67,000 3 yo's up Turf FM Spun Legacy Hard Spun - Tiz a Legacy Nyquistador Nyquist - Bashful New Fund Maxfield - Praia View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, CLM",
-      "details": "Churchill Downs, Race 2, CLM Churchill Downs , Sunday, September 13, 2026, Race 2 CLM 7 1/2 furlongs $89,000 3 yo's up Dirt FT Classic Car Wash Noble Bird - East Lake Classic Timing Difference Munnings - Bernadreamy Can't Hush This Not This Time - Awe Hush View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 1, MCL",
-      "details": "Churchill Downs, Race 1, MCL Churchill Downs , Sunday, September 13, 2026, Race 1 MCL 1 mile $57,000 Fillies 2 yo Dirt FT Midnight Escapade Silver State - Fold Em Extra Benefits Mandaloun - Kika Bride Authentic - Fiancee View Details"
     }
   ]
 }
