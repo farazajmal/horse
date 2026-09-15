@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 15, 2026 - 01:00 AM",
+  "last_updated": "September 15, 2026 - 03:00 AM",
   "year": 2026,
   "races": [
     {
@@ -627,6 +627,10 @@
   ],
   "recent_results": [
     {
+      "title": "Assiniboia Downs, Race 2, MSW",
+      "details": "Assiniboia Downs, Race 2, MSW Assiniboia Downs , Monday, September 14, 2026, Race 2 MSW 5 1/2 furlongs $15,502 2 yo Dirt SY She's a Maneater Yaupon - Ms Knauss Honourable Mention Greatest Honour - Gun Society Onemorsteptoheaven Mitole - Poetic View Details"
+    },
+    {
       "title": "Finger Lakes, Race 8, ALW",
       "details": "Finger Lakes, Race 8, ALW Finger Lakes , Monday, September 14, 2026, Race 8 ALW 5 1/2 furlongs $26,900 Fillies and Mares 3 yo's up Dirt FT Honest Reason Honest Mischief - Deeply Analytical Three Nines Fine Central Banker - Silver Street Belloro Bolt d'Oro - Jetbird View Details Watch Replay"
     },
@@ -681,10 +685,6 @@
     {
       "title": "Parx Racing, Race 8, AOC",
       "details": "Parx Racing, Race 8, AOC Parx Racing , Monday, September 14, 2026, Race 8 AOC 6 1/2 furlongs $52,000 3 yo's up Dirt FT Duration Mitole - Smile More Souper Tuscan Vino Rosso - Ciuri Lasso Brethren - Gabrielleelizabeth View Details Watch Replay"
-    },
-    {
-      "title": "Parx Racing, Race 7, MSW",
-      "details": "Parx Racing, Race 7, MSW Parx Racing , Monday, September 14, 2026, Race 7 MSW 6 furlongs $50,000 Fillies and Mares 3 yo's up Dirt FT Kool Karoline Not This Time - Awesome Investment Haunting Echoes Echo Town - Silent Street Lucky Lu Lu Rowayton - Helene Jacqueline View Details Watch Replay"
     }
   ]
 }
