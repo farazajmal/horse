@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 15, 2026 - 07:00 PM",
+  "last_updated": "September 15, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -639,6 +639,14 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 7, AOC",
+      "details": "Finger Lakes, Race 7, AOC Finger Lakes , Tuesday, September 15, 2026, Race 7 AOC 6 furlongs $29,000 3 yo's up Dirt FT East Coast Girl Laoban - Myakka City Paradise Valley Lookin At Lucky - Puddifoot Squire Creek Uncle Mo - Covenant View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 4, ALW",
+      "details": "Finger Lakes, Race 4, ALW Finger Lakes , Tuesday, September 15, 2026, Race 4 ALW 5 1/2 furlongs $26,900 3 yo's up Dirt FT Guilty Twirling Candy - Pharoah Fawcett Share the Ludt Catalina Cruiser - Right Prevails Vino's Valentine Vino Rosso - Defining Moment View Details"
+    },
+    {
       "title": "Finger Lakes, Race 3, ALW",
       "details": "Finger Lakes, Race 3, ALW Finger Lakes , Tuesday, September 15, 2026, Race 3 ALW 6 furlongs $24,500 3 yo's up Dirt FT Sir Kartrite Maclean's Music - Water of Life Skyler's Starship Mendelssohn - Dorothy's Aurora Toscano Vino Rosso - Lauded View Details"
     },
@@ -651,12 +659,24 @@
       "details": "Fairmount Park, Race 1, MSW Fairmount Park , Tuesday, September 15, 2026, Race 1 MSW 5 1/2 furlongs $38,000 2 yo Dirt FT Nation's Honor Alternation - Limehouse Dancer Sculptor Gormley - Bylia Sour Tamarindo Centrifuge - Church Road View Details"
     },
     {
+      "title": "Horseshoe Indianapolis, Race 4, MSW",
+      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Tuesday, September 15, 2026, Race 4 MSW 1 mile $36,000 3 yo's up Dirt FT Troubleonthegreen World of Trouble - Si Si Mon Amie Pro Fever Protonico - Brenda's Fever Red So O Lo Tonalist - Goldies Giant View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 3, ALW",
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Tuesday, September 15, 2026, Race 3 ALW 1 mile 70 Yards $43,000 Fillies and Mares 3 yo's up Dirt FT Lady Chaos Turbo Compressor - Corsica Shesmyhuckleberry Baryshnikov - Premium Passion Charming Jazel Charming Kitten - Pampered Vow View Details"
+    },
+    {
       "title": "Parx Racing, Race 3, MCL",
       "details": "Parx Racing, Race 3, MCL Parx Racing , Tuesday, September 15, 2026, Race 3 MCL 5 1/2 furlongs $26,000 Fillies 2 yo Dirt FT Ginster Maximus Mischief - Disco Rose Miss Novie Weigelia - Bree's Got Heart She's Got Moxie Pinehurst - Aura View Details"
     },
     {
       "title": "Parx Racing, Race 2, MCL",
       "details": "Parx Racing, Race 2, MCL Parx Racing , Tuesday, September 15, 2026, Race 2 MCL 6 1/2 furlongs $22,000 Fillies and Mares 3 yo's up Dirt FT Show Em Up Eastwood - Start the Show Sweetbitters Union Rags - Miss Bitters Frosty for Ever Frosted - Tattersail View Details"
+    },
+    {
+      "title": "Thistledown, Race 7, ALW",
+      "details": "Thistledown, Race 7, ALW Thistledown , Tuesday, September 15, 2026, Race 7 ALW 6 furlongs $35,800 3 yo's up Dirt FT Wisley Always Dreaming - Great Goin Rose Bukele Tapiture - Myositis Mystique Quick Ship Midshipman - Lela View Details"
     },
     {
       "title": "Thistledown, Race 3, ALW",
@@ -677,26 +697,6 @@
     {
       "title": "Finger Lakes, Race 6, ALW",
       "details": "Finger Lakes, Race 6, ALW Finger Lakes , Monday, September 14, 2026, Race 6 ALW 5 1/2 furlongs $26,500 Fillies and Mares 3 yo's up Dirt FT Bald Kitten Bustin Stones - Twice for Honey Playingon Broadway Bustin Stones - Any Valid Saturday Gresham's Law Central Banker - Hunnybunnerdini View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 3, AOC",
-      "details": "Finger Lakes, Race 3, AOC Finger Lakes , Monday, September 14, 2026, Race 3 AOC 5 1/2 furlongs $25,000 3 yo's up Dirt FT Puckish Honest Mischief - Helen's Tiger Coin Jar Central Banker - Mystery Mix Stars N Stones Bustin Stones - Rockin Emmzy View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, September 14, 2026, Race 1 ALW 5 1/2 furlongs $26,500 3 yo's up Dirt FT Romantic Charmer Mendelssohn - True Charm Hamilton's Reason Sharp Azteca - Super Savvy Kings Dancer War Dancer - Contender's Queen View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 8, ALW",
-      "details": "Horseshoe Indianapolis, Race 8, ALW Horseshoe Indianapolis , Monday, September 14, 2026, Race 8 ALW 1 mile $34,000 Fillies and Mares 3 yo's up Turf FM Bijou Baby Point of Entry - Neshama Collective Beauty Collected - Beautician Good Game Game Winner - Brazen Persuasion View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 5, AOC",
-      "details": "Horseshoe Indianapolis, Race 5, AOC Horseshoe Indianapolis , Monday, September 14, 2026, Race 5 AOC 5 furlongs $36,000 3 yo's up Turf FM Mister Mmmmm Speightster - Celebrated Golden Ale Goldencents - Ani La Dark Vintage (IRE) Dark Angel (IRE) - The Mums (GB) View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 3, MSW",
-      "details": "Horseshoe Indianapolis, Race 3, MSW Horseshoe Indianapolis , Monday, September 14, 2026, Race 3 MSW 5 1/2 furlongs $32,000 Fillies 2 yo Dirt FT Chickies Perch Into Mischief - Dawn the Destroyer Summer Dream Into Mischief - Summer Promise Go Missy Go Knicks Go - Missap View Details Watch Replay"
     }
   ]
 }
