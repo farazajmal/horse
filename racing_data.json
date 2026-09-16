@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 16, 2026 - 07:00 PM",
+  "last_updated": "September 16, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -363,12 +363,48 @@
       "isUsa": true
     },
     {
+      "name": "Sweet Briar Too S.",
+      "raw_name": "Sweet Briar Too S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Turf)",
+      "purse": "$125,000",
+      "date": "9/19",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "Durham Cup S. (G3)",
+      "raw_name": "Durham Cup S. (G3)",
+      "track": "Woodbine",
+      "grade": "Grade 3",
+      "dist": "1 1/16 miles (All Weather Track)",
+      "purse": "$175,000",
+      "date": "9/19",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
       "name": "Pitre GMC Albuquerque Distaff S.",
       "raw_name": "Pitre GMC Albuquerque Distaff S.",
       "track": "Albuquerque",
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$75,000",
+      "date": "9/20",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Forever Together S.",
+      "raw_name": "Forever Together S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Turf)",
+      "purse": "$175,000",
       "date": "9/20",
       "country": "USA",
       "flag": "🇺🇸",
@@ -639,16 +675,52 @@
   ],
   "recent_results": [
     {
+      "title": "Belterra Park, Race 6, MSW",
+      "details": "Belterra Park, Race 6, MSW Belterra Park , Wednesday, September 16, 2026, Race 6 MSW 5 furlongs $13,000 Fillies and Mares 3, 4, 5 6 yo's Turf FM American Surfer American Pharoah - Stormy Regatta Preach Tewmey Now Breaking Lucky - Pulpit Fiction Lady Blast Rock Your World - Lakeside Drive View Details"
+    },
+    {
       "title": "Belterra Park, Race 5, ALW",
       "details": "Belterra Park, Race 5, ALW Belterra Park , Wednesday, September 16, 2026, Race 5 ALW 1 mile $15,500 3 yo's up Dirt FT Mr. Redlegs Corfu - Ivory Treasure Tantrum Speightster - Go Go Tammy Mission Control Paynter - Marathon View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, STR",
+      "details": "Churchill Downs, Race 8, STR Churchill Downs , Wednesday, September 16, 2026, Race 8 STR 7 furlongs $83,000 3 yo's up Dirt FT Bob's Carrot Daredevil - Noelle's Mischief Stomp Mitole - High Heels Ghostwritten Ghostzapper - Dixie Moon View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, MSW",
+      "details": "Churchill Downs, Race 7, MSW Churchill Downs , Wednesday, September 16, 2026, Race 7 MSW 6 furlongs $92,000 2 yo Dirt FT Detention Maximus Mischief - Spanxamillion Unbridled Freedom Title Ready - Unbridled Medaglia Touch Money Mr. Money - Touch Blue View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 5, MSW",
+      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Wednesday, September 16, 2026, Race 5 MSW 6 furlongs $92,000 2 yo Dirt FT Modern First Samurai - Fashionably Breadcrumb Trail Vekoma - Raver Cicero Ave Tacitus - Laureana View Details"
     },
     {
       "title": "Churchill Downs, Race 3, MCL",
       "details": "Churchill Downs, Race 3, MCL Churchill Downs , Wednesday, September 16, 2026, Race 3 MCL 1 mile $57,000 2 yo Dirt FT Ritzy Rags Union Rags - In Dy Ritz Honor and Courage Honor Code - Hogans Holiday Mambo Man Mandaloun - Hallawallah View Details"
     },
     {
+      "title": "Delaware Park, Race 4, MSW",
+      "details": "Delaware Park, Race 4, MSW Delaware Park , Wednesday, September 16, 2026, Race 4 MSW 6 furlongs $45,000 Fillies 2 yo Dirt FT Concord Town Candy Ride (ARG) - Midnight Hoot Poulin Nyquist - Game Factor Sky Luna Liam's Map - Veterans Highway View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 6, ALW",
+      "details": "Finger Lakes, Race 6, ALW Finger Lakes , Wednesday, September 16, 2026, Race 6 ALW 1 mile $27,300 3 yo's up Dirt FT Beach Invasion Omaha Beach - Goodnight Moon Probability Improbable - Perazzi Go Yoshida Yoshida (JPN) - Kat O Mine View Details"
+    },
+    {
       "title": "Finger Lakes, Race 3, ALW",
       "details": "Finger Lakes, Race 3, ALW Finger Lakes , Wednesday, September 16, 2026, Race 3 ALW 1 mile $26,500 Fillies and Mares 3 yo's up Dirt FT Warrior Bunny Zee Known Agenda - Kats Girl Cala Purpose Commissioner - Brandini Tahila Union Rags - Cuccidati View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 3, ALW",
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Wednesday, September 16, 2026, Race 3 ALW 6 furlongs $34,000 Fillies and Mares 3 yo's up Dirt FT Sisters in Town Mo Town - Sea Shack I'm Game Game Winner - Funny Feeling Tearin'up My Heart Midshipman - Heartful View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 2, ALW",
+      "details": "Horseshoe Indianapolis, Race 2, ALW Horseshoe Indianapolis , Wednesday, September 16, 2026, Race 2 ALW 6 furlongs $38,000 Fillies and Mares 3 yo's up Dirt FT Instilled Zip Instilled Regard - Zipso Facto Wosie's Promise Holiday Promise - Wosie Crumbl Tapiture - Spoof View Details"
+    },
+    {
+      "title": "Thistledown, Race 5, ALW",
+      "details": "Thistledown, Race 5, ALW Thistledown , Wednesday, September 16, 2026, Race 5 ALW 6 furlongs $31,400 3 yo's up Dirt FT Without Objection Fast Anna - Chamade Win Me Over Tamarkuz - Hobe Wins Startdfromdabottom Kantharos - Female Drama View Details"
     },
     {
       "title": "Thistledown, Race 4, MSW",
@@ -661,42 +733,6 @@
     {
       "title": "Manitoba Matron S.",
       "details": "Manitoba Matron S. Assiniboia Downs , Tuesday, September 15, 2026, Race 6 STK 1 1/8 miles $36,328 Fillies and Mares 3 yo's up Dirt FT Dontgiveupthefight Jimmy Creed - Miselly Holy Belle Seeking the Soul - Holy Empress Out too Late (GB) Expert Eye (GB) - Miss Atomic Bomb (GB) View Details View Stakes Recap"
-    },
-    {
-      "title": "Assiniboia Downs, Race 3, ALW",
-      "details": "Assiniboia Downs, Race 3, ALW Assiniboia Downs , Tuesday, September 15, 2026, Race 3 ALW 6 furlongs $14,028 3 yo's up Dirt FT Judge Oliver Uptown Rythem - Subpoena the Dress Princeoftheprairie Edison - Mills Brush Banker Matt Goldencents - Joyce View Details"
-    },
-    {
-      "title": "Finger Lakes, Race 7, AOC",
-      "details": "Finger Lakes, Race 7, AOC Finger Lakes , Tuesday, September 15, 2026, Race 7 AOC 6 furlongs $29,000 3 yo's up Dirt FT East Coast Girl Laoban - Myakka City Paradise Valley Lookin At Lucky - Puddifoot Squire Creek Uncle Mo - Covenant View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 4, ALW",
-      "details": "Finger Lakes, Race 4, ALW Finger Lakes , Tuesday, September 15, 2026, Race 4 ALW 5 1/2 furlongs $26,900 3 yo's up Dirt FT Guilty Twirling Candy - Pharoah Fawcett Share the Ludt Catalina Cruiser - Right Prevails Vino's Valentine Vino Rosso - Defining Moment View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 3, ALW",
-      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Tuesday, September 15, 2026, Race 3 ALW 6 furlongs $24,500 3 yo's up Dirt FT Sir Kartrite Maclean's Music - Water of Life Skyler's Starship Mendelssohn - Dorothy's Aurora Toscano Vino Rosso - Lauded View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, September 15, 2026, Race 1 ALW 1 mile $24,500 Fillies and Mares 3 yo's up Dirt FT Ekwanok Mitole - Kats Girl Cala Lifeisbutadream Lookin At Lee - Mary Grace Lipan Law Tiz the Law - Helotes View Details Watch Replay"
-    },
-    {
-      "title": "Fairmount Park, Race 10, AOC",
-      "details": "Fairmount Park, Race 10, AOC Fairmount Park , Tuesday, September 15, 2026, Race 10 AOC 6 furlongs $38,500 Fillies and Mares 3 yo's up Dirt FT Beer Goggles Ghaaleb - Bar Hoppin Try Temple City - Princess Dubai Culture Shock West Coast - My Mertie View Details"
-    },
-    {
-      "title": "Fairmount Park, Race 9, AOC",
-      "details": "Fairmount Park, Race 9, AOC Fairmount Park , Tuesday, September 15, 2026, Race 9 AOC 6 furlongs $39,000 3 yo's up Dirt FT Bill's Honor Ghaaleb - Honor Graeme Coolthing Looking Cool - Miss Goodthing Rhodiums Pride Ghaaleb - Rhodium View Details"
-    },
-    {
-      "title": "Fairmount Park, Race 6, MSW",
-      "details": "Fairmount Park, Race 6, MSW Fairmount Park , Tuesday, September 15, 2026, Race 6 MSW 6 furlongs $18,000 Fillies and Mares 3 yo's up Dirt FT Fiery Songbird Flameaway - Miss Mockingbird Hadleys Secret Cyber Secret - Itsreigningkittens Shosweet Shogood - Addadore View Details"
-    },
-    {
-      "title": "Fairmount Park, Race 1, MSW",
-      "details": "Fairmount Park, Race 1, MSW Fairmount Park , Tuesday, September 15, 2026, Race 1 MSW 5 1/2 furlongs $38,000 2 yo Dirt FT Nation's Honor Alternation - Limehouse Dancer Sculptor Gormley - Bylia Sour Tamarindo Centrifuge - Church Road View Details"
     }
   ]
 }
