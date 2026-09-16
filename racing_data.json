@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 16, 2026 - 09:00 PM",
+  "last_updated": "September 16, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -248,6 +248,18 @@
       "track": "Louisiana Downs",
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
+      "purse": "$75,000",
+      "date": "9/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "E.B. Johnston S.",
+      "raw_name": "E.B. Johnston S.",
+      "track": "LOS ALAMITOS RACE COURSE",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
       "purse": "$75,000",
       "date": "9/19",
       "country": "USA",
@@ -675,12 +687,28 @@
   ],
   "recent_results": [
     {
+      "title": "Albuquerque, Race 6, MSW",
+      "details": "Albuquerque, Race 6, MSW Albuquerque , Wednesday, September 16, 2026, Race 6 MSW 5 1/2 furlongs $34,600 2 yo Dirt MY Cardiff by the Sea Marking - Heavenly Mischief Is Probable Improbable - Spiritualist Trust the Karma Maximum Security - Bronx City Girl View Details Watch Replay"
+    },
+    {
       "title": "Belterra Park, Race 6, MSW",
-      "details": "Belterra Park, Race 6, MSW Belterra Park , Wednesday, September 16, 2026, Race 6 MSW 5 furlongs $13,000 Fillies and Mares 3, 4, 5 6 yo's Turf FM American Surfer American Pharoah - Stormy Regatta Preach Tewmey Now Breaking Lucky - Pulpit Fiction Lady Blast Rock Your World - Lakeside Drive View Details"
+      "details": "Belterra Park, Race 6, MSW Belterra Park , Wednesday, September 16, 2026, Race 6 MSW 5 furlongs $13,000 Fillies and Mares 3, 4, 5 6 yo's Turf FM American Surfer American Pharoah - Stormy Regatta Preach Tewmey Now Breaking Lucky - Pulpit Fiction Lady Blast Rock Your World - Lakeside Drive View Details Watch Replay"
     },
     {
       "title": "Belterra Park, Race 5, ALW",
-      "details": "Belterra Park, Race 5, ALW Belterra Park , Wednesday, September 16, 2026, Race 5 ALW 1 mile $15,500 3 yo's up Dirt FT Mr. Redlegs Corfu - Ivory Treasure Tantrum Speightster - Go Go Tammy Mission Control Paynter - Marathon View Details"
+      "details": "Belterra Park, Race 5, ALW Belterra Park , Wednesday, September 16, 2026, Race 5 ALW 1 mile $15,500 3 yo's up Dirt FT Mr. Redlegs Corfu - Ivory Treasure Tantrum Speightster - Go Go Tammy Mission Control Paynter - Marathon View Details Watch Replay"
+    },
+    {
+      "title": "Canterbury Park, Race 3, AOC",
+      "details": "Canterbury Park, Race 3, AOC Canterbury Park , Wednesday, September 16, 2026, Race 3 AOC 7 1/2 furlongs $24,500 Fillies and Mares 3 yo's up Turf FM Ann Alee Midshipman - Annie Akeley Mendelssohns Comet Mendelssohn - English Willow Tour Queen Tourist - Fancy Boss View Details Watch Replay"
+    },
+    {
+      "title": "Canterbury Park, Race 1, AOC",
+      "details": "Canterbury Park, Race 1, AOC Canterbury Park , Wednesday, September 16, 2026, Race 1 AOC 1 mile $24,500 3 yo's up Turf FM Silent Runner Silent Name (JPN) - Flashy Consort Zoffarelli (IRE) Zoffany (IRE) - Genuine Quality Sir Exton Bernardini - Somethinaboutbetty View Details Watch Replay"
+    },
+    {
+      "title": "Churchill Downs, Race 9, MCL",
+      "details": "Churchill Downs, Race 9, MCL Churchill Downs , Wednesday, September 16, 2026, Race 9 MCL 6 1/2 furlongs $48,000 Fillies and Mares 3 yo's up Dirt FT Fraudster Charlatan - Confidently Sister Wife Code of Honor - Speedy Bird Shot At Perfection Gun Runner - Khitaam View Details"
     },
     {
       "title": "Churchill Downs, Race 8, STR",
@@ -700,39 +728,23 @@
     },
     {
       "title": "Delaware Park, Race 4, MSW",
-      "details": "Delaware Park, Race 4, MSW Delaware Park , Wednesday, September 16, 2026, Race 4 MSW 6 furlongs $45,000 Fillies 2 yo Dirt FT Concord Town Candy Ride (ARG) - Midnight Hoot Poulin Nyquist - Game Factor Sky Luna Liam's Map - Veterans Highway View Details"
+      "details": "Delaware Park, Race 4, MSW Delaware Park , Wednesday, September 16, 2026, Race 4 MSW 6 furlongs $45,000 Fillies 2 yo Dirt FT Concord Town Candy Ride (ARG) - Midnight Hoot Poulin Nyquist - Game Factor Sky Luna Liam's Map - Veterans Highway View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 6, ALW",
-      "details": "Finger Lakes, Race 6, ALW Finger Lakes , Wednesday, September 16, 2026, Race 6 ALW 1 mile $27,300 3 yo's up Dirt FT Beach Invasion Omaha Beach - Goodnight Moon Probability Improbable - Perazzi Go Yoshida Yoshida (JPN) - Kat O Mine View Details"
+      "details": "Finger Lakes, Race 6, ALW Finger Lakes , Wednesday, September 16, 2026, Race 6 ALW 1 mile $27,300 3 yo's up Dirt FT Beach Invasion Omaha Beach - Goodnight Moon Probability Improbable - Perazzi Go Yoshida Yoshida (JPN) - Kat O Mine View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 3, ALW",
-      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Wednesday, September 16, 2026, Race 3 ALW 1 mile $26,500 Fillies and Mares 3 yo's up Dirt FT Warrior Bunny Zee Known Agenda - Kats Girl Cala Purpose Commissioner - Brandini Tahila Union Rags - Cuccidati View Details"
+      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Wednesday, September 16, 2026, Race 3 ALW 1 mile $26,500 Fillies and Mares 3 yo's up Dirt FT Warrior Bunny Zee Known Agenda - Kats Girl Cala Purpose Commissioner - Brandini Tahila Union Rags - Cuccidati View Details Watch Replay"
     },
     {
-      "title": "Horseshoe Indianapolis, Race 3, ALW",
-      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Wednesday, September 16, 2026, Race 3 ALW 6 furlongs $34,000 Fillies and Mares 3 yo's up Dirt FT Sisters in Town Mo Town - Sea Shack I'm Game Game Winner - Funny Feeling Tearin'up My Heart Midshipman - Heartful View Details"
+      "title": "Horseshoe Indianapolis, Race 7, ALW",
+      "details": "Horseshoe Indianapolis, Race 7, ALW Horseshoe Indianapolis , Wednesday, September 16, 2026, Race 7 ALW 1 mile $40,000 3 yo's up Turf FM Jailhouse Justice Harry's Holiday - Sheltowee's Gold Shiesty to Chase Mor Spirit - Excedere Adios Ashwood Paynter - Love in Paris View Details Watch Replay"
     },
     {
-      "title": "Horseshoe Indianapolis, Race 2, ALW",
-      "details": "Horseshoe Indianapolis, Race 2, ALW Horseshoe Indianapolis , Wednesday, September 16, 2026, Race 2 ALW 6 furlongs $38,000 Fillies and Mares 3 yo's up Dirt FT Instilled Zip Instilled Regard - Zipso Facto Wosie's Promise Holiday Promise - Wosie Crumbl Tapiture - Spoof View Details"
-    },
-    {
-      "title": "Thistledown, Race 5, ALW",
-      "details": "Thistledown, Race 5, ALW Thistledown , Wednesday, September 16, 2026, Race 5 ALW 6 furlongs $31,400 3 yo's up Dirt FT Without Objection Fast Anna - Chamade Win Me Over Tamarkuz - Hobe Wins Startdfromdabottom Kantharos - Female Drama View Details"
-    },
-    {
-      "title": "Thistledown, Race 4, MSW",
-      "details": "Thistledown, Race 4, MSW Thistledown , Wednesday, September 16, 2026, Race 4 MSW 6 furlongs $33,900 3 yo's up Dirt FT Questionable Event Event Driven - Seaman Harbor Lowells Legacy Twinspired - Slippery Everynowandthen Itsthesameoldsong - Everybodyluvslucy View Details"
-    },
-    {
-      "title": "Thistledown, Race 2, MSW",
-      "details": "Thistledown, Race 2, MSW Thistledown , Wednesday, September 16, 2026, Race 2 MSW 6 furlongs $33,900 3 yo's up Dirt FT Dream Boy Dreamliner - Reigning Gal Candyman Andy Rivers Run Deep - Mandy's Candy Spring River Rivers Run Deep - Spring City Gal View Details"
-    },
-    {
-      "title": "Manitoba Matron S.",
-      "details": "Manitoba Matron S. Assiniboia Downs , Tuesday, September 15, 2026, Race 6 STK 1 1/8 miles $36,328 Fillies and Mares 3 yo's up Dirt FT Dontgiveupthefight Jimmy Creed - Miselly Holy Belle Seeking the Soul - Holy Empress Out too Late (GB) Expert Eye (GB) - Miss Atomic Bomb (GB) View Details View Stakes Recap"
+      "title": "Horseshoe Indianapolis, Race 6, MSW",
+      "details": "Horseshoe Indianapolis, Race 6, MSW Horseshoe Indianapolis , Wednesday, September 16, 2026, Race 6 MSW 6 furlongs $38,500 3 yo's up Dirt FT Favorite Star Santiva - Favorite Show Up N Up Ready's Image - Mizzen My Momma Crazy Legs Mike Big Bad Mike - Freakin Amazing View Details Watch Replay"
     }
   ]
 }
