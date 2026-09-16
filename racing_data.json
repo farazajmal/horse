@@ -1,19 +1,7 @@
 {
-  "last_updated": "September 16, 2026 - 03:00 AM",
+  "last_updated": "September 16, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Manitoba Matron S.",
-      "raw_name": "Manitoba Matron S.",
-      "track": "Assiniboia Downs",
-      "grade": "Stakes",
-      "dist": "1 1/8 miles (Dirt)",
-      "purse": "$50,000",
-      "date": "Today",
-      "country": "Canada",
-      "flag": "🇨🇦",
-      "isUsa": false
-    },
     {
       "name": "Gold Cup S.",
       "raw_name": "Gold Cup S.",
@@ -21,7 +9,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$50,000",
-      "date": "9/16",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -639,6 +627,14 @@
   ],
   "recent_results": [
     {
+      "title": "Manitoba Matron S.",
+      "details": "Manitoba Matron S. Assiniboia Downs , Tuesday, September 15, 2026, Race 6 STK 1 1/8 miles $36,328 Fillies and Mares 3 yo's up Dirt FT Dontgiveupthefight Jimmy Creed - Miselly Holy Belle Seeking the Soul - Holy Empress Out too Late (GB) Expert Eye (GB) - Miss Atomic Bomb (GB) View Details"
+    },
+    {
+      "title": "Assiniboia Downs, Race 3, ALW",
+      "details": "Assiniboia Downs, Race 3, ALW Assiniboia Downs , Tuesday, September 15, 2026, Race 3 ALW 6 furlongs $14,028 3 yo's up Dirt FT Judge Oliver Uptown Rythem - Subpoena the Dress Princeoftheprairie Edison - Mills Brush Banker Matt Goldencents - Joyce View Details"
+    },
+    {
       "title": "Finger Lakes, Race 7, AOC",
       "details": "Finger Lakes, Race 7, AOC Finger Lakes , Tuesday, September 15, 2026, Race 7 AOC 6 furlongs $29,000 3 yo's up Dirt FT East Coast Girl Laoban - Myakka City Paradise Valley Lookin At Lucky - Puddifoot Squire Creek Uncle Mo - Covenant View Details Watch Replay"
     },
@@ -689,14 +685,6 @@
     {
       "title": "Presque Isle Downs, Race 4, MSW",
       "details": "Presque Isle Downs, Race 4, MSW Presque Isle Downs , Tuesday, September 15, 2026, Race 4 MSW 1 mile 70 Yards $31,000 Fillies and Mares 3 yo's up All Weather Track FT Call Me Babe Dialed In - Artisanal Charlotte's Cay Speightstown - Cerce Cay Time On the Run Not This Time - R Sassy Lass View Details"
-    },
-    {
-      "title": "Parx Racing, Race 3, MCL",
-      "details": "Parx Racing, Race 3, MCL Parx Racing , Tuesday, September 15, 2026, Race 3 MCL 5 1/2 furlongs $26,000 Fillies 2 yo Dirt FT Ginster Maximus Mischief - Disco Rose Miss Novie Weigelia - Bree's Got Heart She's Got Moxie Pinehurst - Aura View Details Watch Replay"
-    },
-    {
-      "title": "Parx Racing, Race 2, MCL",
-      "details": "Parx Racing, Race 2, MCL Parx Racing , Tuesday, September 15, 2026, Race 2 MCL 6 1/2 furlongs $22,000 Fillies and Mares 3 yo's up Dirt FT Show Em Up Eastwood - Start the Show Sweetbitters Union Rags - Miss Bitters Frosty for Ever Frosted - Tattersail View Details Watch Replay"
     }
   ]
 }
