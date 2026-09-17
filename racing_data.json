@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 17, 2026 - 05:00 PM",
+  "last_updated": "September 17, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -675,6 +675,18 @@
   ],
   "recent_results": [
     {
+      "title": "Delaware Park, Race 3, MSW",
+      "details": "Delaware Park, Race 3, MSW Delaware Park , Thursday, September 17, 2026, Race 3 MSW 5 furlongs $45,000 2 yo Dirt GD Derry Moon Irish War Cry - Moon Valley Golden Faith Goldencents - Twirling Faith Princeofpinehurst Pinehurst - Paradise Promise View Details"
+    },
+    {
+      "title": "Thistledown, Race 3, MSW",
+      "details": "Thistledown, Race 3, MSW Thistledown , Thursday, September 17, 2026, Race 3 MSW 6 furlongs $33,900 Fillies and Mares 3 yo's up Dirt FT All That Sass Itsthesameoldsong - Sassy Ombre Isa Fortress Fort Larned - Starship Lisa Fabulous Song Itsthesameoldsong - Made in His Image View Details"
+    },
+    {
+      "title": "Thistledown, Race 1, MSW",
+      "details": "Thistledown, Race 1, MSW Thistledown , Thursday, September 17, 2026, Race 1 MSW 5 1/2 furlongs $33,900 2 yo Dirt FT Hardway Mike Dominus - Bossy Girl Kiss From Mom Kiss the Ghost - Gift From Mom Silence Earthling Dominus - Heaven Sent Angel View Details"
+    },
+    {
       "title": "Albuquerque, Race 6, MSW",
       "details": "Albuquerque, Race 6, MSW Albuquerque , Wednesday, September 16, 2026, Race 6 MSW 5 1/2 furlongs $34,600 2 yo Dirt MY Cardiff by the Sea Marking - Heavenly Mischief Is Probable Improbable - Spiritualist Trust the Karma Maximum Security - Bronx City Girl View Details Watch Replay"
     },
@@ -721,18 +733,6 @@
     {
       "title": "Churchill Downs, Race 7, MSW",
       "details": "Churchill Downs, Race 7, MSW Churchill Downs , Wednesday, September 16, 2026, Race 7 MSW 6 furlongs $92,000 2 yo Dirt FT Detention Maximus Mischief - Spanxamillion Unbridled Freedom Title Ready - Unbridled Medaglia Touch Money Mr. Money - Touch Blue View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, MSW",
-      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Wednesday, September 16, 2026, Race 5 MSW 6 furlongs $92,000 2 yo Dirt FT Modern First Samurai - Fashionably Breadcrumb Trail Vekoma - Raver Cicero Ave Tacitus - Laureana View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 3, MCL",
-      "details": "Churchill Downs, Race 3, MCL Churchill Downs , Wednesday, September 16, 2026, Race 3 MCL 1 mile $57,000 2 yo Dirt FT Ritzy Rags Union Rags - In Dy Ritz Honor and Courage Honor Code - Hogans Holiday Mambo Man Mandaloun - Hallawallah View Details"
-    },
-    {
-      "title": "Delaware Park, Race 4, MSW",
-      "details": "Delaware Park, Race 4, MSW Delaware Park , Wednesday, September 16, 2026, Race 4 MSW 6 furlongs $45,000 Fillies 2 yo Dirt FT Concord Town Candy Ride (ARG) - Midnight Hoot Poulin Nyquist - Game Factor Sky Luna Liam's Map - Veterans Highway View Details Watch Replay"
     }
   ]
 }
