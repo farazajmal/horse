@@ -1,19 +1,7 @@
 {
-  "last_updated": "September 17, 2026 - 03:00 AM",
+  "last_updated": "September 17, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Gold Cup S.",
-      "raw_name": "Gold Cup S.",
-      "track": "Assiniboia Downs",
-      "grade": "Stakes",
-      "dist": "1 1/8 miles (Dirt)",
-      "purse": "$50,000",
-      "date": "Today",
-      "country": "Canada",
-      "flag": "🇨🇦",
-      "isUsa": false
-    },
     {
       "name": "Jockey Club Gold Cup S. (G1)",
       "raw_name": "Jockey Club Gold Cup S. (G1)",
@@ -691,6 +679,10 @@
       "details": "Albuquerque, Race 6, MSW Albuquerque , Wednesday, September 16, 2026, Race 6 MSW 5 1/2 furlongs $34,600 2 yo Dirt MY Cardiff by the Sea Marking - Heavenly Mischief Is Probable Improbable - Spiritualist Trust the Karma Maximum Security - Bronx City Girl View Details Watch Replay"
     },
     {
+      "title": "Gold Cup S.",
+      "details": "Gold Cup S. Assiniboia Downs , Wednesday, September 16, 2026, Race 6 STK 1 1/8 miles $36,455 3 yo's up Dirt WF Elston Gunnn Mo Town - Little Sweet Go Go Boss Street Boss - Go Go Lolo Al Reichert Imperialism - Amalgamation View Details"
+    },
+    {
       "title": "Belterra Park, Race 6, MSW",
       "details": "Belterra Park, Race 6, MSW Belterra Park , Wednesday, September 16, 2026, Race 6 MSW 5 furlongs $13,000 Fillies and Mares 3, 4, 5 6 yo's Turf FM American Surfer American Pharoah - Stormy Regatta Preach Tewmey Now Breaking Lucky - Pulpit Fiction Lady Blast Rock Your World - Lakeside Drive View Details Watch Replay"
     },
@@ -741,10 +733,6 @@
     {
       "title": "Delaware Park, Race 4, MSW",
       "details": "Delaware Park, Race 4, MSW Delaware Park , Wednesday, September 16, 2026, Race 4 MSW 6 furlongs $45,000 Fillies 2 yo Dirt FT Concord Town Candy Ride (ARG) - Midnight Hoot Poulin Nyquist - Game Factor Sky Luna Liam's Map - Veterans Highway View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 6, ALW",
-      "details": "Finger Lakes, Race 6, ALW Finger Lakes , Wednesday, September 16, 2026, Race 6 ALW 1 mile $27,300 3 yo's up Dirt FT Beach Invasion Omaha Beach - Goodnight Moon Probability Improbable - Perazzi Go Yoshida Yoshida (JPN) - Kat O Mine View Details Watch Replay"
     }
   ]
 }
