@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 18, 2026 - 03:00 AM",
+  "last_updated": "September 18, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
     {
@@ -9,7 +9,7 @@
       "grade": "Grade 1",
       "dist": "1 1/4 miles (Dirt)",
       "purse": "$1,000,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -21,7 +21,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$75,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -33,7 +33,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -45,7 +45,7 @@
       "grade": "Stakes",
       "dist": "4 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -57,7 +57,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (All Weather Track)",
       "purse": "$100,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -69,7 +69,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (All Weather Track)",
       "purse": "$75,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -81,7 +81,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (All Weather Track)",
       "purse": "$100,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -93,7 +93,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (All Weather Track)",
       "purse": "$150,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -105,7 +105,7 @@
       "grade": "Grade 2",
       "dist": "6 1/2 furlongs (All Weather Track)",
       "purse": "$300,000",
-      "date": "9/18",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
