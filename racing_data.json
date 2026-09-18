@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 17, 2026 - 11:00 PM",
+  "last_updated": "September 18, 2026 - 01:00 AM",
   "year": 2026,
   "races": [
     {
@@ -416,7 +416,7 @@
       "track": "Sweetwater County Fair",
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
-      "purse": "$50,000",
+      "purse": "$55,000",
       "date": "9/20",
       "country": "USA",
       "flag": "🇺🇸",
@@ -707,12 +707,32 @@
       "details": "Belterra Park, Race 4, MSW Belterra Park , Thursday, September 17, 2026, Race 4 MSW 1 1/16 miles $13,000 Fillies and Mares 3, 4, 5 6 yo's Turf FM Split Silver State - Pebble Road Una Quaedam Daredevil - Trensita English Patience English Channel - Cleo's Krewe View Details Watch Replay"
     },
     {
+      "title": "Canterbury Park, Race 7, AOC",
+      "details": "Canterbury Park, Race 7, AOC Canterbury Park , Thursday, September 17, 2026, Race 7 AOC 6 furlongs $29,000 3 yo's up Dirt FT Sir Sterling Sam Lord's Castle - Foxy Felicity It's Bobs Business Bolt d'Oro - Sales Call It's Miles Dialed In - It's Tamareno View Details Watch Replay"
+    },
+    {
       "title": "Canterbury Park, Race 3, MSW",
       "details": "Canterbury Park, Race 3, MSW Canterbury Park , Thursday, September 17, 2026, Race 3 MSW 5 furlongs $23,000 Fillies and Mares 3, 4, 5 yo's Turf GD The Other One Rushie - Superior Sarah My Golden Cat By My Standards - English Cat Roots Tootn Deliver the Storm - Alexandria J View Details Watch Replay"
     },
     {
       "title": "Canterbury Park, Race 1, MSW",
       "details": "Canterbury Park, Race 1, MSW Canterbury Park , Thursday, September 17, 2026, Race 1 MSW 7 1/2 furlongs $23,000 3, 4, 5 yo's Turf GD Line of Reason Firing Line - Naomi Ridge Esq. Loco Por Ser Libre American Freedom - Tremendamente Loca Dokkodo Hard Spun - Freethinker View Details Watch Replay"
+    },
+    {
+      "title": "Churchill Downs, Race 8, MCL",
+      "details": "Churchill Downs, Race 8, MCL Churchill Downs , Thursday, September 17, 2026, Race 8 MCL 6 1/2 furlongs $48,000 3 yo's up Dirt FT Act of Parliament Quality Road - Fuhriously Kissed Can't Stop Willis Nyquist - Indelible Phantom Slayer Ghostzapper - Recollection View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, AOC",
+      "details": "Churchill Downs, Race 7, AOC Churchill Downs , Thursday, September 17, 2026, Race 7 AOC 1 1/16 miles $140,900 3 yo's up Dirt FT No Bien Ni Mal (BRZ) Hofburg - Una Beleza (BRZ) So Sandy Omaha Beach - So Fancy Woodcourt Ransom the Moon - Warrioress View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 6, MCL",
+      "details": "Churchill Downs, Race 6, MCL Churchill Downs , Thursday, September 17, 2026, Race 6 MCL 1 1/16 miles $72,000 3 yo's up Dirt FT Bridgesong Midshipman - Villa Savoye Throttle Street Sense - Princesinha Julia Hey Dey Liam's Map - Pelipa View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 5, MSW",
+      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Thursday, September 17, 2026, Race 5 MSW 1 1/16 miles $120,000 2 yo Turf FM Not for Long (GB) Baaeed (GB) - Burswood (GB) Time in Motion Not This Time - Mo City Travelin Twirling Candy - Traipsing View Details"
     },
     {
       "title": "Churchill Downs, Race 4, AOC",
@@ -727,36 +747,16 @@
       "details": "Churchill Downs, Race 2, CLM Churchill Downs , Thursday, September 17, 2026, Race 2 CLM 1 mile $76,000 Fillies and Mares 3 yo's up Turf FM Galatina Vino Rosso - Torcida Heart Spin Hard Spun - Frivolity Sussudio Blame - Charm City Girl View Details"
     },
     {
+      "title": "Charles Town, Race 3, AOC",
+      "details": "Charles Town, Race 3, AOC Charles Town Races Slots , Thursday, September 17, 2026, Race 3 AOC 4 1/2 furlongs $29,800 3 yo's up Dirt FT Restless Girvin - Prada's Bling Hey Boots Bucchero - Winning for Sarah Uncle Chinito Uncle Lino - Claire's Image View Details Watch Replay"
+    },
+    {
+      "title": "Charles Town, Race 2, MSW",
+      "details": "Charles Town, Race 2, MSW Charles Town Races Slots , Thursday, September 17, 2026, Race 2 MSW 4 1/2 furlongs $32,900 Fillies 2 yo Dirt FT Miss Drama Mind Control - Drama Mama Hijinxnoel Nashville - No Jinxin Me Doubles Alley City of Light - Belvedera View Details Watch Replay"
+    },
+    {
       "title": "Delaware Park, Race 6, ALW",
       "details": "Delaware Park, Race 6, ALW Delaware Park , Thursday, September 17, 2026, Race 6 ALW 6 furlongs $46,000 3 yo's up Dirt MY Eastbostonbenny Bucchero - April Rose Sir George Street Sense - Pretty Girl (ARG) Cockeyed Khozan - Dark Farewell View Details Watch Replay"
-    },
-    {
-      "title": "Delaware Park, Race 3, MSW",
-      "details": "Delaware Park, Race 3, MSW Delaware Park , Thursday, September 17, 2026, Race 3 MSW 5 furlongs $45,000 2 yo Dirt GD Derry Moon Irish War Cry - Moon Valley Golden Faith Goldencents - Twirling Faith Princeofpinehurst Pinehurst - Paradise Promise View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 8, MSW",
-      "details": "Horseshoe Indianapolis, Race 8, MSW Horseshoe Indianapolis , Thursday, September 17, 2026, Race 8 MSW 1 mile $38,500 2 yo Dirt FT Ferocious Justice Lantana Mob - Estilo Diferente Gabe Doesit Again Sleepy Eyes Todd - Everybody Does It Jims Promise Holiday Promise - Lady Temple View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 7, ALW",
-      "details": "Horseshoe Indianapolis, Race 7, ALW Horseshoe Indianapolis , Thursday, September 17, 2026, Race 7 ALW 5 furlongs $34,000 Fillies and Mares 3 yo's up Turf FM Emoji Practical Joke - Sarcastic Sarissa Get Stormy - Trevi Fountain Plume Charlatan - Sister Peacock View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 6, MSW",
-      "details": "Horseshoe Indianapolis, Race 6, MSW Horseshoe Indianapolis , Thursday, September 17, 2026, Race 6 MSW 5 1/2 furlongs $38,500 Fillies and Mares 3 yo's up Dirt FT Runway Showstopper Unbridled Express - Runway Starlet Tiva Santiva - Celibration Time Athenaeum Harry's Holiday - Saint Savior View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 5, ALW",
-      "details": "Horseshoe Indianapolis, Race 5, ALW Horseshoe Indianapolis , Thursday, September 17, 2026, Race 5 ALW 1 mile $38,000 3 yo's up Turf FM For Mama Can the Man - Sky Hi Sugar Bout Tree Fiddy Thousand Words - Athena Ballerina Thousands of Hopes Thousand Words - The Bees Knees View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Thursday, September 17, 2026, Race 4 MSW 5 1/2 furlongs $32,000 2 yo Dirt FT Streak Sense McKinzie - Naked Avenger C R Sultan Maximus Mischief - Bagatelle Park Rogueishrevalation Rogueish - Rising Faith View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 2, MSW",
-      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Thursday, September 17, 2026, Race 2 MSW 1 mile $38,500 Fillies 2 yo Dirt FT Miss Unbridled Unbridled Express - Miss Blossom Jiddy Justice Harry's Holiday - Street Trick J's Alley Cat Turbo Compressor - Tangalang View Details Watch Replay"
     }
   ]
 }
