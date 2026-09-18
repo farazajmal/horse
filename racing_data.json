@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 18, 2026 - 11:01 AM",
+  "last_updated": "September 18, 2026 - 01:00 PM",
   "year": 2026,
   "races": [
     {
@@ -409,6 +409,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Clasico Puerto Rico Futurity (G2)",
+      "raw_name": "Clasico Puerto Rico Futurity (G2)",
+      "track": "Camarero Race Track",
+      "grade": "Grade 2",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "9/20",
+      "country": "Puerto Rico",
+      "flag": "🇵🇷",
+      "isUsa": false
     },
     {
       "name": "Sweetwater Thoroughbred Derby",
