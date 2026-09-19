@@ -1,115 +1,7 @@
 {
-  "last_updated": "September 19, 2026 - 03:00 AM",
+  "last_updated": "September 19, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Jockey Club Gold Cup S. (G1)",
-      "raw_name": "Jockey Club Gold Cup S. (G1)",
-      "track": "Belmont Park",
-      "grade": "Grade 1",
-      "dist": "1 1/4 miles (Dirt)",
-      "purse": "$1,000,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Miss Southern Ohio S.",
-      "raw_name": "Miss Southern Ohio S.",
-      "track": "Belterra Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Turf)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Loyalty S.",
-      "raw_name": "Loyalty S.",
-      "track": "Belterra Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "John McKee Memorial S.",
-      "raw_name": "John McKee Memorial S.",
-      "track": "Charles Town Races Slots",
-      "grade": "Stakes",
-      "dist": "4 1/2 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Presque Isle Debutante S.",
-      "raw_name": "Presque Isle Debutante S.",
-      "track": "Presque Isle Downs",
-      "grade": "Stakes",
-      "dist": "6 1/2 furlongs (All Weather Track)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Power by Far S.",
-      "raw_name": "Power by Far S.",
-      "track": "Presque Isle Downs",
-      "grade": "Stakes",
-      "dist": "6 1/2 furlongs (All Weather Track)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Fitz Dixon, Jr. Memorial Juvenile S.",
-      "raw_name": "Fitz Dixon, Jr. Memorial Juvenile S.",
-      "track": "Presque Isle Downs",
-      "grade": "Stakes",
-      "dist": "6 1/2 furlongs (All Weather Track)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Presque Isle Mile S.",
-      "raw_name": "Presque Isle Mile S.",
-      "track": "Presque Isle Downs",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (All Weather Track)",
-      "purse": "$150,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Presque Isle Downs Masters S. (G2)",
-      "raw_name": "Presque Isle Downs Masters S. (G2)",
-      "track": "Presque Isle Downs",
-      "grade": "Grade 2",
-      "dist": "6 1/2 furlongs (All Weather Track)",
-      "purse": "$300,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Floral Park S.",
       "raw_name": "Floral Park S.",
@@ -117,7 +9,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Turf)",
       "purse": "$175,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -129,7 +21,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$300,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +33,7 @@
       "grade": "Grade 3",
       "dist": "7 furlongs (Dirt)",
       "purse": "$300,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +45,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$200,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -165,7 +57,7 @@
       "grade": "Stakes",
       "dist": "4 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -177,7 +69,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -189,7 +81,7 @@
       "grade": "Stakes",
       "dist": "5 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -201,7 +93,7 @@
       "grade": "Stakes",
       "dist": "5 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -213,7 +105,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$75,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -225,7 +117,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -237,7 +129,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$75,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -249,7 +141,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$75,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -261,7 +153,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -273,7 +165,7 @@
       "grade": "Stakes",
       "dist": "1 mile 70 Yards (Dirt)",
       "purse": "$150,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -285,7 +177,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$150,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -297,7 +189,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$150,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -309,7 +201,7 @@
       "grade": "Stakes",
       "dist": "1 1/2 miles (Dirt)",
       "purse": "$150,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -321,7 +213,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$300,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -333,7 +225,7 @@
       "grade": "Grade 2",
       "dist": "6 furlongs (Dirt)",
       "purse": "$400,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -345,7 +237,7 @@
       "grade": "Grade 1",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$1,000,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -357,7 +249,7 @@
       "grade": "Grade 1",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$1,000,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -369,7 +261,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Turf)",
       "purse": "$125,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -381,7 +273,7 @@
       "grade": "Grade 3",
       "dist": "1 1/16 miles (All Weather Track)",
       "purse": "$175,000",
-      "date": "9/19",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
