@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 18, 2026 - 11:00 PM",
+  "last_updated": "September 19, 2026 - 01:00 AM",
   "year": 2026,
   "races": [
     {
@@ -711,6 +711,10 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 9, ALW",
+      "details": "Belmont Park, Race 9, ALW Belmont Park , Friday, September 18, 2026, Race 9 ALW 7 furlongs $157,500 Fillies and Mares 3 yo's up Turf FM Maria Callas Caravaggio - Anything Goes Tuthilltown Classic Empire - Bourbon Endowment Neshika Twirling Candy - Kiss Is a Kiss View Details Watch Replay"
+    },
+    {
       "title": "Belmont Park, Race 8, STR",
       "details": "Belmont Park, Race 8, STR Belmont Park , Friday, September 18, 2026, Race 8 STR 6 1/2 furlongs $112,500 3 yo's up Dirt FT Nash Potatoes Mendelssohn - Hundred Year Storm Math Tutor Algorithms - Comare Freaky Into Mischief - Enchanted Ghost View Details Watch Replay"
     },
@@ -765,10 +769,6 @@
     {
       "title": "Churchill Downs, Race 9, AOC",
       "details": "Churchill Downs, Race 9, AOC Churchill Downs , Friday, September 18, 2026, Race 9 AOC 6 furlongs $134,000 3 yo's up Dirt FT Tap Me a Song Tapiture - Gwithian Ship Ship Hooray Midshipman - Rithm and Rap Jefferson Street Street Sense - Apiary View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 8, CLM",
-      "details": "Churchill Downs, Race 8, CLM Churchill Downs , Friday, September 18, 2026, Race 8 CLM 1 1/16 miles $86,000 3 yo's up Turf FM Lucky Mischief Yoshida (JPN) - She's Mischief War Officer War Front - Claire de Lune (IRE) Baltimore Heart Heart to Heart - Flight Pattern View Details"
     }
   ]
 }
