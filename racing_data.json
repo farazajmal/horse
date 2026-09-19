@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 19, 2026 - 09:00 PM",
+  "last_updated": "September 19, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -387,6 +387,18 @@
       "isUsa": true
     },
     {
+      "name": "Beldame S. (G2)",
+      "raw_name": "Beldame S. (G2)",
+      "track": "Belmont Park",
+      "grade": "Grade 2",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$250,000",
+      "date": "9/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Casey Darnell S.",
       "raw_name": "Casey Darnell S.",
       "track": "Albuquerque",
@@ -429,6 +441,18 @@
       "grade": "Grade 2",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$500,000",
+      "date": "9/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Hollywood Beach S.",
+      "raw_name": "Hollywood Beach S.",
+      "track": "Gulfstream Park",
+      "grade": "Stakes",
+      "dist": "5 furlongs (Turf)",
+      "purse": "$100,000",
       "date": "9/26",
       "country": "USA",
       "flag": "🇺🇸",
@@ -843,64 +867,64 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 10, MCL",
+      "details": "Belmont Park, Race 10, MCL Belmont Park , Saturday, September 19, 2026, Race 10 MCL 1 1/8 miles $84,000 3 yo's up Inner turf FM Beau Cheval Beau Liam - Okbyecya Big Frosty Big Brown - Sweet Frost Bourboncentric Central Banker - Madame Bourbon View Details Watch Replay"
+    },
+    {
+      "title": "Floral Park S. (BT)",
+      "details": "Floral Park S. (BT) Belmont Park , Saturday, September 19, 2026, Race 9 STK 6 furlongs $175,000 Fillies and Mares 3 yo's up Turf FM Love Cervere Into Mischief - Panther Strike Leslie's Humor Kantharos - La Titina Movin' On Up Accelerate - Stifle Yourself View Details Watch Replay"
+    },
+    {
       "title": "Belmont Park, Race 8, ALW",
-      "details": "Belmont Park, Race 8, ALW Belmont Park , Saturday, September 19, 2026, Race 8 ALW 1 mile $105,000 3 yo's up Dirt FT Magnanimous Max Maximum Security - Nippy Chief Wallabee Constitution - A La Lucie Pandagate Arrogate - Kitty Panda View Details"
+      "details": "Belmont Park, Race 8, ALW Belmont Park , Saturday, September 19, 2026, Race 8 ALW 1 mile $105,000 3 yo's up Dirt FT Magnanimous Max Maximum Security - Nippy Chief Wallabee Constitution - A La Lucie Pandagate Arrogate - Kitty Panda View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 6, MSW",
-      "details": "Belmont Park, Race 6, MSW Belmont Park , Saturday, September 19, 2026, Race 6 MSW 1 mile $100,000 2 yo Turf FM Captain George War of Will - Twofortea Raise the Roof Tourist - Brazo de Oro Equilibrate Hard Spun - Kokopelli View Details"
+      "details": "Belmont Park, Race 6, MSW Belmont Park , Saturday, September 19, 2026, Race 6 MSW 1 mile $100,000 2 yo Turf FM Captain George War of Will - Twofortea Raise the Roof Tourist - Brazo de Oro Equilibrate Hard Spun - Kokopelli View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 5, MSW",
-      "details": "Belmont Park, Race 5, MSW Belmont Park , Saturday, September 19, 2026, Race 5 MSW 6 1/2 furlongs $100,000 2 yo Inner turf FM Titan Ready Title Ready - Speighty Shirl River of Deceit Hard Spun - Revealing Quality Ideation (IRE) No Nay Never - Flotilla (FR) View Details"
+      "details": "Belmont Park, Race 5, MSW Belmont Park , Saturday, September 19, 2026, Race 5 MSW 6 1/2 furlongs $100,000 2 yo Inner turf FM Titan Ready Title Ready - Speighty Shirl River of Deceit Hard Spun - Revealing Quality Ideation (IRE) No Nay Never - Flotilla (FR) View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 3, AOC",
-      "details": "Belmont Park, Race 3, AOC Belmont Park , Saturday, September 19, 2026, Race 3 AOC 7 furlongs $108,000 3 yo's up Turf FM Fond Farewell Caravaggio - County Clare Attfield Vekoma - Graceful Witch Candytown Speightstown - Candymakesmesmile View Details"
+      "details": "Belmont Park, Race 3, AOC Belmont Park , Saturday, September 19, 2026, Race 3 AOC 7 furlongs $108,000 3 yo's up Turf FM Fond Farewell Caravaggio - County Clare Attfield Vekoma - Graceful Witch Candytown Speightstown - Candymakesmesmile View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 2, AOC",
-      "details": "Belmont Park, Race 2, AOC Belmont Park , Saturday, September 19, 2026, Race 2 AOC 6 1/2 furlongs $108,000 Fillies and Mares 3 yo's up Inner turf FM Life's Dynamic Practical Joke - Amber Isle Queen Martina (IRE) Ardad (IRE) - The Ceiling Job (IRE) Boston's Phinest Honest Mischief - All in Time View Details"
+      "details": "Belmont Park, Race 2, AOC Belmont Park , Saturday, September 19, 2026, Race 2 AOC 6 1/2 furlongs $108,000 Fillies and Mares 3 yo's up Inner turf FM Life's Dynamic Practical Joke - Amber Isle Queen Martina (IRE) Ardad (IRE) - The Ceiling Job (IRE) Boston's Phinest Honest Mischief - All in Time View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 1, MSW",
-      "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, September 19, 2026, Race 1 MSW 1 mile $100,000 Fillies 2 yo Dirt FT Wharfie Essential Quality - Waterside Gun Broker Gun Runner - Coin Broker (IRE) Expiration Date Charlatan - Land Mine View Details"
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, September 19, 2026, Race 1 MSW 1 mile $100,000 Fillies 2 yo Dirt FT Wharfie Essential Quality - Waterside Gun Broker Gun Runner - Coin Broker (IRE) Expiration Date Charlatan - Land Mine View Details Watch Replay"
     },
     {
       "title": "Belterra Park, Race 4, MSW",
-      "details": "Belterra Park, Race 4, MSW Belterra Park , Saturday, September 19, 2026, Race 4 MSW 1 mile $20,500 3, 4, 5 6 yo's Turf FM Dynamic Victory Dynamic Racer - Victory Pool Cool Lucky Accelerate - Too Cool Air Raid Air Strike - Storm Raven View Details"
+      "details": "Belterra Park, Race 4, MSW Belterra Park , Saturday, September 19, 2026, Race 4 MSW 1 mile $20,500 3, 4, 5 6 yo's Turf FM Dynamic Victory Dynamic Racer - Victory Pool Cool Lucky Accelerate - Too Cool Air Raid Air Strike - Storm Raven View Details Watch Replay"
     },
     {
       "title": "Belterra Park, Race 3, MSW",
-      "details": "Belterra Park, Race 3, MSW Belterra Park , Saturday, September 19, 2026, Race 3 MSW 5 1/2 furlongs $13,000 2 yo Dirt FT Walters Campaign Global Campaign - Bootsy's Girl Blessed Fortune Spun to Run - Derek's Girl Super Saiyajin Modernist - Cashmeifucan View Details"
+      "details": "Belterra Park, Race 3, MSW Belterra Park , Saturday, September 19, 2026, Race 3 MSW 5 1/2 furlongs $13,000 2 yo Dirt FT Walters Campaign Global Campaign - Bootsy's Girl Blessed Fortune Spun to Run - Derek's Girl Super Saiyajin Modernist - Cashmeifucan View Details Watch Replay"
+    },
+    {
+      "title": "Canterbury Park, Race 3, ALW",
+      "details": "Canterbury Park, Race 3, ALW Canterbury Park , Saturday, September 19, 2026, Race 3 ALW 1 mile $29,000 Fillies and Mares 3 yo's up Dirt SY Kaitskate Mo Town - Battlin Adalynn Heavenly Destiny Anchor Down - Demi Delight Caughtyoulooking Known Agenda - Fabulous Babe View Details Watch Replay"
+    },
+    {
+      "title": "Canterbury Park, Race 2, MSW",
+      "details": "Canterbury Park, Race 2, MSW Canterbury Park , Saturday, September 19, 2026, Race 2 MSW 5 furlongs $23,000 Fillies 2 yo Dirt SY Golden Stride Golden Pal - Winning Walk Copper Vixen Jack Christopher - Microcap Course You Are Tapwrit - Am I Makinsense View Details Watch Replay"
+    },
+    {
+      "title": "Canterbury Park, Race 1, MSW",
+      "details": "Canterbury Park, Race 1, MSW Canterbury Park , Saturday, September 19, 2026, Race 1 MSW 7 1/2 furlongs $23,000 Fillies 2 yo Turf SF H'ray for Bombay Atta Boy Roy - H'rayforcaberneigh Avos Rose Mystic Guide - Katie's Belle Tactical Gamble Tacitus - Alana's Allure View Details Watch Replay"
+    },
+    {
+      "title": "Churchill Downs, Race 1, MSW",
+      "details": "Churchill Downs, Race 1, MSW Churchill Downs , Saturday, September 19, 2026, Race 1 MSW 1 1/16 miles $120,000 Fillies and Mares 3 yo's up Turf FM Roiling Omaha Beach - Pretty Zippy She's On a Roll Charlatan - Summersault The Look Volatile - Lovely Carina View Details"
     },
     {
       "title": "Century Downs, Race 2, AOC",
       "details": "Century Downs, Race 2, AOC CENTURY DOWNS , Saturday, September 19, 2026, Race 2 AOC 6 1/2 furlongs $15,017 Fillies 3 yo Dirt FT Red Charity Signature Red - Generous Touch Madeline Tothe Max Maximum Security - Queen Ofthe Empire Daou Flameaway - Feeling Funny View Details"
-    },
-    {
-      "title": "Century Downs, Race 1, AOC",
-      "details": "Century Downs, Race 1, AOC CENTURY DOWNS , Saturday, September 19, 2026, Race 1 AOC 6 furlongs $15,374 3 yo's up Dirt FT Drinking Again Stay Thirsty - Storm Swept Who Is Ralis - Lost Humor Bar Down Express Kantharos - Kickapoo Princess View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 8, MSW",
-      "details": "Gulfstream Park, Race 8, MSW Gulfstream Park , Saturday, September 19, 2026, Race 8 MSW 6 furlongs $60,000 Fillies 2 yo Dirt FT Scottish Lass McKinzie - Tapicat Lucky Lollipop Instagrand - La Regia Practical Bling Practical Joke - Bling Machine View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 1, MSW",
-      "details": "Gulfstream Park, Race 1, MSW Gulfstream Park , Saturday, September 19, 2026, Race 1 MSW 5 furlongs $60,000 2 yo All Weather Track FT Reza Tale of Silence - Pleasant Orb Coralline Corniche - Crossing the Tape New Friend Charlatan - Old Pho View Details"
-    },
-    {
-      "title": "Louisiana Downs, Race 1, ALW",
-      "details": "Louisiana Downs, Race 1, ALW Louisiana Downs , Saturday, September 19, 2026, Race 1 ALW 5 furlongs $28,000 Fillies and Mares 3 yo's up Turf FM From Scratch Flameaway - Dreaming of Susie Wannawholelottaluv Star Guitar - Wanna Snuggle Lee Circle My Pal Charlie - Lady Belacqua View Details"
-    },
-    {
-      "title": "Weather Vane S. (BT)",
-      "details": "Weather Vane S. (BT) Laurel Park , Saturday, September 19, 2026, Race 9 STK 6 furlongs $100,000 Fillies 3 yo Dirt FT Slewperstitus Great Notion - Slew of Bullets Sneaky Good Into Mischief - Gale French Friction City of Light - Private Ensign View Details"
-    },
-    {
-      "title": "Laurel Park, Race 8, MSW",
-      "details": "Laurel Park, Race 8, MSW Laurel Park , Saturday, September 19, 2026, Race 8 MSW 5 1/2 furlongs $51,060 Fillies 2 yo Turf FM Scabiosa Mendelssohn - Ianthe D J Abs Jack Christopher - Simply the Best Very Dolce Happy Saver - Gusto Dolce (URU) View Details"
     }
   ]
 }
