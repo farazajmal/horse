@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 19, 2026 - 01:00 PM",
+  "last_updated": "September 19, 2026 - 03:00 PM",
   "year": 2026,
   "races": [
     {
@@ -603,6 +603,10 @@
   ],
   "recent_results": [
     {
+      "title": "Parx Racing, Race 1, MSW",
+      "details": "Parx Racing, Race 1, MSW Parx Racing , Saturday, September 19, 2026, Race 1 MSW 6 1/2 furlongs $100,000 Fillies 2 yo Dirt FT Turning to Gold Munnings - White Hot Gold First Site Early Voting - Lemon Gala Flying Free Wicked Strong - Billy No Sabay View Details"
+    },
+    {
       "title": "Belmont Park, Race 9, ALW",
       "details": "Belmont Park, Race 9, ALW Belmont Park , Friday, September 18, 2026, Race 9 ALW 7 furlongs $157,500 Fillies and Mares 3 yo's up Turf FM Maria Callas Caravaggio - Anything Goes Tuthilltown Classic Empire - Bourbon Endowment Neshika Twirling Candy - Kiss Is a Kiss View Details Watch Replay"
     },
@@ -657,10 +661,6 @@
     {
       "title": "Churchill Downs, Race 10, MCL",
       "details": "Churchill Downs, Race 10, MCL Churchill Downs , Friday, September 18, 2026, Race 10 MCL 7 furlongs $67,000 Fillies and Mares 3 yo's up Dirt FT Winning Matters Game Winner - Moon Over Matter Rockin Robin Spun to Run - Winds of Capri Kopiana Runhappy - Anfield Rose View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, AOC",
-      "details": "Churchill Downs, Race 9, AOC Churchill Downs , Friday, September 18, 2026, Race 9 AOC 6 furlongs $134,000 3 yo's up Dirt FT Tap Me a Song Tapiture - Gwithian Ship Ship Hooray Midshipman - Rithm and Rap Jefferson Street Street Sense - Apiary View Details"
     }
   ]
 }
