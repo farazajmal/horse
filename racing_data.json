@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 19, 2026 - 03:00 PM",
+  "last_updated": "September 19, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -603,6 +603,30 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 1, MSW",
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, September 19, 2026, Race 1 MSW 1 mile $100,000 Fillies 2 yo Dirt FT Wharfie Essential Quality - Waterside Gun Broker Gun Runner - Coin Broker (IRE) Expiration Date Charlatan - Land Mine View Details"
+    },
+    {
+      "title": "Gulfstream Park, Race 1, MSW",
+      "details": "Gulfstream Park, Race 1, MSW Gulfstream Park , Saturday, September 19, 2026, Race 1 MSW 5 furlongs $60,000 2 yo All Weather Track FT Reza Tale of Silence - Pleasant Orb Coralline Corniche - Crossing the Tape New Friend Charlatan - Old Pho View Details"
+    },
+    {
+      "title": "Parx Racing, Race 5, SOC",
+      "details": "Parx Racing, Race 5, SOC Parx Racing , Saturday, September 19, 2026, Race 5 SOC 6 1/2 furlongs $100,000 3 yo's up Dirt FT Band Camp Bandbox - Lookin At Royalty Great Composer Mendelssohn - Crown Royal Queen Paco the Taco Man Bandbox - Flexible Ethics View Details"
+    },
+    {
+      "title": "Parx Racing, Race 4, SOC",
+      "details": "Parx Racing, Race 4, SOC Parx Racing , Saturday, September 19, 2026, Race 4 SOC 6 1/2 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Lady Annabelle Golddigger's Boy - Cartier Lady Maximus Angelicus Maximus Mischief - Disco Rose Snappy Ride Uptowncharlybrown - Primo Via View Details"
+    },
+    {
+      "title": "Parx Racing, Race 3, MSW",
+      "details": "Parx Racing, Race 3, MSW Parx Racing , Saturday, September 19, 2026, Race 3 MSW 6 1/2 furlongs $100,000 2 yo Dirt FT McCoy Vekoma - Fat Kat Midnight Ride Independence Hall - Dixie Lullaby After the Beep Dialed In - Sum One to Blame View Details"
+    },
+    {
+      "title": "Parx Racing, Race 2, AOC",
+      "details": "Parx Racing, Race 2, AOC Parx Racing , Saturday, September 19, 2026, Race 2 AOC 1 mile 70 Yards $100,000 3 yo's up Dirt FT Missouri River Arrogate - Wholelottashakin Lost and Confused Social Inclusion - Violent Danger Wish Carefully Mitole - Forgiveness View Details"
+    },
+    {
       "title": "Parx Racing, Race 1, MSW",
       "details": "Parx Racing, Race 1, MSW Parx Racing , Saturday, September 19, 2026, Race 1 MSW 6 1/2 furlongs $100,000 Fillies 2 yo Dirt FT Turning to Gold Munnings - White Hot Gold First Site Early Voting - Lemon Gala Flying Free Wicked Strong - Billy No Sabay View Details"
     },
@@ -637,30 +661,6 @@
     {
       "title": "Belmont Park, Race 2, MSW",
       "details": "Belmont Park, Race 2, MSW Belmont Park , Friday, September 18, 2026, Race 2 MSW 7 furlongs $150,000 Fillies 2 yo Dirt FT Davidson American Pharoah - Harley Girl Under the Moon Greatest Honour - Nicorina Mom's On Break King for a Day - Lady On Holiday View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 1, MSW",
-      "details": "Belmont Park, Race 1, MSW Belmont Park , Friday, September 18, 2026, Race 1 MSW 1 1/4 miles $150,000 Fillies and Mares 3 yo's up Inner turf FM Lisa Joy (GB) Too Darn Hot (GB) - Royal Decree Sister Jean McKinzie - Golden Muscade Osmosis (FR) Siyouni (FR) - Manerbe View Details Watch Replay"
-    },
-    {
-      "title": "Loyalty S.",
-      "details": "Loyalty S. Belterra Park , Friday, September 18, 2026, Race 7 STK 6 furlongs $75,000 2 yo Dirt FT Breakheart Pass Event Driven - Miss Van Gogh Little Truck Indy Wind - Small Secret Rule the Roost Dominus - Tomica's Spirit View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Belterra Park, Race 5, MSW",
-      "details": "Belterra Park, Race 5, MSW Belterra Park , Friday, September 18, 2026, Race 5 MSW 5 1/2 furlongs $13,000 Fillies 2 yo Dirt GD Mindstars Mind Control - Roxie Fast Moon Call Her Majesty Dialed In - Agave Queen Credit Spreads Global Campaign - Above Mine View Details Watch Replay"
-    },
-    {
-      "title": "Miss Southern Ohio S.",
-      "details": "Miss Southern Ohio S. Belterra Park , Friday, September 18, 2026, Race 4 STK 1 1/16 miles $75,000 Fillies and Mares 3 yo's up Turf GD Parlay National Flag - Miss Emma Maria Better Half National Flag - Mini Mom Our Last Song Itsthesameoldsong - Oh So Easy View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Belterra Park, Race 3, ALW",
-      "details": "Belterra Park, Race 3, ALW Belterra Park , Friday, September 18, 2026, Race 3 ALW 1 mile $22,700 3 yo's up Dirt GD Bradley Omaha Beach - Keep the Ring My Trooper Yorkton - Small Secret Atlas Falls Bernardini - Oldfashioned Style View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 10, MCL",
-      "details": "Churchill Downs, Race 10, MCL Churchill Downs , Friday, September 18, 2026, Race 10 MCL 7 furlongs $67,000 Fillies and Mares 3 yo's up Dirt FT Winning Matters Game Winner - Moon Over Matter Rockin Robin Spun to Run - Winds of Capri Kopiana Runhappy - Anfield Rose View Details"
     }
   ]
 }
