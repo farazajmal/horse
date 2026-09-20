@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 20, 2026 - 03:00 PM",
+  "last_updated": "September 20, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -591,6 +591,10 @@
   ],
   "recent_results": [
     {
+      "title": "Laurel Park, Race 1, MSW",
+      "details": "Laurel Park, Race 1, MSW Laurel Park , Sunday, September 20, 2026, Race 1 MSW 1 mile $50,060 Fillies 2 yo Turf GD Gold Brew Golden Pal - Peach Brew Motocross Cross Traffic - Harley Q Pretty Violent Mo Donegal - Justalittleviolent View Details"
+    },
+    {
       "title": "Belmont Park, Race 10, MCL",
       "details": "Belmont Park, Race 10, MCL Belmont Park , Saturday, September 19, 2026, Race 10 MCL 1 1/8 miles $84,000 3 yo's up Inner turf FM Beau Cheval Beau Liam - Okbyecya Big Frosty Big Brown - Sweet Frost Bourboncentric Central Banker - Madame Bourbon View Details Watch Replay"
     },
@@ -645,10 +649,6 @@
     {
       "title": "Canterbury Park, Race 4, MSW",
       "details": "Canterbury Park, Race 4, MSW Canterbury Park , Saturday, September 19, 2026, Race 4 MSW 6 furlongs $23,000 2 yo Dirt SY Extremely Probable Improbable - Delightful Dawn Ace in the Hall Independence Hall - Fish N Chick Hey Baby Mikko Mark Valeski - Hey Baby View Details Watch Replay"
-    },
-    {
-      "title": "Canterbury Park, Race 3, ALW",
-      "details": "Canterbury Park, Race 3, ALW Canterbury Park , Saturday, September 19, 2026, Race 3 ALW 1 mile $29,000 Fillies and Mares 3 yo's up Dirt SY Kaitskate Mo Town - Battlin Adalynn Heavenly Destiny Anchor Down - Demi Delight Caughtyoulooking Known Agenda - Fabulous Babe View Details Watch Replay"
     }
   ]
 }
