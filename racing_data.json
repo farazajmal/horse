@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 21, 2026 - 09:00 PM",
+  "last_updated": "September 21, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -308,6 +308,66 @@
       "track": "Prairie Meadows",
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
+      "purse": "$100,000",
+      "date": "9/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "City of Hope Mile S. (G2T)",
+      "raw_name": "City of Hope Mile S. (G2T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 2",
+      "dist": "1 mile (Turf)",
+      "purse": "$200,000",
+      "date": "9/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Eddie D S. (G2T)",
+      "raw_name": "Eddie D S. (G2T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 2",
+      "dist": "About 6 1/2 furlongs (Downhill turf)",
+      "purse": "$200,000",
+      "date": "9/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "John Henry Turf Championship S. (G2T)",
+      "raw_name": "John Henry Turf Championship S. (G2T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 2",
+      "dist": "1 1/4 miles (Downhill turf)",
+      "purse": "$200,000",
+      "date": "9/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Goodwood S. (G1)",
+      "raw_name": "Goodwood S. (G1)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 1",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$300,000",
+      "date": "9/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "John C. Harris S. (G3T)",
+      "raw_name": "John C. Harris S. (G3T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 3",
+      "dist": "About 6 1/2 furlongs (Downhill turf)",
       "purse": "$100,000",
       "date": "9/26",
       "country": "USA",
@@ -640,63 +700,63 @@
   "recent_results": [
     {
       "title": "Fort Erie, Race 6, MSW",
-      "details": "Fort Erie, Race 6, MSW Fort Erie , Monday, September 21, 2026, Race 6 MSW About 5 furlongs $18,983 Fillies and Mares 3 yo's up Turf FM Ready for a Title More Than Ready - Soul Title You Signed It Signature Red - Red Philanthropist Melody Maker Maclean's Music - Fiftyshadesofhay View Details"
+      "details": "Fort Erie, Race 6, MSW Fort Erie , Monday, September 21, 2026, Race 6 MSW About 5 furlongs $18,983 Fillies and Mares 3 yo's up Turf FM Ready for a Title More Than Ready - Soul Title You Signed It Signature Red - Red Philanthropist Melody Maker Maclean's Music - Fiftyshadesofhay View Details Watch Replay"
     },
     {
       "title": "Fort Erie, Race 3, ALW",
-      "details": "Fort Erie, Race 3, ALW Fort Erie , Monday, September 21, 2026, Race 3 ALW About 7 furlongs $20,591 3 yo's up Turf FM Go Go Alexander Souper Speedy - Ascot Hailey Sunset Skippy Society's Chairman - Hijiki Sassagoula River Game Winner - That's So Frosty View Details"
+      "details": "Fort Erie, Race 3, ALW Fort Erie , Monday, September 21, 2026, Race 3 ALW About 7 furlongs $20,591 3 yo's up Turf FM Go Go Alexander Souper Speedy - Ascot Hailey Sunset Skippy Society's Chairman - Hijiki Sassagoula River Game Winner - That's So Frosty View Details Watch Replay"
+    },
+    {
+      "title": "Finger Lakes, Race 8, AOC",
+      "details": "Finger Lakes, Race 8, AOC Finger Lakes , Monday, September 21, 2026, Race 8 AOC 1 mile $29,000 Fillies and Mares 3 yo's up Dirt FT Sweet Anniversary Solomini - South Wing Katie King Joevia - Wy Not Candy Bow Draw Oxbow - Wicked Draw View Details Watch Replay"
     },
     {
       "title": "Ontario County S.",
-      "details": "Ontario County S. Finger Lakes , Monday, September 21, 2026, Race 7 STK 6 furlongs $50,000 3 yo Dirt FT Stickupwithoutagun McKinzie - Gun Club Lord King King for a Day - Higher Incentive Kings Dancer War Dancer - Contender's Queen View Details"
+      "details": "Ontario County S. Finger Lakes , Monday, September 21, 2026, Race 7 STK 6 furlongs $50,000 3 yo Dirt FT Stickupwithoutagun McKinzie - Gun Club Lord King King for a Day - Higher Incentive Kings Dancer War Dancer - Contender's Queen View Details Watch Replay"
     },
     {
       "title": "Niagara S.",
-      "details": "Niagara S. Finger Lakes , Monday, September 21, 2026, Race 6 STK 6 furlongs $50,000 Fillies 3 yo Dirt FT My First Dinah Name Changer - My Dinah Oh Honest Mischief - Hot Spark Galileans Girl Galilean - Bileaps and Bounds View Details"
+      "details": "Niagara S. Finger Lakes , Monday, September 21, 2026, Race 6 STK 6 furlongs $50,000 Fillies 3 yo Dirt FT My First Dinah Name Changer - My Dinah Oh Honest Mischief - Hot Spark Galileans Girl Galilean - Bileaps and Bounds View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 5, MSW",
-      "details": "Finger Lakes, Race 5, MSW Finger Lakes , Monday, September 21, 2026, Race 5 MSW 5 1/2 furlongs $32,600 Fillies and Mares 3 yo's up Dirt FT Kozy Bee Bee Jersey - Van Khozan Celeslia Mr. Monomoy - Surprise Cameo Spirit Forward Sky Mesa - Ghostghostghost View Details"
+      "details": "Finger Lakes, Race 5, MSW Finger Lakes , Monday, September 21, 2026, Race 5 MSW 5 1/2 furlongs $32,600 Fillies and Mares 3 yo's up Dirt FT Kozy Bee Bee Jersey - Van Khozan Celeslia Mr. Monomoy - Surprise Cameo Spirit Forward Sky Mesa - Ghostghostghost View Details Watch Replay"
     },
     {
       "title": "Aspirant S. (BT)",
-      "details": "Aspirant S. (BT) Finger Lakes , Monday, September 21, 2026, Race 3 STK 5 1/2 furlongs $99,615 2 yo Dirt FT D I Wire Yaupon - Hard to Stay Notgo Covered Option Tiz the Law - Miss Jimmy Big Poppy Greatest Honour - Amanda Lane View Details"
+      "details": "Aspirant S. (BT) Finger Lakes , Monday, September 21, 2026, Race 3 STK 5 1/2 furlongs $99,615 2 yo Dirt FT D I Wire Yaupon - Hard to Stay Notgo Covered Option Tiz the Law - Miss Jimmy Big Poppy Greatest Honour - Amanda Lane View Details Watch Replay"
     },
     {
       "title": "Lady Finger S. (BT)",
-      "details": "Lady Finger S. (BT) Finger Lakes , Monday, September 21, 2026, Race 2 STK 5 1/2 furlongs $100,634 Fillies 2 yo Dirt FT Sun Kissed Bliss Mind Control - Kiska Sweet Sugar Pie Central Banker - Sky Gal Cozzy Trickstress Charlatan - Cozzy Spring View Details"
+      "details": "Lady Finger S. (BT) Finger Lakes , Monday, September 21, 2026, Race 2 STK 5 1/2 furlongs $100,634 Fillies 2 yo Dirt FT Sun Kissed Bliss Mind Control - Kiska Sweet Sugar Pie Central Banker - Sky Gal Cozzy Trickstress Charlatan - Cozzy Spring View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, September 21, 2026, Race 1 ALW 1 mile 70 Yards $26,500 3 yo's up Dirt FT Almez Bustin Stones - Hurrican Source (IRE) Corvus Vino Rosso - Dolores Westworld Resilient Hero Improbable - Espiritu View Details"
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, September 21, 2026, Race 1 ALW 1 mile 70 Yards $26,500 3 yo's up Dirt FT Almez Bustin Stones - Hurrican Source (IRE) Corvus Vino Rosso - Dolores Westworld Resilient Hero Improbable - Espiritu View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 8, ALW",
+      "details": "Horseshoe Indianapolis, Race 8, ALW Horseshoe Indianapolis , Monday, September 21, 2026, Race 8 ALW 5 furlongs $34,000 3 yo's up Dirt SY Illegal Contact Mr Speaker - Five Yard Penalty Countthecarats Gormley - Garnet Neutron Conveyance - Archusexy View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, September 21, 2026, Race 4 MSW 1 1/16 miles $38,500 3 yo's up Dirt SY Flatwater Forever d'Oro - Lady Stella Officer Gambill Charming Kitten - Amore Grand What You Wished Dowsing (JPN) - The Gaillimh Girl (IRE) View Details"
+      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, September 21, 2026, Race 4 MSW 1 1/16 miles $38,500 3 yo's up Dirt SY Flatwater Forever d'Oro - Lady Stella Officer Gambill Charming Kitten - Amore Grand What You Wished Dowsing (JPN) - The Gaillimh Girl (IRE) View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 3, MSW",
-      "details": "Horseshoe Indianapolis, Race 3, MSW Horseshoe Indianapolis , Monday, September 21, 2026, Race 3 MSW 5 1/2 furlongs $38,500 2 yo Dirt SY Austrian Painter Sleepy Eyes Todd - Galileta Captain Shagaf Shagaf - Mi Tia Jaguar Justice Harry's Holiday - Kid Justice View Details"
+      "details": "Horseshoe Indianapolis, Race 3, MSW Horseshoe Indianapolis , Monday, September 21, 2026, Race 3 MSW 5 1/2 furlongs $38,500 2 yo Dirt SY Austrian Painter Sleepy Eyes Todd - Galileta Captain Shagaf Shagaf - Mi Tia Jaguar Justice Harry's Holiday - Kid Justice View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 2, AOC",
-      "details": "Horseshoe Indianapolis, Race 2, AOC Horseshoe Indianapolis , Monday, September 21, 2026, Race 2 AOC 5 1/2 furlongs $29,000 Fillies and Mares 3 yo's up Dirt SY Spirited Anne Mor Spirit - Myrna Anne Sunny's Flame Flameaway - Shenandoah Soaring Unbridled Devine Unbridled Spring - Prophesy View Details"
+      "details": "Horseshoe Indianapolis, Race 2, AOC Horseshoe Indianapolis , Monday, September 21, 2026, Race 2 AOC 5 1/2 furlongs $29,000 Fillies and Mares 3 yo's up Dirt SY Spirited Anne Mor Spirit - Myrna Anne Sunny's Flame Flameaway - Shenandoah Soaring Unbridled Devine Unbridled Spring - Prophesy View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 1, MSW",
-      "details": "Horseshoe Indianapolis, Race 1, MSW Horseshoe Indianapolis , Monday, September 21, 2026, Race 1 MSW 5 1/2 furlongs $38,500 2 yo Dirt SY Mi Picaro American Pastime - Special Conquest Front Shirt Pocket Looking Cool - Insure Ephesian Cat Calculator - California Kitty View Details"
+      "details": "Horseshoe Indianapolis, Race 1, MSW Horseshoe Indianapolis , Monday, September 21, 2026, Race 1 MSW 5 1/2 furlongs $38,500 2 yo Dirt SY Mi Picaro American Pastime - Special Conquest Front Shirt Pocket Looking Cool - Insure Ephesian Cat Calculator - California Kitty View Details Watch Replay"
     },
     {
       "title": "Thistledown, Race 7, ALW",
-      "details": "Thistledown, Race 7, ALW Thistledown , Monday, September 21, 2026, Race 7 ALW 6 furlongs $38,400 Fillies and Mares 3 yo's up Dirt FT Electric Eden Cupid - Eden Ryka The Factor - Ebby All Pepped Up Mor Spirit - Cross Town Rival View Details"
-    },
-    {
-      "title": "Thistledown, Race 6, MSW",
-      "details": "Thistledown, Race 6, MSW Thistledown , Monday, September 21, 2026, Race 6 MSW 5 1/2 furlongs $33,900 3 yo's up Dirt FT Killa Creed Jimmy Creed - Moon Date Crimson Crush Alternation - Ting Tang Happycastle Runhappy - Reachforthecastle View Details"
-    },
-    {
-      "title": "Thistledown, Race 4, MSW",
-      "details": "Thistledown, Race 4, MSW Thistledown , Monday, September 21, 2026, Race 4 MSW 5 1/2 furlongs $33,900 2 yo Dirt FT Distinct Ruler Vekoma - Nava Flashy Idol Idol - Flashy G All Nine Yards Temple City - Merry Lady View Details"
+      "details": "Thistledown, Race 7, ALW Thistledown , Monday, September 21, 2026, Race 7 ALW 6 furlongs $38,400 Fillies and Mares 3 yo's up Dirt FT Electric Eden Cupid - Eden Ryka The Factor - Ebby All Pepped Up Mor Spirit - Cross Town Rival View Details Watch Replay"
     }
   ]
 }
