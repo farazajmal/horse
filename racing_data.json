@@ -1,55 +1,7 @@
 {
-  "last_updated": "September 21, 2026 - 03:00 AM",
+  "last_updated": "September 21, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Pitre GMC Albuquerque Distaff S.",
-      "raw_name": "Pitre GMC Albuquerque Distaff S.",
-      "track": "Albuquerque",
-      "grade": "Stakes",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Forever Together S.",
-      "raw_name": "Forever Together S.",
-      "track": "Belmont Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Turf)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Clasico Puerto Rico Futurity (G2)",
-      "raw_name": "Clasico Puerto Rico Futurity (G2)",
-      "track": "Camarero Race Track",
-      "grade": "Grade 2",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "Puerto Rico",
-      "flag": "🇵🇷",
-      "isUsa": false
-    },
-    {
-      "name": "Sweetwater Thoroughbred Derby",
-      "raw_name": "Sweetwater Thoroughbred Derby",
-      "track": "Sweetwater County Fair",
-      "grade": "Stakes",
-      "dist": "6 1/2 furlongs (Dirt)",
-      "purse": "$55,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Lady Finger S.",
       "raw_name": "Lady Finger S.",
@@ -57,7 +9,7 @@
       "grade": "Stakes",
       "dist": "5 1/2 furlongs (Dirt)",
       "purse": "$100,634",
-      "date": "9/21",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -69,7 +21,7 @@
       "grade": "Stakes",
       "dist": "5 1/2 furlongs (Dirt)",
       "purse": "$99,615",
-      "date": "9/21",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -81,7 +33,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "9/21",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -93,7 +45,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "9/21",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
