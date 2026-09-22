@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 22, 2026 - 07:00 PM",
+  "last_updated": "September 22, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -433,6 +433,30 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Santa Anita Sprint Championship S. presented by Estrella Jalisco (G2)",
+      "raw_name": "Santa Anita Sprint Championship S. presented by Estrella Jalisco (G2)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 2",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$200,000",
+      "date": "9/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Zenyatta S. presented by FanDuel (G2)",
+      "raw_name": "Zenyatta S. presented by FanDuel (G2)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 2",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$200,000",
+      "date": "9/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -655,12 +679,28 @@
       "details": "Fort Erie, Race 5, ALW Fort Erie , Tuesday, September 22, 2026, Race 5 ALW 6 1/2 furlongs $20,520 Fillies and Mares 3 yo's up Dirt FT Leziate Without Parole (GB) - Tapiceria Noble Bodan Laoban - Noble Freud Sultry Sophie Army Mule - Roust 'Em Bertie View Details"
     },
     {
+      "title": "Finger Lakes, Race 6, MSW",
+      "details": "Finger Lakes, Race 6, MSW Finger Lakes , Tuesday, September 22, 2026, Race 6 MSW 5 1/2 furlongs $32,600 3 yo's up Dirt FT Connect and Cruise Connect - Stormy's Smile Bootsy's a Rascal Mineshaft - Not Now Hillary Wingo Starr Honest Mischief - Always and Forever View Details"
+    },
+    {
       "title": "Finger Lakes, Race 3, MSW",
       "details": "Finger Lakes, Race 3, MSW Finger Lakes , Tuesday, September 22, 2026, Race 3 MSW 5 1/2 furlongs $32,600 Fillies 2 yo Dirt FT Redzone Gal Redesdale - Zismokin Gal Autumn Fire Mind Control - Missiletoe Kiss Merry Meredith Audible - Merry Maiden View Details"
     },
     {
       "title": "Finger Lakes, Race 1, MSW",
       "details": "Finger Lakes, Race 1, MSW Finger Lakes , Tuesday, September 22, 2026, Race 1 MSW 5 1/2 furlongs $32,600 Fillies 2 yo Dirt FT My Bestie Game Winner - Song of Melody Lisa Loves Army Mule - Varsity Blonde Financial Star Central Banker - Holly's Star View Details"
+    },
+    {
+      "title": "Fairmount Park, Race 4, AOC",
+      "details": "Fairmount Park, Race 4, AOC Fairmount Park , Tuesday, September 22, 2026, Race 4 AOC 6 furlongs $39,000 Fillies and Mares 3 yo's up Dirt FT Ghaaleb's City Ghaaleb - St. Louis City Ghaly Posse Ghaaleb - Algonquin Posse Cantoo Can the Man - Causegood View Details"
+    },
+    {
+      "title": "Presque Isle Downs, Race 1, MSW",
+      "details": "Presque Isle Downs, Race 1, MSW Presque Isle Downs , Tuesday, September 22, 2026, Race 1 MSW 1 mile $31,000 Fillies 2 yo All Weather Track FT Blessednotbothered Greatest Honour - Dixie Cannon Lucky Lucky Gingin Tapit - Let It Ride Mom Last Move Early Voting - Move View Details"
+    },
+    {
+      "title": "Thistledown, Race 6, MSW",
+      "details": "Thistledown, Race 6, MSW Thistledown , Tuesday, September 22, 2026, Race 6 MSW 5 1/2 furlongs $33,900 Fillies and Mares 3 yo's up Dirt FT Basis Point Justify - Storm Raven O. G. Moondancer Vekoma - Coquina Day Rabbi Rosette Vino Rosso - Proper Discretion View Details"
     },
     {
       "title": "Thistledown, Race 3, MSW",
@@ -693,22 +733,6 @@
     {
       "title": "Aspirant S. (BT)",
       "details": "Aspirant S. (BT) Finger Lakes , Monday, September 21, 2026, Race 3 STK 5 1/2 furlongs $99,615 2 yo Dirt FT D I Wire Yaupon - Hard to Stay Notgo Covered Option Tiz the Law - Miss Jimmy Big Poppy Greatest Honour - Amanda Lane View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Lady Finger S. (BT)",
-      "details": "Lady Finger S. (BT) Finger Lakes , Monday, September 21, 2026, Race 2 STK 5 1/2 furlongs $100,634 Fillies 2 yo Dirt FT Sun Kissed Bliss Mind Control - Kiska Sweet Sugar Pie Central Banker - Sky Gal Cozzy Trickstress Charlatan - Cozzy Spring View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, September 21, 2026, Race 1 ALW 1 mile 70 Yards $26,500 3 yo's up Dirt FT Almez Bustin Stones - Hurrican Source (IRE) Corvus Vino Rosso - Dolores Westworld Resilient Hero Improbable - Espiritu View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 8, ALW",
-      "details": "Horseshoe Indianapolis, Race 8, ALW Horseshoe Indianapolis , Monday, September 21, 2026, Race 8 ALW 5 furlongs $34,000 3 yo's up Dirt SY Illegal Contact Mr Speaker - Five Yard Penalty Countthecarats Gormley - Garnet Neutron Conveyance - Archusexy View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, September 21, 2026, Race 4 MSW 1 1/16 miles $38,500 3 yo's up Dirt SY Flatwater Forever d'Oro - Lady Stella Officer Gambill Charming Kitten - Amore Grand What You Wished Dowsing (JPN) - The Gaillimh Girl (IRE) View Details Watch Replay"
     }
   ]
 }
