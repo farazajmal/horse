@@ -1,55 +1,7 @@
 {
-  "last_updated": "September 22, 2026 - 03:00 AM",
+  "last_updated": "September 22, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Lady Finger S.",
-      "raw_name": "Lady Finger S.",
-      "track": "Finger Lakes",
-      "grade": "Stakes",
-      "dist": "5 1/2 furlongs (Dirt)",
-      "purse": "$100,634",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Aspirant S.",
-      "raw_name": "Aspirant S.",
-      "track": "Finger Lakes",
-      "grade": "Stakes",
-      "dist": "5 1/2 furlongs (Dirt)",
-      "purse": "$99,615",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Niagara S.",
-      "raw_name": "Niagara S.",
-      "track": "Finger Lakes",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$50,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Ontario County S.",
-      "raw_name": "Ontario County S.",
-      "track": "Finger Lakes",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$50,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Catlaunch S.",
       "raw_name": "Catlaunch S.",
