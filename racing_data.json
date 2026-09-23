@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 23, 2026 - 01:00 PM",
+  "last_updated": "September 23, 2026 - 03:00 PM",
   "year": 2026,
   "races": [
     {
@@ -463,106 +463,106 @@
     {
       "rank": 1,
       "name": "Golden Tempo",
-      "sub": "Starts: 5 • Wins: 3 • Places: - • Shows: 2",
-      "cash": "$4,600,000",
+      "sub": "Starts: 6 • Wins: 3 • Places: - • Shows: 3",
+      "cash": "$4,750,000",
       "flag": "🏇"
     },
     {
       "rank": 2,
       "name": "Renegade",
-      "sub": "Starts: 5 • Wins: 3 • Places: 1 • Shows: 1",
-      "cash": "$2,427,500",
+      "sub": "Starts: 6 • Wins: 3 • Places: 1 • Shows: 1",
+      "cash": "$2,435,000",
       "flag": "🏇"
     },
     {
       "rank": 3,
       "name": "Skippylongstocking",
-      "sub": "Starts: 4 • Wins: 2 • Places: 1 • Shows: 1",
-      "cash": "$2,153,400",
+      "sub": "Starts: 5 • Wins: 2 • Places: 1 • Shows: 2",
+      "cash": "$2,247,400",
       "flag": "🏇"
     },
     {
       "rank": 4,
+      "name": "Napoleon Solo",
+      "sub": "Starts: 5 • Wins: 1 • Places: 2 • Shows: -",
+      "cash": "$1,691,520",
+      "flag": "🏇"
+    },
+    {
+      "rank": 5,
+      "name": "Kentucky Belle",
+      "sub": "Starts: 4 • Wins: 3 • Places: 1 • Shows: -",
+      "cash": "$1,540,850",
+      "flag": "🏇"
+    },
+    {
+      "rank": 6,
+      "name": "Counting Stars",
+      "sub": "Starts: 7 • Wins: 3 • Places: 1 • Shows: 2",
+      "cash": "$1,502,000",
+      "flag": "🏇"
+    },
+    {
+      "rank": 7,
       "name": "White Abarrio",
       "sub": "Starts: 4 • Wins: 1 • Places: 1 • Shows: -",
       "cash": "$1,446,250",
       "flag": "🏇"
     },
     {
-      "rank": 5,
-      "name": "Napoleon Solo",
-      "sub": "Starts: 4 • Wins: 1 • Places: 1 • Shows: -",
-      "cash": "$1,441,520",
+      "rank": 8,
+      "name": "Lagynos",
+      "sub": "Starts: 9 • Wins: 5 • Places: 2 • Shows: -",
+      "cash": "$1,410,965",
       "flag": "🏇"
     },
     {
-      "rank": 6,
-      "name": "Counting Stars",
-      "sub": "Starts: 6 • Wins: 3 • Places: 1 • Shows: 1",
-      "cash": "$1,430,000",
-      "flag": "🏇"
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "name": "Commandment",
       "sub": "Starts: 6 • Wins: 3 • Places: 2 • Shows: -",
       "cash": "$1,403,020",
       "flag": "🏇"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "name": "Magnitude",
       "sub": "Starts: 3 • Wins: 2 • Places: - • Shows: -",
       "cash": "$1,374,500",
       "flag": "🏇"
     },
     {
-      "rank": 9,
-      "name": "Always a Runner",
-      "sub": "Starts: 5 • Wins: 3 • Places: 2 • Shows: -",
-      "cash": "$1,184,800",
-      "flag": "🏇"
-    },
-    {
-      "rank": 10,
-      "name": "Further Ado",
-      "sub": "Starts: 5 • Wins: 2 • Places: 1 • Shows: -",
-      "cash": "$1,156,255",
-      "flag": "🏇"
-    },
-    {
       "rank": 11,
-      "name": "Burnham Square",
-      "sub": "Starts: 5 • Wins: 4 • Places: 1 • Shows: -",
-      "cash": "$1,138,489",
+      "name": "Always a Runner",
+      "sub": "Starts: 6 • Wins: 3 • Places: 3 • Shows: -",
+      "cash": "$1,372,800",
       "flag": "🏇"
     },
     {
       "rank": 12,
-      "name": "Deterministic",
-      "sub": "Starts: 3 • Wins: 3 • Places: - • Shows: -",
-      "cash": "$1,058,750",
+      "name": "Further Ado",
+      "sub": "Starts: 6 • Wins: 2 • Places: 2 • Shows: -",
+      "cash": "$1,341,255",
       "flag": "🏇"
     },
     {
       "rank": 13,
-      "name": "Silent Tactic",
-      "sub": "Starts: 5 • Wins: 1 • Places: 3 • Shows: 1",
-      "cash": "$1,058,750",
+      "name": "In Our Time",
+      "sub": "Starts: 5 • Wins: 2 • Places: - • Shows: 1",
+      "cash": "$1,301,213",
       "flag": "🏇"
     },
     {
       "rank": 14,
-      "name": "Sovereignty",
-      "sub": "Starts: 3 • Wins: 1 • Places: 1 • Shows: 1",
-      "cash": "$1,041,250",
+      "name": "Bottas",
+      "sub": "Starts: 4 • Wins: 2 • Places: - • Shows: 1",
+      "cash": "$1,280,263",
       "flag": "🏇"
     },
     {
       "rank": 15,
-      "name": "Lagynos",
-      "sub": "Starts: 7 • Wins: 5 • Places: 1 • Shows: -",
-      "cash": "$1,007,265",
+      "name": "Possiblemente",
+      "sub": "Starts: 7 • Wins: 4 • Places: 1 • Shows: 1",
+      "cash": "$1,273,670",
       "flag": "🏇"
     }
   ],
@@ -570,106 +570,106 @@
     {
       "rank": 1,
       "name": "Jose L. Ortiz",
-      "sub": "Starts: 876 • Wins: 212 (24%)",
-      "cash": "$26,858,916",
+      "sub": "Starts: 1,068 • Wins: 246 (23%)",
+      "cash": "$34,737,219",
       "flag": "👤"
     },
     {
       "rank": 2,
+      "name": "Flavien Prat",
+      "sub": "Starts: 1,003 • Wins: 245 (24%)",
+      "cash": "$34,434,455",
+      "flag": "👤"
+    },
+    {
+      "rank": 3,
       "name": "Irad Ortiz, Jr.",
       "sub": "Starts: 873 • Wins: 211 (24%)",
       "cash": "$25,678,777",
       "flag": "👤"
     },
     {
-      "rank": 3,
-      "name": "Flavien Prat",
-      "sub": "Starts: 802 • Wins: 190 (24%)",
-      "cash": "$25,006,774",
-      "flag": "👤"
-    },
-    {
       "rank": 4,
       "name": "Tyler Gaffalione",
-      "sub": "Starts: 880 • Wins: 134 (15%)",
-      "cash": "$16,688,260",
+      "sub": "Starts: 1,026 • Wins: 146 (14%)",
+      "cash": "$20,437,337",
       "flag": "👤"
     },
     {
       "rank": 5,
       "name": "Manuel Franco",
-      "sub": "Starts: 891 • Wins: 197 (22%)",
-      "cash": "$15,565,573",
+      "sub": "Starts: 1,052 • Wins: 232 (22%)",
+      "cash": "$20,147,358",
       "flag": "👤"
     },
     {
       "rank": 6,
       "name": "John R. Velazquez",
-      "sub": "Starts: 547 • Wins: 96 (18%)",
-      "cash": "$14,243,308",
+      "sub": "Starts: 652 • Wins: 107 (16%)",
+      "cash": "$17,402,322",
       "flag": "👤"
     },
     {
       "rank": 7,
       "name": "Luis Saez",
-      "sub": "Starts: 744 • Wins: 126 (17%)",
-      "cash": "$13,091,452",
+      "sub": "Starts: 890 • Wins: 144 (16%)",
+      "cash": "$17,140,567",
       "flag": "👤"
     },
     {
       "rank": 8,
       "name": "Paco Lopez",
-      "sub": "Starts: 894 • Wins: 222 (25%)",
-      "cash": "$9,884,303",
+      "sub": "Starts: 1,078 • Wins: 275 (26%)",
+      "cash": "$12,751,681",
       "flag": "👤"
     },
     {
       "rank": 9,
       "name": "Junior Alvarado",
-      "sub": "Starts: 484 • Wins: 72 (15%)",
-      "cash": "$9,126,277",
+      "sub": "Starts: 575 • Wins: 82 (14%)",
+      "cash": "$11,320,191",
       "flag": "👤"
     },
     {
       "rank": 10,
-      "name": "Francisco Arrieta",
-      "sub": "Starts: 475 • Wins: 94 (20%)",
-      "cash": "$7,966,043",
+      "name": "Ricardo Santana, Jr.",
+      "sub": "Starts: 768 • Wins: 120 (16%)",
+      "cash": "$11,031,956",
       "flag": "👤"
     },
     {
       "rank": 11,
       "name": "Juan J. Hernandez",
-      "sub": "Starts: 423 • Wins: 99 (23%)",
-      "cash": "$7,517,686",
+      "sub": "Starts: 498 • Wins: 112 (22%)",
+      "cash": "$9,333,458",
       "flag": "👤"
     },
     {
       "rank": 12,
-      "name": "Ricardo Santana, Jr.",
-      "sub": "Starts: 621 • Wins: 89 (14%)",
-      "cash": "$7,409,195",
+      "name": "Francisco Arrieta",
+      "sub": "Starts: 534 • Wins: 98 (18%)",
+      "cash": "$8,921,382",
       "flag": "👤"
     },
     {
       "rank": 13,
-      "name": "Cristian A. Torres",
-      "sub": "Starts: 505 • Wins: 74 (15%)",
-      "cash": "$7,211,552",
+      "name": "Joel Rosario",
+      "sub": "Starts: 586 • Wins: 99 (17%)",
+      "cash": "$8,607,873",
       "flag": "👤"
     },
     {
       "rank": 14,
-      "name": "Yedsit Hazlewood",
-      "sub": "Starts: 851 • Wins: 197 (23%)",
-      "cash": "$6,887,558",
+      "name": "Javier Castellano",
+      "sub": "Starts: 533 • Wins: 84 (16%)",
+      "cash": "$8,494,162",
       "flag": "👤"
     },
     {
       "rank": 15,
       "name": "Kendrick Carmouche",
-      "sub": "Starts: 487 • Wins: 87 (18%)",
-      "cash": "$6,865,630",
+      "sub": "Starts: 595 • Wins: 101 (17%)",
+      "cash": "$8,451,994",
       "flag": "👤"
     }
   ],
