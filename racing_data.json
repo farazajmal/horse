@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 23, 2026 - 09:00 PM",
+  "last_updated": "September 23, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -387,6 +387,30 @@
       "isUsa": true
     },
     {
+      "name": "Belmont Turf Sprint S. (G3T)",
+      "raw_name": "Belmont Turf Sprint S. (G3T)",
+      "track": "Belmont Park",
+      "grade": "Grade 3",
+      "dist": "6 furlongs (Inner turf)",
+      "purse": "$200,000",
+      "date": "9/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Winter Memories S. (G3T)",
+      "raw_name": "Winter Memories S. (G3T)",
+      "track": "Belmont Park",
+      "grade": "Grade 3",
+      "dist": "1 mile (Turf)",
+      "purse": "$200,000",
+      "date": "9/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Remington Green S.",
       "raw_name": "Remington Green S.",
       "track": "Remington Park",
@@ -724,7 +748,11 @@
   "recent_results": [
     {
       "title": "Belterra Park, Race 4, ALW",
-      "details": "Belterra Park, Race 4, ALW Belterra Park , Wednesday, September 23, 2026, Race 4 ALW 5 1/2 furlongs $21,300 Fillies and Mares 3 yo's up Dirt FT City Blaze Tapiture - Plastique Playkoz Tenkoz - Be Playful Holiday Musical Maclean's Music - Holidays Saratoga View Details"
+      "details": "Belterra Park, Race 4, ALW Belterra Park , Wednesday, September 23, 2026, Race 4 ALW 5 1/2 furlongs $21,300 Fillies and Mares 3 yo's up Dirt FT City Blaze Tapiture - Plastique Playkoz Tenkoz - Be Playful Holiday Musical Maclean's Music - Holidays Saratoga View Details Watch Replay"
+    },
+    {
+      "title": "Churchill Downs, Race 9, MCL",
+      "details": "Churchill Downs, Race 9, MCL Churchill Downs , Wednesday, September 23, 2026, Race 9 MCL 5 1/2 furlongs $67,000 3 yo's up Turf FM Pelican Hill Omaha Beach - Newport Breeze Rockfest Rock Your World - Anniversary Kitty D Bigalow Bayern - Caged Mistress View Details"
     },
     {
       "title": "Churchill Downs, Race 8, ALW",
@@ -748,39 +776,35 @@
     },
     {
       "title": "Delaware Park, Race 6, MSW",
-      "details": "Delaware Park, Race 6, MSW Delaware Park , Wednesday, September 23, 2026, Race 6 MSW 6 furlongs $45,000 3 yo's up Dirt SY James Justify - Timely Wholelotoftrouble World of Trouble - Awesome Beauty Yauprissy Yaupon - Krissy's Candy View Details"
+      "details": "Delaware Park, Race 6, MSW Delaware Park , Wednesday, September 23, 2026, Race 6 MSW 6 furlongs $45,000 3 yo's up Dirt SY James Justify - Timely Wholelotoftrouble World of Trouble - Awesome Beauty Yauprissy Yaupon - Krissy's Candy View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 4, MSW",
-      "details": "Finger Lakes, Race 4, MSW Finger Lakes , Wednesday, September 23, 2026, Race 4 MSW 1 mile 70 Yards $32,600 Fillies and Mares 3 yo's up Dirt FT Signal Chat Instagrand - Miss Gossip (IRE) The Gael Gun Runner - Pantsonfire (IRE) Hip Hop Dancer Combatant - Newyorkciti Dancer View Details"
+      "details": "Finger Lakes, Race 4, MSW Finger Lakes , Wednesday, September 23, 2026, Race 4 MSW 1 mile 70 Yards $32,600 Fillies and Mares 3 yo's up Dirt FT Signal Chat Instagrand - Miss Gossip (IRE) The Gael Gun Runner - Pantsonfire (IRE) Hip Hop Dancer Combatant - Newyorkciti Dancer View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 2, MSW",
-      "details": "Finger Lakes, Race 2, MSW Finger Lakes , Wednesday, September 23, 2026, Race 2 MSW 5 1/2 furlongs $32,600 2 yo Dirt FT Silver Knight Mitole - Silver Cloud Locked Horns Twirling Candy - Pharoah Fawcett Barna Boy Fire At Will - Receive a Gift View Details"
+      "details": "Finger Lakes, Race 2, MSW Finger Lakes , Wednesday, September 23, 2026, Race 2 MSW 5 1/2 furlongs $32,600 2 yo Dirt FT Silver Knight Mitole - Silver Cloud Locked Horns Twirling Candy - Pharoah Fawcett Barna Boy Fire At Will - Receive a Gift View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, September 23, 2026, Race 1 ALW 1 mile 70 Yards $26,900 3 yo's up Dirt FT Specialagentjonson Klimt - Alb Hey Pal Bustin Stones - Aspree Sweet Tone Tonalist - Sweet Slam View Details"
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, September 23, 2026, Race 1 ALW 1 mile 70 Yards $26,900 3 yo's up Dirt FT Specialagentjonson Klimt - Alb Hey Pal Bustin Stones - Aspree Sweet Tone Tonalist - Sweet Slam View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 8, ALW",
+      "details": "Horseshoe Indianapolis, Race 8, ALW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 8 ALW 1 1/16 miles $43,000 Fillies and Mares 3 yo's up Turf FM Sweet Jannaelise Harry's Holiday - Bank Candy Flowered Dowsing (JPN) - English Flower Skippinjustice Harry's Holiday - Lemon Flower View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 6, ALW",
+      "details": "Horseshoe Indianapolis, Race 6, ALW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 6 ALW 1 mile $38,000 Fillies and Mares 3 yo's up Turf FM Pink Picture Thousand Words - Andapinkcarnation Country Embrace Country House - Feisty Embrace Tap Bonnet Tapiture - Brass Bonnet View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 4 MSW 1 mile $32,000 Fillies and Mares 3 yo's up Turf FM Cinquante Cinq (IRE) Kingman (GB) - Fifty Five High Street Pizzaz Street Sense - Pizzazz Bourbiana Candy Ride (ARG) - Rags Pauline View Details"
+      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 4 MSW 1 mile $32,000 Fillies and Mares 3 yo's up Turf FM Cinquante Cinq (IRE) Kingman (GB) - Fifty Five High Street Pizzaz Street Sense - Pizzazz Bourbiana Candy Ride (ARG) - Rags Pauline View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 3, MSW",
-      "details": "Horseshoe Indianapolis, Race 3, MSW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 3 MSW 5 1/2 furlongs $36,000 2 yo Dirt FT Trick Shot Tommy Sharp Azteca - Compelling Smile Victory On Ice Keen Ice - Unbridled Victory Grandfather Sir Bravazo - Brenda's Fever View Details"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 2, ALW",
-      "details": "Horseshoe Indianapolis, Race 2, ALW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 2 ALW 6 furlongs $40,000 Fillies and Mares 3 yo's up Dirt FT Cloudy Star Cloud Computing - Make Her a Star Molly's Potion Pataky Kid - Molecules Littleransomsfire Ransom the Moon - Thalias Fire View Details"
-    },
-    {
-      "title": "Thistledown, Race 2, ALW",
-      "details": "Thistledown, Race 2, ALW Thistledown , Wednesday, September 23, 2026, Race 2 ALW 6 furlongs $29,700 3 yo's up Dirt GD Drury Lane Ghostzapper - Carella Call Shadd Dialed In - Where's Liam Whiskey Point Yaupon - Capable View Details"
-    },
-    {
-      "title": "Fort Erie, Race 5, ALW",
-      "details": "Fort Erie, Race 5, ALW Fort Erie , Tuesday, September 22, 2026, Race 5 ALW 6 1/2 furlongs $20,520 Fillies and Mares 3 yo's up Dirt FT Leziate Without Parole (GB) - Tapiceria Noble Bodan Laoban - Noble Freud Sultry Sophie Army Mule - Roust 'Em Bertie View Details Watch Replay"
+      "details": "Horseshoe Indianapolis, Race 3, MSW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 3 MSW 5 1/2 furlongs $36,000 2 yo Dirt FT Trick Shot Tommy Sharp Azteca - Compelling Smile Victory On Ice Keen Ice - Unbridled Victory Grandfather Sir Bravazo - Brenda's Fever View Details Watch Replay"
     }
   ]
 }
