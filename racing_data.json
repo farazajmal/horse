@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 24, 2026 - 05:00 PM",
+  "last_updated": "September 24, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -529,6 +529,90 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Back Home Again S.",
+      "raw_name": "Back Home Again S.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "9/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "ITOBA Stallion Season Fillies H.",
+      "raw_name": "ITOBA Stallion Season Fillies H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$125,000",
+      "date": "9/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "ITOBA Stallion Season H.",
+      "raw_name": "ITOBA Stallion Season H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$125,000",
+      "date": "9/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Piedi Bianchi H.",
+      "raw_name": "Piedi Bianchi H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$150,000",
+      "date": "9/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "To Much Coffee H.",
+      "raw_name": "To Much Coffee H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$150,000",
+      "date": "9/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Circle City S.",
+      "raw_name": "Circle City S.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "9/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Greg Veit Scarlet and Gray S.",
+      "raw_name": "Greg Veit Scarlet and Gray S.",
+      "track": "Thistledown",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "10/1",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -747,6 +831,26 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 2, MSW",
+      "details": "Belmont Park, Race 2, MSW Belmont Park , Thursday, September 24, 2026, Race 2 MSW 6 1/2 furlongs $100,000 3 yo's up Inner turf FM Blazing Tiger Twirling Candy - Tiger Silk (AUS) Jubilee Parade Kingman (GB) - Signature Song Weseeulator Girvin - Travelator View Details"
+    },
+    {
+      "title": "Belmont Park, Race 1, MSW",
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Thursday, September 24, 2026, Race 1 MSW 1 mile $100,000 Fillies 2 yo Turf FM Carpet City Maximus Mischief - Candy On the Rocks J'ray's Jewel Oscar Performance - J'ray Secret Connection Connect - Very Charming View Details"
+    },
+    {
+      "title": "Belterra Park, Race 3, MSW",
+      "details": "Belterra Park, Race 3, MSW Belterra Park , Thursday, September 24, 2026, Race 3 MSW 6 1/2 furlongs $20,500 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Power Vision Higher Power - Runaway's Vision Stoptalkingsarah Snag - Chain Yanker Beyond Say Da Big Hoss - Silvertail View Details"
+    },
+    {
+      "title": "Thistledown, Race 3, ALW",
+      "details": "Thistledown, Race 3, ALW Thistledown , Thursday, September 24, 2026, Race 3 ALW 1 mile $38,400 Fillies and Mares 3 yo's up Dirt FT Coloryoureggs Birdrun - Media Rules Kingdom Trails Preservationist - Trout River Red Tipsy Tulip Corfu - Ritzy Rose View Details"
+    },
+    {
+      "title": "Thistledown, Race 1, ALW",
+      "details": "Thistledown, Race 1, ALW Thistledown , Thursday, September 24, 2026, Race 1 ALW 6 furlongs $35,800 Fillies and Mares 3 yo's up Dirt FT Kiddie Cocktail Vino Rosso - Vienna's Waltz Golden Haul Goldencents - Secret Haul Catpuccino Mineshaft - Thedoctorscat View Details"
+    },
+    {
       "title": "Assiniboia Downs, Race 5, MSW",
       "details": "Assiniboia Downs, Race 5, MSW Assiniboia Downs , Wednesday, September 23, 2026, Race 5 MSW 6 furlongs $15,286 3 yo's up Dirt FT Tachin Up Mo Town - Seven Feathers Cortex Shaman Ghost - Queenofthepulpit Mor Famous Mor Spirit - Hollywood Miss View Details"
     },
@@ -785,26 +889,6 @@
     {
       "title": "Finger Lakes, Race 4, MSW",
       "details": "Finger Lakes, Race 4, MSW Finger Lakes , Wednesday, September 23, 2026, Race 4 MSW 1 mile 70 Yards $32,600 Fillies and Mares 3 yo's up Dirt FT Signal Chat Instagrand - Miss Gossip (IRE) The Gael Gun Runner - Pantsonfire (IRE) Hip Hop Dancer Combatant - Newyorkciti Dancer View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 2, MSW",
-      "details": "Finger Lakes, Race 2, MSW Finger Lakes , Wednesday, September 23, 2026, Race 2 MSW 5 1/2 furlongs $32,600 2 yo Dirt FT Silver Knight Mitole - Silver Cloud Locked Horns Twirling Candy - Pharoah Fawcett Barna Boy Fire At Will - Receive a Gift View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, September 23, 2026, Race 1 ALW 1 mile 70 Yards $26,900 3 yo's up Dirt FT Specialagentjonson Klimt - Alb Hey Pal Bustin Stones - Aspree Sweet Tone Tonalist - Sweet Slam View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 8, ALW",
-      "details": "Horseshoe Indianapolis, Race 8, ALW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 8 ALW 1 1/16 miles $43,000 Fillies and Mares 3 yo's up Turf FM Sweet Jannaelise Harry's Holiday - Bank Candy Flowered Dowsing (JPN) - English Flower Skippinjustice Harry's Holiday - Lemon Flower View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 6, ALW",
-      "details": "Horseshoe Indianapolis, Race 6, ALW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 6 ALW 1 mile $38,000 Fillies and Mares 3 yo's up Turf FM Pink Picture Thousand Words - Andapinkcarnation Country Embrace Country House - Feisty Embrace Tap Bonnet Tapiture - Brass Bonnet View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Wednesday, September 23, 2026, Race 4 MSW 1 mile $32,000 Fillies and Mares 3 yo's up Turf FM Cinquante Cinq (IRE) Kingman (GB) - Fifty Five High Street Pizzaz Street Sense - Pizzazz Bourbiana Candy Ride (ARG) - Rags Pauline View Details Watch Replay"
     }
   ]
 }
