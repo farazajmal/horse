@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 25, 2026 - 09:00 AM",
+  "last_updated": "September 25, 2026 - 11:00 AM",
   "year": 2026,
   "races": [
     {
@@ -745,8 +745,8 @@
     {
       "rank": 2,
       "name": "Flavien Prat",
-      "sub": "Starts: 1,003 • Wins: 245 (24%)",
-      "cash": "$34,434,455",
+      "sub": "Starts: 1,010 • Wins: 245 (24%)",
+      "cash": "$34,468,129",
       "flag": "👤"
     },
     {
@@ -759,15 +759,15 @@
     {
       "rank": 4,
       "name": "Tyler Gaffalione",
-      "sub": "Starts: 1,034 • Wins: 148 (14%)",
-      "cash": "$20,556,577",
+      "sub": "Starts: 1,041 • Wins: 149 (14%)",
+      "cash": "$20,634,188",
       "flag": "👤"
     },
     {
       "rank": 5,
       "name": "Manuel Franco",
-      "sub": "Starts: 1,052 • Wins: 232 (22%)",
-      "cash": "$20,147,358",
+      "sub": "Starts: 1,060 • Wins: 234 (22%)",
+      "cash": "$20,275,544",
       "flag": "👤"
     },
     {
@@ -780,15 +780,15 @@
     {
       "rank": 7,
       "name": "Luis Saez",
-      "sub": "Starts: 896 • Wins: 146 (16%)",
-      "cash": "$17,238,056",
+      "sub": "Starts: 904 • Wins: 147 (16%)",
+      "cash": "$17,324,522",
       "flag": "👤"
     },
     {
       "rank": 8,
       "name": "Paco Lopez",
-      "sub": "Starts: 1,085 • Wins: 277 (26%)",
-      "cash": "$12,797,481",
+      "sub": "Starts: 1,091 • Wins: 280 (26%)",
+      "cash": "$12,861,056",
       "flag": "👤"
     },
     {
@@ -801,8 +801,8 @@
     {
       "rank": 10,
       "name": "Ricardo Santana, Jr.",
-      "sub": "Starts: 768 • Wins: 120 (16%)",
-      "cash": "$11,031,956",
+      "sub": "Starts: 776 • Wins: 120 (15%)",
+      "cash": "$11,069,520",
       "flag": "👤"
     },
     {
@@ -815,8 +815,8 @@
     {
       "rank": 12,
       "name": "Francisco Arrieta",
-      "sub": "Starts: 540 • Wins: 98 (18%)",
-      "cash": "$8,948,772",
+      "sub": "Starts: 544 • Wins: 98 (18%)",
+      "cash": "$8,961,447",
       "flag": "👤"
     },
     {
@@ -828,16 +828,16 @@
     },
     {
       "rank": 14,
-      "name": "Javier Castellano",
-      "sub": "Starts: 533 • Wins: 84 (16%)",
-      "cash": "$8,494,162",
+      "name": "Kendrick Carmouche",
+      "sub": "Starts: 601 • Wins: 103 (17%)",
+      "cash": "$8,542,700",
       "flag": "👤"
     },
     {
       "rank": 15,
-      "name": "Brian Joseph Hernandez, Jr.",
-      "sub": "Starts: 516 • Wins: 64 (12%)",
-      "cash": "$8,474,899",
+      "name": "Javier Castellano",
+      "sub": "Starts: 538 • Wins: 84 (16%)",
+      "cash": "$8,513,961",
       "flag": "👤"
     }
   ],
