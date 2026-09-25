@@ -1,19 +1,7 @@
 {
-  "last_updated": "September 25, 2026 - 03:00 AM",
+  "last_updated": "September 25, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Catlaunch S.",
-      "raw_name": "Catlaunch S.",
-      "track": "Thistledown",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Beldame S. (G2)",
       "raw_name": "Beldame S. (G2)",
@@ -21,7 +9,7 @@
       "grade": "Grade 2",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$250,000",
-      "date": "9/25",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -911,8 +899,8 @@
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Thursday, September 24, 2026, Race 1 MCL 1 1/16 miles $48,000 Fillies and Mares 3 yo's up Dirt FT Motown Sound Mo Town - Simple as That Betty Who Wildcat Red - Pure Imagination Flashy Aviator Dialed In - Cahoots View Details"
     },
     {
-      "title": "Charles Town, Race 7, ALW",
-      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Thursday, September 24, 2026, Race 7 ALW 6 1/2 furlongs $34,100 Fillies and Mares 3 yo's up Dirt FT Can't Deny This Candygram - Won't Be Denied Smart Cry Irish War Cry - Clever Jumping Jada Mo Town - Lake Song View Details Watch Replay"
+      "title": "Charles Town, Race 8, ALW",
+      "details": "Charles Town, Race 8, ALW Charles Town Races Slots , Thursday, September 24, 2026, Race 8 ALW 1 1/16 miles $35,100 3 yo's up Dirt FT Gimmethatsugar Candygram - Cotton Candy Youthful Energy Unbridled Energy - Conquest Ms Curlin Nola Boss Holy Boss - Tulanian View Details Watch Replay"
     }
   ]
 }
