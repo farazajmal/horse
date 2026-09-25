@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 25, 2026 - 03:00 PM",
+  "last_updated": "September 25, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -855,6 +855,18 @@
   ],
   "recent_results": [
     {
+      "title": "Delaware Park, Race 1, MSW",
+      "details": "Delaware Park, Race 1, MSW Delaware Park , Friday, September 25, 2026, Race 1 MSW 1 mile $45,000 2 yo Dirt FT Strike Point Not This Time - Lady Montdore Six Stitches Caracaro - Snooki Sound Check Speaker's Corner - Spread Joy View Details"
+    },
+    {
+      "title": "Gulfstream Park, Race 1, MCL",
+      "details": "Gulfstream Park, Race 1, MCL Gulfstream Park , Friday, September 25, 2026, Race 1 MCL 5 furlongs $34,000 2 yo All Weather Track FT Code Three Three Rules - Jim's Lonesa More Power to You By My Standards - More for Jill Dr. d'Oro Bolt d'Oro - Shahaada View Details"
+    },
+    {
+      "title": "Laurel Park, Race 1, MSW",
+      "details": "Laurel Park, Race 1, MSW Laurel Park , Friday, September 25, 2026, Race 1 MSW 5 1/2 furlongs $47,060 2 yo Dirt FT Day Made Midshipman - Itsherluckyday Love Aficionado Good Magic - Oceans of Love Williston Wizard St Patrick's Day - Fun for a Lady View Details"
+    },
+    {
       "title": "Belmont Park, Race 8, MCL",
       "details": "Belmont Park, Race 8, MCL Belmont Park , Thursday, September 24, 2026, Race 8 MCL 6 furlongs $56,000 3 yo's up Inner turf FM Eye On the Ball Dialed In - Pirouette Richies Love Cupid - Proactive Classic Commander Classic Empire - Giulia Ammannati View Details Watch Replay"
     },
@@ -901,18 +913,6 @@
     {
       "title": "Churchill Downs, Race 3, ALW",
       "details": "Churchill Downs, Race 3, ALW Churchill Downs , Thursday, September 24, 2026, Race 3 ALW 1 1/16 miles $134,000 Fillies 3 yo Turf FM Essential Lady Essential Quality - Lady Shipman Spin a Tune Hard Spun - Desert Tune Struck At Midnight Bolt d'Oro - Midnight On Oconee View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, MCL",
-      "details": "Churchill Downs, Race 2, MCL Churchill Downs , Thursday, September 24, 2026, Race 2 MCL 6 furlongs $72,000 Fillies and Mares 3 yo's up Dirt FT That's a Benjamin Practical Joke - Kitten Empress By La Rina Echo Town - Gateau St Honore Nucleotide Caracaro - Street Flirt View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 1, MCL",
-      "details": "Churchill Downs, Race 1, MCL Churchill Downs , Thursday, September 24, 2026, Race 1 MCL 1 1/16 miles $48,000 Fillies and Mares 3 yo's up Dirt FT Motown Sound Mo Town - Simple as That Betty Who Wildcat Red - Pure Imagination Flashy Aviator Dialed In - Cahoots View Details"
-    },
-    {
-      "title": "Charles Town, Race 8, ALW",
-      "details": "Charles Town, Race 8, ALW Charles Town Races Slots , Thursday, September 24, 2026, Race 8 ALW 1 1/16 miles $35,100 3 yo's up Dirt FT Gimmethatsugar Candygram - Cotton Candy Youthful Energy Unbridled Energy - Conquest Ms Curlin Nola Boss Holy Boss - Tulanian View Details Watch Replay"
     }
   ]
 }
