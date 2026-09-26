@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 26, 2026 - 01:00 PM",
+  "last_updated": "September 26, 2026 - 03:00 PM",
   "year": 2026,
   "races": [
     {
@@ -706,6 +706,54 @@
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
       "date": "10/1",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Battery Park S.",
+      "raw_name": "Battery Park S.",
+      "track": "Delaware Park",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$200,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Rocky Run S.",
+      "raw_name": "Rocky Run S.",
+      "track": "Delaware Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$150,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "White Clay Creek S.",
+      "raw_name": "White Clay Creek S.",
+      "track": "Delaware Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$150,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Delaware H. (G3)",
+      "raw_name": "Delaware H. (G3)",
+      "track": "Delaware Park",
+      "grade": "Grade 3",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$500,000",
+      "date": "10/3",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
