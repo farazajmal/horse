@@ -1,19 +1,7 @@
 {
-  "last_updated": "September 26, 2026 - 03:00 AM",
+  "last_updated": "September 26, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Beldame S. (G2)",
-      "raw_name": "Beldame S. (G2)",
-      "track": "Belmont Park",
-      "grade": "Grade 2",
-      "dist": "1 1/8 miles (Dirt)",
-      "purse": "$250,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Casey Darnell S.",
       "raw_name": "Casey Darnell S.",
@@ -21,7 +9,7 @@
       "grade": "Stakes",
       "dist": "5 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -33,7 +21,7 @@
       "grade": "Grade 2",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$250,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -45,7 +33,7 @@
       "grade": "Grade 3",
       "dist": "7 furlongs (Dirt)",
       "purse": "$250,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -57,7 +45,7 @@
       "grade": "Grade 1",
       "dist": "1 1/2 miles (Turf)",
       "purse": "$500,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -69,7 +57,7 @@
       "grade": "Grade 2",
       "dist": "1 1/4 miles (Inner turf)",
       "purse": "$500,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -81,7 +69,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$300,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -93,7 +81,7 @@
       "grade": "Grade 3",
       "dist": "1 mile (Dirt)",
       "purse": "$400,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -105,7 +93,7 @@
       "grade": "Grade 2",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$500,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -117,7 +105,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$200,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -129,7 +117,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$150,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +129,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$150,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +141,7 @@
       "grade": "Grade 3",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$500,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -165,7 +153,7 @@
       "grade": "Stakes",
       "dist": "5 furlongs (Turf)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -177,7 +165,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Turf)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -189,7 +177,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$125,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -201,7 +189,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$125,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -213,7 +201,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -225,7 +213,7 @@
       "grade": "Stakes",
       "dist": "1 mile 70 Yards (Dirt)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -237,7 +225,7 @@
       "grade": "Stakes",
       "dist": "1 mile 70 Yards (Dirt)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -249,7 +237,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -261,7 +249,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -273,7 +261,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -285,7 +273,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -297,7 +285,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -309,7 +297,7 @@
       "grade": "Grade 2",
       "dist": "1 mile (Turf)",
       "purse": "$200,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -321,7 +309,7 @@
       "grade": "Grade 2",
       "dist": "About 6 1/2 furlongs (Downhill turf)",
       "purse": "$200,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -333,7 +321,7 @@
       "grade": "Grade 2",
       "dist": "1 1/4 miles (Downhill turf)",
       "purse": "$200,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -345,7 +333,7 @@
       "grade": "Grade 1",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$300,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -357,7 +345,7 @@
       "grade": "Grade 3",
       "dist": "About 6 1/2 furlongs (Downhill turf)",
       "purse": "$100,000",
-      "date": "9/26",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
