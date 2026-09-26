@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 26, 2026 - 07:00 PM",
+  "last_updated": "September 26, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -711,6 +711,42 @@
       "isUsa": true
     },
     {
+      "name": "Bertram F. Bongard S.",
+      "raw_name": "Bertram F. Bongard S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Turf)",
+      "purse": "$175,000",
+      "date": "10/2",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Joseph A. Gimma S.",
+      "raw_name": "Joseph A. Gimma S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Inner turf)",
+      "purse": "$175,000",
+      "date": "10/2",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Artie Schiller S.",
+      "raw_name": "Artie Schiller S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Turf)",
+      "purse": "$175,000",
+      "date": "10/2",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Battery Park S.",
       "raw_name": "Battery Park S.",
       "track": "Delaware Park",
@@ -975,12 +1011,32 @@
   ],
   "recent_results": [
     {
+      "title": "Belterra Park, Race 6, MSW",
+      "details": "Belterra Park, Race 6, MSW Belterra Park , Saturday, September 26, 2026, Race 6 MSW 6 1/2 furlongs $13,000 3, 4, 5 6 yo's Dirt FT Hitchcock Quality Road - My Dear Venezuela Man of the Hour Lord Nelson - Pish Posh Golden Rule Goldencents - Mi Fiori View Details"
+    },
+    {
       "title": "Belterra Park, Race 3, MSW",
       "details": "Belterra Park, Race 3, MSW Belterra Park , Saturday, September 26, 2026, Race 3 MSW 5 furlongs $13,000 Fillies 2 yo Turf FM Cyber Angel Cyberknife - Halo Dolly Lady Maximum Maximum Security - Big Bubbly Fuego Sunset Vino Rosso - Bluegrass Sunset View Details"
     },
     {
       "title": "Belterra Park, Race 1, MSW",
       "details": "Belterra Park, Race 1, MSW Belterra Park , Saturday, September 26, 2026, Race 1 MSW 5 furlongs $20,500 2 yo Dirt FT Mkeracingreatagain Improbable - Miss Emma Maria Ati Dude Improbable - Radiant Sky Jet Reign Classic Empire - Joya Brillante View Details"
+    },
+    {
+      "title": "Bourbon Flight S. (BT)",
+      "details": "Bourbon Flight S. (BT) Churchill Downs , Saturday, September 26, 2026, Race 8 STK 1 1/16 miles $300,000 3 yo Dirt FT Plutarch Into Mischief - Stellar Wind Local Knowledge Yaupon - Chestnut Street Stimulate Tapit - Elate View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, ALW",
+      "details": "Churchill Downs, Race 7, ALW Churchill Downs , Saturday, September 26, 2026, Race 7 ALW 1 mile $127,000 Fillies 2 yo Turf FM Nymira Nyquist - Fend Estardotoo Shancelot - Estardo Lecompte's Run Tom's d'Etat - Pounds to Pennies View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 6, ALW",
+      "details": "Churchill Downs, Race 6, ALW Churchill Downs , Saturday, September 26, 2026, Race 6 ALW 1 1/16 miles $127,000 Fillies and Mares 3 yo's up Dirt FT Ile de La Cite City of Light - Macha Passionfruit Candy Ride (ARG) - Tapassion Lobby Rendezvous Runhappy - Lucky Move View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 5, MSW",
+      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Saturday, September 26, 2026, Race 5 MSW 7 1/2 furlongs $120,000 2 yo Dirt FT Staunch Liam's Map - Future Show Gun for Glory Gun Runner - Easy Tap Riccelli Nyquist - Iaintfraidanoghost View Details"
     },
     {
       "title": "Churchill Downs, Race 4, ALW",
@@ -995,44 +1051,24 @@
       "details": "Churchill Downs, Race 2, STR Churchill Downs , Saturday, September 26, 2026, Race 2 STR 6 furlongs $76,000 3 yo's up Dirt FT Defending Albert Practical Joke - Jetbird Margin of Air Mineshaft - Chase Me Now Cool Cowboy Thousand Words - Summer of Joy View Details"
     },
     {
+      "title": "Fairmount Park, Race 3, AOC",
+      "details": "Fairmount Park, Race 3, AOC Fairmount Park , Saturday, September 26, 2026, Race 3 AOC 6 furlongs $20,000 Fillies and Mares 3 yo's up Dirt FT Nandina Sharp Azteca - Spinneret Bee Bluff Daredevil - The Vapors Chance Taker Ghaaleb - Turtle Pie View Details"
+    },
+    {
       "title": "Fairmount Park, Race 1, MSW",
       "details": "Fairmount Park, Race 1, MSW Fairmount Park , Saturday, September 26, 2026, Race 1 MSW 5 1/2 furlongs $18,000 2 yo Dirt FT Golden Rhythm Goldencents - Dance America Schwarz Seeking the Soul - Raging Town Wildwood Road Roadster - Lisdoonvarna View Details"
     },
     {
-      "title": "Laurel Park, Race 5, MSW",
-      "details": "Laurel Park, Race 5, MSW Laurel Park , Saturday, September 26, 2026, Race 5 MSW 1 mile $49,060 2 yo Turf GD Alborz Uncle Mo - Exotic Notion Stars On the Water Mendelssohn - All Others Follow (GB) The Wrath of David Oscar Performance - Princess Erindelle View Details"
+      "title": "Gulfstream Park, Race 5, MSW",
+      "details": "Gulfstream Park, Race 5, MSW Gulfstream Park , Saturday, September 26, 2026, Race 5 MSW 1 mile $60,000 Fillies 2 yo Turf GD Karolina Pharoah Cyberknife - Lady Pharoah Extra Sugar Hard Spun - Naval Laughter Khalyma Tiz the Law - Stonewalker View Details"
     },
     {
-      "title": "Laurel Park, Race 3, ALW",
-      "details": "Laurel Park, Race 3, ALW Laurel Park , Saturday, September 26, 2026, Race 3 ALW 1 1/16 miles $54,755 3 yo's up Turf GD Dynacito Munnings - Dynaire Orator War Front - Orate Hanksdiviningrod Divining Rod - Watrugonnadorosie View Details"
+      "title": "Selima S. (BT)",
+      "details": "Selima S. (BT) Laurel Park , Saturday, September 26, 2026, Race 8 STK 1 1/16 miles $125,000 Fillies 2 yo Turf GD Hidden Overture Mendelssohn - Sweeping Cherry Homeawayfromhome Nyquist - Gherardini Sea Isle City Jack Christopher - Diamond Tap View Details"
     },
     {
-      "title": "Laurel Park, Race 1, MCL",
-      "details": "Laurel Park, Race 1, MCL Laurel Park , Saturday, September 26, 2026, Race 1 MCL 5 1/2 furlongs $40,925 Fillies and Mares 3, 4, 5 6 yo's Turf GD Meadowlark Drive Munnings - Tapitry Divine Mousse Divining Rod - Vamoose Penelope's Gift Great Notion - Elusive Gift View Details"
-    },
-    {
-      "title": "Belmont Park, Race 9, MCL",
-      "details": "Belmont Park, Race 9, MCL Belmont Park , Friday, September 25, 2026, Race 9 MCL 1 1/16 miles $59,000 Fillies and Mares 3 yo's up Turf FM Key Actress Mo Town - First Screening Devilish Grin Daredevil - Casual Smile (GB) Outro Candy Ride (ARG) - Chase Motto View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 8, SOC",
-      "details": "Belmont Park, Race 8, SOC Belmont Park , Friday, September 25, 2026, Race 8 SOC 6 furlongs $75,000 Fillies and Mares 3 yo's up Inner turf FM Fairy Godmother Cairo Prince - Lyrical Tale Midnightloveaffair Midshipman - Hurricane Kitten So Sophia (GB) Showcasing (GB) - So Brave (GB) View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 7, MSW",
-      "details": "Belmont Park, Race 7, MSW Belmont Park , Friday, September 25, 2026, Race 7 MSW 7 furlongs $100,000 2 yo Dirt FT Big Handsome City of Light - Assertive Style Spicy Chicken Nashville - Interlace Just You Baby King for a Day - Very Accomplished View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 6, AOC",
-      "details": "Belmont Park, Race 6, AOC Belmont Park , Friday, September 25, 2026, Race 6 AOC 1 mile $108,000 Fillies and Mares 3 yo's up Turf FM Mommy's Turn Mendelssohn - Hard to Stay Notgo Charlottesuniverse Into Mischief - Solar Surge All of It Mendelssohn - Indy's Lady View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 5, MSW",
-      "details": "Belmont Park, Race 5, MSW Belmont Park , Friday, September 25, 2026, Race 5 MSW 6 furlongs $100,000 3 yo's up Inner turf FM Sir Walta Redesdale - Classic Melody Daisy Doo Central Banker - Birthday Gift Main Thing Complexity - Little Brave View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 4, AOC",
-      "details": "Belmont Park, Race 4, AOC Belmont Park , Friday, September 25, 2026, Race 4 AOC 1 mile $108,000 Fillies and Mares 3 yo's up Dirt FT Valtellina Complexity - Take Charge Sue Will Not Be Swayed War of Will - Not Swayed Aeolian Tapit - Danzatrice View Details Watch Replay"
+      "title": "Laurel Park, Race 7, ALW",
+      "details": "Laurel Park, Race 7, ALW Laurel Park , Saturday, September 26, 2026, Race 7 ALW 1 mile $50,020 3 yo's up Dirt FT Honor Mags Honor A. P. - Economy of Motion Forrest City Munnings - Richwood Compatriot Curlin - American Entente View Details"
     }
   ]
 }
