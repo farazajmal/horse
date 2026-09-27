@@ -1,355 +1,7 @@
 {
-  "last_updated": "September 27, 2026 - 03:00 AM",
+  "last_updated": "September 27, 2026 - 05:01 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Casey Darnell S.",
-      "raw_name": "Casey Darnell S.",
-      "track": "Albuquerque",
-      "grade": "Stakes",
-      "dist": "5 1/2 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Gallant Bloom S. (G2)",
-      "raw_name": "Gallant Bloom S. (G2)",
-      "track": "Belmont Park",
-      "grade": "Grade 2",
-      "dist": "6 1/2 furlongs (Dirt)",
-      "purse": "$250,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Vosburgh S. (G3)",
-      "raw_name": "Vosburgh S. (G3)",
-      "track": "Belmont Park",
-      "grade": "Grade 3",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$250,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Joe Hirsch Turf Classic S. (G1T)",
-      "raw_name": "Joe Hirsch Turf Classic S. (G1T)",
-      "track": "Belmont Park",
-      "grade": "Grade 1",
-      "dist": "1 1/2 miles (Turf)",
-      "purse": "$500,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Flower Bowl S. (G2T)",
-      "raw_name": "Flower Bowl S. (G2T)",
-      "track": "Belmont Park",
-      "grade": "Grade 2",
-      "dist": "1 1/4 miles (Inner turf)",
-      "purse": "$500,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Bourbon Flight S.",
-      "raw_name": "Bourbon Flight S.",
-      "track": "Churchill Downs",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$300,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Ack Ack S. (G3)",
-      "raw_name": "Ack Ack S. (G3)",
-      "track": "Churchill Downs",
-      "grade": "Grade 3",
-      "dist": "1 mile (Dirt)",
-      "purse": "$400,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Lukas Classic S. (G2)",
-      "raw_name": "Lukas Classic S. (G2)",
-      "track": "Churchill Downs",
-      "grade": "Grade 2",
-      "dist": "1 1/8 miles (Dirt)",
-      "purse": "$500,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Battery Park S.",
-      "raw_name": "Battery Park S.",
-      "track": "Delaware Park",
-      "grade": "Stakes",
-      "dist": "1 1/8 miles (Dirt)",
-      "purse": "$200,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Rocky Run S.",
-      "raw_name": "Rocky Run S.",
-      "track": "Delaware Park",
-      "grade": "Stakes",
-      "dist": "1 mile (Dirt)",
-      "purse": "$150,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "White Clay Creek S.",
-      "raw_name": "White Clay Creek S.",
-      "track": "Delaware Park",
-      "grade": "Stakes",
-      "dist": "1 mile (Dirt)",
-      "purse": "$150,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Delaware H. (G3)",
-      "raw_name": "Delaware H. (G3)",
-      "track": "Delaware Park",
-      "grade": "Grade 3",
-      "dist": "1 1/8 miles (Dirt)",
-      "purse": "$500,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Hollywood Beach S.",
-      "raw_name": "Hollywood Beach S.",
-      "track": "Gulfstream Park",
-      "grade": "Stakes",
-      "dist": "5 furlongs (Turf)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "All Along S.",
-      "raw_name": "All Along S.",
-      "track": "Laurel Park",
-      "grade": "Stakes",
-      "dist": "1 1/8 miles (Turf)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Selima S.",
-      "raw_name": "Selima S.",
-      "track": "Laurel Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Turf)",
-      "purse": "$125,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Laurel Futurity",
-      "raw_name": "Laurel Futurity",
-      "track": "Laurel Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Turf)",
-      "purse": "$125,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Iowa Sorority S.",
-      "raw_name": "Iowa Sorority S.",
-      "track": "Prairie Meadows",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Iowa Breeders' Oaks",
-      "raw_name": "Iowa Breeders' Oaks",
-      "track": "Prairie Meadows",
-      "grade": "Stakes",
-      "dist": "1 mile 70 Yards (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Donna Reed S.",
-      "raw_name": "Donna Reed S.",
-      "track": "Prairie Meadows",
-      "grade": "Stakes",
-      "dist": "1 mile 70 Yards (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Dan Johnson Sprint S.",
-      "raw_name": "Dan Johnson Sprint S.",
-      "track": "Prairie Meadows",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Iowa Classic Distaff Sprint S.",
-      "raw_name": "Iowa Classic Distaff Sprint S.",
-      "track": "Prairie Meadows",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Iowa Cradle S.",
-      "raw_name": "Iowa Cradle S.",
-      "track": "Prairie Meadows",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Governor Terry E. Branstad S.",
-      "raw_name": "Governor Terry E. Branstad S.",
-      "track": "Prairie Meadows",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Iowa Breeders' Derby",
-      "raw_name": "Iowa Breeders' Derby",
-      "track": "Prairie Meadows",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "City of Hope Mile S. (G2T)",
-      "raw_name": "City of Hope Mile S. (G2T)",
-      "track": "Santa Anita Park",
-      "grade": "Grade 2",
-      "dist": "1 mile (Turf)",
-      "purse": "$200,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Eddie D S. (G2T)",
-      "raw_name": "Eddie D S. (G2T)",
-      "track": "Santa Anita Park",
-      "grade": "Grade 2",
-      "dist": "About 6 1/2 furlongs (Downhill turf)",
-      "purse": "$200,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "John Henry Turf Championship S. (G2T)",
-      "raw_name": "John Henry Turf Championship S. (G2T)",
-      "track": "Santa Anita Park",
-      "grade": "Grade 2",
-      "dist": "1 1/4 miles (Downhill turf)",
-      "purse": "$200,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Goodwood S. (G1)",
-      "raw_name": "Goodwood S. (G1)",
-      "track": "Santa Anita Park",
-      "grade": "Grade 1",
-      "dist": "1 1/8 miles (Dirt)",
-      "purse": "$300,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "John C. Harris S. (G3T)",
-      "raw_name": "John C. Harris S. (G3T)",
-      "track": "Santa Anita Park",
-      "grade": "Grade 3",
-      "dist": "About 6 1/2 furlongs (Downhill turf)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Charles Taylor S.",
       "raw_name": "Charles Taylor S.",
@@ -357,7 +9,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$70,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -369,7 +21,7 @@
       "grade": "Grade 3",
       "dist": "6 furlongs (Inner turf)",
       "purse": "$200,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -381,7 +33,7 @@
       "grade": "Grade 3",
       "dist": "1 mile (Turf)",
       "purse": "$200,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -393,7 +45,7 @@
       "grade": "Grade 2",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$46,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "Puerto Rico",
       "flag": "🇵🇷",
       "isUsa": false
@@ -405,7 +57,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Turf)",
       "purse": "$75,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -417,7 +69,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -429,7 +81,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$75,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -441,7 +93,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -453,7 +105,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$150,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -465,7 +117,7 @@
       "grade": "Stakes",
       "dist": "5 furlongs (Turf)",
       "purse": "$250,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -477,7 +129,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$200,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -489,7 +141,7 @@
       "grade": "Grade 3",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$400,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -501,7 +153,7 @@
       "grade": "Grade 2",
       "dist": "6 furlongs (Dirt)",
       "purse": "$200,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -513,7 +165,7 @@
       "grade": "Grade 2",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$200,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -525,7 +177,7 @@
       "grade": "Stakes",
       "dist": "About 1 1/8 miles (Turf)",
       "purse": "$150,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -537,7 +189,7 @@
       "grade": "Stakes",
       "dist": "1 1/2 miles (Turf)",
       "purse": "$400,000",
-      "date": "9/27",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -1011,6 +663,10 @@
   ],
   "recent_results": [
     {
+      "title": "Casey Darnell S.",
+      "details": "Casey Darnell S. Albuquerque , Saturday, September 26, 2026, Race 8 STK 5 1/2 furlongs $75,000 3 yo's up Dirt FT Dave's Enchantment Attila's Storm - Crafty Joi Mojica Marking - I Ten Holy Hank Holy Lute - City Veil View Details Watch Replay"
+    },
+    {
       "title": "Albuquerque, Race 6, MSW",
       "details": "Albuquerque, Race 6, MSW Albuquerque , Saturday, September 26, 2026, Race 6 MSW 5 1/2 furlongs $34,600 3 yo's up Dirt FT Hanky Dads Caps - Maximum Edge One Horse Town Caravaggio - Citation One (GB) Travail Algorithms - Serene Queen View Details Watch Replay"
     },
@@ -1065,10 +721,6 @@
     {
       "title": "Churchill Downs, Race 2, STR",
       "details": "Churchill Downs, Race 2, STR Churchill Downs , Saturday, September 26, 2026, Race 2 STR 6 furlongs $76,000 3 yo's up Dirt FT Defending Albert Practical Joke - Jetbird Margin of Air Mineshaft - Chase Me Now Cool Cowboy Thousand Words - Summer of Joy View Details"
-    },
-    {
-      "title": "Charles Town, Race 7, AOC",
-      "details": "Charles Town, Race 7, AOC Charles Town Races Slots , Saturday, September 26, 2026, Race 7 AOC 6 1/2 furlongs $36,600 Fillies and Mares 3 yo's up Dirt GD Malibu Years Golden Years - Malibu Love Professor Grace Catholic Boy - Smoke Signals Breezey Bella Cajun Breeze - Bella Capri Z View Details Watch Replay"
     }
   ]
 }
