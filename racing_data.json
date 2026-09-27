@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 27, 2026 - 05:00 PM",
+  "last_updated": "September 27, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -445,6 +445,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Casino at the Downs Thoroughbred Derby",
+      "raw_name": "Casino at the Downs Thoroughbred Derby",
+      "track": "Albuquerque",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$75,000",
+      "date": "10/4",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -663,6 +675,30 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 4, MSW",
+      "details": "Churchill Downs, Race 4, MSW Churchill Downs , Sunday, September 27, 2026, Race 4 MSW 5 1/2 furlongs $120,000 2 yo Dirt FT Yacht Master Into Mischief - Pathetique Hazy Horizon Midshipman - Tiz Rae Anna Subjugation Bee Jersey - Tale of Class View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 3, ALW",
+      "details": "Churchill Downs, Race 3, ALW Churchill Downs , Sunday, September 27, 2026, Race 3 ALW 1 mile $127,000 2 yo Turf FM Majik Mooney Audible - Play Our Song Bearamour Vekoma - Rockport Beauty That's Fire Flameaway - That's All View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 2, MSW",
+      "details": "Churchill Downs, Race 2, MSW Churchill Downs , Sunday, September 27, 2026, Race 2 MSW 1 1/16 miles $120,000 Fillies and Mares 3 yo's up Dirt FT She's Our Girl Curlin - Covenant Al Ghadeer Gun Runner - Classofsixtythree Skyforge Gun Runner - Awesome Flower View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 1, MSW",
+      "details": "Churchill Downs, Race 1, MSW Churchill Downs , Sunday, September 27, 2026, Race 1 MSW 6 furlongs $92,000 Fillies 2 yo Dirt FT She's Toasty Army Mule - Upsetter Flaming Verdict Speaker's Corner - Ms. Dragonette Your Choice Volatile - Exceblades View Details"
+    },
+    {
+      "title": "Laurel Park, Race 6, AOC",
+      "details": "Laurel Park, Race 6, AOC Laurel Park , Sunday, September 27, 2026, Race 6 AOC 5 1/2 furlongs $53,000 3 yo's up Dirt SY Mizner Munnings - Welcoming Jessica's Eyes Mosler - Miracle Mischief Twisted Filigree Distorted Humor - Saturn Lace (IRE) View Details"
+    },
+    {
+      "title": "Laurel Park, Race 5, MCL",
+      "details": "Laurel Park, Race 5, MCL Laurel Park , Sunday, September 27, 2026, Race 5 MCL 7 furlongs $36,650 Fillies 2 yo Dirt SY Silver Strings Nashville - Silver Sides Think Pink Blofeld - Pink Tights Stoic Reserve Frosted - Aroma de Mujer View Details"
+    },
+    {
       "title": "Casey Darnell S.",
       "details": "Casey Darnell S. Albuquerque , Saturday, September 26, 2026, Race 8 STK 5 1/2 furlongs $75,000 3 yo's up Dirt FT Dave's Enchantment Attila's Storm - Crafty Joi Mojica Marking - I Ten Holy Hank Holy Lute - City Veil View Details Watch Replay View Stakes Recap"
     },
@@ -697,30 +733,6 @@
     {
       "title": "Bourbon Flight S. (BT)",
       "details": "Bourbon Flight S. (BT) Churchill Downs , Saturday, September 26, 2026, Race 8 STK 1 1/16 miles $300,000 3 yo Dirt FT Plutarch Into Mischief - Stellar Wind Local Knowledge Yaupon - Chestnut Street Stimulate Tapit - Elate View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Churchill Downs, Race 7, ALW",
-      "details": "Churchill Downs, Race 7, ALW Churchill Downs , Saturday, September 26, 2026, Race 7 ALW 1 mile $127,000 Fillies 2 yo Turf FM Nymira Nyquist - Fend Estardotoo Shancelot - Estardo Lecompte's Run Tom's d'Etat - Pounds to Pennies View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 6, ALW",
-      "details": "Churchill Downs, Race 6, ALW Churchill Downs , Saturday, September 26, 2026, Race 6 ALW 1 1/16 miles $127,000 Fillies and Mares 3 yo's up Dirt FT Ile de La Cite City of Light - Macha Passionfruit Candy Ride (ARG) - Tapassion Lobby Rendezvous Runhappy - Lucky Move View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, MSW",
-      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Saturday, September 26, 2026, Race 5 MSW 7 1/2 furlongs $120,000 2 yo Dirt FT Staunch Liam's Map - Future Show Gun for Glory Gun Runner - Easy Tap Riccelli Nyquist - Iaintfraidanoghost View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 4, ALW",
-      "details": "Churchill Downs, Race 4, ALW Churchill Downs , Saturday, September 26, 2026, Race 4 ALW 5 1/2 furlongs $127,000 3 yo's up Turf FM Utopian Curlin - Magical Ride Cinister Cix Curlin - Auntjenn On Par Hard Spun - Break Even View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 3, MCL",
-      "details": "Churchill Downs, Race 3, MCL Churchill Downs , Saturday, September 26, 2026, Race 3 MCL 6 furlongs $57,000 3 yo's up Dirt FT White Cargo Volatile - Pricing Roman Rogue Maximus Mischief - Magic Appointment Chartered Liam's Map - Sip Sip View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, STR",
-      "details": "Churchill Downs, Race 2, STR Churchill Downs , Saturday, September 26, 2026, Race 2 STR 6 furlongs $76,000 3 yo's up Dirt FT Defending Albert Practical Joke - Jetbird Margin of Air Mineshaft - Chase Me Now Cool Cowboy Thousand Words - Summer of Joy View Details"
     }
   ]
 }
