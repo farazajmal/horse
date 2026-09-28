@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 28, 2026 - 09:00 AM",
+  "last_updated": "September 28, 2026 - 11:00 AM",
   "year": 2026,
   "races": [
     {
@@ -474,23 +474,23 @@
     },
     {
       "rank": 13,
+      "name": "Silent Tactic",
+      "sub": "Starts: 7 • Wins: 2 • Places: 3 • Shows: 1",
+      "cash": "$1,306,250",
+      "flag": "🏇"
+    },
+    {
+      "rank": 14,
       "name": "In Our Time",
       "sub": "Starts: 5 • Wins: 2 • Places: - • Shows: 1",
       "cash": "$1,301,213",
       "flag": "🏇"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "Bottas",
       "sub": "Starts: 4 • Wins: 2 • Places: - • Shows: 1",
       "cash": "$1,280,263",
-      "flag": "🏇"
-    },
-    {
-      "rank": 15,
-      "name": "Possiblemente",
-      "sub": "Starts: 7 • Wins: 4 • Places: 1 • Shows: 1",
-      "cash": "$1,273,670",
       "flag": "🏇"
     }
   ],
@@ -498,8 +498,8 @@
     {
       "rank": 1,
       "name": "Jose L. Ortiz",
-      "sub": "Starts: 1,077 • Wins: 247 (23%)",
-      "cash": "$34,946,870",
+      "sub": "Starts: 1,086 • Wins: 249 (23%)",
+      "cash": "$35,321,594",
       "flag": "👤"
     },
     {
@@ -519,8 +519,8 @@
     {
       "rank": 4,
       "name": "Tyler Gaffalione",
-      "sub": "Starts: 1,059 • Wins: 156 (15%)",
-      "cash": "$21,607,512",
+      "sub": "Starts: 1,067 • Wins: 158 (15%)",
+      "cash": "$21,760,186",
       "flag": "👤"
     },
     {
@@ -533,22 +533,22 @@
     {
       "rank": 6,
       "name": "Luis Saez",
-      "sub": "Starts: 919 • Wins: 148 (16%)",
-      "cash": "$17,502,194",
+      "sub": "Starts: 927 • Wins: 151 (16%)",
+      "cash": "$17,718,439",
       "flag": "👤"
     },
     {
       "rank": 7,
       "name": "John R. Velazquez",
-      "sub": "Starts: 654 • Wins: 107 (16%)",
-      "cash": "$17,408,970",
+      "sub": "Starts: 660 • Wins: 108 (16%)",
+      "cash": "$17,614,470",
       "flag": "👤"
     },
     {
       "rank": 8,
       "name": "Paco Lopez",
-      "sub": "Starts: 1,106 • Wins: 284 (26%)",
-      "cash": "$13,029,731",
+      "sub": "Starts: 1,112 • Wins: 285 (26%)",
+      "cash": "$13,187,231",
       "flag": "👤"
     },
     {
@@ -568,29 +568,29 @@
     {
       "rank": 11,
       "name": "Juan J. Hernandez",
-      "sub": "Starts: 510 • Wins: 115 (23%)",
-      "cash": "$9,542,258",
+      "sub": "Starts: 515 • Wins: 116 (23%)",
+      "cash": "$9,619,658",
       "flag": "👤"
     },
     {
       "rank": 12,
       "name": "Francisco Arrieta",
-      "sub": "Starts: 557 • Wins: 101 (18%)",
-      "cash": "$9,302,762",
+      "sub": "Starts: 560 • Wins: 101 (18%)",
+      "cash": "$9,319,950",
       "flag": "👤"
     },
     {
       "rank": 13,
       "name": "Joel Rosario",
-      "sub": "Starts: 599 • Wins: 99 (17%)",
-      "cash": "$8,680,833",
+      "sub": "Starts: 603 • Wins: 100 (17%)",
+      "cash": "$8,804,473",
       "flag": "👤"
     },
     {
       "rank": 14,
       "name": "Brian Joseph Hernandez, Jr.",
-      "sub": "Starts: 528 • Wins: 66 (13%)",
-      "cash": "$8,634,473",
+      "sub": "Starts: 534 • Wins: 68 (13%)",
+      "cash": "$8,758,550",
       "flag": "👤"
     },
     {
@@ -604,7 +604,7 @@
   "recent_results": [
     {
       "title": "Charles Taylor S.",
-      "details": "Charles Taylor S. Albuquerque , Sunday, September 27, 2026, Race 8 STK 1 mile $70,000 3 yo Dirt FT Carl Erskine Grazen - An Unusual Group Misinformation Essential Quality - Noelle's Mischief Daneyko Vekoma - Nat Gio View Details Watch Replay"
+      "details": "Charles Taylor S. Albuquerque , Sunday, September 27, 2026, Race 8 STK 1 mile $70,000 3 yo Dirt FT Carl Erskine Grazen - An Unusual Group Misinformation Essential Quality - Noelle's Mischief Daneyko Vekoma - Nat Gio View Details Watch Replay View Stakes Recap"
     },
     {
       "title": "Albuquerque, Race 7, ALW",
