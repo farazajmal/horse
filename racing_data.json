@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 28, 2026 - 09:00 PM",
+  "last_updated": "September 28, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -411,6 +411,66 @@
       "isUsa": true
     },
     {
+      "name": "Chillingworth S. (G3)",
+      "raw_name": "Chillingworth S. (G3)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 3",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Oak Leaf S. presented by Oak Tree Racing Association (G2)",
+      "raw_name": "Oak Leaf S. presented by Oak Tree Racing Association (G2)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 2",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$200,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Speakeasy S.",
+      "raw_name": "Speakeasy S.",
+      "track": "Santa Anita Park",
+      "grade": "Stakes",
+      "dist": "5 furlongs (Turf)",
+      "purse": "$100,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "American Pharoah S. Presented by DK Horse (G1)",
+      "raw_name": "American Pharoah S. Presented by DK Horse (G1)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 1",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$300,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Rodeo Drive S. (G2T)",
+      "raw_name": "Rodeo Drive S. (G2T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 2",
+      "dist": "1 1/4 miles (Downhill turf)",
+      "purse": "$200,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Casino at the Downs Thoroughbred Derby",
       "raw_name": "Casino at the Downs Thoroughbred Derby",
       "track": "Albuquerque",
@@ -651,64 +711,64 @@
   ],
   "recent_results": [
     {
+      "title": "Albuquerque, Race 8, ALW",
+      "details": "Albuquerque, Race 8, ALW Albuquerque , Monday, September 28, 2026, Race 8 ALW 5 1/2 furlongs $35,800 Fillies and Mares 3 yo's up Dirt FT American Prada American Anthem - Dressed in Prada Songcat Marking - Songs Say So Much Directed Runaway Runaway Ghost - Directed Lady View Details Watch Replay"
+    },
+    {
       "title": "Fort Erie, Race 5, MSW",
-      "details": "Fort Erie, Race 5, MSW Fort Erie , Monday, September 28, 2026, Race 5 MSW 5 1/2 furlongs $18,776 Fillies and Mares 3 yo's up Dirt FT Shoot Town Prize - Maritime Breeze Can't Argue That Speightster - Coldgreydawn Kittabarta Abarta - Kitten's Overture View Details"
+      "details": "Fort Erie, Race 5, MSW Fort Erie , Monday, September 28, 2026, Race 5 MSW 5 1/2 furlongs $18,776 Fillies and Mares 3 yo's up Dirt FT Shoot Town Prize - Maritime Breeze Can't Argue That Speightster - Coldgreydawn Kittabarta Abarta - Kitten's Overture View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 4, AOC",
-      "details": "Finger Lakes, Race 4, AOC Finger Lakes , Monday, September 28, 2026, Race 4 AOC 1 mile $25,000 3 yo's up Dirt FT Freedsdale Redesdale - Sumizome Az U Chase Me Sharp Azteca - Girlaboutown Raw Courage Declaration of War - Shayna Lady View Details"
+      "details": "Finger Lakes, Race 4, AOC Finger Lakes , Monday, September 28, 2026, Race 4 AOC 1 mile $25,000 3 yo's up Dirt FT Freedsdale Redesdale - Sumizome Az U Chase Me Sharp Azteca - Girlaboutown Raw Courage Declaration of War - Shayna Lady View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, September 28, 2026, Race 1 ALW 6 furlongs $26,500 3 yo's up Dirt GD White Sport Coat Maclean's Music - Sport Model Missionattheglen Mission Impazible - Looksgoodfromhere Hamilton's Reason Sharp Azteca - Super Savvy View Details"
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, September 28, 2026, Race 1 ALW 6 furlongs $26,500 3 yo's up Dirt GD White Sport Coat Maclean's Music - Sport Model Missionattheglen Mission Impazible - Looksgoodfromhere Hamilton's Reason Sharp Azteca - Super Savvy View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 8, MSW",
+      "details": "Horseshoe Indianapolis, Race 8, MSW Horseshoe Indianapolis , Monday, September 28, 2026, Race 8 MSW 1 mile $32,000 3 yo's up Turf FM Blazy Beau Liam - Beautiful Morning Nayak (IRE) No Nay Never - Babcock Titan King Liam's Map - Athens Queen View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 6, MSW",
+      "details": "Horseshoe Indianapolis, Race 6, MSW Horseshoe Indianapolis , Monday, September 28, 2026, Race 6 MSW 1 mile $36,000 2 yo Dirt FT Chief of Change Mo Donegal - Dreamin of Summer Mo Rambo Sahara Sky - Gospel Singer Red Clay Runaway Lookin At Lucky - Cactus Joe View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, September 28, 2026, Race 4 MSW 5 1/2 furlongs $36,000 3 yo's up Dirt FT Aumoe Midnight Storm - Brenda's Gold Basil Basin - Lemon Frosted Unresponsive Cross Traffic - Prize Surprize View Details"
+      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, September 28, 2026, Race 4 MSW 5 1/2 furlongs $36,000 3 yo's up Dirt FT Aumoe Midnight Storm - Brenda's Gold Basil Basin - Lemon Frosted Unresponsive Cross Traffic - Prize Surprize View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 3, ALW",
-      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Monday, September 28, 2026, Race 3 ALW 5 1/2 furlongs $40,000 3 yo's up Dirt FT Stranger's Church Unified - Glorious Large Pour Vino Rosso - Missbigtimes Willy's in Charge Will Take Charge - Hoosier Queen View Details"
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Monday, September 28, 2026, Race 3 ALW 5 1/2 furlongs $40,000 3 yo's up Dirt FT Stranger's Church Unified - Glorious Large Pour Vino Rosso - Missbigtimes Willy's in Charge Will Take Charge - Hoosier Queen View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 2, MSW",
-      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Monday, September 28, 2026, Race 2 MSW 1 mile $32,000 Fillies 2 yo Dirt FT First Laugh Upstart - Divine Comedy Esta Vez Not This Time - Alandra That's the Girl Yaupon - Pretty Paper View Details"
+      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Monday, September 28, 2026, Race 2 MSW 1 mile $32,000 Fillies 2 yo Dirt FT First Laugh Upstart - Divine Comedy Esta Vez Not This Time - Alandra That's the Girl Yaupon - Pretty Paper View Details Watch Replay"
+    },
+    {
+      "title": "Louisiana Downs, Race 5, ALW",
+      "details": "Louisiana Downs, Race 5, ALW Louisiana Downs , Monday, September 28, 2026, Race 5 ALW 1 mile $21,400 3 yo's up Turf FM Nobel Gary Noble Bird - Vivid Sunset Bigwrigdude Sticksstatelydude - Gioblast Emancipation Independence Hall - Camorra View Details Watch Replay"
+    },
+    {
+      "title": "Presque Isle Downs, Race 6, AOC",
+      "details": "Presque Isle Downs, Race 6, AOC Presque Isle Downs , Monday, September 28, 2026, Race 6 AOC 1 mile 70 Yards $36,000 3 yo's up All Weather Track FT King Mendelssohn Mendelssohn - Crown Royal Queen Justice Is Sweet Peace and Justice - Sweet Like Candy He's a Mess Dramedy - Nightfury View Details"
+    },
+    {
+      "title": "Presque Isle Downs, Race 4, MSW",
+      "details": "Presque Isle Downs, Race 4, MSW Presque Isle Downs , Monday, September 28, 2026, Race 4 MSW 6 furlongs $31,000 Fillies and Mares 3 yo's up All Weather Track FT Miss Watermelon Cairo Prince - Adore Queen's Quill Thousand Words - Henrya Chalant Echo Town - Lost Stars (IRE) View Details"
     },
     {
       "title": "Parx Racing, Race 8, AOC",
-      "details": "Parx Racing, Race 8, AOC Parx Racing , Monday, September 28, 2026, Race 8 AOC 6 furlongs $42,000 Fillies and Mares 3 yo's up Dirt SY More Than Grace More Than Ready - Trace of Grace Mary Q Social Inclusion - Musket Mary Rock Me Gently Golden Lad - Lemon Patch View Details"
+      "details": "Parx Racing, Race 8, AOC Parx Racing , Monday, September 28, 2026, Race 8 AOC 6 furlongs $42,000 Fillies and Mares 3 yo's up Dirt SY More Than Grace More Than Ready - Trace of Grace Mary Q Social Inclusion - Musket Mary Rock Me Gently Golden Lad - Lemon Patch View Details Watch Replay"
     },
     {
       "title": "Parx Racing, Race 7, AOC",
-      "details": "Parx Racing, Race 7, AOC Parx Racing , Monday, September 28, 2026, Race 7 AOC 6 1/2 furlongs $42,000 3 yo's up Dirt SY Winning Time Winchill - Merry's Pegasus Cultivate Practical Joke - Life's a Gamble Windsor Gold Golden Lad - English Mum View Details"
+      "details": "Parx Racing, Race 7, AOC Parx Racing , Monday, September 28, 2026, Race 7 AOC 6 1/2 furlongs $42,000 3 yo's up Dirt SY Winning Time Winchill - Merry's Pegasus Cultivate Practical Joke - Life's a Gamble Windsor Gold Golden Lad - English Mum View Details Watch Replay"
     },
     {
       "title": "Parx Racing, Race 5, ALW",
-      "details": "Parx Racing, Race 5, ALW Parx Racing , Monday, September 28, 2026, Race 5 ALW 7 furlongs $41,000 3 yo's up Dirt SY Wave Rider Blofeld - Aquatint Party With Smarty Smarty Jones - Ghost Magi Cody Pass Warrior's Reward - Laurella View Details"
-    },
-    {
-      "title": "Thistledown, Race 8, ALW",
-      "details": "Thistledown, Race 8, ALW Thistledown , Monday, September 28, 2026, Race 8 ALW 1 mile $32,500 3 yo's up Dirt FT Rhythm 'n Blues Maclean's Music - Miss Katie Bug Moreau Speightstown - Art Director Capo Luca Laoban - Better Not Cry View Details"
-    },
-    {
-      "title": "Thistledown, Race 7, ALW",
-      "details": "Thistledown, Race 7, ALW Thistledown , Monday, September 28, 2026, Race 7 ALW 1 mile $38,400 3 yo's up Dirt FT Skytree Yoshida (JPN) - Callisto Atlas Falls Bernardini - Oldfashioned Style Tom's Avatar Tom's d'Etat - Valley of Mo'ara View Details"
-    },
-    {
-      "title": "Thistledown, Race 2, MSW",
-      "details": "Thistledown, Race 2, MSW Thistledown , Monday, September 28, 2026, Race 2 MSW 5 furlongs $33,900 Fillies 2 yo Dirt FT My Pink Event Event Driven - My Pink Easterbaby The Way It Is Drill - Way to Fly Oaklyn Ironwood - Nixer View Details"
-    },
-    {
-      "title": "Charles Taylor S.",
-      "details": "Charles Taylor S. Albuquerque , Sunday, September 27, 2026, Race 8 STK 1 mile $70,000 3 yo Dirt FT Carl Erskine Grazen - An Unusual Group Misinformation Essential Quality - Noelle's Mischief Daneyko Vekoma - Nat Gio View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Albuquerque, Race 7, ALW",
-      "details": "Albuquerque, Race 7, ALW Albuquerque , Sunday, September 27, 2026, Race 7 ALW 5 1/2 furlongs $35,800 3 yo's up Dirt FT Country Club Sport Sporting Chance - Domesday Gal Gamblaway Sway Away - Gamblers Odyssey Fort Sumner Marking - Twixy View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 10, AOC",
-      "details": "Churchill Downs, Race 10, AOC Churchill Downs , Sunday, September 27, 2026, Race 10 AOC 1 3/8 miles $134,000 3 yo's up Turf FM Telescopic American Pharoah - Visage (IRE) Clyde's Got a Gun Gun Runner - Gone Theatrical The Hidden Chamber American Pharoah - Mystery Strike View Details"
+      "details": "Parx Racing, Race 5, ALW Parx Racing , Monday, September 28, 2026, Race 5 ALW 7 furlongs $41,000 3 yo's up Dirt SY Wave Rider Blofeld - Aquatint Party With Smarty Smarty Jones - Ghost Magi Cody Pass Warrior's Reward - Laurella View Details Watch Replay"
     }
   ]
 }
