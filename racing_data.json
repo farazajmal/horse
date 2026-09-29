@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 29, 2026 - 07:00 PM",
+  "last_updated": "September 29, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -363,6 +363,66 @@
       "isUsa": true
     },
     {
+      "name": "Woodford S. Presented by FanDuel (G2T)",
+      "raw_name": "Woodford S. Presented by FanDuel (G2T)",
+      "track": "Keeneland",
+      "grade": "Grade 2",
+      "dist": "5 1/2 furlongs (Turf)",
+      "purse": "$400,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Thoroughbred Club of America S. (G2)",
+      "raw_name": "Thoroughbred Club of America S. (G2)",
+      "track": "Keeneland",
+      "grade": "Grade 2",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$400,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "First Lady S. (G1T)",
+      "raw_name": "First Lady S. (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 mile (Turf)",
+      "purse": "$800,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Claiborne Breeders' Futurity (G1)",
+      "raw_name": "Claiborne Breeders' Futurity (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$650,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Coolmore Turf Mile S. (G1T)",
+      "raw_name": "Coolmore Turf Mile S. (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 mile (Turf)",
+      "purse": "$1,250,000",
+      "date": "10/3",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Smart Halo S.",
       "raw_name": "Smart Halo S.",
       "track": "Laurel Park",
@@ -488,6 +548,66 @@
       "track": "Foxfield",
       "grade": "Grade 2",
       "dist": "2 1/8 miles (Hurdle)",
+      "purse": "$100,000",
+      "date": "10/4",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Indian Summer S. Presented by Keeneland Select (G3T)",
+      "raw_name": "Indian Summer S. Presented by Keeneland Select (G3T)",
+      "track": "Keeneland",
+      "grade": "Grade 3",
+      "dist": "5 1/2 furlongs (Turf)",
+      "purse": "$350,000",
+      "date": "10/4",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Juddmonte Spinster S. (G1)",
+      "raw_name": "Juddmonte Spinster S. (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$650,000",
+      "date": "10/4",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Castle Key Bourbon S. (G2T)",
+      "raw_name": "Castle Key Bourbon S. (G2T)",
+      "track": "Keeneland",
+      "grade": "Grade 2",
+      "dist": "1 1/16 miles (Turf)",
+      "purse": "$400,000",
+      "date": "10/4",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Zuma Beach S. (G3T)",
+      "raw_name": "Zuma Beach S. (G3T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 3",
+      "dist": "1 mile (Turf)",
+      "purse": "$100,000",
+      "date": "10/4",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Surfer Girl S. (G3T)",
+      "raw_name": "Surfer Girl S. (G3T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 3",
+      "dist": "1 mile (Turf)",
       "purse": "$100,000",
       "date": "10/4",
       "country": "USA",
@@ -715,12 +835,32 @@
       "details": "Fort Erie, Race 4, ALW Fort Erie , Tuesday, September 29, 2026, Race 4 ALW About 1 mile $20,318 3 yo's up Turf FM Catholic Jackie Catholic Boy - Pomarine Times a Breeze Not This Time - Sheer Enchantment Ilikeitwhenitsnows Seattle Serenade - Lucky Melissa View Details"
     },
     {
+      "title": "Finger Lakes, Race 7, ALW",
+      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Tuesday, September 29, 2026, Race 7 ALW 1 1/16 miles $24,500 3 yo's up Dirt FT Senegal Solomini - Holly's Star Maturation McKinzie - American Lynx Stop the Spread Daaher - Powhatan Princess View Details"
+    },
+    {
       "title": "Finger Lakes, Race 4, AOC",
       "details": "Finger Lakes, Race 4, AOC Finger Lakes , Tuesday, September 29, 2026, Race 4 AOC 6 furlongs $25,000 Fillies and Mares 3 yo's up Dirt FT Marilyn's Ny Pride Tonalist - Auntie's the One Mischievous Trick Practical Joke - Sweet Slam Zhen Lou Mission Impazible - Louwala Clough View Details"
     },
     {
       "title": "Finger Lakes, Race 3, ALW",
       "details": "Finger Lakes, Race 3, ALW Finger Lakes , Tuesday, September 29, 2026, Race 3 ALW 1 mile 70 Yards $26,500 Fillies and Mares 3 yo's up Dirt FT Alma's Law Tiz the Law - Almashooqa Enterprisingly Maxfield - Estilo Femenino Immigration Law Violence - Legally Bay View Details"
+    },
+    {
+      "title": "Fairmount Park, Race 3, MSW",
+      "details": "Fairmount Park, Race 3, MSW Fairmount Park , Tuesday, September 29, 2026, Race 3 MSW 6 furlongs $38,000 Fillies and Mares 3 yo's up Dirt FT Miss Duquoin Hightail - Explainable Karazest Ghaaleb - Baby Karats Derby Gala Country House - Gloriana View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 2, MSW",
+      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Tuesday, September 29, 2026, Race 2 MSW 6 furlongs $32,000 3 yo's up Dirt FT Big Boy Thunder Instagrand - Thunderstruck Final Countdown Gio Ponti - Cinnie Mayweather Practical Joke - Uppercut View Details"
+    },
+    {
+      "title": "Parx Racing, Race 7, MCL",
+      "details": "Parx Racing, Race 7, MCL Parx Racing , Tuesday, September 29, 2026, Race 7 MCL 6 1/2 furlongs $26,000 3 yo's up Dirt FT Tongue Tied Winchill - Angelic Lioness Mor Cheese Please Mor Spirit - Charcuterie Relentlessness Hoppertunity - Mill and Gloria View Details"
+    },
+    {
+      "title": "Thistledown, Race 7, ALW",
+      "details": "Thistledown, Race 7, ALW Thistledown , Tuesday, September 29, 2026, Race 7 ALW 6 furlongs $38,400 3 yo's up Dirt FT Kickstart Paynter - Speak No Evil Blazing Tony Tonalist - Sunny Empire Heza Pistol Danza - Sheza Runaway Star View Details"
     },
     {
       "title": "Albuquerque, Race 8, ALW",
@@ -749,26 +889,6 @@
     {
       "title": "Horseshoe Indianapolis, Race 4, MSW",
       "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, September 28, 2026, Race 4 MSW 5 1/2 furlongs $36,000 3 yo's up Dirt FT Aumoe Midnight Storm - Brenda's Gold Basil Basin - Lemon Frosted Unresponsive Cross Traffic - Prize Surprize View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 3, ALW",
-      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Monday, September 28, 2026, Race 3 ALW 5 1/2 furlongs $40,000 3 yo's up Dirt FT Stranger's Church Unified - Glorious Large Pour Vino Rosso - Missbigtimes Willy's in Charge Will Take Charge - Hoosier Queen View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 2, MSW",
-      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Monday, September 28, 2026, Race 2 MSW 1 mile $32,000 Fillies 2 yo Dirt FT First Laugh Upstart - Divine Comedy Esta Vez Not This Time - Alandra That's the Girl Yaupon - Pretty Paper View Details Watch Replay"
-    },
-    {
-      "title": "Louisiana Downs, Race 6, MSW",
-      "details": "Louisiana Downs, Race 6, MSW Louisiana Downs , Monday, September 28, 2026, Race 6 MSW 5 furlongs $20,500 2 yo Dirt FT Liam's Ghost Liam's Map - Dating Game Serious Beast The Big Beast - Afillyation Fourforfortyfour Competitive Edge - Nothinbettertodo View Details Watch Replay"
-    },
-    {
-      "title": "Louisiana Downs, Race 5, ALW",
-      "details": "Louisiana Downs, Race 5, ALW Louisiana Downs , Monday, September 28, 2026, Race 5 ALW 1 mile $21,400 3 yo's up Turf FM Nobel Gary Noble Bird - Vivid Sunset Bigwrigdude Sticksstatelydude - Gioblast Emancipation Independence Hall - Camorra View Details Watch Replay"
-    },
-    {
-      "title": "Presque Isle Downs, Race 6, AOC",
-      "details": "Presque Isle Downs, Race 6, AOC Presque Isle Downs , Monday, September 28, 2026, Race 6 AOC 1 mile 70 Yards $36,000 3 yo's up All Weather Track FT King Mendelssohn Mendelssohn - Crown Royal Queen Justice Is Sweet Peace and Justice - Sweet Like Candy He's a Mess Dramedy - Nightfury View Details"
     }
   ]
 }
