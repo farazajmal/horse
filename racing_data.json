@@ -1,19 +1,7 @@
 {
-  "last_updated": "September 30, 2026 - 03:00 AM",
+  "last_updated": "September 30, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Winnipeg Futurity",
-      "raw_name": "Winnipeg Futurity",
-      "track": "Assiniboia Downs",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$50,000",
-      "date": "Today",
-      "country": "Canada",
-      "flag": "🇨🇦",
-      "isUsa": false
-    },
     {
       "name": "Back Home Again S.",
       "raw_name": "Back Home Again S.",
@@ -21,7 +9,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "9/30",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -33,7 +21,7 @@
       "grade": "Stakes",
       "dist": "1 mile 70 Yards (Dirt)",
       "purse": "$125,000",
-      "date": "9/30",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -45,7 +33,7 @@
       "grade": "Stakes",
       "dist": "1 mile 70 Yards (Dirt)",
       "purse": "$125,000",
-      "date": "9/30",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -57,7 +45,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$150,000",
-      "date": "9/30",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -69,7 +57,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$150,000",
-      "date": "9/30",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -81,7 +69,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "9/30",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
