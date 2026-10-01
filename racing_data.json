@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 01, 2026 - 05:00 PM",
+  "last_updated": "October 01, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -625,6 +625,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Magnolia S.",
+      "raw_name": "Magnolia S.",
+      "track": "Delta Downs",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "10/9",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -843,6 +855,18 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 1, AOC",
+      "details": "Belmont Park, Race 1, AOC Belmont Park , Thursday, October 01, 2026, Race 1 AOC 6 1/2 furlongs $105,000 Fillies and Mares 3 yo's up Dirt FT Three Sixty Twirling Candy - Two Sixty Meg's Foxy Grey Instilled Regard - One Foxy Grey L'Eclair Beau Liam - Breakaway Dixie View Details"
+    },
+    {
+      "title": "Belterra Park, Race 3, MSW",
+      "details": "Belterra Park, Race 3, MSW Belterra Park , Thursday, October 01, 2026, Race 3 MSW 4 1/2 furlongs $20,500 Fillies 2 yo Dirt FT Belle'sfirstevent Event Driven - Belle Du Sud Seeking the Temple Temple City - Fortune Quest Lluvia Fuerte Dynamic Racer - Ameribelle View Details"
+    },
+    {
+      "title": "Belterra Park, Race 2, ALW",
+      "details": "Belterra Park, Race 2, ALW Belterra Park , Thursday, October 01, 2026, Race 2 ALW 6 furlongs $21,300 3 yo's up Dirt FT Dinner At Eight Astern (AUS) - Back for Dinner Hippy Gilmore Runhappy - Edge of Pleasure Cousin Joe Heart to Heart - Many Faces View Details"
+    },
+    {
       "title": "Buffalo S.",
       "details": "Buffalo S. Assiniboia Downs , Wednesday, September 30, 2026, Race 4 STK 7 1/2 furlongs $28,717 2 yo Dirt FT Deputize Speculating - River Deputy Strange Connection Speculating - Seaside Glory Poshdaddy Kantharos - Queenofthepulpit View Details View Stakes Recap"
     },
@@ -889,18 +913,6 @@
     {
       "title": "Delaware Park, Race 3, MCL",
       "details": "Delaware Park, Race 3, MCL Delaware Park , Wednesday, September 30, 2026, Race 3 MCL 5 1/2 furlongs $32,000 2 yo Dirt FT Domenic's Trick Cajun Breeze - Love My Sunshine Daddy Moneybags Nyquist - Bella Union Jezeen Magic On Tap - Sasha's Fierce View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 7, ALW",
-      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Wednesday, September 30, 2026, Race 7 ALW 6 furlongs $27,300 Fillies and Mares 3 yo's up Dirt FT Paula's a Star Tapiture - Seeking a Star Angel Gift Connect - Georgie's Angel Miss Ellary Social Inclusion - Lillie's Answer View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 4, ALW",
-      "details": "Finger Lakes, Race 4, ALW Finger Lakes , Wednesday, September 30, 2026, Race 4 ALW 6 furlongs $26,900 3 yo's up Dirt FT Vino's Valentine Vino Rosso - Defining Moment Asleep At Eight Frosted - Stormy Sky Muscle Shoals Redesdale - Chevy to the Levy View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, September 30, 2026, Race 1 ALW 1 mile 70 Yards $24,500 Fillies and Mares 3 yo's up Dirt FT Lifeisbutadream Lookin At Lee - Mary Grace Last Glory Mission Impazible - Silverama Rumint Munnings - Humint View Details Watch Replay"
     }
   ]
 }
