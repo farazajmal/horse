@@ -1,79 +1,7 @@
 {
-  "last_updated": "October 01, 2026 - 03:00 AM",
+  "last_updated": "October 01, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Back Home Again S.",
-      "raw_name": "Back Home Again S.",
-      "track": "Horseshoe Indianapolis",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "ITOBA Stallion Season Fillies H.",
-      "raw_name": "ITOBA Stallion Season Fillies H.",
-      "track": "Horseshoe Indianapolis",
-      "grade": "Stakes",
-      "dist": "1 mile 70 Yards (Dirt)",
-      "purse": "$125,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "ITOBA Stallion Season H.",
-      "raw_name": "ITOBA Stallion Season H.",
-      "track": "Horseshoe Indianapolis",
-      "grade": "Stakes",
-      "dist": "1 mile 70 Yards (Dirt)",
-      "purse": "$125,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Piedi Bianchi H.",
-      "raw_name": "Piedi Bianchi H.",
-      "track": "Horseshoe Indianapolis",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$150,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "To Much Coffee H.",
-      "raw_name": "To Much Coffee H.",
-      "track": "Horseshoe Indianapolis",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$150,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Circle City S.",
-      "raw_name": "Circle City S.",
-      "track": "Horseshoe Indianapolis",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Gallant Bloom S. (G2)",
       "raw_name": "Gallant Bloom S. (G2)",
@@ -81,7 +9,7 @@
       "grade": "Grade 2",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$250,000",
-      "date": "10/1",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -93,7 +21,7 @@
       "grade": "Grade 3",
       "dist": "1 mile (Turf)",
       "purse": "$200,000",
-      "date": "10/1",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -105,7 +33,7 @@
       "grade": "Grade 3",
       "dist": "6 furlongs (Inner turf)",
       "purse": "$200,000",
-      "date": "10/1",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -117,7 +45,7 @@
       "grade": "Grade 3",
       "dist": "7 furlongs (Dirt)",
       "purse": "$250,000",
-      "date": "10/1",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -129,7 +57,7 @@
       "grade": "Grade 1",
       "dist": "1 1/2 miles (Turf)",
       "purse": "$500,000",
-      "date": "10/1",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +69,7 @@
       "grade": "Grade 2",
       "dist": "1 1/4 miles (Inner turf)",
       "purse": "$500,000",
-      "date": "10/1",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +81,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/1",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -915,6 +843,10 @@
   ],
   "recent_results": [
     {
+      "title": "Buffalo S.",
+      "details": "Buffalo S. Assiniboia Downs , Wednesday, September 30, 2026, Race 4 STK 7 1/2 furlongs $28,717 2 yo Dirt FT Deputize Speculating - River Deputy Strange Connection Speculating - Seaside Glory Poshdaddy Kantharos - Queenofthepulpit View Details"
+    },
+    {
       "title": "Belmont Park, Race 8, MCL",
       "details": "Belmont Park, Race 8, MCL Belmont Park , Wednesday, September 30, 2026, Race 8 MCL 1 1/16 miles $56,000 Fillies and Mares 3 yo's up All Weather Track FT Stella Fortuna Fog of War - Strike Twice Whatta Weekend Weekend Hideaway - Cottonwood Falls No Need to Panic McKinzie - Kibosh View Details Watch Replay"
     },
@@ -969,10 +901,6 @@
     {
       "title": "Finger Lakes, Race 1, ALW",
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, September 30, 2026, Race 1 ALW 1 mile 70 Yards $24,500 Fillies and Mares 3 yo's up Dirt FT Lifeisbutadream Lookin At Lee - Mary Grace Last Glory Mission Impazible - Silverama Rumint Munnings - Humint View Details Watch Replay"
-    },
-    {
-      "title": "Circle City S. (BT)",
-      "details": "Circle City S. (BT) Horseshoe Indianapolis , Wednesday, September 30, 2026, Race 11 STK 6 furlongs $102,400 2 yo Dirt FT Cash Per Trip Modernist - Lemon Drop Twist Kansascityjustice Harry's Holiday - Broad Skepticism Flameaway - Mor Trust View Details Watch Replay"
     }
   ]
 }
