@@ -1,91 +1,7 @@
 {
-  "last_updated": "October 02, 2026 - 03:00 AM",
+  "last_updated": "October 02, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Gallant Bloom S. (G2)",
-      "raw_name": "Gallant Bloom S. (G2)",
-      "track": "Belmont Park",
-      "grade": "Grade 2",
-      "dist": "6 1/2 furlongs (Dirt)",
-      "purse": "$250,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Winter Memories S. (G3T)",
-      "raw_name": "Winter Memories S. (G3T)",
-      "track": "Belmont Park",
-      "grade": "Grade 3",
-      "dist": "1 mile (Turf)",
-      "purse": "$200,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Belmont Turf Sprint S. (G3T)",
-      "raw_name": "Belmont Turf Sprint S. (G3T)",
-      "track": "Belmont Park",
-      "grade": "Grade 3",
-      "dist": "6 furlongs (Inner turf)",
-      "purse": "$200,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Vosburgh S. (G3)",
-      "raw_name": "Vosburgh S. (G3)",
-      "track": "Belmont Park",
-      "grade": "Grade 3",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$250,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Joe Hirsch Turf Classic S. (G1T)",
-      "raw_name": "Joe Hirsch Turf Classic S. (G1T)",
-      "track": "Belmont Park",
-      "grade": "Grade 1",
-      "dist": "1 1/2 miles (Turf)",
-      "purse": "$500,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Flower Bowl S. (G2T)",
-      "raw_name": "Flower Bowl S. (G2T)",
-      "track": "Belmont Park",
-      "grade": "Grade 2",
-      "dist": "1 1/4 miles (Inner turf)",
-      "purse": "$500,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Greg Veit Scarlet and Gray S.",
-      "raw_name": "Greg Veit Scarlet and Gray S.",
-      "track": "Thistledown",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Bertram F. Bongard S.",
       "raw_name": "Bertram F. Bongard S.",
@@ -93,7 +9,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Turf)",
       "purse": "$175,000",
-      "date": "10/2",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -105,7 +21,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Inner turf)",
       "purse": "$175,000",
-      "date": "10/2",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -117,7 +33,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Turf)",
       "purse": "$175,000",
-      "date": "10/2",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -129,7 +45,7 @@
       "grade": "Grade 2",
       "dist": "6 furlongs (Dirt)",
       "purse": "$400,000",
-      "date": "10/2",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +57,7 @@
       "grade": "Grade 2",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$400,000",
-      "date": "10/2",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +69,7 @@
       "grade": "Grade 1",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$650,000",
-      "date": "10/2",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -919,6 +835,10 @@
       "details": "Belterra Park, Race 2, ALW Belterra Park , Thursday, October 01, 2026, Race 2 ALW 6 furlongs $21,300 3 yo's up Dirt FT Dinner At Eight Astern (AUS) - Back for Dinner Hippy Gilmore Runhappy - Edge of Pleasure Cousin Joe Heart to Heart - Many Faces View Details Watch Replay"
     },
     {
+      "title": "Charles Town, Race 7, ALW",
+      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Thursday, October 01, 2026, Race 7 ALW 6 1/2 furlongs $38,900 3 yo's up Dirt FT Circle P Speightster - Quiet Inferno Showstopper Copper Air Force Blue - Santin's Anna Play It Loud Audible - W W American View Details Watch Replay"
+    },
+    {
       "title": "Charles Town, Race 6, ALW",
       "details": "Charles Town, Race 6, ALW Charles Town Races Slots , Thursday, October 01, 2026, Race 6 ALW 7 furlongs $34,100 Fillies and Mares 3 yo's up Dirt FT Quality of Essence Essential Quality - Shippy Icecreamforevryone Gun Runner - Curlina Queen Kong Tunwoo - Super Madam View Details Watch Replay"
     },
@@ -933,10 +853,6 @@
     {
       "title": "Horseshoe Indianapolis, Race 8, ALW",
       "details": "Horseshoe Indianapolis, Race 8, ALW Horseshoe Indianapolis , Thursday, October 01, 2026, Race 8 ALW 1 1/16 miles $41,000 3 yo's up Turf FM Turbeau Man Turbo Compressor - Ms. Shannon Our Jalapeno Skylord - Tango Run Quaint Qurbaan - Miss Artie View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 7, ALW",
-      "details": "Horseshoe Indianapolis, Race 7, ALW Horseshoe Indianapolis , Thursday, October 01, 2026, Race 7 ALW 5 1/2 furlongs $38,000 3 yo's up Dirt FT Socorro's Prayer Prayer for Relief - City Seduction Rank Randy Mo Town - Fondness Silver Sterling Europe - Silver Union View Details Watch Replay"
     }
   ]
 }
