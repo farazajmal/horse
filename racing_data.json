@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 03, 2026 - 03:00 PM",
+  "last_updated": "October 03, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -747,6 +747,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 1, MSW",
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, October 03, 2026, Race 1 MSW 1 1/16 miles $100,000 2 yo Dirt FT Mystik Bayou Wells Bayou - Ma'am Tap Our Way Tapit - Yawkey Way Election Hero Early Voting - Sexy Dream View Details"
+    },
+    {
+      "title": "Belterra Park, Race 1, MSW",
+      "details": "Belterra Park, Race 1, MSW Belterra Park , Saturday, October 03, 2026, Race 1 MSW 6 furlongs $13,000 Fillies 2 yo Dirt FT Rockaway Beach Vino Rosso - Blues Corner High Class Broad Temple City - Discreet Meating Credit Spreads Global Campaign - Above Mine View Details"
+    },
+    {
       "title": "Belmont Park, Race 9, ALW",
       "details": "Belmont Park, Race 9, ALW Belmont Park , Friday, October 02, 2026, Race 9 ALW 6 1/2 furlongs $105,000 Fillies and Mares 3 yo's up Inner turf FM Amangani (IRE) No Nay Never - La Naturel (IRE) Vajra Vekoma - Lady Hansen New Rose Nyquist - Meadow Rose View Details Watch Replay"
     },
@@ -797,14 +805,6 @@
     {
       "title": "Delaware Park, Race 8, MSW",
       "details": "Delaware Park, Race 8, MSW Delaware Park , Friday, October 02, 2026, Race 8 MSW 6 furlongs $45,000 3 yo's up Dirt FT Cornwall Boss Street Boss - Carbis Bay Fort Griffin Charlatan - Clear the Clouds Lasting Legacy Connect - Tempus Fugit View Details Watch Replay"
-    },
-    {
-      "title": "Delaware Park, Race 3, MSW",
-      "details": "Delaware Park, Race 3, MSW Delaware Park , Friday, October 02, 2026, Race 3 MSW 1 mile 70 Yards $45,000 Fillies and Mares 3 yo's up Dirt FT Kimmy Got Glasses Yoshida (JPN) - Loan Guarantee Dutchman's Map Liam's Map - Eyes Open Minister Confessor Valiant Minister - Quentessa View Details Watch Replay"
-    },
-    {
-      "title": "Gulfstream Park, Race 9, MSW",
-      "details": "Gulfstream Park, Race 9, MSW Gulfstream Park , Friday, October 02, 2026, Race 9 MSW 1 mile 70 Yards $50,000 3 yo's up All Weather Track FT Happy Memories Union Rags - Happy Honeymoon Parnassus Blame - Saint J J Flamefire Flameaway - Vinyata View Details Watch Replay"
     }
   ]
 }
