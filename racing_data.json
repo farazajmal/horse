@@ -1,79 +1,7 @@
 {
-  "last_updated": "October 03, 2026 - 03:00 AM",
+  "last_updated": "October 03, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Bertram F. Bongard S.",
-      "raw_name": "Bertram F. Bongard S.",
-      "track": "Belmont Park",
-      "grade": "Stakes",
-      "dist": "6 1/2 furlongs (Turf)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Joseph A. Gimma S.",
-      "raw_name": "Joseph A. Gimma S.",
-      "track": "Belmont Park",
-      "grade": "Stakes",
-      "dist": "6 1/2 furlongs (Inner turf)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Artie Schiller S.",
-      "raw_name": "Artie Schiller S.",
-      "track": "Belmont Park",
-      "grade": "Stakes",
-      "dist": "1 mile (Turf)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Stoll Keenon Ogden Phoenix S. (G2)",
-      "raw_name": "Stoll Keenon Ogden Phoenix S. (G2)",
-      "track": "Keeneland",
-      "grade": "Grade 2",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$400,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Jessamine S. Presented by Keeneland Sales (G2T)",
-      "raw_name": "Jessamine S. Presented by Keeneland Sales (G2T)",
-      "track": "Keeneland",
-      "grade": "Grade 2",
-      "dist": "1 1/16 miles (Turf)",
-      "purse": "$400,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Darley Alcibiades S. (G1)",
-      "raw_name": "Darley Alcibiades S. (G1)",
-      "track": "Keeneland",
-      "grade": "Grade 1",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$650,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Matron S. (G3T)",
       "raw_name": "Matron S. (G3T)",
@@ -81,7 +9,7 @@
       "grade": "Grade 3",
       "dist": "6 furlongs (Inner turf)",
       "purse": "$200,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -93,7 +21,7 @@
       "grade": "Grade 2",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$250,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -105,7 +33,7 @@
       "grade": "Grade 1",
       "dist": "1 mile (Dirt)",
       "purse": "$500,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -117,7 +45,7 @@
       "grade": "Grade 1",
       "dist": "1 mile (Dirt)",
       "purse": "$500,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -129,7 +57,7 @@
       "grade": "Grade 3",
       "dist": "6 furlongs (Inner turf)",
       "purse": "$200,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +69,7 @@
       "grade": "Grade 2",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$250,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +81,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -165,7 +93,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -177,7 +105,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -189,7 +117,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -201,7 +129,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$200,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -213,7 +141,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$150,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -225,7 +153,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$150,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -237,7 +165,7 @@
       "grade": "Grade 3",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$500,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -249,7 +177,7 @@
       "grade": "Grade 2",
       "dist": "5 1/2 furlongs (Turf)",
       "purse": "$400,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -261,7 +189,7 @@
       "grade": "Grade 2",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$400,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -273,7 +201,7 @@
       "grade": "Grade 1",
       "dist": "1 mile (Turf)",
       "purse": "$800,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -285,7 +213,7 @@
       "grade": "Grade 1",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$650,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -297,7 +225,7 @@
       "grade": "Grade 1",
       "dist": "1 mile (Turf)",
       "purse": "$1,250,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -309,7 +237,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -321,7 +249,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -333,7 +261,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$100,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -345,7 +273,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$100,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -357,7 +285,7 @@
       "grade": "Grade 3",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -369,7 +297,7 @@
       "grade": "Grade 2",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$200,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -381,7 +309,7 @@
       "grade": "Stakes",
       "dist": "5 furlongs (Turf)",
       "purse": "$100,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -393,7 +321,7 @@
       "grade": "Grade 1",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$300,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -405,7 +333,7 @@
       "grade": "Grade 2",
       "dist": "1 1/4 miles (Downhill turf)",
       "purse": "$200,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -417,7 +345,7 @@
       "grade": "Grade 2",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$200,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -429,7 +357,7 @@
       "grade": "Grade 3",
       "dist": "5 furlongs (Inner turf)",
       "purse": "$250,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -441,7 +369,7 @@
       "grade": "Grade 2",
       "dist": "6 furlongs (Turf)",
       "purse": "$250,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -453,7 +381,7 @@
       "grade": "Grade 1",
       "dist": "1 1/2 miles (Turf)",
       "purse": "$750,000",
-      "date": "10/3",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -859,6 +787,10 @@
       "details": "Charles Town, Race 1, MSW Charles Town Races Slots , Friday, October 02, 2026, Race 1 MSW 4 1/2 furlongs $32,900 Fillies 2 yo Dirt GD Old Man's Dream Corniche - Ordain Cash Or Credit Mind Control - Tiz Emily and Jill Speight Her Size Nyquist - Townplace View Details Watch Replay"
     },
     {
+      "title": "Century Downs, Race 7, ALW",
+      "details": "Century Downs, Race 7, ALW CENTURY DOWNS , Friday, October 02, 2026, Race 7 ALW 6 1/2 furlongs $15,118 Fillies and Mares 3 yo's up Dirt FT Empirical Stanford - Magic Lily Run as One Tap Back - Avery On Pointe Madeline Tothe Max Maximum Security - Queen Ofthe Empire View Details"
+    },
+    {
       "title": "Century Downs, Race 5, AOC",
       "details": "Century Downs, Race 5, AOC CENTURY DOWNS , Friday, October 02, 2026, Race 5 AOC 1 1/16 miles $15,118 3 yo's up Dirt FT Titian Honor Code - The Winged Venus Pacheco Mark Valeski - She's Copacetic Newhart Medaglia d'Oro - She's Funny View Details"
     },
@@ -873,10 +805,6 @@
     {
       "title": "Gulfstream Park, Race 9, MSW",
       "details": "Gulfstream Park, Race 9, MSW Gulfstream Park , Friday, October 02, 2026, Race 9 MSW 1 mile 70 Yards $50,000 3 yo's up All Weather Track FT Happy Memories Union Rags - Happy Honeymoon Parnassus Blame - Saint J J Flamefire Flameaway - Vinyata View Details Watch Replay"
-    },
-    {
-      "title": "Gulfstream Park, Race 1, MSW",
-      "details": "Gulfstream Park, Race 1, MSW Gulfstream Park , Friday, October 02, 2026, Race 1 MSW 1 mile 70 Yards $50,000 2 yo All Weather Track FT Mitzman Cross Traffic - Stage Stop Colonel Duke Colonel Liam - Eva London It's On My Honor Honor A. P. - Party Time View Details Watch Replay"
     }
   ]
 }
