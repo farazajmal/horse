@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 04, 2026 - 05:00 PM",
+  "last_updated": "October 04, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -178,6 +178,18 @@
       "dist": "1 1/8 miles (Turf)",
       "purse": "$750,000",
       "date": "10/10",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Franklin S. (G2T)",
+      "raw_name": "Franklin S. (G2T)",
+      "track": "Keeneland",
+      "grade": "Grade 2",
+      "dist": "5 1/2 furlongs (Turf)",
+      "purse": "$400,000",
+      "date": "10/11",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -399,6 +411,30 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 4, MSW",
+      "details": "Belmont Park, Race 4, MSW Belmont Park , Sunday, October 04, 2026, Race 4 MSW 1 1/16 miles $100,000 Fillies 2 yo Turf FM Hunter Creek War Front - Aspening Sellonthenews (GB) Lope de Vega (IRE) - Marbling (GB) Harmony Mill Liam's Map - Running Creek View Details"
+    },
+    {
+      "title": "Belmont Park, Race 3, MCL",
+      "details": "Belmont Park, Race 3, MCL Belmont Park , Sunday, October 04, 2026, Race 3 MCL 6 furlongs $59,000 Fillies and Mares 3 yo's up Inner turf FM I Need a Miracle Omaha Beach - Filibustin Empress New Groove Seeking the Soul - Holy Empress Zinaida Charlatan - Midnight Treasure View Details"
+    },
+    {
+      "title": "Keeneland, Race 2, MCL",
+      "details": "Keeneland, Race 2, MCL Keeneland , Sunday, October 04, 2026, Race 2 MCL 1 1/16 miles $55,000 3 yo's up Dirt FT Maginnesontap Omaha Beach - Golden Ballad (IRE) Money Man Dialed In - Oro Blanco Get Them Roses Practical Joke - Blossom Rose View Details"
+    },
+    {
+      "title": "Keeneland, Race 1, STR",
+      "details": "Keeneland, Race 1, STR Keeneland , Sunday, October 04, 2026, Race 1 STR 7 furlongs $55,000 3 yo's up Dirt FT Just Asap Maxfield - Movie Moment Good Mojo Mo Town - Castinette Dancer Il Cavallino Into Mischief - Daisy View Details"
+    },
+    {
+      "title": "Laurel Park, Race 6, MCL",
+      "details": "Laurel Park, Race 6, MCL Laurel Park , Sunday, October 04, 2026, Race 6 MCL 5 1/2 furlongs $30,040 Fillies and Mares 3, 4, 5 6 yo's Dirt MY Curly Divining Divining Rod - She's Curly Daring Delight Golden Lad - Dare to Be Take On the Jewels Divining Rod - Leroys Jewel View Details"
+    },
+    {
+      "title": "Laurel Park, Race 4, ALW",
+      "details": "Laurel Park, Race 4, ALW Laurel Park , Sunday, October 04, 2026, Race 4 ALW 5 1/2 furlongs $48,000 Fillies and Mares 3 yo's up Dirt MY Tacit Value Tacitus - Enterprise Value Blo by the Field Blofeld - Seville's Princess Destination Liam's Map - Caught Dream'n View Details"
+    },
+    {
       "title": "Laurel Park, Race 2, MCL",
       "details": "Laurel Park, Race 2, MCL Laurel Park , Sunday, October 04, 2026, Race 2 MCL 1 mile $41,700 3, 4, 5 6 yo's Dirt MY Love Yourself Blofeld - La Piu Bella Nantucket Love Higher Power - Playful Love President Camacho Enticed - Steam View Details"
     },
@@ -433,30 +469,6 @@
     {
       "title": "Miss Grillo S. (G2T)",
       "details": "Miss Grillo S. (G2T) Belmont Park , Saturday, October 03, 2026, Race 7 STK 1 1/16 miles $250,000 Fillies 2 yo Turf FM Domestic Agenda American Pharoah - Smuggle Bounce Back Hard Spun - Bouncy Golden Siren Bolt d'Oro - Sea Song View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Matron S. (G3T)",
-      "details": "Matron S. (G3T) Belmont Park , Saturday, October 03, 2026, Race 6 STK 6 furlongs $200,000 Fillies 2 yo Inner turf FM Brickyard Belle Yaupon - Ready to Unleash Harper's Corner Speaker's Corner - Toscana More Champagne Golden Pal - Wildcat Gaze View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Belmont Park, Race 5, MSW",
-      "details": "Belmont Park, Race 5, MSW Belmont Park , Saturday, October 03, 2026, Race 5 MSW 6 furlongs $100,000 Fillies 2 yo Dirt FT Fantasy Fortune Essential Quality - Georgia Snow Lady Azul Name Changer - One by One D'muehl Army Mule - Bonbon View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 4, MSW",
-      "details": "Belmont Park, Race 4, MSW Belmont Park , Saturday, October 03, 2026, Race 4 MSW 1 1/16 miles $100,000 2 yo Turf FM Permanent Record (GB) New Bay (GB) - Electress (GB) Harbaugh Not This Time - Courteous Road to Ravello Corniche - Amalfi Queen View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 3, MSW",
-      "details": "Belmont Park, Race 3, MSW Belmont Park , Saturday, October 03, 2026, Race 3 MSW 6 furlongs $100,000 Fillies 2 yo Inner turf FM Forecheck Maxfield - Pammi Dearest Annotate Honest Mischief - Tiz Bailee Plum Island Yaupon - Canyon Ready View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 1, MSW",
-      "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, October 03, 2026, Race 1 MSW 1 1/16 miles $100,000 2 yo Dirt FT Mystik Bayou Wells Bayou - Ma'am Tap Our Way Tapit - Yawkey Way Election Hero Early Voting - Sexy Dream View Details Watch Replay"
-    },
-    {
-      "title": "Belterra Park, Race 4, MSW",
-      "details": "Belterra Park, Race 4, MSW Belterra Park , Saturday, October 03, 2026, Race 4 MSW 1 mile $13,000 3, 4, 5 6 yo's Turf FM Delgany Boy Yoshida (JPN) - Run a Round Turn Him Loose Charming Kitten - Bremusa Just Munny Justify - Munny Spunt View Details Watch Replay"
     }
   ]
 }
