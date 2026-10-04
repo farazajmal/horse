@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 04, 2026 - 07:00 PM",
+  "last_updated": "October 04, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -178,6 +178,18 @@
       "dist": "1 1/8 miles (Turf)",
       "purse": "$750,000",
       "date": "10/10",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New Mexico State Fair Thoroughbred Futurity",
+      "raw_name": "New Mexico State Fair Thoroughbred Futurity",
+      "track": "Albuquerque",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$160,000",
+      "date": "10/11",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -411,12 +423,44 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 8, AOC",
+      "details": "Belmont Park, Race 8, AOC Belmont Park , Sunday, October 04, 2026, Race 8 AOC 6 1/2 furlongs $108,000 3 yo's up Dirt FT Gate to Wire Munnings - Sansibar Jewel Suremeanttoobe Complexity - Suremeantto Captain Cook Practical Joke - Pow Wow Wow View Details"
+    },
+    {
+      "title": "Belmont Park, Race 7, ALW",
+      "details": "Belmont Park, Race 7, ALW Belmont Park , Sunday, October 04, 2026, Race 7 ALW 1 1/16 miles $105,000 Fillies and Mares 3 yo's up Turf GD Silly Season Constitution - Elusive Rumour Factory Setting McKinzie - Above Fashion Considerate City Temple City - Considerate View Details"
+    },
+    {
+      "title": "Belmont Park, Race 6, SOC",
+      "details": "Belmont Park, Race 6, SOC Belmont Park , Sunday, October 04, 2026, Race 6 SOC 6 furlongs $75,000 3 yo's up Inner turf GD Global Prosperity Global Campaign - Prosperite Moment's Notice More Than Ready - Profound Moment Tacticality Essential Quality - Corps de Ballet View Details"
+    },
+    {
+      "title": "Belmont Park, Race 5, AOC",
+      "details": "Belmont Park, Race 5, AOC Belmont Park , Sunday, October 04, 2026, Race 5 AOC 1 1/16 miles $110,000 3 yo's up Dirt FT Pentathlon Speightstown - Parade Tip Top Thomas Volatile - Attempt to Name Georgia Magic Good Magic - Nightlife Baby View Details"
+    },
+    {
       "title": "Belmont Park, Race 4, MSW",
       "details": "Belmont Park, Race 4, MSW Belmont Park , Sunday, October 04, 2026, Race 4 MSW 1 1/16 miles $100,000 Fillies 2 yo Turf FM Hunter Creek War Front - Aspening Sellonthenews (GB) Lope de Vega (IRE) - Marbling (GB) Harmony Mill Liam's Map - Running Creek View Details"
     },
     {
       "title": "Belmont Park, Race 3, MCL",
       "details": "Belmont Park, Race 3, MCL Belmont Park , Sunday, October 04, 2026, Race 3 MCL 6 furlongs $59,000 Fillies and Mares 3 yo's up Inner turf FM I Need a Miracle Omaha Beach - Filibustin Empress New Groove Seeking the Soul - Holy Empress Zinaida Charlatan - Midnight Treasure View Details"
+    },
+    {
+      "title": "Gulfstream Park, Race 6, MSW",
+      "details": "Gulfstream Park, Race 6, MSW Gulfstream Park , Sunday, October 04, 2026, Race 6 MSW 7 furlongs $50,000 Fillies and Mares 3 yo's up Dirt FT Lady Rockula Connect - Scatmeifucan Ibis Twirling Candy - Midsummer Bird Bon Vivant Union Rags - Simply Confection View Details"
+    },
+    {
+      "title": "Keeneland, Race 6, CLM",
+      "details": "Keeneland, Race 6, CLM Keeneland , Sunday, October 04, 2026, Race 6 CLM 7 furlongs $84,000 3 yo's up Dirt FT Tarantino Pioneerof the Nile - Without Delay Billal Street Sense - Bambalina Flying Liam Liam's Map - Fly Me to Dubai View Details"
+    },
+    {
+      "title": "Keeneland, Race 5, ALW",
+      "details": "Keeneland, Race 5, ALW Keeneland , Sunday, October 04, 2026, Race 5 ALW 5 1/2 furlongs $130,000 3 yo's up Turf FM Guy Smiley Hootenanny - Different Dreams (FR) Our Starry Night Maclean's Music - Berncredit Ortley Avenue (IRE) Bungle Inthejungle (GB) - Titian Saga (IRE) View Details"
+    },
+    {
+      "title": "Keeneland, Race 4, MSW",
+      "details": "Keeneland, Race 4, MSW Keeneland , Sunday, October 04, 2026, Race 4 MSW 1 1/16 miles $110,000 2 yo Dirt FT Damavand Not This Time - Tempers Rising Belzoni Gun Runner - Flor de La Mar Barrel Roll Gun Runner - Acrobatique View Details"
     },
     {
       "title": "Keeneland, Race 2, MCL",
@@ -427,48 +471,16 @@
       "details": "Keeneland, Race 1, STR Keeneland , Sunday, October 04, 2026, Race 1 STR 7 furlongs $55,000 3 yo's up Dirt FT Just Asap Maxfield - Movie Moment Good Mojo Mo Town - Castinette Dancer Il Cavallino Into Mischief - Daisy View Details"
     },
     {
+      "title": "Laurel Park, Race 9, AOC",
+      "details": "Laurel Park, Race 9, AOC Laurel Park , Sunday, October 04, 2026, Race 9 AOC 7 furlongs $49,000 Fillies 2 yo Dirt MY Trinity Happy Saver - More for Me Whose Notion Great Notion - Whos to Blame Almas Gone Gamblin Highly Motivated - Piccolo Flats View Details"
+    },
+    {
+      "title": "Laurel Park, Race 8, ALW",
+      "details": "Laurel Park, Race 8, ALW Laurel Park , Sunday, October 04, 2026, Race 8 ALW 1 mile $48,000 Fillies and Mares 3 yo's up Dirt MY Ecliptical Gina Eclipticalspraline - Holiday Hopes Magic Beam Ghostzapper - Peach of a Gal Kobe's Hope Kobe's Back - Diamonds Only View Details"
+    },
+    {
       "title": "Laurel Park, Race 6, MCL",
       "details": "Laurel Park, Race 6, MCL Laurel Park , Sunday, October 04, 2026, Race 6 MCL 5 1/2 furlongs $30,040 Fillies and Mares 3, 4, 5 6 yo's Dirt MY Curly Divining Divining Rod - She's Curly Daring Delight Golden Lad - Dare to Be Take On the Jewels Divining Rod - Leroys Jewel View Details"
-    },
-    {
-      "title": "Laurel Park, Race 4, ALW",
-      "details": "Laurel Park, Race 4, ALW Laurel Park , Sunday, October 04, 2026, Race 4 ALW 5 1/2 furlongs $48,000 Fillies and Mares 3 yo's up Dirt MY Tacit Value Tacitus - Enterprise Value Blo by the Field Blofeld - Seville's Princess Destination Liam's Map - Caught Dream'n View Details"
-    },
-    {
-      "title": "Laurel Park, Race 2, MCL",
-      "details": "Laurel Park, Race 2, MCL Laurel Park , Sunday, October 04, 2026, Race 2 MCL 1 mile $41,700 3, 4, 5 6 yo's Dirt MY Love Yourself Blofeld - La Piu Bella Nantucket Love Higher Power - Playful Love President Camacho Enticed - Steam View Details"
-    },
-    {
-      "title": "Albuquerque, Race 3, ALW",
-      "details": "Albuquerque, Race 3, ALW Albuquerque , Saturday, October 03, 2026, Race 3 ALW 6 furlongs $37,200 3 yo's up Dirt FT Let Him Be Sway Away - Bertrando's Lady Drinkroundthetruth Abstraction - Mockingjay McThanks McKenna's Justice - Thanks Be to Gold View Details Watch Replay"
-    },
-    {
-      "title": "Albuquerque, Race 2, ALW",
-      "details": "Albuquerque, Race 2, ALW Albuquerque , Saturday, October 03, 2026, Race 2 ALW 6 furlongs $29,800 Fillies and Mares 3 yo's up Dirt FT Sunset Sizzle McKinzie - Pacific Heat Best Beach Omaha Beach - Best of Me Big A's Little One Mr. Big - The Last Ruler View Details Watch Replay"
-    },
-    {
-      "title": "Albuquerque, Race 1, MSW",
-      "details": "Albuquerque, Race 1, MSW Albuquerque , Saturday, October 03, 2026, Race 1 MSW 5 1/2 furlongs $39,600 Fillies 2 yo Dirt FT Deceiving Angel Marking - Atillas Angel Bernlet Bernster - Where's Scarlet Perfect Style Right Rigger - Lindy Hoppin View Details Watch Replay"
-    },
-    {
-      "title": "Pilgrim S. (G2T)",
-      "details": "Pilgrim S. (G2T) Belmont Park , Saturday, October 03, 2026, Race 11 STK 1 1/16 miles $250,000 2 yo Turf FM Let Em Know Jackie's Warrior - America's Tale Roscoe Goose Olympiad - Gypsy Glance Pass On By Not This Time - Mata Mua View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Futurity S. (G3T)",
-      "details": "Futurity S. (G3T) Belmont Park , Saturday, October 03, 2026, Race 10 STK 6 furlongs $200,000 2 yo Inner turf FM Good to Be King War Front - Gypsy Touch Regent's Park Bolt d'Oro - Spark Luminous Beauty Flameaway - Sly Beauty View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Frizette S. (G1)",
-      "details": "Frizette S. (G1) Belmont Park , Saturday, October 03, 2026, Race 9 STK 1 mile $500,000 Fillies 2 yo Dirt FT Dotsy Tacitus - Coqui Rum Twist Mandaloun - Rumandice Revenge of the Sis Girvin - Hardcore Candy View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Champagne S. (G1)",
-      "details": "Champagne S. (G1) Belmont Park , Saturday, October 03, 2026, Race 8 STK 1 mile $500,000 2 yo Dirt FT U. S. S. Valor War of Will - Spangled Banner Gaudreau Nyquist - Free Cover Club Reign Core Beliefs - Bag of Tricks View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Miss Grillo S. (G2T)",
-      "details": "Miss Grillo S. (G2T) Belmont Park , Saturday, October 03, 2026, Race 7 STK 1 1/16 miles $250,000 Fillies 2 yo Turf FM Domestic Agenda American Pharoah - Smuggle Bounce Back Hard Spun - Bouncy Golden Siren Bolt d'Oro - Sea Song View Details Watch Replay View Stakes Recap"
     }
   ]
 }
