@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 04, 2026 - 03:00 PM",
+  "last_updated": "October 04, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -399,6 +399,10 @@
   ],
   "recent_results": [
     {
+      "title": "Laurel Park, Race 2, MCL",
+      "details": "Laurel Park, Race 2, MCL Laurel Park , Sunday, October 04, 2026, Race 2 MCL 1 mile $41,700 3, 4, 5 6 yo's Dirt MY Love Yourself Blofeld - La Piu Bella Nantucket Love Higher Power - Playful Love President Camacho Enticed - Steam View Details"
+    },
+    {
       "title": "Albuquerque, Race 3, ALW",
       "details": "Albuquerque, Race 3, ALW Albuquerque , Saturday, October 03, 2026, Race 3 ALW 6 furlongs $37,200 3 yo's up Dirt FT Let Him Be Sway Away - Bertrando's Lady Drinkroundthetruth Abstraction - Mockingjay McThanks McKenna's Justice - Thanks Be to Gold View Details Watch Replay"
     },
@@ -453,10 +457,6 @@
     {
       "title": "Belterra Park, Race 4, MSW",
       "details": "Belterra Park, Race 4, MSW Belterra Park , Saturday, October 03, 2026, Race 4 MSW 1 mile $13,000 3, 4, 5 6 yo's Turf FM Delgany Boy Yoshida (JPN) - Run a Round Turn Him Loose Charming Kitten - Bremusa Just Munny Justify - Munny Spunt View Details Watch Replay"
-    },
-    {
-      "title": "Belterra Park, Race 1, MSW",
-      "details": "Belterra Park, Race 1, MSW Belterra Park , Saturday, October 03, 2026, Race 1 MSW 6 furlongs $13,000 Fillies 2 yo Dirt FT Rockaway Beach Vino Rosso - Blues Corner High Class Broad Temple City - Discreet Meating Credit Spreads Global Campaign - Above Mine View Details Watch Replay"
     }
   ]
 }
