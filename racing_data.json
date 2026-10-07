@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 07, 2026 - 07:00 PM",
+  "last_updated": "October 07, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -289,6 +289,42 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Sophomore S.",
+      "raw_name": "Sophomore S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (All Weather Track)",
+      "purse": "$125,000",
+      "date": "10/10",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "Ontario Damsel S.",
+      "raw_name": "Ontario Damsel S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (All Weather Track)",
+      "purse": "$125,000",
+      "date": "10/10",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "Silver Creek S.",
+      "raw_name": "Silver Creek S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (All Weather Track)",
+      "purse": "$150,000",
+      "date": "10/10",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
     },
     {
       "name": "New Mexico State Fair Thoroughbred Futurity",
@@ -615,6 +651,18 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 6, SOC",
+      "details": "Belmont Park, Race 6, SOC Belmont Park , Wednesday, October 07, 2026, Race 6 SOC 1 1/16 miles $75,000 3 yo's up Turf FM Hammerhead War Front - Figarella's Queen In the Dark Air Force Blue - She's Right Again Hard Circle Hard Spun - Fierce for Sul View Details"
+    },
+    {
+      "title": "Belmont Park, Race 5, MCL",
+      "details": "Belmont Park, Race 5, MCL Belmont Park , Wednesday, October 07, 2026, Race 5 MCL 6 1/2 furlongs $45,000 2 yo Dirt FT Uncle Gene Divining Rod - Stonerageous Max O Nidas Drain the Clock - Miselly Ogugua Vekoma - Foxtrot Sally View Details"
+    },
+    {
+      "title": "Belmont Park, Race 4, AOC",
+      "details": "Belmont Park, Race 4, AOC Belmont Park , Wednesday, October 07, 2026, Race 4 AOC One And Five Sixteenth Miles $105,000 3 yo's up Inner turf FM Iron Sight Justify - Shadowing Urgency Knicks Go - Janetstickettocats Harrow Lea - Camille Garey View Details"
+    },
+    {
       "title": "Belmont Park, Race 2, MSW",
       "details": "Belmont Park, Race 2, MSW Belmont Park , Wednesday, October 07, 2026, Race 2 MSW 1 mile $100,000 Fillies 2 yo Dirt FT Mioruilt Good Magic - Tamboz Badittude Uncle Mo - Donatella Ready Set Roll Upstart - Adventurous Lady View Details"
     },
@@ -627,8 +675,16 @@
       "details": "Belterra Park, Race 5, ALW Belterra Park , Wednesday, October 07, 2026, Race 5 ALW 6 1/2 furlongs $26,500 Fillies and Mares 3 yo's up Dirt FT Carmel Rose Cinco Charlie - Beautiful Wife Toastmaster Take Charge Indy - Champagne All Day Lipstick N Lashes Rivers Run Deep - Lipstick Stain View Details"
     },
     {
+      "title": "Delaware Park, Race 5, MSW",
+      "details": "Delaware Park, Race 5, MSW Delaware Park , Wednesday, October 07, 2026, Race 5 MSW 1 mile $45,000 2 yo Turf YL Diviner Mystic Guide - Rue de Cry Captain Cody Street Sense - Okeeheelee (GB) Loyal Prince Cairo Prince - Keep Right View Details"
+    },
+    {
       "title": "Delaware Park, Race 3, MCL",
       "details": "Delaware Park, Race 3, MCL Delaware Park , Wednesday, October 07, 2026, Race 3 MCL 1 mile $32,000 2 yo Turf YL Ocala Gold Golden Pal - First Romance Royal Authentic Authentic - Hrasky Checkorsee Engage - April Snow View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 7, AOC",
+      "details": "Finger Lakes, Race 7, AOC Finger Lakes , Wednesday, October 07, 2026, Race 7 AOC 6 furlongs $26,000 3 yo's up Dirt FT East Coast Girl Laoban - Myakka City Puckish Honest Mischief - Helen's Tiger Sorority Prank Maximus Mischief - Forget It View Details"
     },
     {
       "title": "Finger Lakes, Race 4, ALW",
@@ -639,40 +695,20 @@
       "details": "Finger Lakes, Race 3, ALW Finger Lakes , Wednesday, October 07, 2026, Race 3 ALW 5 1/2 furlongs $27,300 3 yo's up Dirt FT Lord King King for a Day - Higher Incentive Banker's Jet Classic Empire - Poppy's Baby Girl (GB) Guilty Twirling Candy - Pharoah Fawcett View Details"
     },
     {
-      "title": "Keeneland, Race 3, AOC",
-      "details": "Keeneland, Race 3, AOC Keeneland , Wednesday, October 07, 2026, Race 3 AOC 6 furlongs $140,000 Fillies and Mares 3 yo's up Dirt FT Velvet Devil Kantharos - Tizlegal Justinqueso Ghostzapper - Fiesta Silent Law Tiz the Law - Southern Silence View Details"
+      "title": "Horseshoe Indianapolis, Race 3, ALW",
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Wednesday, October 07, 2026, Race 3 ALW 6 furlongs $46,240 Fillies and Mares 3 yo's up Dirt FT I'm Game Game Winner - Funny Feeling Let's Go Barbie Midshipman - Greek Mythology Signdsealddeliverd Mo Town - Sarasota Sunrise View Details"
     },
     {
-      "title": "Keeneland, Race 2, MCL",
-      "details": "Keeneland, Race 2, MCL Keeneland , Wednesday, October 07, 2026, Race 2 MCL 7 furlongs $48,000 Fillies and Mares 3 yo's up Dirt FT Red Rainbow Vino Rosso - Malibu Rainbow My My My Delilah Classic Empire - Brazos Queen Wado Wave Mo Town - Knk's Dolce Vita View Details"
+      "title": "Horseshoe Indianapolis, Race 2, MSW",
+      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Wednesday, October 07, 2026, Race 2 MSW 1 mile $38,500 2 yo Dirt FT Unbridled Moon Unbridled Express - Moonshine Dancing Mo Rambo Sahara Sky - Gospel Singer Gabe Doesit Again Sleepy Eyes Todd - Everybody Does It View Details"
     },
     {
-      "title": "Keeneland, Race 1, STR",
-      "details": "Keeneland, Race 1, STR Keeneland , Wednesday, October 07, 2026, Race 1 STR 1 mile $50,000 3 yo's up Dirt FT Military Road Quality Road - Private Ensign Global Sensation Into Mischief - Carnival Court Fountain Run Runhappy - Mercy Ann View Details"
+      "title": "Keeneland, Race 6, AOC",
+      "details": "Keeneland, Race 6, AOC Keeneland , Wednesday, October 07, 2026, Race 6 AOC 1 1/16 miles $130,000 Fillies and Mares 3 yo's up Dirt FT So There She Was Munnings - Risk Premium Clairita Gun Runner - Here Music Amarth McKinzie - Criminal Mischief View Details"
     },
     {
-      "title": "Thistledown, Race 4, ALW",
-      "details": "Thistledown, Race 4, ALW Thistledown , Wednesday, October 07, 2026, Race 4 ALW 1 mile $35,800 3 yo's up Dirt FT Dream Boy Dreamliner - Reigning Gal Boaz Sky Kingdom - Miss Posse Sammy's Halo Drill - Reflecting Riva View Details"
-    },
-    {
-      "title": "Thistledown, Race 3, MSW",
-      "details": "Thistledown, Race 3, MSW Thistledown , Wednesday, October 07, 2026, Race 3 MSW 6 furlongs $33,900 2 yo Dirt FT Kiss From Mom Kiss the Ghost - Gift From Mom Slingshot Dominus - Untainted Whiskey River Run Rivers Run Deep - Hampton Dancer View Details"
-    },
-    {
-      "title": "Thistledown, Race 1, MSW",
-      "details": "Thistledown, Race 1, MSW Thistledown , Wednesday, October 07, 2026, Race 1 MSW 6 furlongs $33,900 2 yo Dirt FT Silence Earthling Dominus - Heaven Sent Angel Drill Sgt. Gabe Drill - Le Club Colorissimo Need More Mo - Resilient Colors View Details"
-    },
-    {
-      "title": "Finger Lakes, Race 7, ALW",
-      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Tuesday, October 06, 2026, Race 7 ALW 1 1/16 miles $26,500 3 yo's up Dirt FT Isola d'Oro Goldencents - Piccola Isola Start the Day Upstart - Celtic Sunrise Rumblyoungmanrumbl Goldencents - Nothingbutasmile View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 5, MSW",
-      "details": "Finger Lakes, Race 5, MSW Finger Lakes , Tuesday, October 06, 2026, Race 5 MSW 6 furlongs $32,600 3 yo's up Dirt FT Tony Hooks Joevia - Cassidy's Reward Always Packen Tale of Ekati - Vivant Gitole Mitole - Gitchee Goomie View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 4, ALW",
-      "details": "Finger Lakes, Race 4, ALW Finger Lakes , Tuesday, October 06, 2026, Race 4 ALW 5 1/2 furlongs $26,500 Fillies and Mares 3 yo's up Dirt FT Honorable Becky Honor A. P. - Haughty Girl Mermaid Magic Authentic - Aguilera Playingon Broadway Bustin Stones - Any Valid Saturday View Details Watch Replay"
+      "title": "Keeneland, Race 5, STR",
+      "details": "Keeneland, Race 5, STR Keeneland , Wednesday, October 07, 2026, Race 5 STR 6 furlongs $63,000 Fillies 2 yo Dirt FT Lexi's Charm Lexitonian - Stormy Allure Cardio Cat Catalina Cruiser - Mo Shopping For the Win Drain the Clock - Fleeting Glimpse View Details"
     }
   ]
 }
