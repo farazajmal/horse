@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 08, 2026 - 03:00 AM",
+  "last_updated": "October 08, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
     {
@@ -9,7 +9,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/8",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -651,6 +651,10 @@
   ],
   "recent_results": [
     {
+      "title": "Albuquerque, Race 8, AOC",
+      "details": "Albuquerque, Race 8, AOC Albuquerque , Wednesday, October 07, 2026, Race 8 AOC 5 1/2 furlongs $33,600 3 yo's up Dirt FT Double Ride Candy Ride (ARG) - Double Medal Discreet Mob Dads Caps - Noise of the Crowd Jaime's Commitment The Lieutenant - Chokonni View Details Watch Replay"
+    },
+    {
       "title": "Albuquerque, Race 6, ALW",
       "details": "Albuquerque, Race 6, ALW Albuquerque , Wednesday, October 07, 2026, Race 6 ALW 5 1/2 furlongs $30,400 Fillies and Mares 3 yo's up Dirt FT R R Bougie Nyquist - More Mojo Brazilian Queen Shackleford - Parisienne (BRZ) Ready to Dial Dialed In - Lake Turkana View Details Watch Replay"
     },
@@ -705,10 +709,6 @@
     {
       "title": "Delaware Park, Race 5, MSW",
       "details": "Delaware Park, Race 5, MSW Delaware Park , Wednesday, October 07, 2026, Race 5 MSW 1 mile $45,000 2 yo Turf YL Diviner Mystic Guide - Rue de Cry Captain Cody Street Sense - Okeeheelee (GB) Loyal Prince Cairo Prince - Keep Right View Details Watch Replay"
-    },
-    {
-      "title": "Delaware Park, Race 3, MCL",
-      "details": "Delaware Park, Race 3, MCL Delaware Park , Wednesday, October 07, 2026, Race 3 MCL 1 mile $32,000 2 yo Turf YL Ocala Gold Golden Pal - First Romance Royal Authentic Authentic - Hrasky Checkorsee Engage - April Snow View Details Watch Replay"
     }
   ]
 }
