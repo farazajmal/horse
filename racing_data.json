@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 08, 2026 - 03:00 PM",
+  "last_updated": "October 08, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -651,6 +651,18 @@
   ],
   "recent_results": [
     {
+      "title": "Belterra Park, Race 1, ALW",
+      "details": "Belterra Park, Race 1, ALW Belterra Park , Thursday, October 08, 2026, Race 1 ALW 5 1/2 furlongs $21,300 Fillies and Mares 3 yo's up Dirt FT View Details"
+    },
+    {
+      "title": "Thistledown, Race 3, MSW",
+      "details": "Thistledown, Race 3, MSW Thistledown , Thursday, October 08, 2026, Race 3 MSW 6 furlongs $33,900 2 yo Dirt FT Southern Dawn Goldencents - High Legend Snitch Honor Code - Paid Informant All Nine Yards Temple City - Merry Lady View Details"
+    },
+    {
+      "title": "Thistledown, Race 1, ALW",
+      "details": "Thistledown, Race 1, ALW Thistledown , Thursday, October 08, 2026, Race 1 ALW 6 furlongs $35,800 Fillies and Mares 3 yo's up Dirt FT Golden Haul Goldencents - Secret Haul Vesper Martini Cloud Computing - U and Tequila Dollar Dance Broken Vow - Tangueray Miss View Details"
+    },
+    {
       "title": "Albuquerque, Race 8, AOC",
       "details": "Albuquerque, Race 8, AOC Albuquerque , Wednesday, October 07, 2026, Race 8 AOC 5 1/2 furlongs $33,600 3 yo's up Dirt FT Double Ride Candy Ride (ARG) - Double Medal Discreet Mob Dads Caps - Noise of the Crowd Jaime's Commitment The Lieutenant - Chokonni View Details Watch Replay"
     },
@@ -697,18 +709,6 @@
     {
       "title": "Belmont Park, Race 1, AOC",
       "details": "Belmont Park, Race 1, AOC Belmont Park , Wednesday, October 07, 2026, Race 1 AOC 1 1/4 miles $108,000 Fillies and Mares 3 yo's up Inner turf FM Weighted Average English Channel - Charreada Amie's Symphony Mendelssohn - Amie's Legend Lady Firefoot Temple City - Maryland Mist View Details Watch Replay"
-    },
-    {
-      "title": "Belterra Park, Race 5, ALW",
-      "details": "Belterra Park, Race 5, ALW Belterra Park , Wednesday, October 07, 2026, Race 5 ALW 6 1/2 furlongs $26,500 Fillies and Mares 3 yo's up Dirt FT Carmel Rose Cinco Charlie - Beautiful Wife Toastmaster Take Charge Indy - Champagne All Day Lipstick N Lashes Rivers Run Deep - Lipstick Stain View Details Watch Replay"
-    },
-    {
-      "title": "Delaware Park, Race 8, AOC",
-      "details": "Delaware Park, Race 8, AOC Delaware Park , Wednesday, October 07, 2026, Race 8 AOC 5 furlongs $47,000 Fillies and Mares 3 yo's up Turf YL Duboff Handsome Mike - Marquet Madness Obstreperous Sky Mesa - Introspective Noquestionaboutit Great Notion - Magician'squestion View Details Watch Replay"
-    },
-    {
-      "title": "Delaware Park, Race 5, MSW",
-      "details": "Delaware Park, Race 5, MSW Delaware Park , Wednesday, October 07, 2026, Race 5 MSW 1 mile $45,000 2 yo Turf YL Diviner Mystic Guide - Rue de Cry Captain Cody Street Sense - Okeeheelee (GB) Loyal Prince Cairo Prince - Keep Right View Details Watch Replay"
     }
   ]
 }
