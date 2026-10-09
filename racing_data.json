@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 09, 2026 - 03:00 PM",
+  "last_updated": "October 09, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -771,6 +771,10 @@
   ],
   "recent_results": [
     {
+      "title": "Gulfstream Park, Race 1, MCL",
+      "details": "Gulfstream Park, Race 1, MCL Gulfstream Park , Friday, October 09, 2026, Race 1 MCL 1 mile $33,500 Fillies 2 yo Turf GD Turkish Surprise Awesome Slew - Magic Surprise Swell Independence Hall - Dying to Dance Causeshzprecocious Army Mule - Causeway of Dreams View Details"
+    },
+    {
       "title": "Belmont Park, Race 8, AOC",
       "details": "Belmont Park, Race 8, AOC Belmont Park , Thursday, October 08, 2026, Race 8 AOC 6 furlongs $108,000 3 yo's up Dirt FT Factually Correct Tourist - Kacy Lauren Party in the Army Army Mule - Party Like Grandma Bold Fortune Central Banker - Might Be View Details Watch Replay"
     },
@@ -825,10 +829,6 @@
     {
       "title": "Charles Town, Race 2, AOC",
       "details": "Charles Town, Race 2, AOC Charles Town Races Slots , Thursday, October 08, 2026, Race 2 AOC 1 1/16 miles $30,800 3 yo's up Dirt FT Nate the Great West Coast - Conquest Babayaga Brother Conway Lord Nelson - Stephanie Jayne Nola Boss Holy Boss - Tulanian View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 1, ALW",
-      "details": "Charles Town, Race 1, ALW Charles Town Races Slots , Thursday, October 08, 2026, Race 1 ALW 7 furlongs $34,100 Fillies and Mares 3 yo's up Dirt FT Dolce Vino Omaha Beach - Anita Partner (IRE) Chill Bean Gunnevera - Where's Kate Our Memories Blofeld - Sweetest Memory View Details Watch Replay"
     }
   ]
 }
