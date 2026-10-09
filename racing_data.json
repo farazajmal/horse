@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 09, 2026 - 01:00 PM",
+  "last_updated": "October 09, 2026 - 03:00 PM",
   "year": 2026,
   "races": [
     {
@@ -325,6 +325,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Clasico Dia de la Raza S. (G3)",
+      "raw_name": "Clasico Dia de la Raza S. (G3)",
+      "track": "Camarero Race Track",
+      "grade": "Grade 3",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "10/11",
+      "country": "Puerto Rico",
+      "flag": "🇵🇷",
+      "isUsa": false
     },
     {
       "name": "Franklin S. (G2T)",
