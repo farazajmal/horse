@@ -1,31 +1,7 @@
 {
-  "last_updated": "October 10, 2026 - 03:00 AM",
+  "last_updated": "October 10, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Magnolia S.",
-      "raw_name": "Magnolia S.",
-      "track": "Delta Downs",
-      "grade": "Stakes",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Sycamore S. (G2T)",
-      "raw_name": "Sycamore S. (G2T)",
-      "track": "Keeneland",
-      "grade": "Grade 2",
-      "dist": "1 1/2 miles (Turf)",
-      "purse": "$400,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Carlos Salazar S.",
       "raw_name": "Carlos Salazar S.",
@@ -33,7 +9,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -45,7 +21,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$200,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -57,7 +33,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Turf)",
       "purse": "$175,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -69,7 +45,7 @@
       "grade": "Grade 3",
       "dist": "1 3/16 miles (Inner turf)",
       "purse": "$200,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -81,7 +57,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -93,7 +69,7 @@
       "grade": "Stakes",
       "dist": "4 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -105,7 +81,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -117,7 +93,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -129,7 +105,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +117,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +129,7 @@
       "grade": "Stakes",
       "dist": "4 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -165,7 +141,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$125,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -177,7 +153,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$300,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -189,7 +165,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -201,7 +177,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$50,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -213,7 +189,7 @@
       "grade": "Stakes",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$50,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -225,7 +201,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -237,7 +213,7 @@
       "grade": "Grade 1",
       "dist": "1 1/8 miles (Turf)",
       "purse": "$750,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -249,7 +225,7 @@
       "grade": "Stakes",
       "dist": "3 1/4 miles (Timber)",
       "purse": "$50,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -261,7 +237,7 @@
       "grade": "Stakes",
       "dist": "2 1/8 miles (Hurdle)",
       "purse": "$50,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -273,7 +249,7 @@
       "grade": "Stakes",
       "dist": "About 6 1/2 furlongs (Downhill turf)",
       "purse": "$100,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -285,7 +261,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (All Weather Track)",
       "purse": "$125,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -297,7 +273,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (All Weather Track)",
       "purse": "$125,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -309,7 +285,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (All Weather Track)",
       "purse": "$150,000",
-      "date": "10/10",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -819,6 +795,10 @@
       "details": "Belterra Park, Race 4, MSW Belterra Park , Friday, October 09, 2026, Race 4 MSW 5 1/2 furlongs $20,500 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Double Sandy Trappe Shot - Arequipa Stoptalkingsarah Snag - Chain Yanker Beyond Say Da Big Hoss - Silvertail View Details Watch Replay"
     },
     {
+      "title": "Charles Town, Race 7, ALW",
+      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Friday, October 09, 2026, Race 7 ALW 6 1/2 furlongs $35,300 Fillies and Mares 3 yo's up Dirt FT Can't Deny This Candygram - Won't Be Denied Our Street Angel Street Boss - Rocky's Angel Bully's Notion Bullsbay - Silent Notion View Details Watch Replay"
+    },
+    {
       "title": "Charles Town, Race 6, AOC",
       "details": "Charles Town, Race 6, AOC Charles Town Races Slots , Friday, October 09, 2026, Race 6 AOC 6 1/2 furlongs $36,600 3 yo's up Dirt FT Dean Delivers Cajun Breeze - Slick and True Yuletide Gallop Take Charge Indy - Holiday for Kitten Re Markably Hoppertunity - A Dicey Dame View Details Watch Replay"
     },
@@ -827,20 +807,16 @@
       "details": "Charles Town, Race 5, MSW Charles Town Races Slots , Friday, October 09, 2026, Race 5 MSW 6 1/2 furlongs $32,900 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Far Away Eyes Denis of Cork - Bye Bye Blues Silent Sam By My Standards - Tavrida Angels Are Bowling Midnight Storm - Benedicta View Details Watch Replay"
     },
     {
+      "title": "Century Downs, Race 9, AOC",
+      "details": "Century Downs, Race 9, AOC CENTURY DOWNS , Friday, October 09, 2026, Race 9 AOC 6 1/2 furlongs $15,115 Fillies and Mares 3 yo's up Dirt FT Hoax Practical Joke - T'as d'Beaux Yeux Goldie Monroe Sungold - Gosailgo Moonlit Courage Omaha Beach - Clair de Lune View Details"
+    },
+    {
       "title": "Magnolia S. (BT)",
       "details": "Magnolia S. (BT) Delta Downs , Friday, October 09, 2026, Race 8 STK 7 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Little Miss Curlin Charlatan - Mylady Curlin Secret Faith Aurelius Maximus - St. Jean Mo for Us Mo Tom - Bovell Road View Details Watch Replay"
     },
     {
       "title": "Delta Downs, Race 7, ALW",
       "details": "Delta Downs, Race 7, ALW Delta Downs , Friday, October 09, 2026, Race 7 ALW 6 1/2 furlongs $36,000 Fillies and Mares 3 yo's up Dirt FT Brisa Veloz Munnings - Canny No Map Needed Liam's Map - Big Birthday Caroom's Croupier Hamazing Destiny - Paddle Out View Details Watch Replay"
-    },
-    {
-      "title": "Delta Downs, Race 6, ALW",
-      "details": "Delta Downs, Race 6, ALW Delta Downs , Friday, October 09, 2026, Race 6 ALW 7 1/2 furlongs $44,000 3 yo's up Dirt FT Mogumbeaux Mo Tom - Fiftyshadesofnay Inchhighatahundred Daaher - Said and Done Seehoss Awesome Bet - Edacious Reality View Details Watch Replay"
-    },
-    {
-      "title": "Delta Downs, Race 5, MSW",
-      "details": "Delta Downs, Race 5, MSW Delta Downs , Friday, October 09, 2026, Race 5 MSW 7 furlongs $35,000 2 yo Dirt FT Mo Sippi Modernist - Ethel Mertz Forever Chapin Vekoma - Forevernoa Bravo Lima American Pharoah - Lia Marina View Details Watch Replay"
     }
   ]
 }
