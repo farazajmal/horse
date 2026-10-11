@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 11, 2026 - 03:00 PM",
+  "last_updated": "October 11, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -274,6 +274,18 @@
       "dist": "7 furlongs (Dirt)",
       "purse": "$400,000",
       "date": "10/17",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Rood Riddle Dowager S. (G3T)",
+      "raw_name": "Rood Riddle Dowager S. (G3T)",
+      "track": "Keeneland",
+      "grade": "Grade 3",
+      "dist": "1 1/2 miles (Turf)",
+      "purse": "$350,000",
+      "date": "10/18",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
