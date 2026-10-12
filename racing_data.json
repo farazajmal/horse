@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 12, 2026 - 05:00 PM",
+  "last_updated": "October 12, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -435,8 +435,24 @@
   ],
   "recent_results": [
     {
+      "title": "Belterra Park, Race 3, ALW",
+      "details": "Belterra Park, Race 3, ALW Belterra Park , Monday, October 12, 2026, Race 3 ALW 6 1/2 furlongs $23,200 3 yo's up Dirt FT Haley's Dante Rivers Run Deep - Miss Venezuela Low Standards By My Standards - Starship Made It Bradley Omaha Beach - Keep the Ring View Details"
+    },
+    {
+      "title": "Belterra Park, Race 2, ALW",
+      "details": "Belterra Park, Race 2, ALW Belterra Park , Monday, October 12, 2026, Race 2 ALW 6 furlongs $22,700 Fillies and Mares 3 yo's up Dirt FT Bold Lucy Bold Truth - Pure Imagination Rivers Angel Rivers Run Deep - Angelsmadisongrace Shamrock Roni Corfu - Bizness Perks View Details"
+    },
+    {
       "title": "Belterra Park, Race 1, ALW",
       "details": "Belterra Park, Race 1, ALW Belterra Park , Monday, October 12, 2026, Race 1 ALW 6 furlongs $22,700 Fillies and Mares 3 yo's up Dirt FT Blue Tail Fly Vekoma - Vertrazzo City Blaze Tapiture - Plastique Grimes Glen Midshipman - Be True View Details"
+    },
+    {
+      "title": "New York Breeders' Futurity (BT)",
+      "details": "New York Breeders' Futurity (BT) Finger Lakes , Monday, October 12, 2026, Race 4 STK 6 furlongs $176,238 2 yo Dirt FT View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 3, ALW",
+      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Monday, October 12, 2026, Race 3 ALW 1 mile $26,900 3 yo's up Dirt FT Palpable McKinzie - Mir Cat Muscle Shoals Redesdale - Chevy to the Levy Gray Haired Gus Mission Impazible - Comet of Love View Details"
     },
     {
       "title": "New Mexico State Fair Thoroughbred Futurity (BT)",
@@ -477,22 +493,6 @@
     {
       "title": "Keeneland, Race 9, MSW",
       "details": "Keeneland, Race 9, MSW Keeneland , Sunday, October 11, 2026, Race 9 MSW 6 furlongs $110,000 3 yo's up Dirt SY Jozempic Practical Joke - Taylor A. Little J We Be Mischief Into Mischief - Elfin Queen Eleos Hard Spun - Waverly Place View Details Watch Replay"
-    },
-    {
-      "title": "Franklin S. (G2T)",
-      "details": "Franklin S. (G2T) Keeneland , Sunday, October 11, 2026, Race 8 STK 5 1/2 furlongs $400,000 Fillies and Mares 3 yo's up Turf YL Time to Dazzle Not This Time - Staria Kehoe Beach Omaha Beach - Sweet Awakening Itzel Mo Town - Catch That Song View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Keeneland, Race 7, AOC",
-      "details": "Keeneland, Race 7, AOC Keeneland , Sunday, October 11, 2026, Race 7 AOC About 7 furlongs $130,000 Fillies and Mares 3 yo's up Dirt SY Landed Omaha Beach - Glory Gold Inefficiency Constitution - Moana Taliesin Vekoma - Here's to Life View Details Watch Replay"
-    },
-    {
-      "title": "Keeneland, Race 6, MSW",
-      "details": "Keeneland, Race 6, MSW Keeneland , Sunday, October 11, 2026, Race 6 MSW 6 1/2 furlongs $110,000 2 yo Dirt SY Fleetfoot Mac Maclean's Music - Fascination Steve Wood Maximus Mischief - Sydney Freeman Kashville Nashville - Malibu Treasure View Details Watch Replay"
-    },
-    {
-      "title": "Keeneland, Race 5, ALW",
-      "details": "Keeneland, Race 5, ALW Keeneland , Sunday, October 11, 2026, Race 5 ALW 1 mile $120,000 3 yo's up Dirt SY Free Advice Kantharos - Free Rein Sinister Smile Practical Joke - Making Mark Money Stackin Sats Collected - Agent of Fortune View Details Watch Replay"
     }
   ]
 }
