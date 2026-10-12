@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 12, 2026 - 03:00 PM",
+  "last_updated": "October 12, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -435,6 +435,10 @@
   ],
   "recent_results": [
     {
+      "title": "Belterra Park, Race 1, ALW",
+      "details": "Belterra Park, Race 1, ALW Belterra Park , Monday, October 12, 2026, Race 1 ALW 6 furlongs $22,700 Fillies and Mares 3 yo's up Dirt FT Blue Tail Fly Vekoma - Vertrazzo City Blaze Tapiture - Plastique Grimes Glen Midshipman - Be True View Details"
+    },
+    {
       "title": "New Mexico State Fair Thoroughbred Futurity (BT)",
       "details": "New Mexico State Fair Thoroughbred Futurity (BT) Albuquerque , Sunday, October 11, 2026, Race 4 STK 6 furlongs $272,303 2 yo Dirt FT Runaway Q Runaway Ghost - Bean Town Babe Boom Boom Go Sporting Chance - Diabolical Wildcat Mark's Waltz Marking - Waltzing Attila View Details Watch Replay View Stakes Recap"
     },
@@ -489,10 +493,6 @@
     {
       "title": "Keeneland, Race 5, ALW",
       "details": "Keeneland, Race 5, ALW Keeneland , Sunday, October 11, 2026, Race 5 ALW 1 mile $120,000 3 yo's up Dirt SY Free Advice Kantharos - Free Rein Sinister Smile Practical Joke - Making Mark Money Stackin Sats Collected - Agent of Fortune View Details Watch Replay"
-    },
-    {
-      "title": "Keeneland, Race 2, MCL",
-      "details": "Keeneland, Race 2, MCL Keeneland , Sunday, October 11, 2026, Race 2 MCL 1 1/16 miles $53,000 3 yo's up Dirt SY Bourbonkoma Vekoma - Siamese Mr. All In Essential Quality - Ain't No Elmers Page Two Tom's d'Etat - Heron Watch View Details Watch Replay"
     }
   ]
 }
