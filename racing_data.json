@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 12, 2026 - 09:00 PM",
+  "last_updated": "October 12, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -201,6 +201,18 @@
       "grade": "Grade 2",
       "dist": "7 furlongs (Dirt)",
       "purse": "$400,000",
+      "date": "10/17",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Lure S.",
+      "raw_name": "Lure S.",
+      "track": "Santa Anita Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Turf)",
+      "purse": "$80,000",
       "date": "10/17",
       "country": "USA",
       "flag": "🇺🇸",
@@ -436,63 +448,63 @@
   "recent_results": [
     {
       "title": "Belterra Park, Race 3, ALW",
-      "details": "Belterra Park, Race 3, ALW Belterra Park , Monday, October 12, 2026, Race 3 ALW 6 1/2 furlongs $23,200 3 yo's up Dirt FT Haley's Dante Rivers Run Deep - Miss Venezuela Low Standards By My Standards - Starship Made It Bradley Omaha Beach - Keep the Ring View Details"
+      "details": "Belterra Park, Race 3, ALW Belterra Park , Monday, October 12, 2026, Race 3 ALW 6 1/2 furlongs $23,200 3 yo's up Dirt FT Haley's Dante Rivers Run Deep - Miss Venezuela Low Standards By My Standards - Starship Made It Bradley Omaha Beach - Keep the Ring View Details Watch Replay"
     },
     {
       "title": "Belterra Park, Race 2, ALW",
-      "details": "Belterra Park, Race 2, ALW Belterra Park , Monday, October 12, 2026, Race 2 ALW 6 furlongs $22,700 Fillies and Mares 3 yo's up Dirt FT Bold Lucy Bold Truth - Pure Imagination Rivers Angel Rivers Run Deep - Angelsmadisongrace Shamrock Roni Corfu - Bizness Perks View Details"
+      "details": "Belterra Park, Race 2, ALW Belterra Park , Monday, October 12, 2026, Race 2 ALW 6 furlongs $22,700 Fillies and Mares 3 yo's up Dirt FT Bold Lucy Bold Truth - Pure Imagination Rivers Angel Rivers Run Deep - Angelsmadisongrace Shamrock Roni Corfu - Bizness Perks View Details Watch Replay"
     },
     {
       "title": "Belterra Park, Race 1, ALW",
-      "details": "Belterra Park, Race 1, ALW Belterra Park , Monday, October 12, 2026, Race 1 ALW 6 furlongs $22,700 Fillies and Mares 3 yo's up Dirt FT Blue Tail Fly Vekoma - Vertrazzo City Blaze Tapiture - Plastique Grimes Glen Midshipman - Be True View Details"
+      "details": "Belterra Park, Race 1, ALW Belterra Park , Monday, October 12, 2026, Race 1 ALW 6 furlongs $22,700 Fillies and Mares 3 yo's up Dirt FT Blue Tail Fly Vekoma - Vertrazzo City Blaze Tapiture - Plastique Grimes Glen Midshipman - Be True View Details Watch Replay"
+    },
+    {
+      "title": "Genesee Valley Breeders' S.",
+      "details": "Genesee Valley Breeders' S. Finger Lakes , Monday, October 12, 2026, Race 8 STK 1 1/16 miles $50,000 3 yo's up Dirt FT Rhymes Like Dimes Union Jackson - Sleek Cicciobello Bellamy Road - Spa Sunrise Seams Like Destiny Destin - Bustinattheseams View Details Watch Replay"
     },
     {
       "title": "Jack Betta Be Rite S.",
-      "details": "Jack Betta Be Rite S. Finger Lakes , Monday, October 12, 2026, Race 7 STK 1 1/16 miles $50,000 Fillies and Mares 3 yo's up Dirt FT Victory Hall Independence Hall - Into Victory Intentious Solomini - Punkin's Pride Ekwanok Mitole - Kats Girl Cala View Details"
+      "details": "Jack Betta Be Rite S. Finger Lakes , Monday, October 12, 2026, Race 7 STK 1 1/16 miles $50,000 Fillies and Mares 3 yo's up Dirt FT Victory Hall Independence Hall - Into Victory Intentious Solomini - Punkin's Pride Ekwanok Mitole - Kats Girl Cala View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 6, ALW",
-      "details": "Finger Lakes, Race 6, ALW Finger Lakes , Monday, October 12, 2026, Race 6 ALW 6 furlongs $26,500 3 yo's up Dirt FT Alzero Goldencents - Bee Noteworthy Missionattheglen Mission Impazible - Looksgoodfromhere Hamilton's Reason Sharp Azteca - Super Savvy View Details"
+      "details": "Finger Lakes, Race 6, ALW Finger Lakes , Monday, October 12, 2026, Race 6 ALW 6 furlongs $26,500 3 yo's up Dirt FT Alzero Goldencents - Bee Noteworthy Missionattheglen Mission Impazible - Looksgoodfromhere Hamilton's Reason Sharp Azteca - Super Savvy View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 5, ALW",
-      "details": "Finger Lakes, Race 5, ALW Finger Lakes , Monday, October 12, 2026, Race 5 ALW 5 1/2 furlongs $26,900 Fillies and Mares 3 yo's up Dirt FT Daniella Marie Honest Mischief - Blue Hen Madness Three Nines Fine Central Banker - Silver Street Cajun Hottie Cajun Breeze - Flora Fantasy View Details"
+      "details": "Finger Lakes, Race 5, ALW Finger Lakes , Monday, October 12, 2026, Race 5 ALW 5 1/2 furlongs $26,900 Fillies and Mares 3 yo's up Dirt FT Daniella Marie Honest Mischief - Blue Hen Madness Three Nines Fine Central Banker - Silver Street Cajun Hottie Cajun Breeze - Flora Fantasy View Details Watch Replay"
     },
     {
       "title": "New York Breeders' Futurity (BT)",
-      "details": "New York Breeders' Futurity (BT) Finger Lakes , Monday, October 12, 2026, Race 4 STK 6 furlongs $176,238 2 yo Dirt FT D I Wire Yaupon - Hard to Stay Notgo Silver Knight Mitole - Silver Cloud Big Poppy Greatest Honour - Amanda Lane View Details"
+      "details": "New York Breeders' Futurity (BT) Finger Lakes , Monday, October 12, 2026, Race 4 STK 6 furlongs $176,238 2 yo Dirt FT D I Wire Yaupon - Hard to Stay Notgo Silver Knight Mitole - Silver Cloud Big Poppy Greatest Honour - Amanda Lane View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 3, ALW",
-      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Monday, October 12, 2026, Race 3 ALW 1 mile $26,900 3 yo's up Dirt FT Palpable McKinzie - Mir Cat Muscle Shoals Redesdale - Chevy to the Levy Gray Haired Gus Mission Impazible - Comet of Love View Details"
+      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Monday, October 12, 2026, Race 3 ALW 1 mile $26,900 3 yo's up Dirt FT Palpable McKinzie - Mir Cat Muscle Shoals Redesdale - Chevy to the Levy Gray Haired Gus Mission Impazible - Comet of Love View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 8, MSW",
+      "details": "Horseshoe Indianapolis, Race 8, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 8 MSW 5 furlongs $32,000 Fillies 2 yo Turf FM Brightwater Improbable - Beach Waltz Our Leading Lady Oscar Performance - Kona Kai A La Vie Tapit - Gaels Win View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 7, ALW",
+      "details": "Horseshoe Indianapolis, Race 7, ALW Horseshoe Indianapolis , Monday, October 12, 2026, Race 7 ALW 1 1/16 miles $38,000 3 yo's up Turf FM Which Side R U On Paynter - Aurea Aura Troubleonthegreen World of Trouble - Si Si Mon Amie Most Amazing Jack Milton - Miracles Take Time View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 6, MSW",
+      "details": "Horseshoe Indianapolis, Race 6, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 6 MSW 5 1/2 furlongs $38,500 2 yo Dirt FT Jaguar Justice Harry's Holiday - Kid Justice Ephesian Cat Calculator - California Kitty Whiskey Storm Sombeyay - Wellington Wonder View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 5, MSW",
+      "details": "Horseshoe Indianapolis, Race 5, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 5 MSW 5 furlongs $32,000 Fillies 2 yo Turf FM Falling Creek Upstart - Silver Reunion Cortina Gold Medaglia d'Oro - The Girl Factor Midwinter Munnings - Marlinspike View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 4 MSW 1 1/16 miles $36,000 Fillies and Mares 3 yo's up Dirt FT Higher Wish Mshawish - Higher Logic Lovers Carril Cupid - Street Rally Hotline Iris Dialed In - Lady Blue View Details"
+      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 4 MSW 1 1/16 miles $36,000 Fillies and Mares 3 yo's up Dirt FT Higher Wish Mshawish - Higher Logic Lovers Carril Cupid - Street Rally Hotline Iris Dialed In - Lady Blue View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 2, MSW",
-      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 2 MSW 5 1/2 furlongs $38,500 3 yo's up Dirt FT Crazy Legs Mike Big Bad Mike - Freakin Amazing Mikestrumpcard Prayer for Relief - Eileen Evelyn Up N Up Ready's Image - Mizzen My Momma View Details"
-    },
-    {
-      "title": "Presque Isle Downs, Race 1, MSW",
-      "details": "Presque Isle Downs, Race 1, MSW Presque Isle Downs , Monday, October 12, 2026, Race 1 MSW 6 furlongs $31,000 Fillies 2 yo All Weather Track FT Hot for the Game Drain the Clock - Nebo Poll Position Early Voting - Our Star Warrior's Dolly Warrior's Reward - G G's Dolly View Details"
-    },
-    {
-      "title": "Parx Racing, Race 9, ALW",
-      "details": "Parx Racing, Race 9, ALW Parx Racing , Monday, October 12, 2026, Race 9 ALW 6 furlongs $50,000 3 yo's up Dirt GD Concord Bridge Medaglia d'Oro - Pauline Revere Whisper Roar Eastwood - Sweet Like Candy Stormbreaker Authentic - Henny's Hurricane View Details"
-    },
-    {
-      "title": "Parx Racing, Race 8, MSW",
-      "details": "Parx Racing, Race 8, MSW Parx Racing , Monday, October 12, 2026, Race 8 MSW 6 1/2 furlongs $50,000 3 yo's up Dirt GD Cash Account Maxfield - Fiscal Literacy Spartacus Curlin - Marion Ravenwood Wholelotoftrouble World of Trouble - Awesome Beauty View Details"
-    },
-    {
-      "title": "New Mexico State Fair Thoroughbred Futurity (BT)",
-      "details": "New Mexico State Fair Thoroughbred Futurity (BT) Albuquerque , Sunday, October 11, 2026, Race 4 STK 6 furlongs $272,303 2 yo Dirt FT Runaway Q Runaway Ghost - Bean Town Babe Boom Boom Go Sporting Chance - Diabolical Wildcat Mark's Waltz Marking - Waltzing Attila View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Belmont Park, Race 9, MCL",
-      "details": "Belmont Park, Race 9, MCL Belmont Park , Sunday, October 11, 2026, Race 9 MCL 1 mile $45,000 3 yo's up All Weather Track FT Perretti (IRE) Lope de Vega (IRE) - Waheebah (IRE) Turbo Launch Authentic - She's All Scat Prime Ranger Justify - Party Starter View Details Watch Replay"
+      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 2 MSW 5 1/2 furlongs $38,500 3 yo's up Dirt FT Crazy Legs Mike Big Bad Mike - Freakin Amazing Mikestrumpcard Prayer for Relief - Eileen Evelyn Up N Up Ready's Image - Mizzen My Momma View Details Watch Replay"
     }
   ]
 }
