@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 13, 2026 - 05:00 PM",
+  "last_updated": "October 13, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -447,6 +447,18 @@
   ],
   "recent_results": [
     {
+      "title": "Fort Erie, Race 3, ALW",
+      "details": "Fort Erie, Race 3, ALW Fort Erie , Tuesday, October 13, 2026, Race 3 ALW About 7 furlongs $20,165 3 yo's up Turf FM Nantuckets Day Yoshida (JPN) - Fancy Day (IRE) Times a Breeze Not This Time - Sheer Enchantment Back River Reload - Forgotten Liaison View Details"
+    },
+    {
+      "title": "Fort Erie, Race 2, MSW",
+      "details": "Fort Erie, Race 2, MSW Fort Erie , Tuesday, October 13, 2026, Race 2 MSW 5 furlongs $18,590 2 yo Dirt FT Leona's Voyce Oxbow - Carat's Song Mymathes Quick Big Screen - Knotty Pine (GB) Champagne Curls Curlin - Champagne Tale View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 1, ALW",
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, October 13, 2026, Race 1 ALW 1 mile $24,500 3 yo's up Dirt FT Stop the Spread Daaher - Powhatan Princess Brown Don't Stop Big Brown - Knight Train Maturation McKinzie - American Lynx View Details"
+    },
+    {
       "title": "Belterra Park, Race 3, ALW",
       "details": "Belterra Park, Race 3, ALW Belterra Park , Monday, October 12, 2026, Race 3 ALW 6 1/2 furlongs $23,200 3 yo's up Dirt FT Haley's Dante Rivers Run Deep - Miss Venezuela Low Standards By My Standards - Starship Made It Bradley Omaha Beach - Keep the Ring View Details Watch Replay"
     },
@@ -493,18 +505,6 @@
     {
       "title": "Horseshoe Indianapolis, Race 7, ALW",
       "details": "Horseshoe Indianapolis, Race 7, ALW Horseshoe Indianapolis , Monday, October 12, 2026, Race 7 ALW 1 1/16 miles $38,000 3 yo's up Turf FM Which Side R U On Paynter - Aurea Aura Troubleonthegreen World of Trouble - Si Si Mon Amie Most Amazing Jack Milton - Miracles Take Time View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 6, MSW",
-      "details": "Horseshoe Indianapolis, Race 6, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 6 MSW 5 1/2 furlongs $38,500 2 yo Dirt FT Jaguar Justice Harry's Holiday - Kid Justice Ephesian Cat Calculator - California Kitty Whiskey Storm Sombeyay - Wellington Wonder View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 5, MSW",
-      "details": "Horseshoe Indianapolis, Race 5, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 5 MSW 5 furlongs $32,000 Fillies 2 yo Turf FM Falling Creek Upstart - Silver Reunion Cortina Gold Medaglia d'Oro - The Girl Factor Midwinter Munnings - Marlinspike View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, October 12, 2026, Race 4 MSW 1 1/16 miles $36,000 Fillies and Mares 3 yo's up Dirt FT Higher Wish Mshawish - Higher Logic Lovers Carril Cupid - Street Rally Hotline Iris Dialed In - Lady Blue View Details Watch Replay"
     }
   ]
 }
