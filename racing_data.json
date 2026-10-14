@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 14, 2026 - 09:00 AM",
+  "last_updated": "October 14, 2026 - 11:00 AM",
   "year": 2026,
   "races": [
     {
@@ -403,8 +403,8 @@
     {
       "rank": 8,
       "name": "Paco Lopez",
-      "sub": "Starts: 1,193 • Wins: 301 (25%)",
-      "cash": "$13,947,376",
+      "sub": "Starts: 1,201 • Wins: 304 (25%)",
+      "cash": "$14,107,193",
       "flag": "👤"
     },
     {
@@ -424,8 +424,8 @@
     {
       "rank": 11,
       "name": "Juan J. Hernandez",
-      "sub": "Starts: 555 • Wins: 122 (22%)",
-      "cash": "$10,212,910",
+      "sub": "Starts: 559 • Wins: 122 (22%)",
+      "cash": "$10,233,278",
       "flag": "👤"
     },
     {
@@ -437,23 +437,23 @@
     },
     {
       "rank": 13,
+      "name": "Joel Rosario",
+      "sub": "Starts: 656 • Wins: 110 (17%)",
+      "cash": "$9,281,528",
+      "flag": "👤"
+    },
+    {
+      "rank": 14,
       "name": "Javier Castellano",
       "sub": "Starts: 583 • Wins: 94 (16%)",
       "cash": "$9,269,112",
       "flag": "👤"
     },
     {
-      "rank": 14,
-      "name": "Joel Rosario",
-      "sub": "Starts: 649 • Wins: 109 (17%)",
-      "cash": "$9,248,044",
-      "flag": "👤"
-    },
-    {
       "rank": 15,
       "name": "Kendrick Carmouche",
-      "sub": "Starts: 654 • Wins: 107 (16%)",
-      "cash": "$9,229,189",
+      "sub": "Starts: 655 • Wins: 107 (16%)",
+      "cash": "$9,230,989",
       "flag": "👤"
     }
   ],
