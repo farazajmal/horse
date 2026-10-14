@@ -1,19 +1,7 @@
 {
-  "last_updated": "October 14, 2026 - 03:00 AM",
+  "last_updated": "October 14, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Commonwealth Sire S.",
-      "raw_name": "Commonwealth Sire S.",
-      "track": "Parx Racing",
-      "grade": "Stakes",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$60,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Oklahoma Classics Lassie S.",
       "raw_name": "Oklahoma Classics Lassie S.",
