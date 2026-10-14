@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 14, 2026 - 05:00 PM",
+  "last_updated": "October 14, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -241,6 +241,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "M.P. Ballezzi Appreciation Mile S.",
+      "raw_name": "M.P. Ballezzi Appreciation Mile S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$75,000",
+      "date": "10/20",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -459,6 +471,34 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 1, MCL",
+      "details": "Belmont Park, Race 1, MCL Belmont Park , Wednesday, October 14, 2026, Race 1 MCL 1 mile $56,000 2 yo Dirt FT Vintage Wiz Vino Rosso - Good Credence Be in Monty's Mind Mind Control - Biamonte Vals Bro Mind Control - Take Charge Sue View Details"
+    },
+    {
+      "title": "Delaware Park, Race 4, AOC",
+      "details": "Delaware Park, Race 4, AOC Delaware Park , Wednesday, October 14, 2026, Race 4 AOC 5 1/2 furlongs $46,000 Fillies 2 yo Dirt FT Tiz the Love Tiz the Law - Six Tonsafun Turning to Gold Munnings - White Hot Gold Scabiosa Mendelssohn - Ianthe View Details"
+    },
+    {
+      "title": "Delaware Park, Race 3, MCL",
+      "details": "Delaware Park, Race 3, MCL Delaware Park , Wednesday, October 14, 2026, Race 3 MCL 6 furlongs $32,000 2 yo Dirt FT Vekoma Moon Vekoma - Rather Beautiful Sound Check Speaker's Corner - Spread Joy Mischief Mind Highly Motivated - Frame of Mind View Details"
+    },
+    {
+      "title": "Delaware Park, Race 1, MCL",
+      "details": "Delaware Park, Race 1, MCL Delaware Park , Wednesday, October 14, 2026, Race 1 MCL 6 furlongs $32,000 Fillies 2 yo Dirt WF Katz On Fire Flameaway - Kylbrylie Clara Queen Frosted - Pretty in Platinum Maxie's Munny Maxfield - Spin Munnings View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 2, MSW",
+      "details": "Finger Lakes, Race 2, MSW Finger Lakes , Wednesday, October 14, 2026, Race 2 MSW 1 mile $32,600 Fillies and Mares 3 yo's up Dirt FT Little Finch Constitution - Stowe White Avery County Five Iron - I Am Superior Too The Gael Gun Runner - Pantsonfire (IRE) View Details"
+    },
+    {
+      "title": "Keeneland, Race 2, MCL",
+      "details": "Keeneland, Race 2, MCL Keeneland , Wednesday, October 14, 2026, Race 2 MCL 6 furlongs $55,000 Fillies and Mares 3 yo's up Dirt FT Christy Halladay - Ghosted Girl Rhapsody in Blue Tale of Ekati - November Shot At Perfection Gun Runner - Khitaam View Details"
+    },
+    {
+      "title": "Keeneland, Race 1, STR",
+      "details": "Keeneland, Race 1, STR Keeneland , Wednesday, October 14, 2026, Race 1 STR 1 1/16 miles $55,000 Fillies and Mares 3 yo's up Dirt FT West Coast Dream West Coast - Dream Dance Cara Felce Caravaggio - Pampered Pretty Hold My Halo Great Notion - Modena Bay (NZ) View Details"
+    },
+    {
       "title": "Fort Erie, Race 3, ALW",
       "details": "Fort Erie, Race 3, ALW Fort Erie , Tuesday, October 13, 2026, Race 3 ALW About 7 furlongs $20,165 3 yo's up Turf FM Nantuckets Day Yoshida (JPN) - Fancy Day (IRE) Times a Breeze Not This Time - Sheer Enchantment Back River Reload - Forgotten Liaison View Details Watch Replay"
     },
@@ -489,34 +529,6 @@
     {
       "title": "Horseshoe Indianapolis, Race 8, MSW",
       "details": "Horseshoe Indianapolis, Race 8, MSW Horseshoe Indianapolis , Tuesday, October 13, 2026, Race 8 MSW 5 furlongs $32,000 Fillies and Mares 3 yo's up Turf FM Zero Absolute Liam's Map - Recoupe Poverty With Aview Instilled Regard - Interest Retrospective Astern (AUS) - Espial View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 5, MSW",
-      "details": "Horseshoe Indianapolis, Race 5, MSW Horseshoe Indianapolis , Tuesday, October 13, 2026, Race 5 MSW 1 mile $32,000 2 yo Turf FM Fields of Grey Hard Spun - Grey Seal Very Royal Cairo Prince - Quaria Dream Tiznot Tiz the Law - Alexandra Thirteen View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 4, AOC",
-      "details": "Horseshoe Indianapolis, Race 4, AOC Horseshoe Indianapolis , Tuesday, October 13, 2026, Race 4 AOC 6 furlongs $36,000 Fillies and Mares 3 yo's up Dirt FT Special Sauce Practical Joke - Saucy At Midnight City Prayers Prayer for Relief - City Seduction Night Kiss Midnight Lute - Dignaty (BRZ) View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 2, AOC",
-      "details": "Horseshoe Indianapolis, Race 2, AOC Horseshoe Indianapolis , Tuesday, October 13, 2026, Race 2 AOC 1 mile 70 Yards $36,000 3 yo's up Dirt FT Solo Venturi Constitution - Solo Uno Seize the Night Carpe Diem - Candle Maker Goldwyn Maximus Mischief - Gettem Up Girl View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 1, MSW",
-      "details": "Horseshoe Indianapolis, Race 1, MSW Horseshoe Indianapolis , Tuesday, October 13, 2026, Race 1 MSW 1 mile $38,500 Fillies 2 yo Dirt FT Exquisite Justice Harry's Holiday - Unamused Soxit Toem Baryshnikov - Dame Near Even J's Alley Cat Turbo Compressor - Tangalang View Details Watch Replay"
-    },
-    {
-      "title": "Mountaineer, Race 7, MSW",
-      "details": "Mountaineer, Race 7, MSW Mountaineer Race Track And Gaming Resort , Tuesday, October 13, 2026, Race 7 MSW 5 1/2 furlongs $19,000 3, 4, 5 6 yo's Dirt GD Team Mischievous Dark Kestrel - Misty Slew K's Unruly Newelly Father Nelson - She's Grumpy All Roads to Denis Denis of Cork - Road to Zanzibar View Details Watch Replay"
-    },
-    {
-      "title": "Presque Isle Downs, Race 3, ALW",
-      "details": "Presque Isle Downs, Race 3, ALW Presque Isle Downs , Tuesday, October 13, 2026, Race 3 ALW 6 1/2 furlongs $33,000 Fillies and Mares 3 yo's up All Weather Track FT Celestial Speed Vekoma - Broken Blues Rock Tune Show Tune - Lesly's Back Shez Untappable Race Day - Sheza Magic Match View Details"
-    },
-    {
-      "title": "Parx Racing, Race 10, MSW",
-      "details": "Parx Racing, Race 10, MSW Parx Racing , Tuesday, October 13, 2026, Race 10 MSW 5 1/2 furlongs $60,000 2 yo Dirt FT Parfiveintwo Complexity - Thicker Than Water Chef Sparrow Maximus Mischief - Bouquet of Gold Kpnupwiththejones Smarty Jones - Ruttzy Tuttzy View Details Watch Replay"
     }
   ]
 }
