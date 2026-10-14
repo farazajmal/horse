@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 13, 2026 - 11:00 PM",
+  "last_updated": "October 14, 2026 - 01:00 AM",
   "year": 2026,
   "races": [
     {
@@ -109,6 +109,30 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Alberta Sire Debutante S.",
+      "raw_name": "Alberta Sire Debutante S.",
+      "track": "CENTURY DOWNS",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "10/17",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "Alberta Sire Stakes Derby",
+      "raw_name": "Alberta Sire Stakes Derby",
+      "track": "CENTURY DOWNS",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "10/17",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
     },
     {
       "name": "Sweet Home Alabama Special S.",
