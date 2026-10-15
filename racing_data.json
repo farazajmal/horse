@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 15, 2026 - 03:00 AM",
+  "last_updated": "October 15, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
     {
@@ -519,6 +519,10 @@
   ],
   "recent_results": [
     {
+      "title": "Albuquerque, Race 8, ALW",
+      "details": "Albuquerque, Race 8, ALW Albuquerque , Wednesday, October 14, 2026, Race 8 ALW 5 1/2 furlongs $36,400 3 yo's up Dirt FT He's a Genius Attila's Storm - Lady Genius Waning Crecent Right Rigger - Ecouter Jmark Marking - She's Plain Jane View Details Watch Replay"
+    },
+    {
       "title": "Belmont Park, Race 8, MCL",
       "details": "Belmont Park, Race 8, MCL Belmont Park , Wednesday, October 14, 2026, Race 8 MCL 1 1/16 miles $45,000 Fillies and Mares 3 yo's up Turf GD Raging Bloom Raging Bull (FR) - Begonia Devilish Grin Daredevil - Casual Smile (GB) No Tide No Nay Never - Surging Tide View Details Watch Replay"
     },
@@ -573,10 +577,6 @@
     {
       "title": "Delaware Park, Race 4, AOC",
       "details": "Delaware Park, Race 4, AOC Delaware Park , Wednesday, October 14, 2026, Race 4 AOC 5 1/2 furlongs $46,000 Fillies 2 yo Dirt FT Tiz the Love Tiz the Law - Six Tonsafun Turning to Gold Munnings - White Hot Gold Scabiosa Mendelssohn - Ianthe View Details Watch Replay"
-    },
-    {
-      "title": "Delaware Park, Race 3, MCL",
-      "details": "Delaware Park, Race 3, MCL Delaware Park , Wednesday, October 14, 2026, Race 3 MCL 6 furlongs $32,000 2 yo Dirt FT Vekoma Moon Vekoma - Rather Beautiful Sound Check Speaker's Corner - Spread Joy Mischief Mind Highly Motivated - Frame of Mind View Details Watch Replay"
     }
   ]
 }
