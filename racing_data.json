@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 15, 2026 - 03:00 PM",
+  "last_updated": "October 15, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -519,6 +519,10 @@
   ],
   "recent_results": [
     {
+      "title": "Laurel Park, Race 2, MCL",
+      "details": "Laurel Park, Race 2, MCL Laurel Park , Thursday, October 15, 2026, Race 2 MCL 1 1/16 miles $40,700 2 yo Dirt FT Dolce Far Niente Vino Rosso - Our Bella Nicole Righteous Dip Authentic - Orinoquia Igaming Game Winner - Tinabud View Details"
+    },
+    {
       "title": "Albuquerque, Race 8, ALW",
       "details": "Albuquerque, Race 8, ALW Albuquerque , Wednesday, October 14, 2026, Race 8 ALW 5 1/2 furlongs $36,400 3 yo's up Dirt FT He's a Genius Attila's Storm - Lady Genius Waning Crecent Right Rigger - Ecouter Jmark Marking - She's Plain Jane View Details Watch Replay"
     },
@@ -573,10 +577,6 @@
     {
       "title": "Delaware Park, Race 6, ALW",
       "details": "Delaware Park, Race 6, ALW Delaware Park , Wednesday, October 14, 2026, Race 6 ALW 5 1/2 furlongs $46,000 3 yo's up Dirt FT My Boy Star Bucchero - My Sarasota Star Superfractor Golden Lad - Dumtadumtadum Lost My Shoe Engage - One More Shoe View Details Watch Replay"
-    },
-    {
-      "title": "Delaware Park, Race 4, AOC",
-      "details": "Delaware Park, Race 4, AOC Delaware Park , Wednesday, October 14, 2026, Race 4 AOC 5 1/2 furlongs $46,000 Fillies 2 yo Dirt FT Tiz the Love Tiz the Law - Six Tonsafun Turning to Gold Munnings - White Hot Gold Scabiosa Mendelssohn - Ianthe View Details Watch Replay"
     }
   ]
 }
