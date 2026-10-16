@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 16, 2026 - 01:00 PM",
+  "last_updated": "October 16, 2026 - 03:00 PM",
   "year": 2026,
   "races": [
     {
@@ -276,6 +276,18 @@
       "date": "10/17",
       "country": "Canada",
       "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "Clasico Wiso G S. (G1)",
+      "raw_name": "Clasico Wiso G S. (G1)",
+      "track": "Camarero Race Track",
+      "grade": "Grade 1",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$46,000",
+      "date": "10/18",
+      "country": "Puerto Rico",
+      "flag": "🇵🇷",
       "isUsa": false
     },
     {
