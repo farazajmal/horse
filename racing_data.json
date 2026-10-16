@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 16, 2026 - 05:00 PM",
+  "last_updated": "October 16, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -337,6 +337,30 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Dean Dorton Myrtlewood S.",
+      "raw_name": "Dean Dorton Myrtlewood S.",
+      "track": "Keeneland",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$300,000",
+      "date": "10/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Bank of America Valley View S. (G2T)",
+      "raw_name": "Bank of America Valley View S. (G2T)",
+      "track": "Keeneland",
+      "grade": "Grade 2",
+      "dist": "1 mile (Turf)",
+      "purse": "$400,000",
+      "date": "10/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -555,12 +579,32 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 2, MSW",
+      "details": "Belmont Park, Race 2, MSW Belmont Park , Friday, October 16, 2026, Race 2 MSW 1 mile $100,000 2 yo Dirt GD Nevada Uncle Mo - Full Tap D. C.'s Army Army Mule - Wall Eye Shahnameh Curlin - Liam's Promenade View Details"
+    },
+    {
+      "title": "Keeneland, Race 2, MCL",
+      "details": "Keeneland, Race 2, MCL Keeneland , Friday, October 16, 2026, Race 2 MCL 1 1/16 miles $77,000 3 yo's up Dirt FT Summit Ridge Constitution - Summer Love (ARG) Steel Golden Gun Runner - Zia's Song Flaming Rainbow Flameaway - Over the Rainbow View Details"
+    },
+    {
+      "title": "Laurel Park, Race 4, MSW",
+      "details": "Laurel Park, Race 4, MSW Laurel Park , Friday, October 16, 2026, Race 4 MSW 5 1/2 furlongs $48,060 2 yo Dirt FT Do the Right Thing True Valour (IRE) - Do What I Say Bet Me Silver State - Verna Lea Boston Grey Tapit - River Maid View Details"
+    },
+    {
+      "title": "Laurel Park, Race 3, ALW",
+      "details": "Laurel Park, Race 3, ALW Laurel Park , Friday, October 16, 2026, Race 3 ALW 5 1/2 furlongs $52,430 Fillies and Mares 3 yo's up Dirt FT Big Earn Warrior's Reward - Noble Nation Blessed Candy Maximum Security - Princess Pao Sweeterthanwhiskey Bourbon Courage - Great Storm View Details"
+    },
+    {
       "title": "Laurel Park, Race 2, MSW",
       "details": "Laurel Park, Race 2, MSW Laurel Park , Friday, October 16, 2026, Race 2 MSW 6 furlongs $47,000 3, 4, 5 6 yo's Dirt FT Frustrated Maclean's Music - Embur's Zip Plentyof Rogue Rogueish - Sparkle Plenty Card Shark Charlatan - Midnight Lucky View Details"
     },
     {
       "title": "Laurel Park, Race 1, MCL",
       "details": "Laurel Park, Race 1, MCL Laurel Park , Friday, October 16, 2026, Race 1 MCL 1 mile $32,500 2 yo Dirt FT Ready Set Audible - Ready to Rip Thomson Falls Speaker's Corner - Moon Medal Imperial Charter Constitution - Russian Influence View Details"
+    },
+    {
+      "title": "Woodbine, Race 2, MCL",
+      "details": "Woodbine, Race 2, MCL Woodbine , Friday, October 16, 2026, Race 2 MCL 7 furlongs $26,366 Fillies and Mares 3 yo's up All Weather Track FT Red Guitar Signature Red - Wild Lute Lemon Sweets Catholic Boy - Contrarian Haileys Olivia Big Screen - Gabriels Joy View Details"
     },
     {
       "title": "Belmont Park, Race 7, ALW",
@@ -593,26 +637,6 @@
     {
       "title": "Charles Town, Race 5, MSW",
       "details": "Charles Town, Race 5, MSW Charles Town Races Slots , Thursday, October 15, 2026, Race 5 MSW 7 furlongs $32,900 2 yo Dirt GD Sawyer's Song By My Standards - K D's Girl Be My Idol Idol - Sweet Baby Bea Robotaxi Aloha West - Spitefulness View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 4, AOC",
-      "details": "Charles Town, Race 4, AOC Charles Town Races Slots , Thursday, October 15, 2026, Race 4 AOC 4 1/2 furlongs $36,600 Fillies and Mares 3 yo's up Dirt GD Miss Menetes Lord Nelson - Hearts of Red Breezey Bella Cajun Breeze - Bella Capri Z Molly Factor The Factor - Mau View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 3, MSW",
-      "details": "Charles Town, Race 3, MSW Charles Town Races Slots , Thursday, October 15, 2026, Race 3 MSW 4 1/2 furlongs $32,900 2 yo Dirt GD Rozay On Tap Tapiture - Sweet Red Rozay Chummy By My Standards - Lido Lady Puff Puff Goose A Shin Forward - Puff Piece View Details Watch Replay"
-    },
-    {
-      "title": "Delta Downs, Race 7, ALW",
-      "details": "Delta Downs, Race 7, ALW Delta Downs , Thursday, October 15, 2026, Race 7 ALW 6 1/2 furlongs $45,000 3 yo's up Dirt FT DH- Misdeal El Deal - Red Hellen DH- Slewssongofthenile Aurelius Maximus - Singing n' Praying Reaux Ban Da Man Midshipman - Holdontoyourdream View Details Watch Replay"
-    },
-    {
-      "title": "Delta Downs, Race 3, MSW",
-      "details": "Delta Downs, Race 3, MSW Delta Downs , Thursday, October 15, 2026, Race 3 MSW 7 furlongs $43,000 3 yo's up Dirt FT Soft Hands Star Guitar - Catch the Magic Here Comes Benny Global Campaign - Jinny Jump Up Louie Le Coeur Paynter - Vendeuse View Details Watch Replay"
-    },
-    {
-      "title": "Delta Downs, Race 2, ALW",
-      "details": "Delta Downs, Race 2, ALW Delta Downs , Thursday, October 15, 2026, Race 2 ALW 5 furlongs $44,000 Fillies and Mares 3 yo's up Dirt FT Hint of Promise Imperial Hint - Promise Tender Honor His Half Half Ours - Arms Wide Open Wannawholelottaluv Star Guitar - Wanna Snuggle View Details Watch Replay"
     }
   ]
 }
