@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 17, 2026 - 09:00 PM",
+  "last_updated": "October 17, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -238,6 +238,42 @@
       "dist": "1 mile (Dirt)",
       "purse": "$75,000",
       "date": "10/20",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Perfect Sting S.",
+      "raw_name": "Perfect Sting S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Turf)",
+      "purse": "$175,000",
+      "date": "10/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Perfect Sting S.",
+      "raw_name": "Perfect Sting S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Turf)",
+      "purse": "$175,000",
+      "date": "10/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Sands Point S. (G3T)",
+      "raw_name": "Sands Point S. (G3T)",
+      "track": "Belmont Park",
+      "grade": "Grade 3",
+      "dist": "1 1/8 miles (Inner turf)",
+      "purse": "$200,000",
+      "date": "10/23",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -615,64 +651,64 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 11, STR",
+      "details": "Belmont Park, Race 11, STR Belmont Park , Saturday, October 17, 2026, Race 11 STR 7 furlongs $75,000 3 yo's up Dirt FT Pineapple Man Gormley - New Doo Shoot the Nickel Violence - C. S. Incharge Normandy Coast Omaha Beach - Alliteration View Details Watch Replay"
+    },
+    {
+      "title": "Belmont Park, Race 10, STR",
+      "details": "Belmont Park, Race 10, STR Belmont Park , Saturday, October 17, 2026, Race 10 STR 1 1/16 miles $110,000 3 yo's up Turf GD Unit Economics (GB) Showcasing (GB) - Cherubic (GB) Hammerhead War Front - Figarella's Queen Highlands Way Not This Time - Street Mate View Details Watch Replay"
+    },
+    {
+      "title": "Belmont Park, Race 9, STR",
+      "details": "Belmont Park, Race 9, STR Belmont Park , Saturday, October 17, 2026, Race 9 STR 1 mile $110,000 3 yo's up Dirt FT Georgia Magic Good Magic - Nightlife Baby Fateful Lightning Tapit - Gamble's Ghost Sharp Swinger Practical Joke - Fitzrovia View Details Watch Replay"
+    },
+    {
       "title": "Belmont Park, Race 8, STR",
-      "details": "Belmont Park, Race 8, STR Belmont Park , Saturday, October 17, 2026, Race 8 STR 1 mile $80,000 Fillies and Mares 3 yo's up Dirt FT Brunch With Amy Bernardini - Bring Joy Mursal Classic Empire - Classic Brit Bam's Bliss Kiss Solomini - Kiska View Details"
+      "details": "Belmont Park, Race 8, STR Belmont Park , Saturday, October 17, 2026, Race 8 STR 1 mile $80,000 Fillies and Mares 3 yo's up Dirt FT Brunch With Amy Bernardini - Bring Joy Mursal Classic Empire - Classic Brit Bam's Bliss Kiss Solomini - Kiska View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 7, STR",
-      "details": "Belmont Park, Race 7, STR Belmont Park , Saturday, October 17, 2026, Race 7 STR 1 3/16 miles $110,000 3 yo's up All Weather Track FT Carc Brothers Slumber (GB) - Enrage Write Off Jerry Practical Joke - Timely Emergence Uncle Mo - Belle Watling View Details"
+      "details": "Belmont Park, Race 7, STR Belmont Park , Saturday, October 17, 2026, Race 7 STR 1 3/16 miles $110,000 3 yo's up All Weather Track FT Carc Brothers Slumber (GB) - Enrage Write Off Jerry Practical Joke - Timely Emergence Uncle Mo - Belle Watling View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 6, STR",
-      "details": "Belmont Park, Race 6, STR Belmont Park , Saturday, October 17, 2026, Race 6 STR 6 1/2 furlongs $90,000 Fillies and Mares 3 yo's up Dirt GD Meg's Foxy Grey Instilled Regard - One Foxy Grey Will Not Be Swayed War of Will - Not Swayed Mascara Caravaggio - Calidez View Details"
+      "details": "Belmont Park, Race 6, STR Belmont Park , Saturday, October 17, 2026, Race 6 STR 6 1/2 furlongs $90,000 Fillies and Mares 3 yo's up Dirt GD Meg's Foxy Grey Instilled Regard - One Foxy Grey Will Not Be Swayed War of Will - Not Swayed Mascara Caravaggio - Calidez View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 5, STR",
-      "details": "Belmont Park, Race 5, STR Belmont Park , Saturday, October 17, 2026, Race 5 STR 6 furlongs $110,000 3 yo's up Inner turf GD Mission Improbable Improbable - Pay Off Billionaires Row Munnings - Souper Scatdaddle Bite and Strike Liam's Map - Bernadetta View Details"
+      "details": "Belmont Park, Race 5, STR Belmont Park , Saturday, October 17, 2026, Race 5 STR 6 furlongs $110,000 3 yo's up Inner turf GD Mission Improbable Improbable - Pay Off Billionaires Row Munnings - Souper Scatdaddle Bite and Strike Liam's Map - Bernadetta View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 4, STR",
-      "details": "Belmont Park, Race 4, STR Belmont Park , Saturday, October 17, 2026, Race 4 STR 1 1/16 miles $110,000 Fillies and Mares 3 yo's up All Weather Track FT Seat At the Table The Factor - Table for Six Bow Draw Oxbow - Wicked Draw Planet Clare Constitution - Room for Me View Details"
+      "details": "Belmont Park, Race 4, STR Belmont Park , Saturday, October 17, 2026, Race 4 STR 1 1/16 miles $110,000 Fillies and Mares 3 yo's up All Weather Track FT Seat At the Table The Factor - Table for Six Bow Draw Oxbow - Wicked Draw Planet Clare Constitution - Room for Me View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 3, STR",
-      "details": "Belmont Park, Race 3, STR Belmont Park , Saturday, October 17, 2026, Race 3 STR 1 1/4 miles $90,000 3 yo's up Dirt GD Frizzante Vino Rosso - Secret Ingredient Le Gris City of Light - Chica Boom Chic Sharp Spark Classic Empire - Raise the Rithm View Details"
+      "details": "Belmont Park, Race 3, STR Belmont Park , Saturday, October 17, 2026, Race 3 STR 1 1/4 miles $90,000 3 yo's up Dirt GD Frizzante Vino Rosso - Secret Ingredient Le Gris City of Light - Chica Boom Chic Sharp Spark Classic Empire - Raise the Rithm View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 2, STR",
-      "details": "Belmont Park, Race 2, STR Belmont Park , Saturday, October 17, 2026, Race 2 STR 6 furlongs $110,000 Fillies and Mares 3 yo's up All Weather Track FT River Seine (IRE) Soldier's Call (GB) - Indian Ink (IRE) Gift of Gab Fast Anna - World Gone Wrong Delightful Flame Flameaway - Delightful Mary View Details"
+      "details": "Belmont Park, Race 2, STR Belmont Park , Saturday, October 17, 2026, Race 2 STR 6 furlongs $110,000 Fillies and Mares 3 yo's up All Weather Track FT River Seine (IRE) Soldier's Call (GB) - Indian Ink (IRE) Gift of Gab Fast Anna - World Gone Wrong Delightful Flame Flameaway - Delightful Mary View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 1, STR",
-      "details": "Belmont Park, Race 1, STR Belmont Park , Saturday, October 17, 2026, Race 1 STR 6 furlongs $90,000 3 yo's up Dirt MY Commuted Gun Runner - Final Holiday Run Classic Runhappy - Pledge Pin Kunshan Bridge Protonico - Majestic Island View Details"
+      "details": "Belmont Park, Race 1, STR Belmont Park , Saturday, October 17, 2026, Race 1 STR 6 furlongs $90,000 3 yo's up Dirt MY Commuted Gun Runner - Final Holiday Run Classic Runhappy - Pledge Pin Kunshan Bridge Protonico - Majestic Island View Details Watch Replay"
+    },
+    {
+      "title": "Alberta Sire Stakes Derby",
+      "details": "Alberta Sire Stakes Derby CENTURY DOWNS , Saturday, October 17, 2026, Race 5 STK 6 1/2 furlongs $35,364 3 yo Dirt FT Kamal Fed Biz - Many Kisses Little Did We Know Fed Biz - Lil Missknowitall Big Bad Bizooke Fed Biz - Pretty Wonder View Details"
     },
     {
       "title": "Alberta Sire Debutante S.",
       "details": "Alberta Sire Debutante S. CENTURY DOWNS , Saturday, October 17, 2026, Race 2 STK 6 1/2 furlongs $35,364 Fillies 3 yo Dirt FT Lil Miss Addy Boisterous - Fastology Lutedidit Boisterous - Steal the Lute Dale's Legacy Fed Biz - Silent Streak View Details"
     },
     {
-      "title": "Wilmington S. (BT)",
-      "details": "Wilmington S. (BT) Delaware Park , Saturday, October 17, 2026, Race 8 STK 6 furlongs $100,000 3 yo's up Dirt SY Quint's Brew Mosler - Gansett Boardwalk Jack Sea Wizard - Ebony Ball Fire Pit Cairo Prince - True Martha View Details"
+      "title": "Sweet Home Alabama Special S.",
+      "details": "Sweet Home Alabama Special S. Delta Downs , Saturday, October 17, 2026, Race 2 STK 7 furlongs $50,000 3 yo's up Dirt FT Can See Da Feet Divide and Conquer - Bornupatree Chamois' Splendor Chamois - She's So Chic Wendy's Ghost Wendy Wend - Eye for Money View Details Watch Replay"
     },
     {
-      "title": "Delaware Park, Race 7, ALW",
-      "details": "Delaware Park, Race 7, ALW Delaware Park , Saturday, October 17, 2026, Race 7 ALW 5 furlongs $46,000 Fillies and Mares 3 yo's up Dirt SY Miss Mikos Enticed - Sarah Accomplished Truthorconsequence Tom's d'Etat - Schon Ritabook Uncaptured - Four White Legs View Details"
-    },
-    {
-      "title": "Fairmount Park, Race 5, AOC",
-      "details": "Fairmount Park, Race 5, AOC Fairmount Park , Saturday, October 17, 2026, Race 5 AOC 1 mile 70 Yards $39,000 3 yo's up Dirt FT Tapinyourbluejeans Tapizar - Miss Blue Jeans Pontus Gio Ponti - Agile Wonder Somethintobelieven Well Positioned - Magic Chapel View Details"
-    },
-    {
-      "title": "Fairmount Park, Race 4, AOC",
-      "details": "Fairmount Park, Race 4, AOC Fairmount Park , Saturday, October 17, 2026, Race 4 AOC 6 furlongs $39,000 3 yo's up Dirt FT Strope Cinco Charlie - Julmae Indyville Take Charge Indy - Puntsville Fever Nation Alternation - Cecilia's Fever View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 8, MSW",
-      "details": "Gulfstream Park, Race 8, MSW Gulfstream Park , Saturday, October 17, 2026, Race 8 MSW 6 furlongs $50,000 Fillies 2 yo Dirt SY So Icy Yaupon - Tempered Street Queen Title Ready - Tale of the Street Gilded Memory Bolt d'Oro - Reminiscent View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 4, MSW",
-      "details": "Gulfstream Park, Race 4, MSW Gulfstream Park , Saturday, October 17, 2026, Race 4 MSW 7 furlongs $50,000 3 yo's up Dirt SY Pike Cajun Breeze - Glitterama Golden Decree Constitution - Golden Mischief Thom Thom Upstart - Creative Grace View Details"
+      "title": "Endine S. (BT)",
+      "details": "Endine S. (BT) Delaware Park , Saturday, October 17, 2026, Race 9 STK 6 furlongs $200,000 Fillies and Mares 3 yo's up Dirt SY Maida Improbable - Eve Giselle Mystic Lake Mo Town - Salty Soul Icona Mama Maximus Mischief - Classe Signora View Details Watch Replay"
     }
   ]
 }
