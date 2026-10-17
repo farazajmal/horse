@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 17, 2026 - 03:00 PM",
+  "last_updated": "October 17, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -289,6 +289,66 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Best of Ohio John W. Galbreath S.",
+      "raw_name": "Best of Ohio John W. Galbreath S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$100,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Best of Ohio Juvenile S.",
+      "raw_name": "Best of Ohio Juvenile S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$100,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Best of Ohio Sprint S.",
+      "raw_name": "Best of Ohio Sprint S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Best of Ohio Distaff S.",
+      "raw_name": "Best of Ohio Distaff S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$100,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Best of Ohio Endurance S.",
+      "raw_name": "Best of Ohio Endurance S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "1 1/4 miles (Dirt)",
+      "purse": "$100,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -507,6 +567,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 1, STR",
+      "details": "Belmont Park, Race 1, STR Belmont Park , Saturday, October 17, 2026, Race 1 STR 6 furlongs $90,000 3 yo's up Dirt MY Commuted Gun Runner - Final Holiday Run Classic Runhappy - Pledge Pin Kunshan Bridge Protonico - Majestic Island View Details"
+    },
+    {
+      "title": "Gulfstream Park, Race 1, MSW",
+      "details": "Gulfstream Park, Race 1, MSW Gulfstream Park , Saturday, October 17, 2026, Race 1 MSW 5 furlongs $50,000 2 yo All Weather Track FT Majestic Ruler Volatile - Camaria Tizoc Not This Time - Field Naughty Whisper Rogueish - Homily View Details"
+    },
+    {
       "title": "Belmont Park, Race 9, MSW",
       "details": "Belmont Park, Race 9, MSW Belmont Park , Friday, October 16, 2026, Race 9 MSW 1 1/16 miles $100,000 Fillies 2 yo All Weather Track FT Mom's On Break King for a Day - Lady On Holiday Naughty Nancy Essential Quality - Naughty Joker Seismic Activity Epicenter - Soft Shoe Kitten View Details Watch Replay"
     },
@@ -557,14 +625,6 @@
     {
       "title": "Delta Downs, Race 1, MSW",
       "details": "Delta Downs, Race 1, MSW Delta Downs , Friday, October 16, 2026, Race 1 MSW 5 furlongs $35,000 3 yo's up Dirt FT Pericles Apriority - Lovely Charlie Dawson James Jimmy Creed - Bettyann Mr. Mo Mr. Money - Mo Gayle View Details Watch Replay"
-    },
-    {
-      "title": "Delaware Park, Race 6, MSW",
-      "details": "Delaware Park, Race 6, MSW Delaware Park , Friday, October 16, 2026, Race 6 MSW 1 mile $45,000 2 yo Dirt FT Cohiba Into Mischief - Passing Out Six Stitches Caracaro - Snooki Daddy Moneybags Nyquist - Bella Union View Details Watch Replay"
-    },
-    {
-      "title": "Gulfstream Park, Race 8, AOC",
-      "details": "Gulfstream Park, Race 8, AOC Gulfstream Park , Friday, October 16, 2026, Race 8 AOC 5 1/2 furlongs $54,000 Fillies and Mares 3 yo's up All Weather Track FT La Dolce Vita Not This Time - Pretty Owl Lucy's Cookie Adios Charlie - Biloxi Princess Finding Strength Khozan - Strength in Unity View Details Watch Replay"
     }
   ]
 }
