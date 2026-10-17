@@ -1,103 +1,7 @@
 {
-  "last_updated": "October 17, 2026 - 03:00 AM",
+  "last_updated": "October 17, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Oklahoma Classics Lassie S.",
-      "raw_name": "Oklahoma Classics Lassie S.",
-      "track": "Remington Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Oklahoma Classics Juvenile S.",
-      "raw_name": "Oklahoma Classics Juvenile S.",
-      "track": "Remington Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Oklahoma Classics Distaff Turf S.",
-      "raw_name": "Oklahoma Classics Distaff Turf S.",
-      "track": "Remington Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Turf)",
-      "purse": "$130,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Oklahoma Classics Distaff Sprint H.",
-      "raw_name": "Oklahoma Classics Distaff Sprint H.",
-      "track": "Remington Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$130,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Oklahoma Classics Distaff H.",
-      "raw_name": "Oklahoma Classics Distaff H.",
-      "track": "Remington Park",
-      "grade": "Stakes",
-      "dist": "1 mile 70 Yards (Dirt)",
-      "purse": "$145,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Oklahoma Classics Sprint S.",
-      "raw_name": "Oklahoma Classics Sprint S.",
-      "track": "Remington Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$130,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Oklahoma Classics Cup H.",
-      "raw_name": "Oklahoma Classics Cup H.",
-      "track": "Remington Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "OKC Turf Classic H.",
-      "raw_name": "OKC Turf Classic H.",
-      "track": "Remington Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Turf)",
-      "purse": "$130,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Alberta Sire Debutante S.",
       "raw_name": "Alberta Sire Debutante S.",
@@ -105,7 +9,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -117,7 +21,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -129,7 +33,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +45,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +57,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$200,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -165,7 +69,7 @@
       "grade": "Stakes",
       "dist": "2 1/8 miles (Hurdle)",
       "purse": "$75,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -177,7 +81,7 @@
       "grade": "Grade 2",
       "dist": "2 1/8 miles (Hurdle)",
       "purse": "$100,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -189,7 +93,7 @@
       "grade": "Stakes",
       "dist": "2 1/2 miles (Hurdle)",
       "purse": "$150,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -201,7 +105,7 @@
       "grade": "Grade 1",
       "dist": "2 5/8 miles (Hurdle)",
       "purse": "$300,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -213,7 +117,7 @@
       "grade": "Stakes",
       "dist": "2 miles (Turf)",
       "purse": "$150,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -225,7 +129,7 @@
       "grade": "Grade 3",
       "dist": "7 furlongs (Dirt)",
       "purse": "$350,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -237,7 +141,7 @@
       "grade": "Grade 2",
       "dist": "7 furlongs (Dirt)",
       "purse": "$400,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -249,7 +153,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Turf)",
       "purse": "$80,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -261,7 +165,7 @@
       "grade": "Grade 3",
       "dist": "1 1/8 miles (All Weather Track)",
       "purse": "$175,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -273,7 +177,7 @@
       "grade": "Grade 3",
       "dist": "6 furlongs (All Weather Track)",
       "purse": "$175,000",
-      "date": "10/17",
+      "date": "Today",
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
@@ -635,6 +539,10 @@
       "details": "Charles Town, Race 6, MSW Charles Town Races Slots , Friday, October 16, 2026, Race 6 MSW 4 1/2 furlongs $32,900 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Hobnob's Girl Ballado's Gold - Hobnob Hill Lil Pegasus Mosler - Dramatic Pegasus Dixiespeprmintwist Juba - Lady Jillet View Details Watch Replay"
     },
     {
+      "title": "Century Downs, Race 7, ALW",
+      "details": "Century Downs, Race 7, ALW CENTURY DOWNS , Friday, October 16, 2026, Race 7 ALW 7 furlongs $15,157 Fillies and Mares 3 yo's up Dirt FT Run as One Tap Back - Avery On Pointe Chablis Practical Joke - Champagne Gal Madeline Tothe Max Maximum Security - Queen Ofthe Empire View Details"
+    },
+    {
       "title": "Century Downs, Race 2, MSW",
       "details": "Century Downs, Race 2, MSW CENTURY DOWNS , Friday, October 16, 2026, Race 2 MSW 6 furlongs $19,739 2 yo Dirt FT Rock in Command Texas Wildcatter - Indie Rock Dis Creed Jimmy Creed - Liberty Girl Ava the Gold Bakken - Allouetta View Details"
     },
@@ -657,10 +565,6 @@
     {
       "title": "Gulfstream Park, Race 8, AOC",
       "details": "Gulfstream Park, Race 8, AOC Gulfstream Park , Friday, October 16, 2026, Race 8 AOC 5 1/2 furlongs $54,000 Fillies and Mares 3 yo's up All Weather Track FT La Dolce Vita Not This Time - Pretty Owl Lucy's Cookie Adios Charlie - Biloxi Princess Finding Strength Khozan - Strength in Unity View Details Watch Replay"
-    },
-    {
-      "title": "Gulfstream Park, Race 5, MSW",
-      "details": "Gulfstream Park, Race 5, MSW Gulfstream Park , Friday, October 16, 2026, Race 5 MSW 5 furlongs $50,000 Fillies 2 yo Turf FM Sassy Sof Into Mischief - Golden Curl Sass Sass War of Will - Twelfth Moon Rhett Dreams Jack Christopher - Dreaming of You View Details Watch Replay"
     }
   ]
 }
