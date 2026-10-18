@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 18, 2026 - 05:00 PM",
+  "last_updated": "October 18, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -471,6 +471,30 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 3, MCL",
+      "details": "Belmont Park, Race 3, MCL Belmont Park , Sunday, October 18, 2026, Race 3 MCL 6 furlongs $59,000 3 yo's up Inner turf FM Arabian Power Not This Time - Jewel of Arabia Frenchquarter Note City of Light - You Make Me Sing Enticed Master Enticed - Central Moves View Details"
+    },
+    {
+      "title": "Belmont Park, Race 2, AOC",
+      "details": "Belmont Park, Race 2, AOC Belmont Park , Sunday, October 18, 2026, Race 2 AOC 1 mile $108,000 3 yo's up Dirt FT Shadow Dragon Army Mule - Fire Assay Sunday Boy Central Banker - Lady Daphne Caddiemaster Liam's Map - Democrat Taxes View Details"
+    },
+    {
+      "title": "Belmont Park, Race 1, MSW",
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Sunday, October 18, 2026, Race 1 MSW One And Five Sixteenth Miles $100,000 Fillies and Mares 3 yo's up Turf FM Stand the Rain Liam's Map - Super Surprise Sister Jean McKinzie - Golden Muscade Osmosis (FR) Siyouni (FR) - Manerbe View Details"
+    },
+    {
+      "title": "Gulfstream Park, Race 5, AOC",
+      "details": "Gulfstream Park, Race 5, AOC Gulfstream Park , Sunday, October 18, 2026, Race 5 AOC 5 furlongs $54,000 3 yo's up All Weather Track FT Augustinian Galilean - Royale Michele Quereme Pass (ARG) Distinctiv Passion - Glad Tears Key (ARG) General Bradley Omaha Beach - Gypsy Blu View Details"
+    },
+    {
+      "title": "Laurel Park, Race 4, MCL",
+      "details": "Laurel Park, Race 4, MCL Laurel Park , Sunday, October 18, 2026, Race 4 MCL 6 furlongs $32,400 Fillies 2 yo Dirt FT Momma Oma Improbable - Graceful Request Ronnarock Mosler - It's a Doozy Pining Pinehurst - Momma G View Details"
+    },
+    {
+      "title": "Laurel Park, Race 3, AOC",
+      "details": "Laurel Park, Race 3, AOC Laurel Park , Sunday, October 18, 2026, Race 3 AOC 5 1/2 furlongs $58,300 3 yo's up Dirt FT Change My World World of Trouble - Wood Not Creed's Vision Jimmy Creed - Moon Vision Barbados Buzz Speightstown - Peaceful Feeling View Details"
+    },
+    {
       "title": "Belmont Park, Race 11, STR",
       "details": "Belmont Park, Race 11, STR Belmont Park , Saturday, October 17, 2026, Race 11 STR 7 furlongs $75,000 3 yo's up Dirt FT Pineapple Man Gormley - New Doo Shoot the Nickel Violence - C. S. Incharge Normandy Coast Omaha Beach - Alliteration View Details Watch Replay"
     },
@@ -505,30 +529,6 @@
     {
       "title": "Belmont Park, Race 3, STR",
       "details": "Belmont Park, Race 3, STR Belmont Park , Saturday, October 17, 2026, Race 3 STR 1 1/4 miles $90,000 3 yo's up Dirt GD Frizzante Vino Rosso - Secret Ingredient Le Gris City of Light - Chica Boom Chic Sharp Spark Classic Empire - Raise the Rithm View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 2, STR",
-      "details": "Belmont Park, Race 2, STR Belmont Park , Saturday, October 17, 2026, Race 2 STR 6 furlongs $110,000 Fillies and Mares 3 yo's up All Weather Track FT River Seine (IRE) Soldier's Call (GB) - Indian Ink (IRE) Gift of Gab Fast Anna - World Gone Wrong Delightful Flame Flameaway - Delightful Mary View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 1, STR",
-      "details": "Belmont Park, Race 1, STR Belmont Park , Saturday, October 17, 2026, Race 1 STR 6 furlongs $90,000 3 yo's up Dirt MY Commuted Gun Runner - Final Holiday Run Classic Runhappy - Pledge Pin Kunshan Bridge Protonico - Majestic Island View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 7, ALW",
-      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Saturday, October 17, 2026, Race 7 ALW 6 1/2 furlongs $35,300 Fillies and Mares 3 yo's up Dirt FT Chasing Sunsets Authentic - Dayienu Won Ton Tonalist - Theonewewaitedfor Quality of Essence Essential Quality - Shippy View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 2, ALW",
-      "details": "Charles Town, Race 2, ALW Charles Town Races Slots , Saturday, October 17, 2026, Race 2 ALW 7 furlongs $34,100 Fillies and Mares 3 yo's up Dirt FT Can You See Me Now Modernist - Any Day Now Smart Cry Irish War Cry - Clever Zero Degrees Keen Ice - Helluva Hunch View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 1, MSW",
-      "details": "Charles Town, Race 1, MSW Charles Town Races Slots , Saturday, October 17, 2026, Race 1 MSW 4 1/2 furlongs $32,900 3, 4, 5 6 yo's Dirt FT Ifthedevildanced Declan's Warrior - Brass Magnolia Brother Moses Mosler - Off the Screen Magic On the Bay Bullsbay - Magic Fillsthe Air View Details Watch Replay"
-    },
-    {
-      "title": "Alberta Sire Stakes Derby",
-      "details": "Alberta Sire Stakes Derby CENTURY DOWNS , Saturday, October 17, 2026, Race 5 STK 6 1/2 furlongs $35,364 3 yo Dirt FT Kamal Fed Biz - Many Kisses Little Did We Know Fed Biz - Lil Missknowitall Big Bad Bizooke Fed Biz - Pretty Wonder View Details View Stakes Recap"
     }
   ]
 }
