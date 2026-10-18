@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 18, 2026 - 09:00 PM",
+  "last_updated": "October 18, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -129,6 +129,126 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$65,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Maid of the Mist S.",
+      "raw_name": "Maid of the Mist S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$200,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Iroquois S.",
+      "raw_name": "Iroquois S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$200,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Empire Distaff S.",
+      "raw_name": "Empire Distaff S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$250,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Mohawk S.",
+      "raw_name": "Mohawk S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Inner turf)",
+      "purse": "$200,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New York Filly and Mare Turf Sprint Championship S.",
+      "raw_name": "New York Filly and Mare Turf Sprint Championship S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Turf)",
+      "purse": "$200,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Sleepy Hollow S.",
+      "raw_name": "Sleepy Hollow S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$200,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Hudson S.",
+      "raw_name": "Hudson S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$200,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New York Turf Sprint Championship S.",
+      "raw_name": "New York Turf Sprint Championship S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Turf)",
+      "purse": "$200,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Empire Classic S.",
+      "raw_name": "Empire Classic S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$250,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Ticonderoga S.",
+      "raw_name": "Ticonderoga S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Inner turf)",
+      "purse": "$200,000",
       "date": "10/24",
       "country": "USA",
       "flag": "🇺🇸",
@@ -579,64 +699,64 @@
   ],
   "recent_results": [
     {
+      "title": "Albuquerque, Race 5, MSW",
+      "details": "Albuquerque, Race 5, MSW Albuquerque , Sunday, October 18, 2026, Race 5 MSW 5 1/2 furlongs $34,600 Fillies 2 yo Dirt FT D'oros Diamond Bolt d'Oro - Diamondly Nightskyerayne Pinehurst - Aztec Nights Dive Bar Diva Yorkton - Magic Ride View Details Watch Replay"
+    },
+    {
+      "title": "Albuquerque, Race 4, ALW",
+      "details": "Albuquerque, Race 4, ALW Albuquerque , Sunday, October 18, 2026, Race 4 ALW 5 1/2 furlongs $30,400 3 yo's up Dirt FT Tiz a Flyer Smiling Tiger - Tiz Elemental Thirty Two Chunk More Than Ready - She's My Gem Man of Mischief Instagrand - Super Shopper View Details Watch Replay"
+    },
+    {
+      "title": "Belmont Park, Race 8, MSW",
+      "details": "Belmont Park, Race 8, MSW Belmont Park , Sunday, October 18, 2026, Race 8 MSW 1 mile $100,000 2 yo Turf FM Running in Time Gun Runner - Time and Motion Bring Cash Sea The Moon (GER) - Lovee Dovee (GB) Suspend Tapit - Lull View Details Watch Replay"
+    },
+    {
       "title": "Belmont Park, Race 6, MSW",
-      "details": "Belmont Park, Race 6, MSW Belmont Park , Sunday, October 18, 2026, Race 6 MSW 6 1/2 furlongs $100,000 Fillies 2 yo Inner turf FM Luck Penny McKinzie - Compulsion Annotate Honest Mischief - Tiz Bailee Frostburg Echo Town - Chilly Start View Details"
+      "details": "Belmont Park, Race 6, MSW Belmont Park , Sunday, October 18, 2026, Race 6 MSW 6 1/2 furlongs $100,000 Fillies 2 yo Inner turf FM Luck Penny McKinzie - Compulsion Annotate Honest Mischief - Tiz Bailee Frostburg Echo Town - Chilly Start View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 5, STR",
-      "details": "Belmont Park, Race 5, STR Belmont Park , Sunday, October 18, 2026, Race 5 STR 1 1/16 miles $65,000 Fillies and Mares 3 yo's up Turf FM Paula's Choice Slumber (GB) - Enrage Bryant and Cooper Slumber (GB) - Wait Your Turn She Takes Cash Street Boss - Resoundingly View Details"
+      "details": "Belmont Park, Race 5, STR Belmont Park , Sunday, October 18, 2026, Race 5 STR 1 1/16 miles $65,000 Fillies and Mares 3 yo's up Turf FM Paula's Choice Slumber (GB) - Enrage Bryant and Cooper Slumber (GB) - Wait Your Turn She Takes Cash Street Boss - Resoundingly View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 4, MSW",
-      "details": "Belmont Park, Race 4, MSW Belmont Park , Sunday, October 18, 2026, Race 4 MSW 1 mile $100,000 Fillies 2 yo Dirt FT Heirsuta Life Is Good - Modern Masterpiece Norah Begorrah Essential Quality - Hard Ten Hopping Tumoohaat Into Mischief - Malathaat View Details"
+      "details": "Belmont Park, Race 4, MSW Belmont Park , Sunday, October 18, 2026, Race 4 MSW 1 mile $100,000 Fillies 2 yo Dirt FT Heirsuta Life Is Good - Modern Masterpiece Norah Begorrah Essential Quality - Hard Ten Hopping Tumoohaat Into Mischief - Malathaat View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 3, MCL",
-      "details": "Belmont Park, Race 3, MCL Belmont Park , Sunday, October 18, 2026, Race 3 MCL 6 furlongs $59,000 3 yo's up Inner turf FM Arabian Power Not This Time - Jewel of Arabia Frenchquarter Note City of Light - You Make Me Sing Enticed Master Enticed - Central Moves View Details"
+      "details": "Belmont Park, Race 3, MCL Belmont Park , Sunday, October 18, 2026, Race 3 MCL 6 furlongs $59,000 3 yo's up Inner turf FM Arabian Power Not This Time - Jewel of Arabia Frenchquarter Note City of Light - You Make Me Sing Enticed Master Enticed - Central Moves View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 2, AOC",
-      "details": "Belmont Park, Race 2, AOC Belmont Park , Sunday, October 18, 2026, Race 2 AOC 1 mile $108,000 3 yo's up Dirt FT Shadow Dragon Army Mule - Fire Assay Sunday Boy Central Banker - Lady Daphne Caddiemaster Liam's Map - Democrat Taxes View Details"
+      "details": "Belmont Park, Race 2, AOC Belmont Park , Sunday, October 18, 2026, Race 2 AOC 1 mile $108,000 3 yo's up Dirt FT Shadow Dragon Army Mule - Fire Assay Sunday Boy Central Banker - Lady Daphne Caddiemaster Liam's Map - Democrat Taxes View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 1, MSW",
-      "details": "Belmont Park, Race 1, MSW Belmont Park , Sunday, October 18, 2026, Race 1 MSW One And Five Sixteenth Miles $100,000 Fillies and Mares 3 yo's up Turf FM Stand the Rain Liam's Map - Super Surprise Sister Jean McKinzie - Golden Muscade Osmosis (FR) Siyouni (FR) - Manerbe View Details"
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Sunday, October 18, 2026, Race 1 MSW One And Five Sixteenth Miles $100,000 Fillies and Mares 3 yo's up Turf FM Stand the Rain Liam's Map - Super Surprise Sister Jean McKinzie - Golden Muscade Osmosis (FR) Siyouni (FR) - Manerbe View Details Watch Replay"
     },
     {
       "title": "Gulfstream Park, Race 8, AOC",
-      "details": "Gulfstream Park, Race 8, AOC Gulfstream Park , Sunday, October 18, 2026, Race 8 AOC 6 furlongs $54,000 Fillies and Mares 3 yo's up Dirt GD Ninia Adios Charlie - Three Socks One Sorokin Charlatan - Tossup Dakota's Lil Auror Echo Town - Mony'slittlegracie View Details"
+      "details": "Gulfstream Park, Race 8, AOC Gulfstream Park , Sunday, October 18, 2026, Race 8 AOC 6 furlongs $54,000 Fillies and Mares 3 yo's up Dirt GD Ninia Adios Charlie - Three Socks One Sorokin Charlatan - Tossup Dakota's Lil Auror Echo Town - Mony'slittlegracie View Details Watch Replay"
     },
     {
       "title": "Gulfstream Park, Race 7, AOC",
-      "details": "Gulfstream Park, Race 7, AOC Gulfstream Park , Sunday, October 18, 2026, Race 7 AOC 6 furlongs $54,000 Fillies 2 yo Dirt GD Tutto Passa Volatile - Euphoria Early Spark Early Voting - Dungeon Dragon Queen Ellen Maximum Security - Miss Grandiose View Details"
+      "details": "Gulfstream Park, Race 7, AOC Gulfstream Park , Sunday, October 18, 2026, Race 7 AOC 6 furlongs $54,000 Fillies 2 yo Dirt GD Tutto Passa Volatile - Euphoria Early Spark Early Voting - Dungeon Dragon Queen Ellen Maximum Security - Miss Grandiose View Details Watch Replay"
     },
     {
       "title": "Gulfstream Park, Race 5, AOC",
-      "details": "Gulfstream Park, Race 5, AOC Gulfstream Park , Sunday, October 18, 2026, Race 5 AOC 5 furlongs $54,000 3 yo's up All Weather Track FT Augustinian Galilean - Royale Michele Quereme Pass (ARG) Distinctiv Passion - Glad Tears Key (ARG) General Bradley Omaha Beach - Gypsy Blu View Details"
+      "details": "Gulfstream Park, Race 5, AOC Gulfstream Park , Sunday, October 18, 2026, Race 5 AOC 5 furlongs $54,000 3 yo's up All Weather Track FT Augustinian Galilean - Royale Michele Quereme Pass (ARG) Distinctiv Passion - Glad Tears Key (ARG) General Bradley Omaha Beach - Gypsy Blu View Details Watch Replay"
+    },
+    {
+      "title": "Keeneland, Race 9, MSW",
+      "details": "Keeneland, Race 9, MSW Keeneland , Sunday, October 18, 2026, Race 9 MSW 1 1/16 miles $110,000 2 yo Dirt FT Arrival Time Not This Time - Look Me Over Sagamore Upstart - Witez Platinum Power Golden Pal - Bankruptonthebeach View Details Watch Replay"
     },
     {
       "title": "Rood Riddle Dowager S. (G3T)",
-      "details": "Rood Riddle Dowager S. (G3T) Keeneland , Sunday, October 18, 2026, Race 7 STK 1 1/2 miles $350,000 Fillies and Mares 3 yo's up Turf GD Malibu Smart English Channel - Mooghareadh Fionn Twirling Candy - Gaelic Gold Speed Shopper Quality Road - Fast Retailing View Details"
+      "details": "Rood Riddle Dowager S. (G3T) Keeneland , Sunday, October 18, 2026, Race 7 STK 1 1/2 miles $350,000 Fillies and Mares 3 yo's up Turf GD Malibu Smart English Channel - Mooghareadh Fionn Twirling Candy - Gaelic Gold Speed Shopper Quality Road - Fast Retailing View Details Watch Replay"
     },
     {
       "title": "Keeneland, Race 6, MSW",
-      "details": "Keeneland, Race 6, MSW Keeneland , Sunday, October 18, 2026, Race 6 MSW 6 furlongs $110,000 Fillies 2 yo Dirt FT Appeals to Me Maxfield - Something New America Votes Early Voting - Up in the Air Topeka Audible - Dos Vinos View Details"
-    },
-    {
-      "title": "Keeneland, Race 5, ALW",
-      "details": "Keeneland, Race 5, ALW Keeneland , Sunday, October 18, 2026, Race 5 ALW 1 1/16 miles $140,000 3 yo's up Dirt FT Johny's Rendezvous Ghostzapper - Romantic Intention Judge Davis Distorted Humor - Mylitta Mesero Not This Time - Lemon Liqueur View Details"
-    },
-    {
-      "title": "Keeneland, Race 4, MCL",
-      "details": "Keeneland, Race 4, MCL Keeneland , Sunday, October 18, 2026, Race 4 MCL 6 1/2 furlongs $53,000 2 yo Dirt FT Smart N Centsible Goldencents - Smarthalf Informer Corniche - Triangle Park Lindenborg Charlatan - Trensita View Details"
-    },
-    {
-      "title": "Laurel Park, Race 9, AOC",
-      "details": "Laurel Park, Race 9, AOC Laurel Park , Sunday, October 18, 2026, Race 9 AOC 6 furlongs $59,520 Fillies and Mares 3 yo's up Dirt FT Alani Competitive Edge - Tri Delt Girl Kilo Road Klimt - Shiloh Road Serenade Me Paynter - Quiet Inferno View Details"
-    },
-    {
-      "title": "Laurel Park, Race 8, MSW",
-      "details": "Laurel Park, Race 8, MSW Laurel Park , Sunday, October 18, 2026, Race 8 MSW 1 mile $47,060 3, 4, 5 6 yo's Dirt FT Rio Grande Justify - Kram Baltimore Quality Road - Win the War Executive Constitution - Low Pressure Zone View Details"
+      "details": "Keeneland, Race 6, MSW Keeneland , Sunday, October 18, 2026, Race 6 MSW 6 furlongs $110,000 Fillies 2 yo Dirt FT Appeals to Me Maxfield - Something New America Votes Early Voting - Up in the Air Topeka Audible - Dos Vinos View Details Watch Replay"
     }
   ]
 }
