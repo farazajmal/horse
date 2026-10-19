@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 19, 2026 - 05:00 PM",
+  "last_updated": "October 19, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -225,6 +225,78 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$50,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Kim Hammond Overnight H.",
+      "raw_name": "Kim Hammond Overnight H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$55,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Gary Patrick Overnight H.",
+      "raw_name": "Gary Patrick Overnight H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$55,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Indiana Stallion S.",
+      "raw_name": "Indiana Stallion S.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Crown Ambassador S.",
+      "raw_name": "Crown Ambassador S.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Lady Fog Horn H.",
+      "raw_name": "Lady Fog Horn H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$150,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Unreachable Star H.",
+      "raw_name": "Unreachable Star H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$150,000",
       "date": "10/24",
       "country": "USA",
       "flag": "🇺🇸",
@@ -651,6 +723,18 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 3, ALW",
+      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Monday, October 19, 2026, Race 3 ALW 1 mile $26,900 Fillies and Mares 3 yo's up Dirt FT Warrior Bunny Zee Known Agenda - Kats Girl Cala Rubies for Olivia Bustin Stones - Dancing Slippers Hot Gossip Curlin - Fixate View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 1, ALW",
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, October 19, 2026, Race 1 ALW 5 1/2 furlongs $26,900 3 yo's up Dirt FT Cast a Coin Central Banker - Light the Dynamite Rockinmoney Mr. Monomoy - Rockin Emmzy Trafalgar's Hero Lord Nelson - Brenna's Song View Details"
+    },
+    {
+      "title": "Parx Racing, Race 4, MSW",
+      "details": "Parx Racing, Race 4, MSW Parx Racing , Monday, October 19, 2026, Race 4 MSW 6 furlongs $50,000 Fillies 2 yo Dirt FT Queen Celine Golden Pal - Mainstay Tiz It Is Paynter - Tiz May West Fun Toph Fun Jack Christopher - Fun View Details"
+    },
+    {
       "title": "Albuquerque, Race 5, MSW",
       "details": "Albuquerque, Race 5, MSW Albuquerque , Sunday, October 18, 2026, Race 5 MSW 5 1/2 furlongs $34,600 Fillies 2 yo Dirt FT D'oros Diamond Bolt d'Oro - Diamondly Nightskyerayne Pinehurst - Aztec Nights Dive Bar Diva Yorkton - Magic Ride View Details Watch Replay"
     },
@@ -697,18 +781,6 @@
     {
       "title": "Gulfstream Park, Race 5, AOC",
       "details": "Gulfstream Park, Race 5, AOC Gulfstream Park , Sunday, October 18, 2026, Race 5 AOC 5 furlongs $54,000 3 yo's up All Weather Track FT Augustinian Galilean - Royale Michele Quereme Pass (ARG) Distinctiv Passion - Glad Tears Key (ARG) General Bradley Omaha Beach - Gypsy Blu View Details Watch Replay"
-    },
-    {
-      "title": "Keeneland, Race 9, MSW",
-      "details": "Keeneland, Race 9, MSW Keeneland , Sunday, October 18, 2026, Race 9 MSW 1 1/16 miles $110,000 2 yo Dirt FT Arrival Time Not This Time - Look Me Over Sagamore Upstart - Witez Platinum Power Golden Pal - Bankruptonthebeach View Details Watch Replay"
-    },
-    {
-      "title": "Rood Riddle Dowager S. (G3T)",
-      "details": "Rood Riddle Dowager S. (G3T) Keeneland , Sunday, October 18, 2026, Race 7 STK 1 1/2 miles $350,000 Fillies and Mares 3 yo's up Turf GD Malibu Smart English Channel - Mooghareadh Fionn Twirling Candy - Gaelic Gold Speed Shopper Quality Road - Fast Retailing View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Keeneland, Race 6, MSW",
-      "details": "Keeneland, Race 6, MSW Keeneland , Sunday, October 18, 2026, Race 6 MSW 6 furlongs $110,000 Fillies 2 yo Dirt FT Appeals to Me Maxfield - Something New America Votes Early Voting - Up in the Air Topeka Audible - Dos Vinos View Details Watch Replay"
     }
   ]
 }
