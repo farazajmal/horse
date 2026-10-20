@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 20, 2026 - 05:00 PM",
+  "last_updated": "October 20, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -224,6 +224,30 @@
       "track": "Fairmount Park",
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "William H. Allison S. (G2T)",
+      "raw_name": "William H. Allison S. (G2T)",
+      "track": "Great Meadow",
+      "grade": "Grade 2",
+      "dist": "About 2 1/8 miles (Hurdle)",
+      "purse": "$100,000",
+      "date": "10/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "International Gold Cup S.",
+      "raw_name": "International Gold Cup S.",
+      "track": "Great Meadow",
+      "grade": "Stakes",
+      "dist": "3 1/2 miles (Timber)",
       "purse": "$50,000",
       "date": "10/24",
       "country": "USA",
@@ -529,6 +553,30 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Rags to Riches S.",
+      "raw_name": "Rags to Riches S.",
+      "track": "Churchill Downs",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$200,000",
+      "date": "10/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Street Sense S. (G3)",
+      "raw_name": "Street Sense S. (G3)",
+      "track": "Churchill Downs",
+      "grade": "Grade 3",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$200,000",
+      "date": "10/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -747,6 +795,10 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 1, ALW",
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, October 20, 2026, Race 1 ALW 1 mile $26,500 3 yo's up Dirt FT Serra Good Magic - Holiday Bertie Call Saul Solomini - Mo Bobby Rumblyoungmanrumbl Goldencents - Nothingbutasmile View Details"
+    },
+    {
       "title": "Fort Erie, Race 8, ALW",
       "details": "Fort Erie, Race 8, ALW Fort Erie , Monday, October 19, 2026, Race 8 ALW 5 1/2 furlongs $20,400 Fillies and Mares 3 yo's up Dirt FT Dancin Mary Marie Souper Speedy - Dance in the Snow Blazing Damsel Passion for Action - Larkwood Blue's Mommy Silent Name (JPN) - Clementis View Details Watch Replay"
     },
@@ -801,10 +853,6 @@
     {
       "title": "Presque Isle Downs, Race 7, AOC",
       "details": "Presque Isle Downs, Race 7, AOC Presque Isle Downs , Monday, October 19, 2026, Race 7 AOC 6 furlongs $36,000 3 yo's up All Weather Track FT Wow Whata Party Desert Party - Loan Guarantee Final War Divisidero - Lifetime Memory Vasa Preservationist - Limitless View Details"
-    },
-    {
-      "title": "Presque Isle Downs, Race 6, AOC",
-      "details": "Presque Isle Downs, Race 6, AOC Presque Isle Downs , Monday, October 19, 2026, Race 6 AOC 6 furlongs $36,000 Fillies and Mares 3 yo's up All Weather Track FT Mitole Magic Mitole - Blake's Magic Wherever We Are Win Win Win - Adventure Bay Inspire Courage Medaglia d'Oro - Snaffle View Details"
     }
   ]
 }
