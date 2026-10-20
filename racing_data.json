@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 20, 2026 - 07:00 PM",
+  "last_updated": "October 20, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -205,6 +205,30 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Birdcatcher S.",
+      "raw_name": "Birdcatcher S.",
+      "track": "CENTURY DOWNS",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$50,000",
+      "date": "10/24",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "Freedom of the City S.",
+      "raw_name": "Freedom of the City S.",
+      "track": "CENTURY DOWNS",
+      "grade": "Stakes",
+      "dist": "7 1/2 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "10/24",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
     },
     {
       "name": "Pat Whitworth Illinois Debutante S.",
@@ -577,6 +601,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Autumn Miss S. (G3T)",
+      "raw_name": "Autumn Miss S. (G3T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 3",
+      "dist": "1 mile (Turf)",
+      "purse": "$100,000",
+      "date": "10/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -795,64 +831,64 @@
   ],
   "recent_results": [
     {
+      "title": "Harvest Moon Cup S.",
+      "details": "Harvest Moon Cup S. Fort Erie , Tuesday, October 20, 2026, Race 8 STK 1 1/16 miles $22,677 3 yo's up Dirt FT Heard a Ghost Shaman Ghost - Heard That Scat Factor The Factor - Scat Gal Kiddie Holiday Ami's Holiday - Kid's Collection View Details"
+    },
+    {
+      "title": "Crimson Maple Cup S.",
+      "details": "Crimson Maple Cup S. Fort Erie , Tuesday, October 20, 2026, Race 6 STK 1 1/16 miles $22,677 Fillies and Mares 3 yo's up Dirt FT Momaxie Maximus Mischief - Ms Costello Periwinkle Tapiture - Verismilitude Justify Perfection Justify - Silent Perfection View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 7, ALW",
+      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Tuesday, October 20, 2026, Race 7 ALW 1 mile $24,500 Fillies and Mares 3 yo's up Dirt FT Lipan Law Tiz the Law - Helotes Our Preferred Pal Central Banker - Giant Stella Rumint Munnings - Humint View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 6, MSW",
+      "details": "Finger Lakes, Race 6, MSW Finger Lakes , Tuesday, October 20, 2026, Race 6 MSW 6 furlongs $32,600 2 yo Dirt FT Bajan Sugar Courageous Cat - Bajan Beach Locked Horns Twirling Candy - Pharoah Fawcett Johnny Castle Known Agenda - Dance and Dance View Details"
+    },
+    {
       "title": "Finger Lakes, Race 1, ALW",
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, October 20, 2026, Race 1 ALW 1 mile $26,500 3 yo's up Dirt FT Serra Good Magic - Holiday Bertie Call Saul Solomini - Mo Bobby Rumblyoungmanrumbl Goldencents - Nothingbutasmile View Details"
     },
     {
-      "title": "Fort Erie, Race 8, ALW",
-      "details": "Fort Erie, Race 8, ALW Fort Erie , Monday, October 19, 2026, Race 8 ALW 5 1/2 furlongs $20,400 Fillies and Mares 3 yo's up Dirt FT Dancin Mary Marie Souper Speedy - Dance in the Snow Blazing Damsel Passion for Action - Larkwood Blue's Mommy Silent Name (JPN) - Clementis View Details Watch Replay"
+      "title": "Fairmount Park, Race 4, AOC",
+      "details": "Fairmount Park, Race 4, AOC Fairmount Park , Tuesday, October 20, 2026, Race 4 AOC 1 mile 70 Yards $20,000 3 yo's up Dirt FT First Bid More Than Ready - Realistic McMoney McCraken - Yule Party Bernin Tune Bernardini - Distorted Music View Details"
     },
     {
-      "title": "Fort Erie, Race 6, MSW",
-      "details": "Fort Erie, Race 6, MSW Fort Erie , Monday, October 19, 2026, Race 6 MSW 5 1/2 furlongs $18,806 Fillies and Mares 3 yo's up Dirt FT Shesmyoneandonly Shaman Ghost - Lucky Melissa Sienna Aura Yaupon - Madame Ready Melody Maker Maclean's Music - Fiftyshadesofhay View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 7, AOC",
-      "details": "Finger Lakes, Race 7, AOC Finger Lakes , Monday, October 19, 2026, Race 7 AOC 1 mile 70 Yards $29,000 3 yo's up Dirt FT Ouster Outwork - Northern City King's Leap King for a Day - Mine as Well Burn Notice Tonalist - Mrs. Got Rocks View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 6, MSW",
-      "details": "Finger Lakes, Race 6, MSW Finger Lakes , Monday, October 19, 2026, Race 6 MSW 5 1/2 furlongs $32,600 Fillies and Mares 3 yo's up Dirt FT Moriches Bay Mission Impazible - Alphadora Bee Daring Bee Jersey - Beautiful Helen Ty Ty Rose Union Rags - Beechwood Ella (IRE) View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 5, MSW",
-      "details": "Finger Lakes, Race 5, MSW Finger Lakes , Monday, October 19, 2026, Race 5 MSW 5 1/2 furlongs $32,600 3 yo's up Dirt FT Bootsy's a Rascal Mineshaft - Not Now Hillary Mr. Pools Palace Malice - Spectacular Me Gitole Mitole - Gitchee Goomie View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 3, ALW",
-      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Monday, October 19, 2026, Race 3 ALW 1 mile $26,900 Fillies and Mares 3 yo's up Dirt FT Warrior Bunny Zee Known Agenda - Kats Girl Cala Rubies for Olivia Bustin Stones - Dancing Slippers Hot Gossip Curlin - Fixate View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, October 19, 2026, Race 1 ALW 5 1/2 furlongs $26,900 3 yo's up Dirt FT Cast a Coin Central Banker - Light the Dynamite Rockinmoney Mr. Monomoy - Rockin Emmzy Trafalgar's Hero Lord Nelson - Brenna's Song View Details Watch Replay"
+      "title": "Fairmount Park, Race 1, MSW",
+      "details": "Fairmount Park, Race 1, MSW Fairmount Park , Tuesday, October 20, 2026, Race 1 MSW 5 1/2 furlongs $18,000 3 yo's up Dirt FT Tonys Kingdom Game Winner - Blue Venus Ifyouneedmecallme Complexity - Dixie Unioness Dark Bart Gift Box - Consider This View Details"
     },
     {
       "title": "Horseshoe Indianapolis, Race 3, ALW",
-      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Monday, October 19, 2026, Race 3 ALW 6 furlongs $34,000 3 yo's up Dirt FT Pistole Mitole - Gibby Countthecarats Gormley - Garnet Poetic Words Game Winner - Poetic View Details Watch Replay"
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Tuesday, October 20, 2026, Race 3 ALW 6 furlongs $34,000 3 yo's up Dirt FT Sleepy Keen Ice - Aldorable Debbie Stranger's Church Unified - Glorious Unbridled Slope Slope - Unbridled's Lady View Details"
     },
     {
       "title": "Horseshoe Indianapolis, Race 2, ALW",
-      "details": "Horseshoe Indianapolis, Race 2, ALW Horseshoe Indianapolis , Monday, October 19, 2026, Race 2 ALW 1 mile $41,000 3 yo's up Dirt FT Speight Knight Speightsong - Kitty Quality Mi Sargento Speightsong - Lil Sucrette Four Star General General a Rod - Midnightinpositano View Details Watch Replay"
+      "details": "Horseshoe Indianapolis, Race 2, ALW Horseshoe Indianapolis , Tuesday, October 20, 2026, Race 2 ALW 6 furlongs $41,000 3 yo's up Dirt FT El Payasito Sleepy Eyes Todd - Bird's Belle Pray for Victory Prayer for Relief - Dee Dee's Comet Boss Justice Harry's Holiday - Tour for Love View Details"
     },
     {
-      "title": "Mountaineer, Race 7, ALW",
-      "details": "Mountaineer, Race 7, ALW Mountaineer Race Track And Gaming Resort , Monday, October 19, 2026, Race 7 ALW 6 furlongs $21,000 Fillies and Mares 3 yo's up Dirt FT Aurora's Music Maclean's Music - Aurora Point Early Delivery Cupid - Albea Star Sexarito Frosted - Rich Love View Details Watch Replay"
+      "title": "Horseshoe Indianapolis, Race 1, MSW",
+      "details": "Horseshoe Indianapolis, Race 1, MSW Horseshoe Indianapolis , Tuesday, October 20, 2026, Race 1 MSW 1 mile 70 Yards $36,000 3 yo's up Dirt FT Red So O Lo Tonalist - Goldies Giant Pro Fever Protonico - Brenda's Fever Power Driven Higher Power - Beep Beep Birdie View Details"
     },
     {
       "title": "Mahoning Valley Racecourse, Race 8, MSW",
-      "details": "Mahoning Valley Racecourse, Race 8, MSW MAHONING VALLEY RACECOURSE , Monday, October 19, 2026, Race 8 MSW 5 1/2 furlongs $31,800 Fillies 2 yo Dirt FT Some Given Event Event Driven - Some Given Legend Lluvia Fuerte Dynamic Racer - Ameribelle Captain Windy Indy Wind - Goose Skywalker View Details"
+      "details": "Mahoning Valley Racecourse, Race 8, MSW MAHONING VALLEY RACECOURSE , Tuesday, October 20, 2026, Race 8 MSW 5 1/2 furlongs $31,800 Fillies 2 yo Dirt FT Time Traveler Cross Traffic - Star Sheba Cyber Queen Cyberknife - Proper Discretion Maximum Glow Maximum Security - Moonlight Ride View Details"
     },
     {
       "title": "Mahoning Valley Racecourse, Race 7, ALW",
-      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Monday, October 19, 2026, Race 7 ALW 1 mile $33,700 Fillies and Mares 3 yo's up Dirt FT Stacy Ellen Air Strike - Precocious Loco Coco Callide Valley - Caffeine Rush Jac's Cocoabella Jac's Fact - Spit's Image View Details"
+      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Tuesday, October 20, 2026, Race 7 ALW 6 furlongs $25,900 Fillies and Mares 3 yo's up Dirt FT Echo Valley Echo Town - Wakeeta Illuminate Tom's d'Etat - Blazing Bling Striking Lady Air Strike - Muttak Bay View Details"
     },
     {
       "title": "Mahoning Valley Racecourse, Race 6, ALW",
-      "details": "Mahoning Valley Racecourse, Race 6, ALW MAHONING VALLEY RACECOURSE , Monday, October 19, 2026, Race 6 ALW 6 furlongs $25,900 3 yo's up Dirt FT Big Bucksalot Neolithic - Bella Q. Jac's Doe Maker Jac's Fact - Empire of Doe Sadie's Silver Kid Kiss the Kid - Silver Sadie View Details"
+      "details": "Mahoning Valley Racecourse, Race 6, ALW MAHONING VALLEY RACECOURSE , Tuesday, October 20, 2026, Race 6 ALW 6 furlongs $30,300 3 yo's up Dirt FT Devil's Tower Into Mischief - Quatrefoil Rocket Dragon Kantharos - Ride to Houston Holiday House More Than Ready - Glorietta Bay View Details"
     },
     {
-      "title": "Presque Isle Downs, Race 7, AOC",
-      "details": "Presque Isle Downs, Race 7, AOC Presque Isle Downs , Monday, October 19, 2026, Race 7 AOC 6 furlongs $36,000 3 yo's up All Weather Track FT Wow Whata Party Desert Party - Loan Guarantee Final War Divisidero - Lifetime Memory Vasa Preservationist - Limitless View Details"
+      "title": "Presque Isle Downs, Race 1, MSW",
+      "details": "Presque Isle Downs, Race 1, MSW Presque Isle Downs , Tuesday, October 20, 2026, Race 1 MSW 6 furlongs $31,000 2 yo All Weather Track FT Quinntopia Eastwood - Alexandria Wa Free Agent Tapiture - Jermyn Street An Album Cover Thousand Words - Redeem My Heart View Details"
+    },
+    {
+      "title": "M.P. Ballezzi Appreciation Mile S. (BT)",
+      "details": "M.P. Ballezzi Appreciation Mile S. (BT) Parx Racing , Tuesday, October 20, 2026, Race 8 STK 1 mile $75,000 3 yo's up Dirt FT Wild Vine Red Vine - Praslin Dreambuilder Global Campaign - Usually Super Bartlett Not This Time - Brilliant Sunshine View Details"
     }
   ]
 }
