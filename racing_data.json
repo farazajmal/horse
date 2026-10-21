@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 21, 2026 - 09:00 PM",
+  "last_updated": "October 21, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -579,6 +579,30 @@
       "isUsa": true
     },
     {
+      "name": "Glen Cove S. (G3T)",
+      "raw_name": "Glen Cove S. (G3T)",
+      "track": "Belmont Park",
+      "grade": "Grade 3",
+      "dist": "7 furlongs (Turf)",
+      "purse": "$200,000",
+      "date": "10/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Glen Cove S. (G3T)",
+      "raw_name": "Glen Cove S. (G3T)",
+      "track": "Belmont Park",
+      "grade": "Grade 3",
+      "dist": "7 furlongs (Turf)",
+      "purse": "$200,000",
+      "date": "10/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Rags to Riches S.",
       "raw_name": "Rags to Riches S.",
       "track": "Churchill Downs",
@@ -831,64 +855,64 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 8, MCL",
+      "details": "Belmont Park, Race 8, MCL Belmont Park , Wednesday, October 21, 2026, Race 8 MCL 6 1/2 furlongs $56,000 3 yo's up Inner turf FM Richies Love Cupid - Proactive Rocolino Bustin Stones - Alexacrat Twenty One Red Tonalist - Catalina Island View Details Watch Replay"
+    },
+    {
+      "title": "Belmont Park, Race 7, ALW",
+      "details": "Belmont Park, Race 7, ALW Belmont Park , Wednesday, October 21, 2026, Race 7 ALW 6 furlongs $105,000 Fillies and Mares 3 yo's up Turf FM Long Legged Queen Daddy Long Legs - Peace Queen Carmen Amalia Combatant - Sapphire Sky Aperitif Vino Rosso - Big Thrill View Details Watch Replay"
+    },
+    {
       "title": "Belmont Park, Race 5, STR",
-      "details": "Belmont Park, Race 5, STR Belmont Park , Wednesday, October 21, 2026, Race 5 STR 6 furlongs $65,000 3 yo's up Inner turf FM Sir Walta Redesdale - Classic Melody Joker On Fire Practical Joke - Fire Assay Rhyton Kantharos - Unlimited Resource View Details"
+      "details": "Belmont Park, Race 5, STR Belmont Park , Wednesday, October 21, 2026, Race 5 STR 6 furlongs $65,000 3 yo's up Inner turf FM Sir Walta Redesdale - Classic Melody Joker On Fire Practical Joke - Fire Assay Rhyton Kantharos - Unlimited Resource View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 4, AOC",
-      "details": "Belmont Park, Race 4, AOC Belmont Park , Wednesday, October 21, 2026, Race 4 AOC 7 1/2 furlongs $108,000 Fillies and Mares 3 yo's up Turf FM Maria Callas Caravaggio - Anything Goes Brokealltherules Frosted - Scadadle All of It Mendelssohn - Indy's Lady View Details"
+      "details": "Belmont Park, Race 4, AOC Belmont Park , Wednesday, October 21, 2026, Race 4 AOC 7 1/2 furlongs $108,000 Fillies and Mares 3 yo's up Turf FM Maria Callas Caravaggio - Anything Goes Brokealltherules Frosted - Scadadle All of It Mendelssohn - Indy's Lady View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 3, MCL",
-      "details": "Belmont Park, Race 3, MCL Belmont Park , Wednesday, October 21, 2026, Race 3 MCL 1 mile $38,000 Fillies and Mares 3 yo's up Dirt FT Bombs Away Hit It a Bomb - Tizcara Luciana's Honor Code of Honor - Bristol's Brooke Immaculate Moon McKinzie - Moon Virginia View Details"
+      "details": "Belmont Park, Race 3, MCL Belmont Park , Wednesday, October 21, 2026, Race 3 MCL 1 mile $38,000 Fillies and Mares 3 yo's up Dirt FT Bombs Away Hit It a Bomb - Tizcara Luciana's Honor Code of Honor - Bristol's Brooke Immaculate Moon McKinzie - Moon Virginia View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 1, MCL",
-      "details": "Belmont Park, Race 1, MCL Belmont Park , Wednesday, October 21, 2026, Race 1 MCL 7 furlongs $52,000 3 yo's up Dirt FT Midnight Rocket Practical Joke - Midnight Girl Show Me the Munny Munnings - Include Me Out Ace in Hand Charlatan - Aguilera View Details"
+      "details": "Belmont Park, Race 1, MCL Belmont Park , Wednesday, October 21, 2026, Race 1 MCL 7 furlongs $52,000 3 yo's up Dirt FT Midnight Rocket Practical Joke - Midnight Girl Show Me the Munny Munnings - Include Me Out Ace in Hand Charlatan - Aguilera View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 7, ALW",
-      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Wednesday, October 21, 2026, Race 7 ALW 5 1/2 furlongs $24,500 Fillies and Mares 3 yo's up Dirt FT Queens Over Threes Bustin Stones - E. Queen Lincolnville Beach Keen Ice - Second Marriage Observer Lookin At Lucky - Bedside Posse View Details"
+      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Wednesday, October 21, 2026, Race 7 ALW 5 1/2 furlongs $24,500 Fillies and Mares 3 yo's up Dirt FT Queens Over Threes Bustin Stones - E. Queen Lincolnville Beach Keen Ice - Second Marriage Observer Lookin At Lucky - Bedside Posse View Details Watch Replay"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 5, MSW",
+      "details": "Horseshoe Indianapolis, Race 5, MSW Horseshoe Indianapolis , Wednesday, October 21, 2026, Race 5 MSW 1 mile $32,000 2 yo Dirt FT Start the Disco Upstart - Disco Barbie Slade Street Sense - Dorothea Toll Booth Willy Shancelot - Pay the Toll View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Wednesday, October 21, 2026, Race 4 MSW 1 mile $36,000 Fillies and Mares 3 yo's up Turf GD Amy El Jack Milton - Summer Courtship Scripted Love Unified - Hang On Sloopy Athena the Swift Tacitus - Bustle View Details"
+      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Wednesday, October 21, 2026, Race 4 MSW 1 mile $36,000 Fillies and Mares 3 yo's up Turf GD Amy El Jack Milton - Summer Courtship Scripted Love Unified - Hang On Sloopy Athena the Swift Tacitus - Bustle View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 3, MSW",
-      "details": "Horseshoe Indianapolis, Race 3, MSW Horseshoe Indianapolis , Wednesday, October 21, 2026, Race 3 MSW 6 furlongs $32,000 3 yo's up Dirt FT Pharoah Kidd American Pharoah - Stellaris Final Countdown Gio Ponti - Cinnie Nacua Core Beliefs - Shop Girl View Details"
+      "details": "Horseshoe Indianapolis, Race 3, MSW Horseshoe Indianapolis , Wednesday, October 21, 2026, Race 3 MSW 6 furlongs $32,000 3 yo's up Dirt FT Pharoah Kidd American Pharoah - Stellaris Final Countdown Gio Ponti - Cinnie Nacua Core Beliefs - Shop Girl View Details Watch Replay"
+    },
+    {
+      "title": "Keeneland, Race 8, MSW",
+      "details": "Keeneland, Race 8, MSW Keeneland , Wednesday, October 21, 2026, Race 8 MSW 1 1/16 miles $110,000 Fillies 2 yo Turf GD Follow Your Heart Flightline - Key To My Heart (IRE) Ataya Medaglia d'Oro - Hebah (IRE) Bredkorn Tale of Silence - Super Follow View Details Watch Replay"
     },
     {
       "title": "Keeneland, Race 7, ALW",
-      "details": "Keeneland, Race 7, ALW Keeneland , Wednesday, October 21, 2026, Race 7 ALW 1 1/16 miles $120,000 3 yo's up Dirt FT Freddie B Kantharos - Pacific Calm C McGriff Tacitus - Wonder Stone Rugged Love Cupid - Princess Addy View Details"
+      "details": "Keeneland, Race 7, ALW Keeneland , Wednesday, October 21, 2026, Race 7 ALW 1 1/16 miles $120,000 3 yo's up Dirt FT Freddie B Kantharos - Pacific Calm C McGriff Tacitus - Wonder Stone Rugged Love Cupid - Princess Addy View Details Watch Replay"
     },
     {
       "title": "Keeneland, Race 6, ALW",
-      "details": "Keeneland, Race 6, ALW Keeneland , Wednesday, October 21, 2026, Race 6 ALW 5 1/2 furlongs $150,000 Fillies and Mares 3 yo's up Turf GD Me Governor The Factor - Mocha Chip Le Amazonia Practical Joke - Oak Marsh Saturday Flirt Mendelssohn - Dragic View Details"
+      "details": "Keeneland, Race 6, ALW Keeneland , Wednesday, October 21, 2026, Race 6 ALW 5 1/2 furlongs $150,000 Fillies and Mares 3 yo's up Turf GD Me Governor The Factor - Mocha Chip Le Amazonia Practical Joke - Oak Marsh Saturday Flirt Mendelssohn - Dragic View Details Watch Replay"
     },
     {
       "title": "Keeneland, Race 5, MSW",
-      "details": "Keeneland, Race 5, MSW Keeneland , Wednesday, October 21, 2026, Race 5 MSW 1 1/16 miles $110,000 2 yo Dirt FT Social Deception Charlatan - Social Queen Objectivity Hard Spun - Always Thinking Jackpot Rocket Tapit - Holiday Music View Details"
+      "details": "Keeneland, Race 5, MSW Keeneland , Wednesday, October 21, 2026, Race 5 MSW 1 1/16 miles $110,000 2 yo Dirt FT Social Deception Charlatan - Social Queen Objectivity Hard Spun - Always Thinking Jackpot Rocket Tapit - Holiday Music View Details Watch Replay"
     },
     {
       "title": "Keeneland, Race 4, STR",
-      "details": "Keeneland, Race 4, STR Keeneland , Wednesday, October 21, 2026, Race 4 STR 7 furlongs $69,000 3 yo's up Dirt FT Proprietary Trade Practical Joke - Mo's Song Saltwater Cowboy Mastery - Tex Appeal Five o' Somewhere Munnings - Viva Sheila View Details"
-    },
-    {
-      "title": "Keeneland, Race 3, MCL",
-      "details": "Keeneland, Race 3, MCL Keeneland , Wednesday, October 21, 2026, Race 3 MCL 6 1/2 furlongs $78,000 Fillies 2 yo Dirt FT Jackie and Ginger Jack Christopher - Glycine La Noche Negra Enticed - G G's a Gem Fair Practice Tacitus - Wonder Stone View Details"
-    },
-    {
-      "title": "Keeneland, Race 1, MCL",
-      "details": "Keeneland, Race 1, MCL Keeneland , Wednesday, October 21, 2026, Race 1 MCL 6 furlongs $65,000 2 yo Dirt FT Pop and Locke Vekoma - Sum More Bizzness Midnight Burst Mitole - Honored Promise Flanker Game Winner - Lady Suebee View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 8, MSW",
-      "details": "Mahoning Valley Racecourse, Race 8, MSW MAHONING VALLEY RACECOURSE , Wednesday, October 21, 2026, Race 8 MSW 6 furlongs $31,800 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Youngandfree Corfu - One More Candy Holiday Coal Twinspired - Canaryinacoalmine Isa Fortress Fort Larned - Starship Lisa View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 7, ALW",
-      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Wednesday, October 21, 2026, Race 7 ALW 6 furlongs $35,100 Fillies and Mares 3 yo's up Dirt FT Jilly Runs Deep Rivers Run Deep - Jillybean Ryka The Factor - Ebby Vertisalute Vertiformer - Prayer Salute View Details"
+      "details": "Keeneland, Race 4, STR Keeneland , Wednesday, October 21, 2026, Race 4 STR 7 furlongs $69,000 3 yo's up Dirt FT Proprietary Trade Practical Joke - Mo's Song Saltwater Cowboy Mastery - Tex Appeal Five o' Somewhere Munnings - Viva Sheila View Details Watch Replay"
     }
   ]
 }
