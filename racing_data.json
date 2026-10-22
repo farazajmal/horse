@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 22, 2026 - 05:00 PM",
+  "last_updated": "October 22, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -637,6 +637,42 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Strong Tide Overnight H.",
+      "raw_name": "Strong Tide Overnight H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$55,000",
+      "date": "10/28",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Fireball Baby Overnight H.",
+      "raw_name": "Fireball Baby Overnight H.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$55,000",
+      "date": "10/28",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Louisiana Jewel S.",
+      "raw_name": "Louisiana Jewel S.",
+      "track": "Delta Downs",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -855,6 +891,18 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 1, ALW",
+      "details": "Belmont Park, Race 1, ALW Belmont Park , Thursday, October 22, 2026, Race 1 ALW 1 1/16 miles $105,000 Fillies and Mares 3 yo's up Dirt FT Fedupwiththefed Central Banker - Mostess Hostess Lady Wisdom Solomini - Myself Full Pour Vino Rosso - Extra Impact View Details"
+    },
+    {
+      "title": "Keeneland, Race 3, MCL",
+      "details": "Keeneland, Race 3, MCL Keeneland , Thursday, October 22, 2026, Race 3 MCL 1 1/8 miles $48,000 3 yo's up Dirt FT My King Air King Zachary - Notacloudinthesky Get Them Roses Practical Joke - Blossom Rose Shirley's Boyz Dialed In - C M Victoria Rose View Details"
+    },
+    {
+      "title": "Keeneland, Race 2, MCL",
+      "details": "Keeneland, Race 2, MCL Keeneland , Thursday, October 22, 2026, Race 2 MCL 6 1/2 furlongs $78,000 2 yo Dirt FT Borax Army Mule - Signadora Banyan Bay Authentic - Julerette With You Practical Joke - Peace Front View Details"
+    },
+    {
       "title": "Albuquerque, Race 6, MSW",
       "details": "Albuquerque, Race 6, MSW Albuquerque , Wednesday, October 21, 2026, Race 6 MSW 5 1/2 furlongs $39,600 Fillies and Mares 3 yo's up Dirt FT Casa Lago Sporting Chance - Back Seat Roll Fruity Snack Rule by Night - I Am a Deplorable Mahir Shame On Charlie - Never Mary View Details Watch Replay"
     },
@@ -901,18 +949,6 @@
     {
       "title": "Delta Downs, Race 3, MCL",
       "details": "Delta Downs, Race 3, MCL Delta Downs , Wednesday, October 21, 2026, Race 3 MCL 7 1/2 furlongs $39,000 Fillies 2 yo Dirt FT Tensas Union Girl Cairo Prince - Cascia True Fire Aurelius Maximus - Aife Anna K Cross Traffic - Smitty's Sunshine View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 7, ALW",
-      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Wednesday, October 21, 2026, Race 7 ALW 5 1/2 furlongs $24,500 Fillies and Mares 3 yo's up Dirt FT Queens Over Threes Bustin Stones - E. Queen Lincolnville Beach Keen Ice - Second Marriage Observer Lookin At Lucky - Bedside Posse View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 5, MSW",
-      "details": "Horseshoe Indianapolis, Race 5, MSW Horseshoe Indianapolis , Wednesday, October 21, 2026, Race 5 MSW 1 mile $32,000 2 yo Dirt FT Start the Disco Upstart - Disco Barbie Slade Street Sense - Dorothea Toll Booth Willy Shancelot - Pay the Toll View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 4, MSW",
-      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Wednesday, October 21, 2026, Race 4 MSW 1 mile $36,000 Fillies and Mares 3 yo's up Turf GD Amy El Jack Milton - Summer Courtship Scripted Love Unified - Hang On Sloopy Athena the Swift Tacitus - Bustle View Details Watch Replay"
     }
   ]
 }
