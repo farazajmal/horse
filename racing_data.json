@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 23, 2026 - 03:00 PM",
+  "last_updated": "October 23, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -627,6 +627,18 @@
       "isUsa": true
     },
     {
+      "name": "Clasico Antonio Mongil Jr S. (G2)",
+      "raw_name": "Clasico Antonio Mongil Jr S. (G2)",
+      "track": "Camarero Race Track",
+      "grade": "Grade 2",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$46,000",
+      "date": "10/25",
+      "country": "Puerto Rico",
+      "flag": "🇵🇷",
+      "isUsa": false
+    },
+    {
       "name": "Autumn Miss S. (G3T)",
       "raw_name": "Autumn Miss S. (G3T)",
       "track": "Santa Anita Park",
@@ -903,6 +915,10 @@
   ],
   "recent_results": [
     {
+      "title": "Gulfstream Park, Race 1, MSW",
+      "details": "Gulfstream Park, Race 1, MSW Gulfstream Park , Friday, October 23, 2026, Race 1 MSW 6 furlongs $50,000 2 yo Dirt GD Senti La Voce Speaker's Corner - Marvelous Spot Holy Warrior Jackie's Warrior - Flashy American White Foot Willie Core Beliefs - Bonnie's the Best View Details"
+    },
+    {
       "title": "Belmont Park, Race 6, MCL",
       "details": "Belmont Park, Race 6, MCL Belmont Park , Thursday, October 22, 2026, Race 6 MCL 1 mile $59,000 Fillies and Mares 3 yo's up Turf FM Just Tell Anne Constitution - Kiss the Girl Outro Candy Ride (ARG) - Chase Motto Portixol Knicks Go - Palma View Details Watch Replay"
     },
@@ -957,10 +973,6 @@
     {
       "title": "Horseshoe Indianapolis, Race 3, ALW",
       "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Thursday, October 22, 2026, Race 3 ALW 1 mile $43,000 3 yo's up Turf GD Governor Ron General a Rod - Challenge Accepted Vienna Charm Charming Kitten - Vienna Rose DH- Grey Eclipse Calculator - Ms. Smitty DH- Ready to Seize Ready's Image - Seven Seize View Details Watch Replay"
-    },
-    {
-      "title": "Keeneland, Race 9, MSW",
-      "details": "Keeneland, Race 9, MSW Keeneland , Thursday, October 22, 2026, Race 9 MSW 1 1/16 miles $85,000 Fillies 2 yo Dirt FT Spur of the Moment Girvin - Friction Bravojuliet Army Mule - For Finery Validida Authentic - Miss Drake View Details Watch Replay"
     }
   ]
 }
