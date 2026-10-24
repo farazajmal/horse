@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 24, 2026 - 01:00 PM",
+  "last_updated": "October 24, 2026 - 03:00 PM",
   "year": 2026,
   "races": [
     {
@@ -633,6 +633,30 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$100,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Our Dear Peggy S.",
+      "raw_name": "Our Dear Peggy S.",
+      "track": "Gulfstream Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Turf)",
+      "purse": "$75,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Cellars Shiraz S.",
+      "raw_name": "Cellars Shiraz S.",
+      "track": "Gulfstream Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Turf)",
+      "purse": "$75,000",
       "date": "10/30",
       "country": "USA",
       "flag": "🇺🇸",
