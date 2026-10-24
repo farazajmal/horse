@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 24, 2026 - 09:00 PM",
+  "last_updated": "October 24, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -627,6 +627,18 @@
       "isUsa": true
     },
     {
+      "name": "Athenia S.",
+      "raw_name": "Athenia S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Inner turf)",
+      "purse": "$175,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Louisiana Jewel S.",
       "raw_name": "Louisiana Jewel S.",
       "track": "Delta Downs",
@@ -669,6 +681,30 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$100,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Armed Forces S.",
+      "raw_name": "Armed Forces S.",
+      "track": "Gulfstream Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Turf)",
+      "purse": "$75,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Showing Up S.",
+      "raw_name": "Showing Up S.",
+      "track": "Gulfstream Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Turf)",
+      "purse": "$75,000",
       "date": "10/31",
       "country": "USA",
       "flag": "🇺🇸",
@@ -891,64 +927,64 @@
   ],
   "recent_results": [
     {
+      "title": "Ticonderoga S. (BT)",
+      "details": "Ticonderoga S. (BT) Belmont Park , Saturday, October 24, 2026, Race 11 STK 1 1/8 miles $200,000 Fillies and Mares 3 yo's up Inner turf FM Awesome Czech Mendelssohn - Marvelous Martina Midnight Concerto Mendelssohn - Midnight in Giada Victory Hall Independence Hall - Into Victory View Details Watch Replay"
+    },
+    {
+      "title": "Empire Classic S. (BT)",
+      "details": "Empire Classic S. (BT) Belmont Park , Saturday, October 24, 2026, Race 10 STK 1 1/8 miles $250,000 3 yo's up Dirt FT Iron Dome Into Mischief - Speightful Affair Wynstock Solomini - Timberlea Tricky Business Vekoma - Super Marina View Details Watch Replay"
+    },
+    {
+      "title": "New York Turf Sprint Championship S. (BT)",
+      "details": "New York Turf Sprint Championship S. (BT) Belmont Park , Saturday, October 24, 2026, Race 9 STK 6 furlongs $200,000 3 yo's up Turf FM Senbei Candy Ride (ARG) - Sweet Aloha Twenty Six Black War Dancer - Brazo de Oro Bold Journey Hard Spun - Polly Freeze View Details Watch Replay"
+    },
+    {
       "title": "Hudson S. (BT)",
-      "details": "Hudson S. (BT) Belmont Park , Saturday, October 24, 2026, Race 8 STK 6 1/2 furlongs $200,000 3 yo's up Dirt FT Sculcos Folly Redesdale - Cool Johanna Buttah Leofric - Salty Little Sis Caldo Candy Candy Ride (ARG) - Tanglewood Tale View Details"
+      "details": "Hudson S. (BT) Belmont Park , Saturday, October 24, 2026, Race 8 STK 6 1/2 furlongs $200,000 3 yo's up Dirt FT Sculcos Folly Redesdale - Cool Johanna Buttah Leofric - Salty Little Sis Caldo Candy Candy Ride (ARG) - Tanglewood Tale View Details Watch Replay"
     },
     {
       "title": "Sleepy Hollow S. (BT)",
-      "details": "Sleepy Hollow S. (BT) Belmont Park , Saturday, October 24, 2026, Race 7 STK 1 mile $200,000 2 yo Dirt FT Scramjet Uncle Mo - Dorothy's Aurora Covered Option Tiz the Law - Miss Jimmy Professor Plum Solomini - Overlook Road View Details"
+      "details": "Sleepy Hollow S. (BT) Belmont Park , Saturday, October 24, 2026, Race 7 STK 1 mile $200,000 2 yo Dirt FT Scramjet Uncle Mo - Dorothy's Aurora Covered Option Tiz the Law - Miss Jimmy Professor Plum Solomini - Overlook Road View Details Watch Replay"
     },
     {
       "title": "New York Filly and Mare Turf Sprint Championship S. (BT)",
-      "details": "New York Filly and Mare Turf Sprint Championship S. (BT) Belmont Park , Saturday, October 24, 2026, Race 6 STK 6 furlongs $200,000 Fillies and Mares 3 yo's up Turf FM Shoot It True Munnings - To the Moon Alice Annascaul American Pharoah - Epping Forest Silsbee Vekoma - Grace's Treasure View Details"
+      "details": "New York Filly and Mare Turf Sprint Championship S. (BT) Belmont Park , Saturday, October 24, 2026, Race 6 STK 6 furlongs $200,000 Fillies and Mares 3 yo's up Turf FM Shoot It True Munnings - To the Moon Alice Annascaul American Pharoah - Epping Forest Silsbee Vekoma - Grace's Treasure View Details Watch Replay"
     },
     {
       "title": "Mohawk S. (BT)",
-      "details": "Mohawk S. (BT) Belmont Park , Saturday, October 24, 2026, Race 5 STK 1 1/8 miles $200,000 3 yo's up Inner turf FM Sounds Like a Plan Twirling Candy - Court Dress Chummers Combatant - Giant Bird Spirit of St Louis Medaglia d'Oro - Khancord Kid View Details"
+      "details": "Mohawk S. (BT) Belmont Park , Saturday, October 24, 2026, Race 5 STK 1 1/8 miles $200,000 3 yo's up Inner turf FM Sounds Like a Plan Twirling Candy - Court Dress Chummers Combatant - Giant Bird Spirit of St Louis Medaglia d'Oro - Khancord Kid View Details Watch Replay"
     },
     {
       "title": "Empire Distaff S. (BT)",
-      "details": "Empire Distaff S. (BT) Belmont Park , Saturday, October 24, 2026, Race 4 STK 1 1/8 miles $250,000 Fillies and Mares 3 yo's up Dirt FT Valtellina Complexity - Take Charge Sue Bernietakescharge Take Charge Indy - Berning Rose Boxed Wine Vino Rosso - Temper Mint Patty View Details"
+      "details": "Empire Distaff S. (BT) Belmont Park , Saturday, October 24, 2026, Race 4 STK 1 1/8 miles $250,000 Fillies and Mares 3 yo's up Dirt FT Valtellina Complexity - Take Charge Sue Bernietakescharge Take Charge Indy - Berning Rose Boxed Wine Vino Rosso - Temper Mint Patty View Details Watch Replay"
     },
     {
       "title": "Iroquois S. (BT)",
-      "details": "Iroquois S. (BT) Belmont Park , Saturday, October 24, 2026, Race 3 STK 6 1/2 furlongs $200,000 Fillies and Mares 3 yo's up Dirt FT Munnings Express Munnings - Freudie Anne Venetta Yaupon - Gypsy Angel Queens Cat Courageous Cat - Contender's Queen View Details"
+      "details": "Iroquois S. (BT) Belmont Park , Saturday, October 24, 2026, Race 3 STK 6 1/2 furlongs $200,000 Fillies and Mares 3 yo's up Dirt FT Munnings Express Munnings - Freudie Anne Venetta Yaupon - Gypsy Angel Queens Cat Courageous Cat - Contender's Queen View Details Watch Replay"
     },
     {
       "title": "Maid of the Mist S. (BT)",
-      "details": "Maid of the Mist S. (BT) Belmont Park , Saturday, October 24, 2026, Race 2 STK 1 mile $200,000 Fillies 2 yo Dirt FT Cash Burn Nyquist - Three Hawk B Yutiful Carly Greatest Honour - Little Brave Davidson American Pharoah - Harley Girl View Details"
+      "details": "Maid of the Mist S. (BT) Belmont Park , Saturday, October 24, 2026, Race 2 STK 1 mile $200,000 Fillies 2 yo Dirt FT Cash Burn Nyquist - Three Hawk B Yutiful Carly Greatest Honour - Little Brave Davidson American Pharoah - Harley Girl View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 1, SOC",
-      "details": "Belmont Park, Race 1, SOC Belmont Park , Saturday, October 24, 2026, Race 1 SOC 6 1/2 furlongs $75,000 Fillies and Mares 3 yo's up Turf FM Bella Knows Kantharos - Bellamy Knows Cravings Essential Quality - Sweet Baby Girl River Tay (IRE) U S Navy Flag - Convocate View Details"
+      "details": "Belmont Park, Race 1, SOC Belmont Park , Saturday, October 24, 2026, Race 1 SOC 6 1/2 furlongs $75,000 Fillies and Mares 3 yo's up Turf FM Bella Knows Kantharos - Bellamy Knows Cravings Essential Quality - Sweet Baby Girl River Tay (IRE) U S Navy Flag - Convocate View Details Watch Replay"
     },
     {
-      "title": "Pat Whitworth Illinois Debutante S. (BT)",
-      "details": "Pat Whitworth Illinois Debutante S. (BT) Fairmount Park , Saturday, October 24, 2026, Race 4 STK 6 furlongs $50,000 Fillies 2 yo Dirt FT Greatway Greatest Honour - Beeway Geez Louise Mitole - Virginia's Joy Torchy Blaine Shancelot - Sophie Germain View Details"
+      "title": "Freedom of the City S.",
+      "details": "Freedom of the City S. CENTURY DOWNS , Saturday, October 24, 2026, Race 6 STK 7 1/2 furlongs $35,701 Fillies 2 yo Dirt FT Dis Creed Jimmy Creed - Liberty Girl Socks n' Roll Greatest Honour - Tiz Chappy Beyondthesun Sungold - Quatre Cat View Details"
     },
     {
-      "title": "Fairmount Park, Race 3, ALW",
-      "details": "Fairmount Park, Race 3, ALW Fairmount Park , Saturday, October 24, 2026, Race 3 ALW 6 furlongs $50,000 Fillies and Mares 3 yo's up Dirt FT Ghaaleb's City Ghaaleb - St. Louis City Tum Tap Tapiture - Lil Rum Tum Mama's Memories Ghaaleb - Rhodium View Details"
+      "title": "Birdcatcher S.",
+      "details": "Birdcatcher S. CENTURY DOWNS , Saturday, October 24, 2026, Race 5 STK 1 1/16 miles $35,701 2 yo Dirt FT Rock in Command Texas Wildcatter - Indie Rock Patriot's Word Thousand Words - Broadway Bonnie Basetown Basin - Miss Imperfection View Details"
     },
     {
-      "title": "Fairmount Park, Race 1, MSW",
-      "details": "Fairmount Park, Race 1, MSW Fairmount Park , Saturday, October 24, 2026, Race 1 MSW 6 furlongs $38,000 Fillies and Mares 3 yo's up Dirt FT Karazest Ghaaleb - Baby Karats Last Candy Modernist - Albany Candy Shosweet Shogood - Addadore View Details"
+      "title": "Delta Downs, Race 1, ALW",
+      "details": "Delta Downs, Race 1, ALW Delta Downs , Saturday, October 24, 2026, Race 1 ALW 5 furlongs $45,000 Fillies and Mares 3 yo's up Dirt FT Dr Stricklands Ace Hard Aces - Officer Jo Ann Sassi Idol Sassicaia - She's Prado's Idol Fulla Wicked Sugar Bobby's Wicked One - Steph'sfullasugar View Details Watch Replay"
     },
     {
-      "title": "Gulfstream Park, Race 6, MSW",
-      "details": "Gulfstream Park, Race 6, MSW Gulfstream Park , Saturday, October 24, 2026, Race 6 MSW 1 mile $50,000 2 yo Dirt FT Teotihuacan Tapit - Curvy Road Articulated Speaker's Corner - Calamity Jane Golden Peak Jack Christopher - Color Me Flying View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 4, MSW",
-      "details": "Gulfstream Park, Race 4, MSW Gulfstream Park , Saturday, October 24, 2026, Race 4 MSW 1 mile $50,000 Fillies 2 yo Turf FM Golden Palm Bolt d'Oro - West Palm Beach (IRE) Starship Patriot Constitution - Super Patriot Twin Stars Bolt d'Oro - Chione View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 3, AOC",
-      "details": "Gulfstream Park, Race 3, AOC Gulfstream Park , Saturday, October 24, 2026, Race 3 AOC 1 mile $54,000 Fillies and Mares 3 yo's up Dirt FT Absolute Honor Nyquist - Elusive Checkers Street Belle Street Boss - Isabelle Sapphire Girl Connect - Lady Esme View Details"
-    },
-    {
-      "title": "Unreachable Star H.",
-      "details": "Unreachable Star H. Horseshoe Indianapolis , Saturday, October 24, 2026, Race 7 STK 1 mile 70 Yards $150,000 3 yo Dirt FT Socorro's Prayer Prayer for Relief - City Seduction Infinite Speed Sombeyay - Infinity of Humor Hard Luck Prayer Prayer for Relief - Fancy Pants View Details"
+      "title": "Fairmount Park, Race 7, AOC",
+      "details": "Fairmount Park, Race 7, AOC Fairmount Park , Saturday, October 24, 2026, Race 7 AOC 6 furlongs $19,000 3 yo's up Dirt FT He Gone Omaha Beach - Song Burst Jimmies Big Day Race Day - Bear's Molly Excellent Empire Bravazo - Colonial Empress View Details"
     }
   ]
 }
