@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 25, 2026 - 07:00 PM",
+  "last_updated": "October 25, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -423,6 +423,30 @@
   ],
   "recent_results": [
     {
+      "title": "O.D. McDonald S.",
+      "details": "O.D. McDonald S. Albuquerque , Sunday, October 25, 2026, Race 3 STK 7 furlongs $75,000 3 yo's up Dirt FT Mojica Marking - I Ten Holy Hank Holy Lute - City Veil Marking Canyon Marking - Stormy Canyon View Details"
+    },
+    {
+      "title": "Albuquerque, Race 2, ALW",
+      "details": "Albuquerque, Race 2, ALW Albuquerque , Sunday, October 25, 2026, Race 2 ALW 6 furlongs $35,800 3 yo's up Dirt FT Risk Capital Marking - Souma Fort Sumner Marking - Twixy Holy Miss Holy Lute - Point to Point View Details"
+    },
+    {
+      "title": "Albuquerque, Race 1, ALW",
+      "details": "Albuquerque, Race 1, ALW Albuquerque , Sunday, October 25, 2026, Race 1 ALW 6 furlongs $29,800 3 yo's up Dirt FT Candyscape Twirling Candy - Bootytama Onefortheditch Tale of Verve - Internal Bourbon Bad Boy One One Bad Boy - Valseuse View Details"
+    },
+    {
+      "title": "Belmont Park, Race 6, ALW",
+      "details": "Belmont Park, Race 6, ALW Belmont Park , Sunday, October 25, 2026, Race 6 ALW 6 furlongs $105,000 3 yo's up Dirt FT Mo for the King King for a Day - Neversaidiwassweet Gonzalo Honest Mischief - Patel Pantherian Vekoma - Big Thrill View Details"
+    },
+    {
+      "title": "Glen Cove S. (G3T)",
+      "details": "Glen Cove S. (G3T) Belmont Park , Sunday, October 25, 2026, Race 5 STK 7 furlongs $200,000 Fillies 3 yo Turf FM Ground Support Army Mule - Arch Support Snappy Comeback Yaupon - Retort New Rose Nyquist - Meadow Rose View Details"
+    },
+    {
+      "title": "Belmont Park, Race 4, MSW",
+      "details": "Belmont Park, Race 4, MSW Belmont Park , Sunday, October 25, 2026, Race 4 MSW 6 furlongs $100,000 Fillies and Mares 3 yo's up Inner turf FM Supplier Gun Runner - Best Performance Break Up (IRE) Sioux Nation - Volcanic Lady (IRE) Social Scene (GB) Kingman (GB) - How (IRE) View Details"
+    },
+    {
       "title": "Belmont Park, Race 3, AOC",
       "details": "Belmont Park, Race 3, AOC Belmont Park , Sunday, October 25, 2026, Race 3 AOC 1 1/16 miles $108,000 Fillies and Mares 3 yo's up Dirt FT Lady Rose Upstart - White Sangria Rina's Revenge Yaupon - Mine as Well Sweetest Princess Cairo Prince - Sweet Cause View Details"
     },
@@ -435,52 +459,28 @@
       "details": "Belmont Park, Race 1, AOC Belmont Park , Sunday, October 25, 2026, Race 1 AOC 1 mile $108,000 Fillies and Mares 3 yo's up Dirt FT Kayla's Komet Mitole - Maggie's Monarch Minute by Minute Not This Time - Desert Duchess Limes Don't Lie McKinzie - Clothes Fall Off View Details"
     },
     {
+      "title": "Churchill Downs, Race 7, MSW",
+      "details": "Churchill Downs, Race 7, MSW Churchill Downs , Sunday, October 25, 2026, Race 7 MSW 6 furlongs $120,000 Fillies 2 yo Dirt FT Stand by Me By My Standards - Memento Ghostline Flightline - Ghostslayer Jasmine Absolute Girvin - Stormandaprayer View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 6, MSW",
+      "details": "Churchill Downs, Race 6, MSW Churchill Downs , Sunday, October 25, 2026, Race 6 MSW 6 furlongs $120,000 2 yo Dirt FT Lord Mischief Into Mischief - Lady Kate C R Sultan Maximus Mischief - Bagatelle Park Saveurequity Frosted - Fried Pickles View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 5, MSW",
+      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Sunday, October 25, 2026, Race 5 MSW 1 mile $120,000 2 yo Turf FM Bardstown Tiz the Law - Coed Ideation (IRE) No Nay Never - Flotilla (FR) Quigley Oscar Performance - Rapid Rhythm View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 4, MSW",
+      "details": "Churchill Downs, Race 4, MSW Churchill Downs , Sunday, October 25, 2026, Race 4 MSW 6 furlongs $92,000 Fillies 2 yo Dirt FT Voli Te Volatile - Absolute Love Flaming Verdict Speaker's Corner - Ms. Dragonette Racheli Cairo Prince - Campbell's Class View Details"
+    },
+    {
       "title": "Churchill Downs, Race 3, MSW",
       "details": "Churchill Downs, Race 3, MSW Churchill Downs , Sunday, October 25, 2026, Race 3 MSW 6 furlongs $92,000 2 yo Dirt FT Karajan Hard Spun - Chosen Road Epic Max Epicenter - Mongolian Rose Pirate Ship Midshipman - La Perla Nera View Details"
     },
     {
       "title": "Churchill Downs, Race 2, MSW",
       "details": "Churchill Downs, Race 2, MSW Churchill Downs , Sunday, October 25, 2026, Race 2 MSW 1 1/16 miles $120,000 Fillies 2 yo Turf FM Notgonnacatchher Not This Time - Duchess of Dubai (IRE) Novo Mesto Practical Joke - Durga Devi (IRE) Rumbelievable Good Magic - Angry Ocean View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 1, MSW",
-      "details": "Churchill Downs, Race 1, MSW Churchill Downs , Sunday, October 25, 2026, Race 1 MSW 1 mile $120,000 Fillies 2 yo Dirt FT Broadway Girl Justify - Alberobello Tess Me Not Hard Spun - Grandtessa Seaton Springs Maclean's Music - Melody Maiden View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 3, AOC",
-      "details": "Gulfstream Park, Race 3, AOC Gulfstream Park , Sunday, October 25, 2026, Race 3 AOC 5 furlongs $55,000 Fillies and Mares 3 yo's up Turf GD Vindicate Cha Cha Adios Charlie - Glamalert Braganza Dialed In - Gran Lioness Sunglow (IRE) No Nay Never - Gile Na Greine (IRE) View Details"
-    },
-    {
-      "title": "Laurel Park, Race 5, MCL",
-      "details": "Laurel Park, Race 5, MCL Laurel Park , Sunday, October 25, 2026, Race 5 MCL 1 1/16 miles $34,500 Fillies 2 yo Turf FM Nix in Twentysix Independence Hall - Rhetorical Colors Maria Elena Oscar Performance - You Say When (GB) Panning for Gold Goldencents - Petite Riviere View Details"
-    },
-    {
-      "title": "Laurel Park, Race 4, MCL",
-      "details": "Laurel Park, Race 4, MCL Laurel Park , Sunday, October 25, 2026, Race 4 MCL 7 furlongs $31,540 3, 4, 5 6 yo's Dirt FT Sweet Spy Blofeld - Sweet Walela Regency Tale Lord Nelson - Casual Kiss President Camacho Enticed - Steam View Details"
-    },
-    {
-      "title": "Laurel Park, Race 1, MCL",
-      "details": "Laurel Park, Race 1, MCL Laurel Park , Sunday, October 25, 2026, Race 1 MCL 5 1/2 furlongs $32,960 3, 4, 5 6 yo's Turf FM Fortune Hill Fortune Ticket - Society Hill Danner Omaha Beach - Pioneer Queen Honorary American (IRE) Churchill (IRE) - Heartlines View Details"
-    },
-    {
-      "title": "Woodbine, Race 1, MSW",
-      "details": "Woodbine, Race 1, MSW Woodbine , Sunday, October 25, 2026, Race 1 MSW About 1 1/8 miles $89,619 3 yo's up Turf FM Buium Uncle Mo - Lady Haddassah Super Tom Win Win Win - Everyday Gratitude Toronto City Temple City - Thekidsarealright View Details"
-    },
-    {
-      "title": "Manzano S. (BT)",
-      "details": "Manzano S. (BT) Albuquerque , Saturday, October 24, 2026, Race 5 STK 6 furlongs $65,000 2 yo Dirt FT Eternal Legacy Maximus Mischief - Field of Flowers Haywire Marking - Roll On Camron El Paso Lady Hard Spun - Midtown Traffic View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Albuquerque, Race 4, ALW",
-      "details": "Albuquerque, Race 4, ALW Albuquerque , Saturday, October 24, 2026, Race 4 ALW 5 1/2 furlongs $37,200 3 yo's up Dirt FT Holy Bullet Marking - Crafty Contessa Drinkroundthetruth Abstraction - Mockingjay Sambas Mark Marking - Samba Queen View Details Watch Replay"
-    },
-    {
-      "title": "Albuquerque, Race 3, AOC",
-      "details": "Albuquerque, Race 3, AOC Albuquerque , Saturday, October 24, 2026, Race 3 AOC 5 furlongs $33,600 3 yo's up Dirt FT Walter the Mason Heart to Heart - Heir of Light Albertus Instagrand - Quality Light Double Ride Candy Ride (ARG) - Double Medal View Details Watch Replay"
-    },
-    {
-      "title": "Albuquerque, Race 1, MSW",
-      "details": "Albuquerque, Race 1, MSW Albuquerque , Saturday, October 24, 2026, Race 1 MSW 5 1/2 furlongs $39,600 Fillies 2 yo Dirt FT W F Paradoxe American Anthem - Dressed in Prada Remarkable Me Marking - Plenty of Joy Bernlet Bernster - Where's Scarlet View Details Watch Replay"
     }
   ]
 }
