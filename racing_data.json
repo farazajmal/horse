@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 26, 2026 - 07:00 PM",
+  "last_updated": "October 26, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -351,12 +351,28 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 7, ALW",
+      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Monday, October 26, 2026, Race 7 ALW 1 mile $27,300 3 yo's up Dirt FT Palpable McKinzie - Mir Cat Valentinian Into Mischief - Rachel's Valentina Steam Powered The Factor - Harkness View Details"
+    },
+    {
       "title": "Finger Lakes, Race 3, MSW",
       "details": "Finger Lakes, Race 3, MSW Finger Lakes , Monday, October 26, 2026, Race 3 MSW 1 mile $32,600 3 yo's up Dirt FT Sunshine Bobalou Cloud Computing - Princesa de Papi Striker Joe Liam's Map - Cahirciveen Wingo Starr Honest Mischief - Always and Forever View Details"
     },
     {
+      "title": "Horseshoe Indianapolis, Race 2, MSW",
+      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Monday, October 26, 2026, Race 2 MSW 5 1/2 furlongs $32,000 Fillies 2 yo Dirt FT Cucurella Maximus Mischief - Fox Alert Holly Blue Munnings - Blue Watch Dixieland Street Sense - Lesley May View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 8, ALW",
+      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Monday, October 26, 2026, Race 8 ALW 1 mile $33,700 3 yo's up Dirt FT Pure Grinding Modernist - Brook's On Fire Jolly Mon Echo Town - Hey Monba Bukele Tapiture - Myositis Mystique View Details"
+    },
+    {
       "title": "Mahoning Valley Racecourse, Race 2, MSW",
       "details": "Mahoning Valley Racecourse, Race 2, MSW MAHONING VALLEY RACECOURSE , Monday, October 26, 2026, Race 2 MSW 5 1/2 furlongs $31,800 2 yo Dirt FT Sharon's Wish Goldencents - Sharon's Way The Ace Project Yoshida (JPN) - Topsy Turvy All Nine Yards Temple City - Merry Lady View Details"
+    },
+    {
+      "title": "Parx Racing, Race 8, AOC",
+      "details": "Parx Racing, Race 8, AOC Parx Racing , Monday, October 26, 2026, Race 8 AOC 6 1/2 furlongs $52,000 Fillies and Mares 3 yo's up Dirt FT More Than Grace More Than Ready - Trace of Grace Missy Sixtysix Hoppertunity - Sixtysix Margaux Centre Court Champ Dominus - Wimbledon Star View Details"
     },
     {
       "title": "O.D. McDonald S.",
@@ -393,22 +409,6 @@
     {
       "title": "Belmont Park, Race 3, AOC",
       "details": "Belmont Park, Race 3, AOC Belmont Park , Sunday, October 25, 2026, Race 3 AOC 1 1/16 miles $108,000 Fillies and Mares 3 yo's up Dirt FT Lady Rose Upstart - White Sangria Rina's Revenge Yaupon - Mine as Well Sweetest Princess Cairo Prince - Sweet Cause View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 2, MSW",
-      "details": "Belmont Park, Race 2, MSW Belmont Park , Sunday, October 25, 2026, Race 2 MSW 1 1/16 miles $100,000 Fillies 2 yo Turf FM Charlotte's Beach Not This Time - Spring Eclipse Bueckers Omaha Beach - Lunar Tunes Lady Girvin Girvin - Go Cubs Go View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 1, AOC",
-      "details": "Belmont Park, Race 1, AOC Belmont Park , Sunday, October 25, 2026, Race 1 AOC 1 mile $108,000 Fillies and Mares 3 yo's up Dirt FT Kayla's Komet Mitole - Maggie's Monarch Minute by Minute Not This Time - Desert Duchess Limes Don't Lie McKinzie - Clothes Fall Off View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 11, MSW",
-      "details": "Churchill Downs, Race 11, MSW Churchill Downs , Sunday, October 25, 2026, Race 11 MSW 1 mile $120,000 2 yo Dirt FT Fools Rush In Into Mischief - Fool's Paradise Monnie Curlin - Constellation Fullback Justify - Flying Spur View Details"
-    },
-    {
-      "title": "Street Sense S. (G3)",
-      "details": "Street Sense S. (G3) Churchill Downs , Sunday, October 25, 2026, Race 10 STK 1 1/16 miles $200,000 2 yo Dirt FT Jas Justify - Flag Day Staunch Liam's Map - Future Show Mystik Bayou Wells Bayou - Ma'am View Details Watch Replay View Stakes Recap"
     }
   ]
 }
