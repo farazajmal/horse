@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 27, 2026 - 07:00 PM",
+  "last_updated": "October 27, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -349,6 +349,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Pennsylvania Hunt Cup S.",
+      "raw_name": "Pennsylvania Hunt Cup S.",
+      "track": "Unionville",
+      "grade": "Stakes",
+      "dist": "4 miles (Timber)",
+      "purse": "$50,000",
+      "date": "11/1",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -567,8 +579,32 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 7, ALW",
+      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Tuesday, October 27, 2026, Race 7 ALW 1 mile 70 Yards $26,900 3 yo's up Dirt FT Trew Violence Violence - La Pequena Gigi Hey Pal Bustin Stones - Aspree Isola d'Oro Goldencents - Piccola Isola View Details"
+    },
+    {
       "title": "Finger Lakes, Race 1, ALW",
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, October 27, 2026, Race 1 ALW 1 mile 70 Yards $24,500 3 yo's up Dirt FT Free Dance Tapiture - Pirouette Shortsinthewinter Bolt d'Oro - Silly Sister Maturation McKinzie - American Lynx View Details"
+    },
+    {
+      "title": "Fairmount Park, Race 1, MSW",
+      "details": "Fairmount Park, Race 1, MSW Fairmount Park , Tuesday, October 27, 2026, Race 1 MSW 1 mile 70 Yards $38,000 3 yo's up Dirt FT Dandy Ruby Centrifuge - Dandy Gal My Last Escapade Free Drop Billy - Moonlight Escapade Position Our Luck Well Positioned - Luck Be a Ladybug View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 3, ALW",
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Tuesday, October 27, 2026, Race 3 ALW 6 furlongs $38,000 3 yo's up Dirt FT Thousands of Hopes Thousand Words - The Bees Knees Indy Lake Euroears - Lake Piru Gin and Whiskey Elnaawi - Miss Artie View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 2, AOC",
+      "details": "Horseshoe Indianapolis, Race 2, AOC Horseshoe Indianapolis , Tuesday, October 27, 2026, Race 2 AOC 6 furlongs $46,240 Fillies 2 yo Dirt FT Gin for Gem Jimmy Creed - Ginforthewin Liams Fancy Liam's Map - Charlie B Soul of the Night Mitole - Cersei View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 8, MSW",
+      "details": "Mahoning Valley Racecourse, Race 8, MSW MAHONING VALLEY RACECOURSE , Tuesday, October 27, 2026, Race 8 MSW 6 furlongs $31,800 3, 4, 5 6 yo's Dirt FT Everynowandthen Itsthesameoldsong - Everybodyluvslucy Bay Ja Blue Fort Larned - Bay Ja Vu Remix From Phoenix Itsthesameoldsong - Heatherfromphoenix View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 7, ALW",
+      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Tuesday, October 27, 2026, Race 7 ALW 6 furlongs $36,200 Fillies and Mares 3 yo's up Dirt FT She's Willie Fast Afleet Alex - Umami Holidays Army Brat Army Mule - Holiday Storm Miss Elecktra Jimmy Creed - Force of Passion View Details"
     },
     {
       "title": "Mahoning Valley Racecourse, Race 2, ALW",
@@ -601,18 +637,6 @@
     {
       "title": "Mountaineer, Race 1, AOC",
       "details": "Mountaineer, Race 1, AOC Mountaineer Race Track And Gaming Resort , Monday, October 26, 2026, Race 1 AOC 1 mile $20,000 3 yo's up Turf FM Hellacious Violence - Busy Bev Replevin Tom's d'Etat - Change of Custody Bosley Tamarkuz - Charlie's Angel (FR) View Details Watch Replay"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 8, ALW",
-      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Monday, October 26, 2026, Race 8 ALW 1 mile $33,700 3 yo's up Dirt FT Pure Grinding Modernist - Brook's On Fire Jolly Mon Echo Town - Hey Monba Bukele Tapiture - Myositis Mystique View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 2, MSW",
-      "details": "Mahoning Valley Racecourse, Race 2, MSW MAHONING VALLEY RACECOURSE , Monday, October 26, 2026, Race 2 MSW 5 1/2 furlongs $31,800 2 yo Dirt FT Sharon's Wish Goldencents - Sharon's Way The Ace Project Yoshida (JPN) - Topsy Turvy All Nine Yards Temple City - Merry Lady View Details"
-    },
-    {
-      "title": "Parx Racing, Race 8, AOC",
-      "details": "Parx Racing, Race 8, AOC Parx Racing , Monday, October 26, 2026, Race 8 AOC 6 1/2 furlongs $52,000 Fillies and Mares 3 yo's up Dirt FT More Than Grace More Than Ready - Trace of Grace Missy Sixtysix Hoppertunity - Sixtysix Margaux Centre Court Champ Dominus - Wimbledon Star View Details Watch Replay"
     }
   ]
 }
