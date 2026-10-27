@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 27, 2026 - 09:00 PM",
+  "last_updated": "October 27, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -142,6 +142,18 @@
       "dist": "1 mile (Turf)",
       "purse": "$1,000,000",
       "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Holiday Cup S.",
+      "raw_name": "Holiday Cup S.",
+      "track": "Aiken",
+      "grade": "Stakes",
+      "dist": "2 1/8 miles (Hurdle)",
+      "purse": "$50,000",
+      "date": "10/31",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -346,6 +358,18 @@
       "dist": "7 furlongs (Dirt)",
       "purse": "$175,000",
       "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Twilight Derby (G2T)",
+      "raw_name": "Twilight Derby (G2T)",
+      "track": "Santa Anita Park",
+      "grade": "Grade 2",
+      "dist": "1 1/8 miles (Turf)",
+      "purse": "$200,000",
+      "date": "11/1",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -580,23 +604,39 @@
   "recent_results": [
     {
       "title": "Finger Lakes, Race 7, ALW",
-      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Tuesday, October 27, 2026, Race 7 ALW 1 mile 70 Yards $26,900 3 yo's up Dirt FT Trew Violence Violence - La Pequena Gigi Hey Pal Bustin Stones - Aspree Isola d'Oro Goldencents - Piccola Isola View Details"
+      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Tuesday, October 27, 2026, Race 7 ALW 1 mile 70 Yards $26,900 3 yo's up Dirt FT Trew Violence Violence - La Pequena Gigi Hey Pal Bustin Stones - Aspree Isola d'Oro Goldencents - Piccola Isola View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, October 27, 2026, Race 1 ALW 1 mile 70 Yards $24,500 3 yo's up Dirt FT Free Dance Tapiture - Pirouette Shortsinthewinter Bolt d'Oro - Silly Sister Maturation McKinzie - American Lynx View Details"
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, October 27, 2026, Race 1 ALW 1 mile 70 Yards $24,500 3 yo's up Dirt FT Free Dance Tapiture - Pirouette Shortsinthewinter Bolt d'Oro - Silly Sister Maturation McKinzie - American Lynx View Details Watch Replay"
+    },
+    {
+      "title": "Fairmount Park, Race 7, AOC",
+      "details": "Fairmount Park, Race 7, AOC Fairmount Park , Tuesday, October 27, 2026, Race 7 AOC 6 furlongs $19,500 3 yo's up Dirt FT Big N Slow Known Agenda - Sweet Potato Rockdust Liam's Map - Zapara Spectacle Twirling Candy - Frank's Folly View Details"
+    },
+    {
+      "title": "Fairmount Park, Race 6, STR",
+      "details": "Fairmount Park, Race 6, STR Fairmount Park , Tuesday, October 27, 2026, Race 6 STR 2 1/16 miles $30,000 3 yo's up Dirt FT City of God City of Light - Maraschino Red Code Runner Honor Code - Nereid Two Hearted Heart to Heart - Welcome Aboard View Details"
+    },
+    {
+      "title": "Fairmount Park, Race 5, AOC",
+      "details": "Fairmount Park, Race 5, AOC Fairmount Park , Tuesday, October 27, 2026, Race 5 AOC 6 furlongs $39,500 Fillies and Mares 3 yo's up Dirt FT Beer Goggles Ghaaleb - Bar Hoppin Then Now 'n Always Jimmy Creed - Nora in the Sky Lylah Renee Demarchelier (GB) - Shelbi Renee View Details"
     },
     {
       "title": "Fairmount Park, Race 1, MSW",
       "details": "Fairmount Park, Race 1, MSW Fairmount Park , Tuesday, October 27, 2026, Race 1 MSW 1 mile 70 Yards $38,000 3 yo's up Dirt FT Dandy Ruby Centrifuge - Dandy Gal My Last Escapade Free Drop Billy - Moonlight Escapade Position Our Luck Well Positioned - Luck Be a Ladybug View Details"
     },
     {
+      "title": "Horseshoe Indianapolis, Race 7, ALW",
+      "details": "Horseshoe Indianapolis, Race 7, ALW Horseshoe Indianapolis , Tuesday, October 27, 2026, Race 7 ALW 1 mile $34,000 Fillies and Mares 3 yo's up Turf FM Collective Beauty Collected - Beautician Surprenant Cocca Catholic Boy - Grey Stark Cinquante Cinq (IRE) Kingman (GB) - Fifty Five View Details Watch Replay"
+    },
+    {
       "title": "Horseshoe Indianapolis, Race 3, ALW",
-      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Tuesday, October 27, 2026, Race 3 ALW 6 furlongs $38,000 3 yo's up Dirt FT Thousands of Hopes Thousand Words - The Bees Knees Indy Lake Euroears - Lake Piru Gin and Whiskey Elnaawi - Miss Artie View Details"
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Tuesday, October 27, 2026, Race 3 ALW 6 furlongs $38,000 3 yo's up Dirt FT Thousands of Hopes Thousand Words - The Bees Knees Indy Lake Euroears - Lake Piru Gin and Whiskey Elnaawi - Miss Artie View Details Watch Replay"
     },
     {
       "title": "Horseshoe Indianapolis, Race 2, AOC",
-      "details": "Horseshoe Indianapolis, Race 2, AOC Horseshoe Indianapolis , Tuesday, October 27, 2026, Race 2 AOC 6 furlongs $46,240 Fillies 2 yo Dirt FT Gin for Gem Jimmy Creed - Ginforthewin Liams Fancy Liam's Map - Charlie B Soul of the Night Mitole - Cersei View Details"
+      "details": "Horseshoe Indianapolis, Race 2, AOC Horseshoe Indianapolis , Tuesday, October 27, 2026, Race 2 AOC 6 furlongs $46,240 Fillies 2 yo Dirt FT Gin for Gem Jimmy Creed - Ginforthewin Liams Fancy Liam's Map - Charlie B Soul of the Night Mitole - Cersei View Details Watch Replay"
     },
     {
       "title": "Mahoning Valley Racecourse, Race 8, MSW",
@@ -611,32 +651,16 @@
       "details": "Mahoning Valley Racecourse, Race 2, ALW MAHONING VALLEY RACECOURSE , Tuesday, October 27, 2026, Race 2 ALW 1 mile $25,900 Fillies and Mares 3 yo's up Dirt FT Electa Constitution - Wait for Nairobi Happy Match Tapiture - Will It Be Love Bend My Ear Charlatan - Lucky Cover View Details"
     },
     {
+      "title": "Parx Racing, Race 8, AOC",
+      "details": "Parx Racing, Race 8, AOC Parx Racing , Tuesday, October 27, 2026, Race 8 AOC 6 1/2 furlongs $42,000 Fillies and Mares 3 yo's up Dirt FT Haunting Echoes Echo Town - Silent Street West of Lex Practical Joke - Classydame Late Night Text Into Mischief - Arrifana View Details Watch Replay"
+    },
+    {
       "title": "Finger Lakes, Race 7, ALW",
       "details": "Finger Lakes, Race 7, ALW Finger Lakes , Monday, October 26, 2026, Race 7 ALW 1 mile $27,300 3 yo's up Dirt FT Palpable McKinzie - Mir Cat Valentinian Into Mischief - Rachel's Valentina Steam Powered The Factor - Harkness View Details Watch Replay"
     },
     {
       "title": "Finger Lakes, Race 3, MSW",
       "details": "Finger Lakes, Race 3, MSW Finger Lakes , Monday, October 26, 2026, Race 3 MSW 1 mile $32,600 3 yo's up Dirt FT Sunshine Bobalou Cloud Computing - Princesa de Papi Striker Joe Liam's Map - Cahirciveen Wingo Starr Honest Mischief - Always and Forever View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 8, MSW",
-      "details": "Horseshoe Indianapolis, Race 8, MSW Horseshoe Indianapolis , Monday, October 26, 2026, Race 8 MSW 1 mile $36,000 2 yo Dirt FT Grandfather Sir Bravazo - Brenda's Fever Bignetti By My Standards - Aconcagua Tricked You Maximus Mischief - Triple A View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 5, ALW",
-      "details": "Horseshoe Indianapolis, Race 5, ALW Horseshoe Indianapolis , Monday, October 26, 2026, Race 5 ALW 1 mile $40,000 Fillies and Mares 3 yo's up Turf FM Sweet Heat Isotherm - Sweet Kala Jack's Summer Jack Milton - Summer Courtship Instilled Zip Instilled Regard - Zipso Facto View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 2, MSW",
-      "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Monday, October 26, 2026, Race 2 MSW 5 1/2 furlongs $32,000 Fillies 2 yo Dirt FT Cucurella Maximus Mischief - Fox Alert Holly Blue Munnings - Blue Watch Dixieland Street Sense - Lesley May View Details Watch Replay"
-    },
-    {
-      "title": "Mountaineer, Race 7, AOC",
-      "details": "Mountaineer, Race 7, AOC Mountaineer Race Track And Gaming Resort , Monday, October 26, 2026, Race 7 AOC 6 furlongs $21,000 3 yo's up Dirt FT Mitote Unified - Southern Brass A Ok Tale of Ekati - Tuition Plan Trust the Climb Limehouse - Paz the Wine View Details Watch Replay"
-    },
-    {
-      "title": "Mountaineer, Race 1, AOC",
-      "details": "Mountaineer, Race 1, AOC Mountaineer Race Track And Gaming Resort , Monday, October 26, 2026, Race 1 AOC 1 mile $20,000 3 yo's up Turf FM Hellacious Violence - Busy Bev Replevin Tom's d'Etat - Change of Custody Bosley Tamarkuz - Charlie's Angel (FR) View Details Watch Replay"
     }
   ]
 }
