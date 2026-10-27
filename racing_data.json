@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 27, 2026 - 01:00 AM",
+  "last_updated": "October 27, 2026 - 03:00 AM",
   "year": 2026,
   "races": [
     {
@@ -75,6 +75,78 @@
       "isUsa": true
     },
     {
+      "name": "Thoroughbred Aftercare Alliance S.",
+      "raw_name": "Thoroughbred Aftercare Alliance S.",
+      "track": "Keeneland",
+      "grade": "Stakes",
+      "dist": "1 mile (Turf)",
+      "purse": "$250,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Breeders' Cup Juvenile Turf Sprint (G1T)",
+      "raw_name": "Breeders' Cup Juvenile Turf Sprint (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "5 1/2 furlongs (Turf)",
+      "purse": "$1,000,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Breeders' Cup Juvenile Fillies (G1)",
+      "raw_name": "Breeders' Cup Juvenile Fillies (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$2,000,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "John Deere Breeders' Cup Juvenile Fillies Turf (G1T)",
+      "raw_name": "John Deere Breeders' Cup Juvenile Fillies Turf (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 mile (Turf)",
+      "purse": "$1,000,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "FanDuel Breeders' Cup Juvenile Presented by Thoroughbred Aftercare Alliance (G1)",
+      "raw_name": "FanDuel Breeders' Cup Juvenile Presented by Thoroughbred Aftercare Alliance (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$2,000,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Brown Advisory Breeders' Cup Juvenile Turf (G1T)",
+      "raw_name": "Brown Advisory Breeders' Cup Juvenile Turf (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 mile (Turf)",
+      "purse": "$1,000,000",
+      "date": "10/30",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Knickerbocker S.",
       "raw_name": "Knickerbocker S.",
       "track": "Belmont Park",
@@ -129,6 +201,114 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$75,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Breeders' Cup Filly Mare Sprint (G1)",
+      "raw_name": "Breeders' Cup Filly Mare Sprint (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$1,000,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Prevagen Breeders' Cup Turf Sprint (G1T)",
+      "raw_name": "Prevagen Breeders' Cup Turf Sprint (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "5 1/2 furlongs (Turf)",
+      "purse": "$1,000,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Breeders' Cup Dirt Mile (G1)",
+      "raw_name": "Breeders' Cup Dirt Mile (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 mile (Dirt)",
+      "purse": "$1,000,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Maker's Mark Breeders' Cup Filly Mare Turf (G1T)",
+      "raw_name": "Maker's Mark Breeders' Cup Filly Mare Turf (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 3/16 miles (Turf)",
+      "purse": "$2,000,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Cygames Breeders' Cup Sprint (G1)",
+      "raw_name": "Cygames Breeders' Cup Sprint (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$2,000,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "FanDuel Breeders' Cup Mile Presented by PDJF (G1T)",
+      "raw_name": "FanDuel Breeders' Cup Mile Presented by PDJF (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 mile (Turf)",
+      "purse": "$2,000,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Longines Breeders' Cup Distaff (G1)",
+      "raw_name": "Longines Breeders' Cup Distaff (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$2,000,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Longines Breeders' Cup Turf (G1T)",
+      "raw_name": "Longines Breeders' Cup Turf (G1T)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 1/2 miles (Turf)",
+      "purse": "$5,000,000",
+      "date": "10/31",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Longines Breeders' Cup Classic (G1)",
+      "raw_name": "Longines Breeders' Cup Classic (G1)",
+      "track": "Keeneland",
+      "grade": "Grade 1",
+      "dist": "1 1/4 miles (Dirt)",
+      "purse": "$7,000,000",
       "date": "10/31",
       "country": "USA",
       "flag": "🇺🇸",
@@ -407,6 +587,10 @@
       "details": "Horseshoe Indianapolis, Race 2, MSW Horseshoe Indianapolis , Monday, October 26, 2026, Race 2 MSW 5 1/2 furlongs $32,000 Fillies 2 yo Dirt FT Cucurella Maximus Mischief - Fox Alert Holly Blue Munnings - Blue Watch Dixieland Street Sense - Lesley May View Details Watch Replay"
     },
     {
+      "title": "Mountaineer, Race 7, AOC",
+      "details": "Mountaineer, Race 7, AOC Mountaineer Race Track And Gaming Resort , Monday, October 26, 2026, Race 7 AOC 6 furlongs $21,000 3 yo's up Dirt FT Mitote Unified - Southern Brass A Ok Tale of Ekati - Tuition Plan Trust the Climb Limehouse - Paz the Wine View Details Watch Replay"
+    },
+    {
       "title": "Mountaineer, Race 1, AOC",
       "details": "Mountaineer, Race 1, AOC Mountaineer Race Track And Gaming Resort , Monday, October 26, 2026, Race 1 AOC 1 mile $20,000 3 yo's up Turf FM Hellacious Violence - Busy Bev Replevin Tom's d'Etat - Change of Custody Bosley Tamarkuz - Charlie's Angel (FR) View Details Watch Replay"
     },
@@ -441,10 +625,6 @@
     {
       "title": "Belmont Park, Race 7, ALW",
       "details": "Belmont Park, Race 7, ALW Belmont Park , Sunday, October 25, 2026, Race 7 ALW 6 1/2 furlongs $105,000 Fillies and Mares 3 yo's up Dirt FT Material Girl Central Banker - Tanmawwy Liberty's Secret Central Banker - Liberty Fuze Miss American Pie Maclean's Music - Downdraft View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 6, ALW",
-      "details": "Belmont Park, Race 6, ALW Belmont Park , Sunday, October 25, 2026, Race 6 ALW 6 furlongs $105,000 3 yo's up Dirt FT Mo for the King King for a Day - Neversaidiwassweet Gonzalo Honest Mischief - Patel Pantherian Vekoma - Big Thrill View Details Watch Replay"
     }
   ]
 }
