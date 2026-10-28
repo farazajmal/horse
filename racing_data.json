@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 28, 2026 - 09:00 PM",
+  "last_updated": "October 28, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -375,6 +375,66 @@
       "isUsa": true
     },
     {
+      "name": "Bold Ruler S. (G3)",
+      "raw_name": "Bold Ruler S. (G3)",
+      "track": "Belmont Park",
+      "grade": "Grade 3",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$200,000",
+      "date": "11/1",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Notebook S.",
+      "raw_name": "Notebook S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Turf)",
+      "purse": "$175,000",
+      "date": "11/1",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Turnback the Alarm S.",
+      "raw_name": "Turnback the Alarm S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$175,000",
+      "date": "11/1",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Forty Niner S. (G3)",
+      "raw_name": "Forty Niner S. (G3)",
+      "track": "Belmont Park",
+      "grade": "Grade 3",
+      "dist": "1 mile (Dirt)",
+      "purse": "$200,000",
+      "date": "11/1",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Casa Creed S.",
+      "raw_name": "Casa Creed S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Turf)",
+      "purse": "$175,000",
+      "date": "11/1",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Twilight Derby (G2T)",
       "raw_name": "Twilight Derby (G2T)",
       "track": "Santa Anita Park",
@@ -615,16 +675,28 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 8, MCL",
+      "details": "Belmont Park, Race 8, MCL Belmont Park , Wednesday, October 28, 2026, Race 8 MCL 7 furlongs $56,000 Fillies and Mares 3 yo's up Turf FM No Need to Panic McKinzie - Kibosh Copper Caduceus War Dancer - Notacharlie'sangel Suited Connectors Tonalist - Quiet Ending View Details Watch Replay"
+    },
+    {
+      "title": "Belmont Park, Race 7, AOC",
+      "details": "Belmont Park, Race 7, AOC Belmont Park , Wednesday, October 28, 2026, Race 7 AOC One And Five Sixteenth Miles $108,000 3 yo's up Inner turf FM Market Timing Laoban - House Rules Il Siciliano Yoshida (JPN) - Heatherdoesntbluff Arkhipov Munnings - Ireland's Call View Details Watch Replay"
+    },
+    {
       "title": "Belmont Park, Race 5, MCL",
-      "details": "Belmont Park, Race 5, MCL Belmont Park , Wednesday, October 28, 2026, Race 5 MCL 1 1/16 miles $59,000 3 yo's up Turf FM Duty Omaha Beach - Faithful Languid Army Mule - Tiz Atlantis Cost Effective Into Mischief - Lewis Bay View Details"
+      "details": "Belmont Park, Race 5, MCL Belmont Park , Wednesday, October 28, 2026, Race 5 MCL 1 1/16 miles $59,000 3 yo's up Turf FM Duty Omaha Beach - Faithful Languid Army Mule - Tiz Atlantis Cost Effective Into Mischief - Lewis Bay View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 3, MSW",
-      "details": "Belmont Park, Race 3, MSW Belmont Park , Wednesday, October 28, 2026, Race 3 MSW 6 1/2 furlongs $100,000 3 yo's up Inner turf FM Sultan Hassan Cairo Prince - Light in the Sky Karsten Mendelssohn - Speightful Lady Bitter Banker Central Banker - Bitter Gold View Details"
+      "details": "Belmont Park, Race 3, MSW Belmont Park , Wednesday, October 28, 2026, Race 3 MSW 6 1/2 furlongs $100,000 3 yo's up Inner turf FM Sultan Hassan Cairo Prince - Light in the Sky Karsten Mendelssohn - Speightful Lady Bitter Banker Central Banker - Bitter Gold View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 2, MSW",
-      "details": "Belmont Park, Race 2, MSW Belmont Park , Wednesday, October 28, 2026, Race 2 MSW 6 1/2 furlongs $100,000 2 yo Dirt FT Tiz the Name Name Changer - Tizsotrue Bankingonit Central Banker - Kantini Key Factor Vekoma - Wicked Mizz View Details"
+      "details": "Belmont Park, Race 2, MSW Belmont Park , Wednesday, October 28, 2026, Race 2 MSW 6 1/2 furlongs $100,000 2 yo Dirt FT Tiz the Name Name Changer - Tizsotrue Bankingonit Central Banker - Kantini Key Factor Vekoma - Wicked Mizz View Details Watch Replay"
+    },
+    {
+      "title": "Churchill Downs, Race 9, MCL",
+      "details": "Churchill Downs, Race 9, MCL Churchill Downs , Wednesday, October 28, 2026, Race 9 MCL 6 furlongs $48,000 Fillies and Mares 3 yo's up Dirt FT Perpetua Blame - Soldier in Pink Nyad Mineshaft - Roll Your Eyes Wado Wave Mo Town - Knk's Dolce Vita View Details"
     },
     {
       "title": "Churchill Downs, Race 8, AOC",
@@ -660,19 +732,7 @@
     },
     {
       "title": "Finger Lakes, Race 6, MSW",
-      "details": "Finger Lakes, Race 6, MSW Finger Lakes , Wednesday, October 28, 2026, Race 6 MSW 5 1/2 furlongs $32,600 Fillies 2 yo Dirt FT Financial Star Central Banker - Holly's Star Nashville Knockout Nashville - Senorita Guzman Sunshine Lucile Mind Control - Short Squeeze View Details"
-    },
-    {
-      "title": "Finger Lakes, Race 5, MSW",
-      "details": "Finger Lakes, Race 5, MSW Finger Lakes , Wednesday, October 28, 2026, Race 5 MSW 5 1/2 furlongs $32,600 Fillies 2 yo Dirt FT Mi Amor Morena Corniche - Balandra Bay Lisa Loves Army Mule - Varsity Blonde Surf Drive Mendelssohn - Belongs to Dixie View Details"
-    },
-    {
-      "title": "Finger Lakes, Race 3, AOC",
-      "details": "Finger Lakes, Race 3, AOC Finger Lakes , Wednesday, October 28, 2026, Race 3 AOC 6 furlongs $29,000 Fillies and Mares 3 yo's up Dirt FT Intentious Solomini - Punkin's Pride Spun Size Spun to Run - Lexington Pearl Mischievous Trick Practical Joke - Sweet Slam View Details"
-    },
-    {
-      "title": "Finger Lakes, Race 1, ALW",
-      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, October 28, 2026, Race 1 ALW 6 furlongs $26,500 Fillies and Mares 3 yo's up Dirt FT Enterprisingly Maxfield - Estilo Femenino Light the Mira City of Light - Mirapoix Majorsdreamcometru Central Banker - Tiger Lotus View Details"
+      "details": "Finger Lakes, Race 6, MSW Finger Lakes , Wednesday, October 28, 2026, Race 6 MSW 5 1/2 furlongs $32,600 Fillies 2 yo Dirt FT Financial Star Central Banker - Holly's Star Nashville Knockout Nashville - Senorita Guzman Sunshine Lucile Mind Control - Short Squeeze View Details Watch Replay"
     }
   ]
 }
