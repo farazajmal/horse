@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 28, 2026 - 03:00 AM",
+  "last_updated": "October 28, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
     {
@@ -9,7 +9,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$55,000",
-      "date": "10/28",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -21,7 +21,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Dirt)",
       "purse": "$55,000",
-      "date": "10/28",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -657,10 +657,6 @@
     {
       "title": "Parx Racing, Race 8, AOC",
       "details": "Parx Racing, Race 8, AOC Parx Racing , Tuesday, October 27, 2026, Race 8 AOC 6 1/2 furlongs $42,000 Fillies and Mares 3 yo's up Dirt FT Haunting Echoes Echo Town - Silent Street West of Lex Practical Joke - Classydame Late Night Text Into Mischief - Arrifana View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 7, ALW",
-      "details": "Finger Lakes, Race 7, ALW Finger Lakes , Monday, October 26, 2026, Race 7 ALW 1 mile $27,300 3 yo's up Dirt FT Palpable McKinzie - Mir Cat Valentinian Into Mischief - Rachel's Valentina Steam Powered The Factor - Harkness View Details Watch Replay"
     }
   ]
 }
