@@ -1,31 +1,7 @@
 {
-  "last_updated": "October 29, 2026 - 03:00 AM",
+  "last_updated": "October 29, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Strong Tide Overnight H.",
-      "raw_name": "Strong Tide Overnight H.",
-      "track": "Horseshoe Indianapolis",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$55,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Fireball Baby Overnight H.",
-      "raw_name": "Fireball Baby Overnight H.",
-      "track": "Horseshoe Indianapolis",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$55,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Athenia S.",
       "raw_name": "Athenia S.",
