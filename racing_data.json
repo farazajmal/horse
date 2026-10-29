@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 29, 2026 - 05:00 PM",
+  "last_updated": "October 29, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -433,6 +433,30 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Silver Goblin H.",
+      "raw_name": "Silver Goblin H.",
+      "track": "Remington Park",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "11/6",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Don C. McNeill S.",
+      "raw_name": "Don C. McNeill S.",
+      "track": "Remington Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$50,000",
+      "date": "11/6",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -651,6 +675,30 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 2, ALW",
+      "details": "Belmont Park, Race 2, ALW Belmont Park , Thursday, October 29, 2026, Race 2 ALW 1 1/16 miles $105,000 3 yo's up Turf FM Final Denile Mendelssohn - In Denile Oat Coutour Tourist - Res Ipsa Ohonte's Own Known Agenda - Get Busy Living View Details"
+    },
+    {
+      "title": "Belmont Park, Race 1, MCL",
+      "details": "Belmont Park, Race 1, MCL Belmont Park , Thursday, October 29, 2026, Race 1 MCL 1 mile $49,000 3 yo's up Dirt FT Kings Landyn King for a Day - Northern Analyst True Adirondacker Authentic - Held Accountable Nickerson Knicks Go - Tammany View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 3, ALW",
+      "details": "Churchill Downs, Race 3, ALW Churchill Downs , Thursday, October 29, 2026, Race 3 ALW 5 furlongs $127,000 2 yo Turf FM Nessy Nashville - Gomogotcha Allura Mind Control - Alluring Miss Trim Castle Collected - Rouge View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 1, MCL",
+      "details": "Churchill Downs, Race 1, MCL Churchill Downs , Thursday, October 29, 2026, Race 1 MCL 6 furlongs $72,000 3 yo's up Dirt FT Quentin B Promises Fulfilled - Eloweasel Dark Force Into Mischief - Kadira Mr. Tallymon Vekoma - Shot of Cognac View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 1, MSW",
+      "details": "Horseshoe Indianapolis, Race 1, MSW Horseshoe Indianapolis , Thursday, October 29, 2026, Race 1 MSW 1 mile $32,000 3 yo's up Dirt FT Bold Stand Curlin - Indulgent Yancopin Known Agenda - Relentless Dear Nonno Army Mule - Lassie's Landing View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 3, ALW",
+      "details": "Mahoning Valley Racecourse, Race 3, ALW MAHONING VALLEY RACECOURSE , Thursday, October 29, 2026, Race 3 ALW 6 furlongs $25,900 Fillies 2 yo Dirt FT Barometric Frosted - Harlands Thunder Roses Thunder War of Will - Thunder Rose Cairo Mia Cairo Prince - Highland Lady View Details"
+    },
+    {
       "title": "Mahoning Valley Racecourse, Race 1, MSW",
       "details": "Mahoning Valley Racecourse, Race 1, MSW MAHONING VALLEY RACECOURSE , Thursday, October 29, 2026, Race 1 MSW 6 furlongs $31,800 3, 4, 5 6 yo's Dirt FT Happycastle Runhappy - Reachforthecastle Sweet Kylie Independence Hall - Kyles Marigold Scared Cause Creative Cause - Moonlight Ride View Details"
     },
@@ -685,30 +733,6 @@
     {
       "title": "Churchill Downs, Race 7, MSW",
       "details": "Churchill Downs, Race 7, MSW Churchill Downs , Wednesday, October 28, 2026, Race 7 MSW 7 furlongs $120,000 Fillies and Mares 3 yo's up Dirt FT Rules and Regs Tiz the Law - Reimpose Love Divine Into Mischief - Victim of Love Magic Woman Good Magic - Laureana View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 6, STR",
-      "details": "Churchill Downs, Race 6, STR Churchill Downs , Wednesday, October 28, 2026, Race 6 STR 6 furlongs $62,000 Fillies and Mares 3 yo's up Dirt FT Final Shipman Midshipman - Final Adventure Lockdownyourtown Mo Town - Miss Lady Locker Noroomformischief Maximus Mischief - No Vacancy View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, ALW",
-      "details": "Churchill Downs, Race 5, ALW Churchill Downs , Wednesday, October 28, 2026, Race 5 ALW 1 3/8 miles $127,000 3 yo's up Turf FM Vaporetti Not This Time - Lido Greystone Will Take Charge - Like a Gem Lahainaluna Quality Road - Kitten's Finest View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 4, MCL",
-      "details": "Churchill Downs, Race 4, MCL Churchill Downs , Wednesday, October 28, 2026, Race 4 MCL 6 furlongs $57,000 Fillies and Mares 3 yo's up Dirt FT Statutory Tiz the Law - Agreeable Miss Enticing Moves Enticed - Central Moves Grant's Gretchen Munnings - Sutton's Smile View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 3, MCL",
-      "details": "Churchill Downs, Race 3, MCL Churchill Downs , Wednesday, October 28, 2026, Race 3 MCL 1 1/16 miles $67,000 3 yo's up Dirt FT Harbor Prince Majestic Harbor - Pearl Pendant Macchiato Gun Runner - Margaux Mania Private Show Street Sense - Fashion Babe View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, AOC",
-      "details": "Churchill Downs, Race 2, AOC Churchill Downs , Wednesday, October 28, 2026, Race 2 AOC 1 3/8 miles $134,000 3 yo's up Turf FM Chambersville Twirling Candy - Reef Point Esmark Constitution - Neverthesame Clyde's Got a Gun Gun Runner - Gone Theatrical View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 1, CLM",
-      "details": "Churchill Downs, Race 1, CLM Churchill Downs , Wednesday, October 28, 2026, Race 1 CLM 7 furlongs $78,000 3 yo's up Dirt FT Risk It Gun Runner - Wedding Jitters Discotheque Connect - New Hope Road Attersee Klimt - Lakefront View Details"
     }
   ]
 }
