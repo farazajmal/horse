@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 29, 2026 - 03:00 PM",
+  "last_updated": "October 29, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -651,6 +651,10 @@
   ],
   "recent_results": [
     {
+      "title": "Mahoning Valley Racecourse, Race 1, MSW",
+      "details": "Mahoning Valley Racecourse, Race 1, MSW MAHONING VALLEY RACECOURSE , Thursday, October 29, 2026, Race 1 MSW 6 furlongs $31,800 3, 4, 5 6 yo's Dirt FT Happycastle Runhappy - Reachforthecastle Sweet Kylie Independence Hall - Kyles Marigold Scared Cause Creative Cause - Moonlight Ride View Details"
+    },
+    {
       "title": "Belmont Park, Race 8, MCL",
       "details": "Belmont Park, Race 8, MCL Belmont Park , Wednesday, October 28, 2026, Race 8 MCL 7 furlongs $56,000 Fillies and Mares 3 yo's up Turf FM No Need to Panic McKinzie - Kibosh Copper Caduceus War Dancer - Notacharlie'sangel Suited Connectors Tonalist - Quiet Ending View Details Watch Replay"
     },
@@ -705,10 +709,6 @@
     {
       "title": "Churchill Downs, Race 1, CLM",
       "details": "Churchill Downs, Race 1, CLM Churchill Downs , Wednesday, October 28, 2026, Race 1 CLM 7 furlongs $78,000 3 yo's up Dirt FT Risk It Gun Runner - Wedding Jitters Discotheque Connect - New Hope Road Attersee Klimt - Lakefront View Details"
-    },
-    {
-      "title": "Charles Town, Race 7, ALW",
-      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Wednesday, October 28, 2026, Race 7 ALW 7 furlongs $34,100 3 yo's up Dirt FT Caffeinennicotine Blofeld - All That Beauty Zachamundo Creative Cause - Laugh N Yodel Dewy's Beast The Big Beast - Lilikoi View Details Watch Replay"
     }
   ]
 }
