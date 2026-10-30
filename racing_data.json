@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 30, 2026 - 01:00 PM",
+  "last_updated": "October 30, 2026 - 03:00 PM",
   "year": 2026,
   "races": [
     {
@@ -409,6 +409,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Clasico Angel T. Cordero Jr S. (G2)",
+      "raw_name": "Clasico Angel T. Cordero Jr S. (G2)",
+      "track": "Camarero Race Track",
+      "grade": "Grade 2",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "11/1",
+      "country": "Puerto Rico",
+      "flag": "🇵🇷",
+      "isUsa": false
     },
     {
       "name": "Twilight Derby (G2T)",
