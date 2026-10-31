@@ -1,127 +1,7 @@
 {
-  "last_updated": "October 31, 2026 - 03:00 AM",
+  "last_updated": "October 31, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Athenia S.",
-      "raw_name": "Athenia S.",
-      "track": "Belmont Park",
-      "grade": "Stakes",
-      "dist": "1 1/8 miles (Inner turf)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Louisiana Jewel S.",
-      "raw_name": "Louisiana Jewel S.",
-      "track": "Delta Downs",
-      "grade": "Stakes",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Our Dear Peggy S.",
-      "raw_name": "Our Dear Peggy S.",
-      "track": "Gulfstream Park",
-      "grade": "Stakes",
-      "dist": "1 mile (Turf)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Cellars Shiraz S.",
-      "raw_name": "Cellars Shiraz S.",
-      "track": "Gulfstream Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Turf)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Thoroughbred Aftercare Alliance S.",
-      "raw_name": "Thoroughbred Aftercare Alliance S.",
-      "track": "Keeneland",
-      "grade": "Stakes",
-      "dist": "1 mile (Turf)",
-      "purse": "$250,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Breeders' Cup Juvenile Turf Sprint (G1T)",
-      "raw_name": "Breeders' Cup Juvenile Turf Sprint (G1T)",
-      "track": "Keeneland",
-      "grade": "Grade 1",
-      "dist": "5 1/2 furlongs (Turf)",
-      "purse": "$1,000,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Breeders' Cup Juvenile Fillies (G1)",
-      "raw_name": "Breeders' Cup Juvenile Fillies (G1)",
-      "track": "Keeneland",
-      "grade": "Grade 1",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$2,000,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "John Deere Breeders' Cup Juvenile Fillies Turf (G1T)",
-      "raw_name": "John Deere Breeders' Cup Juvenile Fillies Turf (G1T)",
-      "track": "Keeneland",
-      "grade": "Grade 1",
-      "dist": "1 mile (Turf)",
-      "purse": "$1,000,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "FanDuel Breeders' Cup Juvenile Presented by Thoroughbred Aftercare Alliance (G1)",
-      "raw_name": "FanDuel Breeders' Cup Juvenile Presented by Thoroughbred Aftercare Alliance (G1)",
-      "track": "Keeneland",
-      "grade": "Grade 1",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$2,000,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Brown Advisory Breeders' Cup Juvenile Turf (G1T)",
-      "raw_name": "Brown Advisory Breeders' Cup Juvenile Turf (G1T)",
-      "track": "Keeneland",
-      "grade": "Grade 1",
-      "dist": "1 mile (Turf)",
-      "purse": "$1,000,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Holiday Cup S.",
       "raw_name": "Holiday Cup S.",
@@ -129,7 +9,7 @@
       "grade": "Stakes",
       "dist": "2 1/8 miles (Hurdle)",
       "purse": "$50,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +21,7 @@
       "grade": "Stakes",
       "dist": "1 3/16 miles (Inner turf)",
       "purse": "$175,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +33,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Turf)",
       "purse": "$175,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -165,7 +45,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -177,7 +57,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -189,7 +69,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Turf)",
       "purse": "$75,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -201,7 +81,7 @@
       "grade": "Stakes",
       "dist": "1 1/16 miles (Turf)",
       "purse": "$75,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -213,7 +93,7 @@
       "grade": "Grade 1",
       "dist": "7 furlongs (Dirt)",
       "purse": "$1,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -225,7 +105,7 @@
       "grade": "Grade 1",
       "dist": "5 1/2 furlongs (Turf)",
       "purse": "$1,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -237,7 +117,7 @@
       "grade": "Grade 1",
       "dist": "1 mile (Dirt)",
       "purse": "$1,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -249,7 +129,7 @@
       "grade": "Grade 1",
       "dist": "1 3/16 miles (Turf)",
       "purse": "$2,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -261,7 +141,7 @@
       "grade": "Grade 1",
       "dist": "6 furlongs (Dirt)",
       "purse": "$2,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -273,7 +153,7 @@
       "grade": "Grade 1",
       "dist": "1 mile (Turf)",
       "purse": "$2,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -285,7 +165,7 @@
       "grade": "Grade 1",
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$2,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -297,7 +177,7 @@
       "grade": "Grade 1",
       "dist": "1 1/2 miles (Turf)",
       "purse": "$5,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -309,7 +189,7 @@
       "grade": "Grade 1",
       "dist": "1 1/4 miles (Dirt)",
       "purse": "$7,000,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -321,7 +201,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$175,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -333,7 +213,7 @@
       "grade": "Grade 3",
       "dist": "1 mile (Turf)",
       "purse": "$100,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -345,7 +225,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$175,000",
-      "date": "10/31",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -763,12 +643,12 @@
       "details": "Charles Town, Race 2, ALW Charles Town Races Slots , Friday, October 30, 2026, Race 2 ALW 1 1/16 miles $35,100 3 yo's up Dirt FT Tornado Warning Complexity - Spring in the Wind Boundforabruisin Juba - Bound To Musical Entourage Our Entourage - Instrumental View Details Watch Replay"
     },
     {
-      "title": "Century Downs, Race 4, AOC",
-      "details": "Century Downs, Race 4, AOC CENTURY DOWNS , Friday, October 30, 2026, Race 4 AOC 7 furlongs $15,012 3 yo Dirt FT Red Charity Signature Red - Generous Touch Scuffle Violence - Noblame Kamal Fed Biz - Many Kisses View Details"
+      "title": "Century Downs, Race 8, AOC",
+      "details": "Century Downs, Race 8, AOC CENTURY DOWNS , Friday, October 30, 2026, Race 8 AOC 7 furlongs $15,369 Fillies and Mares 3 yo's up Dirt FT Moonlit Courage Omaha Beach - Clair de Lune Bound for Heaven Stanford - Run for Retts Who's That Baby Ami's Holiday - Ring in the Nite View Details"
     },
     {
-      "title": "Century Downs, Race 3, MSW",
-      "details": "Century Downs, Race 3, MSW CENTURY DOWNS , Friday, October 30, 2026, Race 3 MSW 3 1/2 furlongs $20,016 2 yo Dirt FT Pass the Gold Goldencents - Passive Sauce Me a Slice Fed Biz - Fully Lent N Two O Fed Biz - Collar Me First View Details"
+      "title": "Century Downs, Race 4, AOC",
+      "details": "Century Downs, Race 4, AOC CENTURY DOWNS , Friday, October 30, 2026, Race 4 AOC 7 furlongs $15,012 3 yo Dirt FT Red Charity Signature Red - Generous Touch Scuffle Violence - Noblame Kamal Fed Biz - Many Kisses View Details"
     }
   ]
 }
