@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 31, 2026 - 03:00 PM",
+  "last_updated": "October 31, 2026 - 05:00 PM",
   "year": 2026,
   "races": [
     {
@@ -591,6 +591,30 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 3, AOC",
+      "details": "Belmont Park, Race 3, AOC Belmont Park , Saturday, October 31, 2026, Race 3 AOC 6 furlongs $105,000 Fillies and Mares 3 yo's up Dirt FT L'Eclair Beau Liam - Breakaway Dixie Collective Bargain Maxfield - Unionduesincluded Interstatelovesong Bolt d'Oro - Gentle Humor View Details"
+    },
+    {
+      "title": "Belmont Park, Race 2, MSW",
+      "details": "Belmont Park, Race 2, MSW Belmont Park , Saturday, October 31, 2026, Race 2 MSW 6 1/2 furlongs $100,000 Fillies 2 yo Dirt FT Fireinhereyes Fire At Will - Mycrazyxgirlfriend Jadugar Authentic - Super Marina Bikini Changer Name Changer - Bikini Beauty View Details"
+    },
+    {
+      "title": "Belmont Park, Race 1, MSW",
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, October 31, 2026, Race 1 MSW 1 1/8 miles $100,000 2 yo Inner turf FM Road to Ravello Corniche - Amalfi Queen Port in a Storm Uncle Mo - Hold Harmless Stars On the Water Mendelssohn - All Others Follow (GB) View Details"
+    },
+    {
+      "title": "Keeneland, Race 3, AOC",
+      "details": "Keeneland, Race 3, AOC Keeneland , Saturday, October 31, 2026, Race 3 AOC 6 1/2 furlongs $185,000 3 yo's up Dirt FT Floodlites City of Light - More Mo for Me Booth Mitole - Sophia's Song Will Take It Tapit - Lady Take Charge View Details"
+    },
+    {
+      "title": "Keeneland, Race 2, AOC",
+      "details": "Keeneland, Race 2, AOC Keeneland , Saturday, October 31, 2026, Race 2 AOC 7 furlongs $165,000 Fillies 2 yo Dirt FT Right in Time Maclean's Music - Sarah Joe She's Toasty Army Mule - Upsetter Don't Tell Mom Upstart - Parlance View Details"
+    },
+    {
+      "title": "Keeneland, Race 1, MSW",
+      "details": "Keeneland, Race 1, MSW Keeneland , Saturday, October 31, 2026, Race 1 MSW 7 furlongs $150,000 2 yo Dirt FT Powerline Flightline - Park Avenue Highwaymen Curlin - Always On My Mind Knicks Diamonds Knicks Go - Diamondinthecenter View Details"
+    },
+    {
       "title": "Belmont Park, Race 10, MSW",
       "details": "Belmont Park, Race 10, MSW Belmont Park , Friday, October 30, 2026, Race 10 MSW 7 furlongs $100,000 2 yo Turf FM And the Runner Is Oscar Performance - Linda River of Deceit Hard Spun - Revealing Quality Momentary Star Mehmas (IRE) - Fidaaha (IRE) View Details Watch Replay"
     },
@@ -625,30 +649,6 @@
     {
       "title": "Belmont Park, Race 1, MSW",
       "details": "Belmont Park, Race 1, MSW Belmont Park , Friday, October 30, 2026, Race 1 MSW 7 furlongs $100,000 3 yo's up Dirt FT Legal Gambit Tiz the Law - Sweet Southern Gal Jack Riley Good Magic - Jade Princess Originality Beau Liam - Let's Be Creative View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 7, ALW",
-      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Friday, October 30, 2026, Race 7 ALW 7 furlongs $36,600 3 yo's up Dirt FT Ihaveanappforthat Creative Cause - Helluva Hunch Audible Storm Audible - Miss Henny Penny Rum N Coke Enticed - All That Beauty View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 6, ALW",
-      "details": "Charles Town, Race 6, ALW Charles Town Races Slots , Friday, October 30, 2026, Race 6 ALW 4 1/2 furlongs $34,100 3 yo's up Dirt FT Knight Sage Fiber Sonde - Remy Doodles Judas Beast Klimt - Oh She's So On Ifthedevildanced Declan's Warrior - Brass Magnolia View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 5, ALW",
-      "details": "Charles Town, Race 5, ALW Charles Town Races Slots , Friday, October 30, 2026, Race 5 ALW 4 1/2 furlongs $34,100 3 yo's up Dirt FT Penguin's Pride Vekoma - Kela's Pride Tico Grande Fiber Sonde - Sydneys Astral Hat Bold Boomer Mr. Prankster - Enchanted Facts View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 2, ALW",
-      "details": "Charles Town, Race 2, ALW Charles Town Races Slots , Friday, October 30, 2026, Race 2 ALW 1 1/16 miles $35,100 3 yo's up Dirt FT Tornado Warning Complexity - Spring in the Wind Boundforabruisin Juba - Bound To Musical Entourage Our Entourage - Instrumental View Details Watch Replay"
-    },
-    {
-      "title": "Century Downs, Race 8, AOC",
-      "details": "Century Downs, Race 8, AOC CENTURY DOWNS , Friday, October 30, 2026, Race 8 AOC 7 furlongs $15,369 Fillies and Mares 3 yo's up Dirt FT Moonlit Courage Omaha Beach - Clair de Lune Bound for Heaven Stanford - Run for Retts Who's That Baby Ami's Holiday - Ring in the Nite View Details"
-    },
-    {
-      "title": "Century Downs, Race 4, AOC",
-      "details": "Century Downs, Race 4, AOC CENTURY DOWNS , Friday, October 30, 2026, Race 4 AOC 7 furlongs $15,012 3 yo Dirt FT Red Charity Signature Red - Generous Touch Scuffle Violence - Noblame Kamal Fed Biz - Many Kisses View Details"
     }
   ]
 }
