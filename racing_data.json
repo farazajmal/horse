@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 02, 2026 - 07:00 PM",
+  "last_updated": "November 02, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -94,6 +94,30 @@
       "dist": "6 furlongs (Dirt)",
       "purse": "$300,000",
       "date": "11/7",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Tin Cup Chalice S.",
+      "raw_name": "Tin Cup Chalice S.",
+      "track": "Finger Lakes",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$45,000",
+      "date": "11/9",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Shesastonecoldfox S.",
+      "raw_name": "Shesastonecoldfox S.",
+      "track": "Finger Lakes",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$45,000",
+      "date": "11/9",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -315,12 +339,48 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 7, AOC",
+      "details": "Finger Lakes, Race 7, AOC Finger Lakes , Monday, November 02, 2026, Race 7 AOC 1 mile $26,000 3 yo's up Dirt FT Baron of Sealand Liam's Map - To a Friend Senegal Solomini - Holly's Star Puckish Honest Mischief - Helen's Tiger View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 5, MSW",
+      "details": "Finger Lakes, Race 5, MSW Finger Lakes , Monday, November 02, 2026, Race 5 MSW 6 furlongs $32,600 Fillies and Mares 3 yo's up Dirt FT Rock Steady Babe King for a Day - Very Accomplished Vino Rose Vino Rosso - Michele the Great Ty Ty Rose Union Rags - Beechwood Ella (IRE) View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 3, ALW",
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Monday, November 02, 2026, Race 3 ALW 6 furlongs $34,000 Fillies and Mares 3 yo's up Dirt FT She's Honed In Dialed In - Super Sabre Sudden Squall Volatile - Sky Gesture School Spirit Maximum Security - Society Type View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 2, ALW",
+      "details": "Horseshoe Indianapolis, Race 2, ALW Horseshoe Indianapolis , Monday, November 02, 2026, Race 2 ALW 6 furlongs $34,000 Fillies and Mares 3 yo's up Dirt FT What's Up Dog Beau Liam - Rosy Roar Don't Miss Out Gormley - Nitta Yuma Miss Macy Street Strategy - Sea Shack View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 7, AOC",
+      "details": "Mahoning Valley Racecourse, Race 7, AOC MAHONING VALLEY RACECOURSE , Monday, November 02, 2026, Race 7 AOC 6 furlongs $27,500 3 yo's up Dirt FT Dark Vintage (IRE) Dark Angel (IRE) - The Mums (GB) Rocket Dragon Kantharos - Ride to Houston Sprint Out Pass Constitution - Light of a Star View Details"
+    },
+    {
       "title": "Mahoning Valley Racecourse, Race 2, ALW",
       "details": "Mahoning Valley Racecourse, Race 2, ALW MAHONING VALLEY RACECOURSE , Monday, November 02, 2026, Race 2 ALW 6 furlongs $33,700 Fillies and Mares 3 yo's up Dirt FT First Kiss Ever Twinspired - Down On Copperline Bionic Saint Biondetti - Deniro's Saint Greek Boutique Cowtown Cat - Becker County Miss View Details"
     },
     {
       "title": "Mahoning Valley Racecourse, Race 1, ALW",
       "details": "Mahoning Valley Racecourse, Race 1, ALW MAHONING VALLEY RACECOURSE , Monday, November 02, 2026, Race 1 ALW 6 furlongs $36,200 3 yo's up Dirt FT Jac's Doe Maker Jac's Fact - Empire of Doe Mor Stormy Mor Spirit - Stormy Justice Sadie's Ghost Kiss the Ghost - Silver Sadie View Details"
+    },
+    {
+      "title": "Parx Racing, Race 8, AOC",
+      "details": "Parx Racing, Race 8, AOC Parx Racing , Monday, November 02, 2026, Race 8 AOC 6 furlongs $50,000 Fillies 2 yo Dirt FT Welovemollynteddy Cyberknife - Malibu Rainbow Flying Free Wicked Strong - Billy No Sabay Olympic Dreamer Olympiad - Gottahaveaholiday View Details"
+    },
+    {
+      "title": "Parx Racing, Race 7, MSW",
+      "details": "Parx Racing, Race 7, MSW Parx Racing , Monday, November 02, 2026, Race 7 MSW 6 furlongs $60,000 2 yo Dirt FT Snipe Hunt Practical Joke - Leaky Cauldron Penniless Pauly Eastwood - Streak of Kitten Sixty Six Books Maximus Mischief - Tap the Magic View Details"
+    },
+    {
+      "title": "Parx Racing, Race 5, MSW",
+      "details": "Parx Racing, Race 5, MSW Parx Racing , Monday, November 02, 2026, Race 5 MSW 6 furlongs $60,000 Fillies 2 yo Dirt FT Yourownspecialway Volatile - Life's a Gamble Peaches N Dreams Connect - Peach Alley First Blush Bourbon Courage - Alrashaka View Details"
+    },
+    {
+      "title": "Parx Racing, Race 4, MCL",
+      "details": "Parx Racing, Race 4, MCL Parx Racing , Monday, November 02, 2026, Race 4 MCL 6 furlongs $32,000 2 yo Dirt FT Schubert Sonata Mendelssohn - Keltoi My Pretty Boy Volatile - True Yankee Prayed Up Weigelia - Lady Munnings View Details"
     },
     {
       "title": "Parx Racing, Race 1, MSW",
@@ -337,42 +397,6 @@
     {
       "title": "Forty Niner S. (G3)",
       "details": "Forty Niner S. (G3) Belmont Park , Sunday, November 01, 2026, Race 9 STK 1 mile $200,000 3 yo's up Dirt FT Pentathlon Speightstown - Parade East Avenue Medaglia d'Oro - Dance Music Crazy Mason Coal Front - Izshelegal View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Turnback the Alarm S. (BT)",
-      "details": "Turnback the Alarm S. (BT) Belmont Park , Sunday, November 01, 2026, Race 8 STK 1 1/8 miles $175,000 Fillies and Mares 3 yo's up Dirt FT Scalable Speightstown - Passion Flower Donor Advised Gun Runner - Toy Moon Yes It Tiz Tiz the Law - Entangle (GB) View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Belmont Park, Race 7, ALW",
-      "details": "Belmont Park, Race 7, ALW Belmont Park , Sunday, November 01, 2026, Race 7 ALW 1 mile $105,000 Fillies and Mares 3 yo's up Turf FM War Madam Mendelssohn - Reiko Accent (GB) Pinatubo (IRE) - Dreamlike (GB) Tax Holiday (GB) Kingman (GB) - Secret Soul (GB) View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 5, MSW",
-      "details": "Belmont Park, Race 5, MSW Belmont Park , Sunday, November 01, 2026, Race 5 MSW 1 1/16 miles $100,000 Fillies 2 yo Dirt FT Flightress Flightline - Salty as Can Be Gun Broker Gun Runner - Coin Broker (IRE) First Site Early Voting - Lemon Gala View Details Watch Replay"
-    },
-    {
-      "title": "Notebook S. (BT)",
-      "details": "Notebook S. (BT) Belmont Park , Sunday, November 01, 2026, Race 4 STK 1 mile $175,000 2 yo Turf FM House of War War Dancer - Diamond Princess Howard's Hope Karakontie (JPN) - Blue Atlas Captain George War of Will - Twofortea View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Belmont Park, Race 3, MCL",
-      "details": "Belmont Park, Race 3, MCL Belmont Park , Sunday, November 01, 2026, Race 3 MCL 6 furlongs $56,000 Fillies 2 yo Inner turf FM Night Sky Mendelssohn - Heaven's Humor Cadillac Mary Golden Pal - Sabouli Build Or Buy Complexity - Rounding Error View Details Watch Replay"
-    },
-    {
-      "title": "Bold Ruler S. (G3)",
-      "details": "Bold Ruler S. (G3) Belmont Park , Sunday, November 01, 2026, Race 2 STK 6 furlongs $200,000 3 yo's up Dirt FT Paradise Valley Lookin At Lucky - Puddifoot Commuted Gun Runner - Final Holiday Buccherino Bucchero - Bellimbusto View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Belmont Park, Race 1, MSW",
-      "details": "Belmont Park, Race 1, MSW Belmont Park , Sunday, November 01, 2026, Race 1 MSW 1 1/16 miles $100,000 2 yo Dirt FT Election Hero Early Voting - Sexy Dream Live Life Is Good - Plenty Awesome Sconset Bluff Omaha Beach - Curtain Bluff View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 9, MSW",
-      "details": "Churchill Downs, Race 9, MSW Churchill Downs , Sunday, November 01, 2026, Race 9 MSW 5 furlongs $120,000 2 yo Turf FM Twillo Twirling Candy - Willa Hazy Horizon Midshipman - Tiz Rae Anna Timelapse Drain the Clock - Megara View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 8, ALW",
-      "details": "Churchill Downs, Race 8, ALW Churchill Downs , Sunday, November 01, 2026, Race 8 ALW 6 furlongs $127,000 Fillies and Mares 3 yo's up Dirt FT Feminism Curlin - Mufajaah Rose Alabama Shaman Ghost - Rose Run In Total Awe Constitution - High Regard View Details"
     }
   ]
 }
