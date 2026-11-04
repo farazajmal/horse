@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 04, 2026 - 09:00 PM",
+  "last_updated": "November 04, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -117,6 +117,18 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$75,000",
+      "date": "11/7",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "The Chosen Vron S.",
+      "raw_name": "The Chosen Vron S.",
+      "track": "Del Mar",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$100,000",
       "date": "11/7",
       "country": "USA",
       "flag": "🇺🇸",
@@ -435,6 +447,18 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 10, MSW",
+      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Wednesday, November 04, 2026, Race 10 MSW 1 1/16 miles $120,000 2 yo Dirt SY Asap McKinzie - Belladonnia Ferrous Nyquist - Pin Up Hickory Good Magic - Code Name Kate View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 9, AOC",
+      "details": "Churchill Downs, Race 9, AOC Churchill Downs , Wednesday, November 04, 2026, Race 9 AOC 1 1/16 miles $134,000 Fillies and Mares 3 yo's up Dirt SY Being Myself Curlin - Fact File Shilling Global Campaign - Pounds to Pennies Athaliah Gun Runner - Divine Elegance View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, MSW",
+      "details": "Churchill Downs, Race 7, MSW Churchill Downs , Wednesday, November 04, 2026, Race 7 MSW 1 1/8 miles $120,000 3 yo's up Dirt SY Comprehensive Hard Spun - Soul Spirit Safety Off Gun Runner - If Not For Her Kelz Blame - I'm Cozy View Details"
+    },
+    {
       "title": "Churchill Downs, Race 6, MSW",
       "details": "Churchill Downs, Race 6, MSW Churchill Downs , Wednesday, November 04, 2026, Race 6 MSW 1 1/16 miles $120,000 2 yo Dirt SY Barrel Roll Gun Runner - Acrobatique Gun for Glory Gun Runner - Easy Tap Luckyloun Mandaloun - Lucky Stride View Details"
     },
@@ -455,6 +479,10 @@
       "details": "Churchill Downs, Race 1, STR Churchill Downs , Wednesday, November 04, 2026, Race 1 STR 6 furlongs $83,000 2 yo Dirt SY Braums Run Golden Pal - Ice Cream No Autographs Global Campaign - Rachel Wall Detention Maximus Mischief - Spanxamillion View Details"
     },
     {
+      "title": "Finger Lakes, Race 8, AOC",
+      "details": "Finger Lakes, Race 8, AOC Finger Lakes , Wednesday, November 04, 2026, Race 8 AOC 1 mile 70 Yards $29,000 3 yo's up Dirt FT Zatara Audible - Chanel's Legacy King's Leap King for a Day - Mine as Well Passioned Paynter - Certainly Special View Details"
+    },
+    {
       "title": "Finger Lakes, Race 4, ALW",
       "details": "Finger Lakes, Race 4, ALW Finger Lakes , Wednesday, November 04, 2026, Race 4 ALW 6 furlongs $26,900 Fillies and Mares 3 yo's up Dirt FT Honorable Becky Honor A. P. - Haughty Girl Cajun Hottie Cajun Breeze - Flora Fantasy Hot Gossip Curlin - Fixate View Details"
     },
@@ -467,32 +495,16 @@
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, November 04, 2026, Race 1 ALW 1 mile 70 Yards $26,500 3 yo's up Dirt FT Start the Day Upstart - Celtic Sunrise Tony Hooks Joevia - Cassidy's Reward By Mink Standards By My Standards - Carsona City View Details"
     },
     {
+      "title": "Horseshoe Indianapolis, Race 7, MSW",
+      "details": "Horseshoe Indianapolis, Race 7, MSW Horseshoe Indianapolis , Wednesday, November 04, 2026, Race 7 MSW 1 mile 70 Yards $32,000 Fillies and Mares 3 yo's up Dirt SY Elgheed Tapit - Immediate Impact Serena's Surprise Honor Code - Serena Beck Party to the Max Maxfield - Passing Out View Details"
+    },
+    {
       "title": "Horseshoe Indianapolis, Race 2, ALW",
       "details": "Horseshoe Indianapolis, Race 2, ALW Horseshoe Indianapolis , Wednesday, November 04, 2026, Race 2 ALW 6 furlongs $40,000 Fillies and Mares 3 yo's up Dirt SY Stanka Gormley - I Want to Dust Her Vortex Express Bucchero - Polar Vortex Yotowin Yorkton - Positionedtowin View Details"
     },
     {
-      "title": "Mahoning Valley Racecourse, Race 7, ALW",
-      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 04, 2026, Race 7 ALW 6 furlongs $25,900 Fillies and Mares 3 yo's up Dirt FT Coloryoureggs Birdrun - Media Rules Illuminate Tom's d'Etat - Blazing Bling Striking Lady Air Strike - Muttak Bay View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 3, ALW",
-      "details": "Mahoning Valley Racecourse, Race 3, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 04, 2026, Race 3 ALW 5 1/2 furlongs $25,900 3 yo's up Dirt FT Forum Improbable - Karakorum Elektra Captain Carney War of Will - Mia Pharaoh Out Flat Flatter - Letter Storm View Details"
-    },
-    {
-      "title": "Parx Racing, Race 8, ALW",
-      "details": "Parx Racing, Race 8, ALW Parx Racing , Wednesday, November 04, 2026, Race 8 ALW 6 1/2 furlongs $50,000 3 yo's up Dirt FT Trotsky Empire Way - Alpine Echo Ready as Ever More Than Ready - Al Andaleeb N. Y. Finest Connect - Pammi Dearest View Details"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 9, ALW",
-      "details": "Horseshoe Indianapolis, Race 9, ALW Horseshoe Indianapolis , Tuesday, November 03, 2026, Race 9 ALW 6 furlongs $40,000 3 yo's up Dirt FT Oil Man Turbo Compressor - Nightly Ritual Large Pour Vino Rosso - Missbigtimes Positive Change Forever d'Oro - Divining Change View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 8, MSW",
-      "details": "Horseshoe Indianapolis, Race 8, MSW Horseshoe Indianapolis , Tuesday, November 03, 2026, Race 8 MSW 6 furlongs $38,500 Fillies and Mares 3 yo's up Dirt FT Blazen Eyes Saintly Eyes - Cold Waiter San Valentina Santiva - Red Blend Tiva Santiva - Celibration Time View Details Watch Replay"
-    },
-    {
-      "title": "Horseshoe Indianapolis, Race 6, AOC",
-      "details": "Horseshoe Indianapolis, Race 6, AOC Horseshoe Indianapolis , Tuesday, November 03, 2026, Race 6 AOC 1 mile $36,000 3 yo's up Dirt FT Overstatement Exaggerator - What a Sassy Gal Woodcourt Ransom the Moon - Warrioress First Bid More Than Ready - Realistic View Details Watch Replay"
+      "title": "Mahoning Valley Racecourse, Race 8, ALW",
+      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 04, 2026, Race 8 ALW 6 furlongs $33,700 3 yo's up Dirt FT Questionable Event Event Driven - Seaman Harbor Lucky Juulz Itsmyluckyday - Crimson Kate Ripman Zipman - Riproaring View Details"
     }
   ]
 }
