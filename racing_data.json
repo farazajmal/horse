@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 04, 2026 - 05:00 PM",
+  "last_updated": "November 04, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -111,6 +111,18 @@
       "isUsa": true
     },
     {
+      "name": "West Virginia Juvenile S.",
+      "raw_name": "West Virginia Juvenile S.",
+      "track": "Charles Town Races Slots",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "11/7",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Noel Laing S. (G2T)",
       "raw_name": "Noel Laing S. (G2T)",
       "track": "Montpelier",
@@ -154,6 +166,18 @@
       "dist": "6 furlongs (Dirt)",
       "purse": "$45,000",
       "date": "11/9",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Disco Chick S.",
+      "raw_name": "Disco Chick S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "11/10",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -375,6 +399,22 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 1, STR",
+      "details": "Churchill Downs, Race 1, STR Churchill Downs , Wednesday, November 04, 2026, Race 1 STR 6 furlongs $83,000 2 yo Dirt SY Braums Run Golden Pal - Ice Cream No Autographs Global Campaign - Rachel Wall Detention Maximus Mischief - Spanxamillion View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 3, ALW",
+      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Wednesday, November 04, 2026, Race 3 ALW 1 mile $26,500 Fillies and Mares 3 yo's up Dirt FT Rose Lisa Authentic - Bruja Escarlata Little Finch Constitution - Stowe White Purpose Commissioner - Brandini View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 1, ALW",
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, November 04, 2026, Race 1 ALW 1 mile 70 Yards $26,500 3 yo's up Dirt FT Start the Day Upstart - Celtic Sunrise Tony Hooks Joevia - Cassidy's Reward By Mink Standards By My Standards - Carsona City View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 3, ALW",
+      "details": "Mahoning Valley Racecourse, Race 3, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 04, 2026, Race 3 ALW 5 1/2 furlongs $25,900 3 yo's up Dirt FT Forum Improbable - Karakorum Elektra Captain Carney War of Will - Mia Pharaoh Out Flat Flatter - Letter Storm View Details"
+    },
+    {
       "title": "Horseshoe Indianapolis, Race 9, ALW",
       "details": "Horseshoe Indianapolis, Race 9, ALW Horseshoe Indianapolis , Tuesday, November 03, 2026, Race 9 ALW 6 furlongs $40,000 3 yo's up Dirt FT Oil Man Turbo Compressor - Nightly Ritual Large Pour Vino Rosso - Missbigtimes Positive Change Forever d'Oro - Divining Change View Details Watch Replay"
     },
@@ -417,22 +457,6 @@
     {
       "title": "Parx Racing, Race 8, AOC",
       "details": "Parx Racing, Race 8, AOC Parx Racing , Tuesday, November 03, 2026, Race 8 AOC 1 mile 70 Yards $52,000 3 yo's up Dirt FT Preacha Meyers Mshawish - Absolute Bearing Red Zone Runner Practical Joke - Look Deep Waitlist Not This Time - Grandezza View Details Watch Replay"
-    },
-    {
-      "title": "Parx Racing, Race 7, ALW",
-      "details": "Parx Racing, Race 7, ALW Parx Racing , Tuesday, November 03, 2026, Race 7 ALW 6 1/2 furlongs $61,000 3 yo's up Dirt FT Nikki's Charm Weigelia - Nikki's Bad Okie Den Den Uptowncharlybrown - Baetykaty Flyin Hawaiian Maximus Mischief - Quiet Virtue View Details Watch Replay"
-    },
-    {
-      "title": "Parx Racing, Race 6, ALW",
-      "details": "Parx Racing, Race 6, ALW Parx Racing , Tuesday, November 03, 2026, Race 6 ALW 5 1/2 furlongs $61,000 Fillies and Mares 3 yo's up Dirt FT Tiz Ziffy Tiz the Law - Sweet Saturday Extrasexyzqteepeye Pat On the Back - Extra Sexy Psychic Avatude Il Villano - Springingintherein View Details Watch Replay"
-    },
-    {
-      "title": "Zia Park, Race 10, ALW",
-      "details": "Zia Park, Race 10, ALW Zia Park , Tuesday, November 03, 2026, Race 10 ALW 6 furlongs $55,000 3 yo's up Dirt FT Remember Big Jim Medaglia d'Oro - Mayla Chivalrous Medaglia d'Oro - Sugarcraft Thrilling Ride Vekoma - Gracious Me View Details"
-    },
-    {
-      "title": "Zia Park, Race 9, ALW",
-      "details": "Zia Park, Race 9, ALW Zia Park , Tuesday, November 03, 2026, Race 9 ALW 6 furlongs $65,000 3 yo's up Dirt FT McKinzie Street McKinzie - Karpathos Bertani Vino Rosso - Wild N Ready Itsmybirthday Vekoma - After the Rose View Details"
     }
   ]
 }
