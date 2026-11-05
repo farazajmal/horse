@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 05, 2026 - 09:00 PM",
+  "last_updated": "November 05, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -193,6 +193,18 @@
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
+    },
+    {
+      "name": "Betty Grable S.",
+      "raw_name": "Betty Grable S.",
+      "track": "Del Mar",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/8",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     },
     {
       "name": "Tin Cup Chalice S.",
@@ -459,6 +471,10 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 8, SOC",
+      "details": "Belmont Park, Race 8, SOC Belmont Park , Thursday, November 05, 2026, Race 8 SOC 1 1/16 miles $75,000 Fillies and Mares 3 yo's up Turf FM Determind Princess Ghostzapper - Bohemian Queen Unlikely Queen Improbable - Elusive Wave Money Trail Mr. Money - Road to Riches View Details"
+    },
+    {
       "title": "Belmont Park, Race 6, AOC",
       "details": "Belmont Park, Race 6, AOC Belmont Park , Thursday, November 05, 2026, Race 6 AOC 7 furlongs $108,000 3 yo's up Dirt FT Two Eagles River Cloud Computing - Majestic Island Eliminate Curlin - I'm a Looker Awesome Native Practical Joke - Bella Kateri View Details"
     },
@@ -473,6 +489,18 @@
     {
       "title": "Belmont Park, Race 1, MCL",
       "details": "Belmont Park, Race 1, MCL Belmont Park , Thursday, November 05, 2026, Race 1 MCL 7 furlongs $45,000 Fillies 2 yo Dirt FT So Angelina Enticed - Santa Trinita Miami Beach Omaha Beach - High Price Hit Boxajoe N Tootzrol Vino Rosso - Snow Mesa View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 10, MSW",
+      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Thursday, November 05, 2026, Race 10 MSW 1 1/16 miles $120,000 Fillies 2 yo Dirt FT Uppity Upstart - Summer Punch E Tee Aye Flightline - Go Google Yourself Energy Flows Constitution - Dancing Fancy View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 9, ALW",
+      "details": "Churchill Downs, Race 9, ALW Churchill Downs , Thursday, November 05, 2026, Race 9 ALW 1 mile $127,000 3 yo's up Dirt FT Zimmer Maclean's Music - Carnival Court Don's Winner Game Winner - Map Maker Sure to Appeal Tapiture - Sovereign Appeal View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, MSW",
+      "details": "Churchill Downs, Race 8, MSW Churchill Downs , Thursday, November 05, 2026, Race 8 MSW 5 furlongs $120,000 Fillies 2 yo Turf FM Trouble Maker Into Mischief - Keertana Our Patricia Ann Into Mischief - Jean Elizabeth Cruising Again Charlatan - Rose Grey View Details"
     },
     {
       "title": "Churchill Downs, Race 5, STR",
@@ -495,28 +523,12 @@
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Thursday, November 05, 2026, Race 1 MCL 6 furlongs $48,000 Fillies and Mares 3 yo's up Dirt GD Flaming Mama Flameaway - Money for Mama Givemethebeat Beau Liam - Drift Away Buckeye Favorite Complexity - Lady Buckeye View Details"
     },
     {
+      "title": "Horseshoe Indianapolis, Race 5, ALW",
+      "details": "Horseshoe Indianapolis, Race 5, ALW Horseshoe Indianapolis , Thursday, November 05, 2026, Race 5 ALW 5 furlongs $34,000 3 yo's up Turf GD Explosively Flameaway - Allez Jete Joe the Tailor Speightster - My Heavenly Sign Countthecarats Gormley - Garnet View Details"
+    },
+    {
       "title": "Mahoning Valley Racecourse, Race 8, ALW",
       "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Thursday, November 05, 2026, Race 8 ALW 6 furlongs $25,900 3 yo's up Dirt GD Little Vaquero Graydar - Ursoky Red Chips Itsmyluckyday - Still Shea to Me Trouble in Motown World of Trouble - Boxford Belle View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 7, ALW",
-      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Thursday, November 05, 2026, Race 7 ALW 1 mile $35,100 Fillies and Mares 3 yo's up Dirt GD Stacy Ellen Air Strike - Precocious Lil Sharpie Jac's Fact - Karma's Comin Sunny Lion Dolphus - Rocky Parade View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 5, MSW",
-      "details": "Mahoning Valley Racecourse, Race 5, MSW MAHONING VALLEY RACECOURSE , Thursday, November 05, 2026, Race 5 MSW 1 mile $31,800 Fillies and Mares 3, 4, 5 6 yo's Dirt GD Holiday Coal Twinspired - Canaryinacoalmine Isa Fortress Fort Larned - Starship Lisa Team Chiquita Drill - My Hope America View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 10, MSW",
-      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Wednesday, November 04, 2026, Race 10 MSW 1 1/16 miles $120,000 2 yo Dirt SY Asap McKinzie - Belladonnia Ferrous Nyquist - Pin Up Hickory Good Magic - Code Name Kate View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, AOC",
-      "details": "Churchill Downs, Race 9, AOC Churchill Downs , Wednesday, November 04, 2026, Race 9 AOC 1 1/16 miles $134,000 Fillies and Mares 3 yo's up Dirt SY Being Myself Curlin - Fact File Shilling Global Campaign - Pounds to Pennies Athaliah Gun Runner - Divine Elegance View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 7, MSW",
-      "details": "Churchill Downs, Race 7, MSW Churchill Downs , Wednesday, November 04, 2026, Race 7 MSW 1 1/8 miles $120,000 3 yo's up Dirt SY Comprehensive Hard Spun - Soul Spirit Safety Off Gun Runner - If Not For Her Kelz Blame - I'm Cozy View Details"
     }
   ]
 }
