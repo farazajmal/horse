@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 06, 2026 - 07:00 PM",
+  "last_updated": "November 06, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -471,6 +471,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 4, MSW",
+      "details": "Belmont Park, Race 4, MSW Belmont Park , Friday, November 06, 2026, Race 4 MSW 1 1/16 miles $100,000 3 yo's up All Weather Track FT Kid's Khanclusion Medaglia d'Oro - Khancord Kid Brilliant Fury Violence - Alexandrite Kotlikoff Tacitus - Dean Henry View Details"
+    },
+    {
+      "title": "Belmont Park, Race 3, MCL",
+      "details": "Belmont Park, Race 3, MCL Belmont Park , Friday, November 06, 2026, Race 3 MCL 6 furlongs $56,000 2 yo All Weather Track FT Ogugua Vekoma - Foxtrot Sally Mitofury Mitole - Colonizer Tartah Tourist - Salty Little Sis View Details"
+    },
+    {
       "title": "Belmont Park, Race 2, STR",
       "details": "Belmont Park, Race 2, STR Belmont Park , Friday, November 06, 2026, Race 2 STR 1 1/16 miles $75,000 Fillies and Mares 3 yo's up Dirt SY Spying Gun Runner - Baby Go Far (BRZ) Kyle's Mom Brody's Cause - Divine Friends Baseball Lady By My Standards - Surprise Cameo View Details"
     },
@@ -479,8 +487,40 @@
       "details": "Belmont Park, Race 1, MSW Belmont Park , Friday, November 06, 2026, Race 1 MSW 1 mile $100,000 2 yo Dirt SY Bletchley Gun Runner - Twenty Carat D. C.'s Army Army Mule - Wall Eye Louisiana Baby Yaupon - Miss Matzoball View Details"
     },
     {
+      "title": "Churchill Downs, Race 5, MSW",
+      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Friday, November 06, 2026, Race 5 MSW 5 1/2 furlongs $120,000 Fillies and Mares 3 yo's up Turf FM Lexi V. Lexitonian - Vinca Elusive Ring Knicks Go - Big Rings Paradise Street Street Sense - Paradise Bay View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 4, ALW",
+      "details": "Churchill Downs, Race 4, ALW Churchill Downs , Friday, November 06, 2026, Race 4 ALW 1 mile $127,000 Fillies and Mares 3 yo's up Dirt FT Just Singing Justify - Talkin and Singing Mighty Nora Global Campaign - Blazen Betsy Lady Law Tiz the Law - Lady Bellamy View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 3, MSW",
+      "details": "Churchill Downs, Race 3, MSW Churchill Downs , Friday, November 06, 2026, Race 3 MSW 5 furlongs $120,000 Fillies 2 yo Dirt FT A La Vie Tapit - Gaels Win Jackie's Lively Jackie's Warrior - Mor Lively Symmetric Maxfield - Duplicate View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 2, MSW",
+      "details": "Churchill Downs, Race 2, MSW Churchill Downs , Friday, November 06, 2026, Race 2 MSW 5 1/2 furlongs $120,000 Fillies and Mares 3 yo's up Turf FM Hey Miss Olivia Not This Time - Empire Angel Kristi's Spirit Liam's Map - Mrs Vargas Beach Ballad Omaha Beach - Society's Song View Details"
+    },
+    {
       "title": "Churchill Downs, Race 1, MCL",
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Friday, November 06, 2026, Race 1 MCL 6 1/2 furlongs $75,000 2 yo Dirt FT National Forest Constitution - Italia Frosty Jack Jack Christopher - Frost Lake Lowcountry Promise Vekoma - Broadway Diner View Details"
+    },
+    {
+      "title": "Gulfstream Park, Race 4, MSW",
+      "details": "Gulfstream Park, Race 4, MSW Gulfstream Park , Friday, November 06, 2026, Race 4 MSW 1 mile 70 Yards $50,000 3 yo's up All Weather Track FT Coristine Liam's Map - Gomogotcha Pax Mundi Gun Runner - Happy Mesa Parnassus Blame - Saint J J View Details"
+    },
+    {
+      "title": "Laurel Park, Race 8, ALW",
+      "details": "Laurel Park, Race 8, ALW Laurel Park , Friday, November 06, 2026, Race 8 ALW 1 mile $52,020 Fillies and Mares 3 yo's up Dirt MY Baffle Violence - Please Flatter Me Fabia Done Talking - Theatricality Audibly Audible - Pleasant Laughter View Details"
+    },
+    {
+      "title": "Laurel Park, Race 6, MSW",
+      "details": "Laurel Park, Race 6, MSW Laurel Park , Friday, November 06, 2026, Race 6 MSW 7 furlongs $51,765 Fillies 2 yo Dirt MY Vekomamona Vekoma - Margaree Harbour Feroza Vekoma - Divergent View Curlene's Joker Practical Joke - Our Curlene View Details"
+    },
+    {
+      "title": "Laurel Park, Race 5, MSW",
+      "details": "Laurel Park, Race 5, MSW Laurel Park , Friday, November 06, 2026, Race 5 MSW 5 1/2 furlongs $48,060 Fillies 2 yo Dirt MY Happy Decision Happy Saver - Quick Decision Naja Mitole - Strands of Pearls Empress Warrior Jackie's Warrior - Princessof the Nyl View Details"
     },
     {
       "title": "Laurel Park, Race 3, MCL",
@@ -489,46 +529,6 @@
     {
       "title": "Laurel Park, Race 2, MSW",
       "details": "Laurel Park, Race 2, MSW Laurel Park , Friday, November 06, 2026, Race 2 MSW 6 furlongs $47,000 3, 4, 5 6 yo's Dirt MY Plentyof Rogue Rogueish - Sparkle Plenty Fort Griffin Charlatan - Clear the Clouds Scrutinator Candy Ride (ARG) - Sauvecito View Details"
-    },
-    {
-      "title": "Belmont Park, Race 8, SOC",
-      "details": "Belmont Park, Race 8, SOC Belmont Park , Thursday, November 05, 2026, Race 8 SOC 1 1/16 miles $75,000 Fillies and Mares 3 yo's up Turf FM Determind Princess Ghostzapper - Bohemian Queen Unlikely Queen Improbable - Elusive Wave Money Trail Mr. Money - Road to Riches View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 6, AOC",
-      "details": "Belmont Park, Race 6, AOC Belmont Park , Thursday, November 05, 2026, Race 6 AOC 7 furlongs $108,000 3 yo's up Dirt FT Two Eagles River Cloud Computing - Majestic Island Eliminate Curlin - I'm a Looker Awesome Native Practical Joke - Bella Kateri View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 4, MCL",
-      "details": "Belmont Park, Race 4, MCL Belmont Park , Thursday, November 05, 2026, Race 4 MCL 6 furlongs $38,000 3 yo's up Dirt FT Lough Currane Win Win Win - Brennan Ace in Hand Charlatan - Aguilera Ours to Start Upstart - Ours to Run View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 2, MSW",
-      "details": "Belmont Park, Race 2, MSW Belmont Park , Thursday, November 05, 2026, Race 2 MSW 1 mile $100,000 Fillies and Mares 3 yo's up Turf FM Black Mountain Street Boss - Forever Beautiful Global Investment (GB) Frankel (GB) - Liberty Beach (GB) Miss Snaffles Paynter - War Queen (IRE) View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 1, MCL",
-      "details": "Belmont Park, Race 1, MCL Belmont Park , Thursday, November 05, 2026, Race 1 MCL 7 furlongs $45,000 Fillies 2 yo Dirt FT So Angelina Enticed - Santa Trinita Miami Beach Omaha Beach - High Price Hit Boxajoe N Tootzrol Vino Rosso - Snow Mesa View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 10, MSW",
-      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Thursday, November 05, 2026, Race 10 MSW 1 1/16 miles $120,000 Fillies 2 yo Dirt FT Uppity Upstart - Summer Punch E Tee Aye Flightline - Go Google Yourself Energy Flows Constitution - Dancing Fancy View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, ALW",
-      "details": "Churchill Downs, Race 9, ALW Churchill Downs , Thursday, November 05, 2026, Race 9 ALW 1 mile $127,000 3 yo's up Dirt FT Zimmer Maclean's Music - Carnival Court Don's Winner Game Winner - Map Maker Sure to Appeal Tapiture - Sovereign Appeal View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 8, MSW",
-      "details": "Churchill Downs, Race 8, MSW Churchill Downs , Thursday, November 05, 2026, Race 8 MSW 5 furlongs $120,000 Fillies 2 yo Turf FM Trouble Maker Into Mischief - Keertana Our Patricia Ann Into Mischief - Jean Elizabeth Cruising Again Charlatan - Rose Grey View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, STR",
-      "details": "Churchill Downs, Race 5, STR Churchill Downs , Thursday, November 05, 2026, Race 5 STR 7 furlongs $83,000 3 yo's up Dirt FT Merited Mitole - Heart's Song Hillbilly Daydream Maximus Mischief - Ignition Key White Cargo Volatile - Pricing View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 4, ALW",
-      "details": "Churchill Downs, Race 4, ALW Churchill Downs , Thursday, November 05, 2026, Race 4 ALW 5 1/2 furlongs $141,000 3 yo Turf FM Beach Heist Omaha Beach - Pearl Heist Trouble Calling Dialed In - Into Trouble Throckmorton Caracaro - Whatarocket View Details"
     }
   ]
 }
