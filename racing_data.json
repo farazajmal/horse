@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 06, 2026 - 09:00 PM",
+  "last_updated": "November 06, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -471,6 +471,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 8, MCL",
+      "details": "Belmont Park, Race 8, MCL Belmont Park , Friday, November 06, 2026, Race 8 MCL 1 1/16 miles $56,000 3 yo's up All Weather Track FT Classic Commander Classic Empire - Giulia Ammannati Bourboncentric Central Banker - Madame Bourbon Fresh Start Killybegs Captain - Hipshootinmomma View Details"
+    },
+    {
+      "title": "Belmont Park, Race 7, AOC",
+      "details": "Belmont Park, Race 7, AOC Belmont Park , Friday, November 06, 2026, Race 7 AOC 1 1/8 miles $110,000 3 yo's up Dirt SY Cool Intentions Authentic - Intentional Cry Yo Daddy Yoshida (JPN) - Elle Stormin' Classicist Curlin - Playtime View Details"
+    },
+    {
       "title": "Belmont Park, Race 4, MSW",
       "details": "Belmont Park, Race 4, MSW Belmont Park , Friday, November 06, 2026, Race 4 MSW 1 1/16 miles $100,000 3 yo's up All Weather Track FT Kid's Khanclusion Medaglia d'Oro - Khancord Kid Brilliant Fury Violence - Alexandrite Kotlikoff Tacitus - Dean Henry View Details"
     },
@@ -485,6 +493,14 @@
     {
       "title": "Belmont Park, Race 1, MSW",
       "details": "Belmont Park, Race 1, MSW Belmont Park , Friday, November 06, 2026, Race 1 MSW 1 mile $100,000 2 yo Dirt SY Bletchley Gun Runner - Twenty Carat D. C.'s Army Army Mule - Wall Eye Louisiana Baby Yaupon - Miss Matzoball View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, AOC",
+      "details": "Churchill Downs, Race 8, AOC Churchill Downs , Friday, November 06, 2026, Race 8 AOC 1 1/16 miles $148,000 3 yo's up Turf FM Yinzer Twirling Candy - Rehearsed Air Recruit Air Force Blue - Werewolf Johny's Rendezvous Ghostzapper - Romantic Intention View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 6, MCL",
+      "details": "Churchill Downs, Race 6, MCL Churchill Downs , Friday, November 06, 2026, Race 6 MCL 6 1/2 furlongs $48,000 3 yo's up Dirt FT Crazy Diamond Omaha Beach - Five Funs Wytheville McKinzie - Tap Til Dawn Can't Stop Willis Nyquist - Indelible View Details"
     },
     {
       "title": "Churchill Downs, Race 5, MSW",
@@ -507,28 +523,12 @@
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Friday, November 06, 2026, Race 1 MCL 6 1/2 furlongs $75,000 2 yo Dirt FT National Forest Constitution - Italia Frosty Jack Jack Christopher - Frost Lake Lowcountry Promise Vekoma - Broadway Diner View Details"
     },
     {
-      "title": "Gulfstream Park, Race 4, MSW",
-      "details": "Gulfstream Park, Race 4, MSW Gulfstream Park , Friday, November 06, 2026, Race 4 MSW 1 mile 70 Yards $50,000 3 yo's up All Weather Track FT Coristine Liam's Map - Gomogotcha Pax Mundi Gun Runner - Happy Mesa Parnassus Blame - Saint J J View Details"
+      "title": "Del Mar, Race 4, AOC",
+      "details": "Del Mar, Race 4, AOC Del Mar , Friday, November 06, 2026, Race 4 AOC 1 mile $67,000 Fillies and Mares 3 yo's up Turf FM Marla Hooch Om - Sadie Clare Cecilia Street Stanford - A Walk in the Park We the Hobby Om - American Farrah View Details"
     },
     {
-      "title": "Laurel Park, Race 8, ALW",
-      "details": "Laurel Park, Race 8, ALW Laurel Park , Friday, November 06, 2026, Race 8 ALW 1 mile $52,020 Fillies and Mares 3 yo's up Dirt MY Baffle Violence - Please Flatter Me Fabia Done Talking - Theatricality Audibly Audible - Pleasant Laughter View Details"
-    },
-    {
-      "title": "Laurel Park, Race 6, MSW",
-      "details": "Laurel Park, Race 6, MSW Laurel Park , Friday, November 06, 2026, Race 6 MSW 7 furlongs $51,765 Fillies 2 yo Dirt MY Vekomamona Vekoma - Margaree Harbour Feroza Vekoma - Divergent View Curlene's Joker Practical Joke - Our Curlene View Details"
-    },
-    {
-      "title": "Laurel Park, Race 5, MSW",
-      "details": "Laurel Park, Race 5, MSW Laurel Park , Friday, November 06, 2026, Race 5 MSW 5 1/2 furlongs $48,060 Fillies 2 yo Dirt MY Happy Decision Happy Saver - Quick Decision Naja Mitole - Strands of Pearls Empress Warrior Jackie's Warrior - Princessof the Nyl View Details"
-    },
-    {
-      "title": "Laurel Park, Race 3, MCL",
-      "details": "Laurel Park, Race 3, MCL Laurel Park , Friday, November 06, 2026, Race 3 MCL 1 mile $37,260 Fillies 2 yo Dirt MY Maxie's Munny Maxfield - Spin Munnings Divine Sunshine Divining Rod - Charli Sunshine Think Pink Blofeld - Pink Tights View Details"
-    },
-    {
-      "title": "Laurel Park, Race 2, MSW",
-      "details": "Laurel Park, Race 2, MSW Laurel Park , Friday, November 06, 2026, Race 2 MSW 6 furlongs $47,000 3, 4, 5 6 yo's Dirt MY Plentyof Rogue Rogueish - Sparkle Plenty Fort Griffin Charlatan - Clear the Clouds Scrutinator Candy Ride (ARG) - Sauvecito View Details"
+      "title": "Del Mar, Race 2, AOC",
+      "details": "Del Mar, Race 2, AOC Del Mar , Friday, November 06, 2026, Race 2 AOC 5 furlongs $67,000 3 yo's up Turf FM Decapo Mendelssohn - Bet to Win Lucky N Smart Vronsky - Glorious Luck Piedra Fria Frosted - Mediate View Details"
     }
   ]
 }
