@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 06, 2026 - 03:00 AM",
+  "last_updated": "November 06, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
     {
@@ -9,7 +9,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Turf)",
       "purse": "$100,000",
-      "date": "11/6",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -21,7 +21,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "11/6",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -33,7 +33,7 @@
       "grade": "Stakes",
       "dist": "1 mile (Dirt)",
       "purse": "$50,000",
-      "date": "11/6",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -523,12 +523,12 @@
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Thursday, November 05, 2026, Race 1 MCL 6 furlongs $48,000 Fillies and Mares 3 yo's up Dirt GD Flaming Mama Flameaway - Money for Mama Givemethebeat Beau Liam - Drift Away Buckeye Favorite Complexity - Lady Buckeye View Details"
     },
     {
-      "title": "Charles Town, Race 3, MSW",
-      "details": "Charles Town, Race 3, MSW Charles Town Races Slots , Thursday, November 05, 2026, Race 3 MSW 6 1/2 furlongs $32,900 2 yo Dirt FT Risk It Biscuit Magic On Tap - Tiz Lottie Matt's Venture Violence - Chosen Venture Purely Authentic Authentic - Homeschooling View Details Watch Replay"
+      "title": "Charles Town, Race 7, AOC",
+      "details": "Charles Town, Race 7, AOC Charles Town Races Slots , Thursday, November 05, 2026, Race 7 AOC 7 furlongs $36,600 3 yo's up Dirt FT Juba's Hat Trick Juba - Tricky Windsor Katmandu English Channel - Feline Forum Hammer Kantharos - Aurora's Ride View Details Watch Replay"
     },
     {
-      "title": "Delta Downs, Race 8, MSW",
-      "details": "Delta Downs, Race 8, MSW Delta Downs , Thursday, November 05, 2026, Race 8 MSW 7 furlongs $35,000 Fillies and Mares 3 yo's up Dirt FT Cassy Cassy Honor Code - Beginner's Luck Strawberry Streets Cairo Prince - Street Sweets Sweet Kantha Kantharos - Sweet Citizen View Details Watch Replay"
+      "title": "Charles Town, Race 3, MSW",
+      "details": "Charles Town, Race 3, MSW Charles Town Races Slots , Thursday, November 05, 2026, Race 3 MSW 6 1/2 furlongs $32,900 2 yo Dirt FT Risk It Biscuit Magic On Tap - Tiz Lottie Matt's Venture Violence - Chosen Venture Purely Authentic Authentic - Homeschooling View Details Watch Replay"
     }
   ]
 }
