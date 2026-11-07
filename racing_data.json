@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 07, 2026 - 05:00 PM",
+  "last_updated": "November 07, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -435,6 +435,22 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 2, MCL",
+      "details": "Churchill Downs, Race 2, MCL Churchill Downs , Saturday, November 07, 2026, Race 2 MCL 1 1/16 miles $69,000 3 yo's up Dirt FT Liberty Valance Constitution - Gone to Town Hey Dey Liam's Map - Pelipa Ingleborough Instagrand - Last Kiss (BRZ) View Details"
+    },
+    {
+      "title": "Gulfstream Park, Race 1, MSW",
+      "details": "Gulfstream Park, Race 1, MSW Gulfstream Park , Saturday, November 07, 2026, Race 1 MSW 5 1/2 furlongs $50,000 Fillies 2 yo All Weather Track FT Turca Social Inclusion - Kindred Coralline Corniche - Crossing the Tape Southern Kiss Golden Pal - Katie's Kiss View Details"
+    },
+    {
+      "title": "Laurel Park, Race 4, MCL",
+      "details": "Laurel Park, Race 4, MCL Laurel Park , Saturday, November 07, 2026, Race 4 MCL 5 1/2 furlongs $32,400 2 yo Dirt GD Coach Holtz Volatile - Pioneer's Candy Mojohnnymojohnny Mo Town - Sudden Brilliance Infused Omaha Beach - Smokin Mischief View Details"
+    },
+    {
+      "title": "Laurel Park, Race 3, MCL",
+      "details": "Laurel Park, Race 3, MCL Laurel Park , Saturday, November 07, 2026, Race 3 MCL 1 1/16 miles $43,700 2 yo Dirt GD Jack Rabbitness Lexitonian - Love in Her Eyes Court Night Tiz the Law - Mona Luna Tiz a God Knicks Go - Tiz a Goddess View Details"
+    },
+    {
       "title": "Belmont Park, Race 8, MCL",
       "details": "Belmont Park, Race 8, MCL Belmont Park , Friday, November 06, 2026, Race 8 MCL 1 1/16 miles $56,000 3 yo's up All Weather Track FT Classic Commander Classic Empire - Giulia Ammannati Bourboncentric Central Banker - Madame Bourbon Fresh Start Killybegs Captain - Hipshootinmomma View Details Watch Replay"
     },
@@ -477,22 +493,6 @@
     {
       "title": "Churchill Downs, Race 3, MSW",
       "details": "Churchill Downs, Race 3, MSW Churchill Downs , Friday, November 06, 2026, Race 3 MSW 5 furlongs $120,000 Fillies 2 yo Dirt FT A La Vie Tapit - Gaels Win Jackie's Lively Jackie's Warrior - Mor Lively Symmetric Maxfield - Duplicate View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, MSW",
-      "details": "Churchill Downs, Race 2, MSW Churchill Downs , Friday, November 06, 2026, Race 2 MSW 5 1/2 furlongs $120,000 Fillies and Mares 3 yo's up Turf FM Hey Miss Olivia Not This Time - Empire Angel Kristi's Spirit Liam's Map - Mrs Vargas Beach Ballad Omaha Beach - Society's Song View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 1, MCL",
-      "details": "Churchill Downs, Race 1, MCL Churchill Downs , Friday, November 06, 2026, Race 1 MCL 6 1/2 furlongs $75,000 2 yo Dirt FT National Forest Constitution - Italia Frosty Jack Jack Christopher - Frost Lake Lowcountry Promise Vekoma - Broadway Diner View Details"
-    },
-    {
-      "title": "Charles Town, Race 7, AOC",
-      "details": "Charles Town, Race 7, AOC Charles Town Races Slots , Friday, November 06, 2026, Race 7 AOC 6 1/2 furlongs $29,800 Fillies and Mares 3 yo's up Dirt FT Dolce Vino Omaha Beach - Anita Partner (IRE) Corri Felice Runhappy - One Show Only Forever Hustlin Instagrand - Miss Cobblestone View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 6, ALW",
-      "details": "Charles Town, Race 6, ALW Charles Town Races Slots , Friday, November 06, 2026, Race 6 ALW 4 1/2 furlongs $34,100 3 yo's up Dirt FT Bonsai Warrior Yaupon - Burdeos Buster the Bully Great Notion - Smart Believer Breezing Up Tom's d'Etat - Non Negotiable View Details Watch Replay"
     }
   ]
 }
