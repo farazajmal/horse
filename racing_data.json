@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 07, 2026 - 11:00 PM",
+  "last_updated": "November 08, 2026 - 01:00 AM",
   "year": 2026,
   "races": [
     {
@@ -229,6 +229,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Juvenile Fillies Sprint S.",
+      "raw_name": "Juvenile Fillies Sprint S.",
+      "track": "Gulfstream Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "11/14",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -448,31 +460,35 @@
   "recent_results": [
     {
       "title": "Belmont Park, Race 10, MCL",
-      "details": "Belmont Park, Race 10, MCL Belmont Park , Saturday, November 07, 2026, Race 10 MCL 6 furlongs $56,000 3 yo's up All Weather Track FT Major Bourbon Vekoma - Underfunded Snickery Knicks Go - Spring Elusion Plan On It Audible - Girlntheyellowtaxi View Details"
+      "details": "Belmont Park, Race 10, MCL Belmont Park , Saturday, November 07, 2026, Race 10 MCL 6 furlongs $56,000 3 yo's up All Weather Track FT Major Bourbon Vekoma - Underfunded Snickery Knicks Go - Spring Elusion Plan On It Audible - Girlntheyellowtaxi View Details Watch Replay"
     },
     {
       "title": "Mother Goose S. (G2)",
-      "details": "Mother Goose S. (G2) Belmont Park , Saturday, November 07, 2026, Race 9 STK 1 1/16 miles $300,000 Fillies 3 yo Dirt FT Tap to Open Tapit - I'll Take Charge Answered Prayers Speightstown - Tokyo Time Tahlequah Authentic - Bonnie Flag View Details"
+      "details": "Mother Goose S. (G2) Belmont Park , Saturday, November 07, 2026, Race 9 STK 1 1/16 miles $300,000 Fillies 3 yo Dirt FT Tap to Open Tapit - I'll Take Charge Answered Prayers Speightstown - Tokyo Time Tahlequah Authentic - Bonnie Flag View Details Watch Replay"
     },
     {
       "title": "Dwyer S. (BT)",
-      "details": "Dwyer S. (BT) Belmont Park , Saturday, November 07, 2026, Race 8 STK 1 mile $200,000 3 yo Dirt FT Stimulate Tapit - Elate Sea Strike Midshipman - Meetmeonline Igniter Volatile - Malibu Prayer View Details"
+      "details": "Dwyer S. (BT) Belmont Park , Saturday, November 07, 2026, Race 8 STK 1 mile $200,000 3 yo Dirt FT Stimulate Tapit - Elate Sea Strike Midshipman - Meetmeonline Igniter Volatile - Malibu Prayer View Details Watch Replay"
     },
     {
       "title": "Carle Place S. (BT)",
-      "details": "Carle Place S. (BT) Belmont Park , Saturday, November 07, 2026, Race 7 STK 6 furlongs $175,000 3 yo All Weather Track FT Blazing Tiger Twirling Candy - Tiger Silk (AUS) Doubting Thomas Caravaggio - Allwewantforxmas Two Out Hero War Front - Song River View Details"
+      "details": "Carle Place S. (BT) Belmont Park , Saturday, November 07, 2026, Race 7 STK 6 furlongs $175,000 3 yo All Weather Track FT Blazing Tiger Twirling Candy - Tiger Silk (AUS) Doubting Thomas Caravaggio - Allwewantforxmas Two Out Hero War Front - Song River View Details Watch Replay"
     },
     {
       "title": "Pumpkin Pie S. (BT)",
-      "details": "Pumpkin Pie S. (BT) Belmont Park , Saturday, November 07, 2026, Race 6 STK 7 furlongs $175,000 Fillies and Mares 3 yo's up Dirt GD Beauty Reigns Into Mischief - Ilsa Icona Mama Maximus Mischief - Classe Signora Senza Parole Gun Runner - Senza Te View Details"
+      "details": "Pumpkin Pie S. (BT) Belmont Park , Saturday, November 07, 2026, Race 6 STK 7 furlongs $175,000 Fillies and Mares 3 yo's up Dirt GD Beauty Reigns Into Mischief - Ilsa Icona Mama Maximus Mischief - Classe Signora Senza Parole Gun Runner - Senza Te View Details Watch Replay"
     },
     {
       "title": "Belmont Park, Race 5, SOC",
-      "details": "Belmont Park, Race 5, SOC Belmont Park , Saturday, November 07, 2026, Race 5 SOC 1 1/8 miles $75,000 3 yo's up All Weather Track FT Outsource Honor A. P. - Trade Agreement Vintage Vino Vino Rosso - Molly O'Shea Metatron Solomini - Angels Trace View Details"
+      "details": "Belmont Park, Race 5, SOC Belmont Park , Saturday, November 07, 2026, Race 5 SOC 1 1/8 miles $75,000 3 yo's up All Weather Track FT Outsource Honor A. P. - Trade Agreement Vintage Vino Vino Rosso - Molly O'Shea Metatron Solomini - Angels Trace View Details Watch Replay"
+    },
+    {
+      "title": "Churchill Downs, Race 11, MSW",
+      "details": "Churchill Downs, Race 11, MSW Churchill Downs , Saturday, November 07, 2026, Race 11 MSW 1 1/16 miles $120,000 2 yo Turf FM Cartography Liam's Map - Dreamup Time in Motion Not This Time - Mo City Circadian Not This Time - Li'l Tootsie View Details"
     },
     {
       "title": "Bet on Sunshine S. (BT)",
-      "details": "Bet on Sunshine S. (BT) Churchill Downs , Saturday, November 07, 2026, Race 10 STK 6 furlongs $300,000 3 yo's up Dirt FT Viking City of Light - Justwalkonby Jack's Promise Promises Fulfilled - Malibu Treasure Tejano Twist Practical Joke - Haley's Lolipop View Details"
+      "details": "Bet on Sunshine S. (BT) Churchill Downs , Saturday, November 07, 2026, Race 10 STK 6 furlongs $300,000 3 yo's up Dirt FT Viking City of Light - Justwalkonby Jack's Promise Promises Fulfilled - Malibu Treasure Tejano Twist Practical Joke - Haley's Lolipop View Details Watch Replay"
     },
     {
       "title": "Churchill Downs, Race 9, MCL",
@@ -480,7 +496,7 @@
     },
     {
       "title": "River City S. (G3T)",
-      "details": "River City S. (G3T) Churchill Downs , Saturday, November 07, 2026, Race 8 STK 1 1/8 miles $300,000 3 yo's up Turf FM Mercante Gun Runner - Caressing Kupuna Hard Spun - Hanalei Hailey Vote No Divisidero - Sistas Ready View Details"
+      "details": "River City S. (G3T) Churchill Downs , Saturday, November 07, 2026, Race 8 STK 1 1/8 miles $300,000 3 yo's up Turf FM Mercante Gun Runner - Caressing Kupuna Hard Spun - Hanalei Hailey Vote No Divisidero - Sistas Ready View Details Watch Replay"
     },
     {
       "title": "Churchill Downs, Race 7, MCL",
@@ -499,12 +515,8 @@
       "details": "Churchill Downs, Race 2, MCL Churchill Downs , Saturday, November 07, 2026, Race 2 MCL 1 1/16 miles $69,000 3 yo's up Dirt FT Liberty Valance Constitution - Gone to Town Hey Dey Liam's Map - Pelipa Ingleborough Instagrand - Last Kiss (BRZ) View Details"
     },
     {
-      "title": "Del Mar, Race 4, MSW",
-      "details": "Del Mar, Race 4, MSW Del Mar , Saturday, November 07, 2026, Race 4 MSW 6 1/2 furlongs $65,000 3 yo's up Dirt FT Duntov Maxfield - Bible Belt Cheever Into Mischief - Electric Forest Monumental Tacitus - Allianna View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 1, MSW",
-      "details": "Gulfstream Park, Race 1, MSW Gulfstream Park , Saturday, November 07, 2026, Race 1 MSW 5 1/2 furlongs $50,000 Fillies 2 yo All Weather Track FT Turca Social Inclusion - Kindred Coralline Corniche - Crossing the Tape Southern Kiss Golden Pal - Katie's Kiss View Details"
+      "title": "Charles Town, Race 1, AOC",
+      "details": "Charles Town, Race 1, AOC Charles Town Races Slots , Saturday, November 07, 2026, Race 1 AOC 7 furlongs $35,200 3 yo's up Dirt FT Judgement Day Divining Rod - Bench Ruling Logstradamus Jump Start - Thor's Daughter Zachamundo Creative Cause - Laugh N Yodel View Details Watch Replay"
     }
   ]
 }
