@@ -1,163 +1,7 @@
 {
-  "last_updated": "November 08, 2026 - 03:00 AM",
+  "last_updated": "November 08, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Pumpkin Pie S.",
-      "raw_name": "Pumpkin Pie S.",
-      "track": "Belmont Park",
-      "grade": "Stakes",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Carle Place S.",
-      "raw_name": "Carle Place S.",
-      "track": "Belmont Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Inner turf)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Dwyer S.",
-      "raw_name": "Dwyer S.",
-      "track": "Belmont Park",
-      "grade": "Stakes",
-      "dist": "1 mile (Dirt)",
-      "purse": "$200,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Mother Goose S. (G2)",
-      "raw_name": "Mother Goose S. (G2)",
-      "track": "Belmont Park",
-      "grade": "Grade 2",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$300,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "River City S. (G3T)",
-      "raw_name": "River City S. (G3T)",
-      "track": "Churchill Downs",
-      "grade": "Grade 3",
-      "dist": "1 1/8 miles (Turf)",
-      "purse": "$300,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Bet on Sunshine S.",
-      "raw_name": "Bet on Sunshine S.",
-      "track": "Churchill Downs",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$300,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "West Virginia Juvenile S.",
-      "raw_name": "West Virginia Juvenile S.",
-      "track": "Charles Town Races Slots",
-      "grade": "Stakes",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "The Chosen Vron S.",
-      "raw_name": "The Chosen Vron S.",
-      "track": "Del Mar",
-      "grade": "Stakes",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Noel Laing S. (G2T)",
-      "raw_name": "Noel Laing S. (G2T)",
-      "track": "Montpelier",
-      "grade": "Grade 2",
-      "dist": "2 1/2 miles (Hurdle)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Aflac Supreme Hurdle S.",
-      "raw_name": "Aflac Supreme Hurdle S.",
-      "track": "Pine Mtn-Calloway Garden",
-      "grade": "Stakes",
-      "dist": "2 3/8 miles (Hurdle)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Maple Leaf S. (G3)",
-      "raw_name": "Maple Leaf S. (G3)",
-      "track": "Woodbine",
-      "grade": "Grade 3",
-      "dist": "1 1/4 miles (All Weather Track)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "Canada",
-      "flag": "🇨🇦",
-      "isUsa": false
-    },
-    {
-      "name": "HPIbet Autumn S. (G3)",
-      "raw_name": "HPIbet Autumn S. (G3)",
-      "track": "Woodbine",
-      "grade": "Grade 3",
-      "dist": "1 1/8 miles (All Weather Track)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "Canada",
-      "flag": "🇨🇦",
-      "isUsa": false
-    },
-    {
-      "name": "Bessarabian S. (G3)",
-      "raw_name": "Bessarabian S. (G3)",
-      "track": "Woodbine",
-      "grade": "Grade 3",
-      "dist": "7 furlongs (All Weather Track)",
-      "purse": "$175,000",
-      "date": "Today",
-      "country": "Canada",
-      "flag": "🇨🇦",
-      "isUsa": false
-    },
     {
       "name": "Betty Grable S.",
       "raw_name": "Betty Grable S.",
@@ -165,7 +9,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "11/8",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -515,8 +359,8 @@
       "details": "Churchill Downs, Race 2, MCL Churchill Downs , Saturday, November 07, 2026, Race 2 MCL 1 1/16 miles $69,000 3 yo's up Dirt FT Liberty Valance Constitution - Gone to Town Hey Dey Liam's Map - Pelipa Ingleborough Instagrand - Last Kiss (BRZ) View Details"
     },
     {
-      "title": "Charles Town, Race 5, ALW",
-      "details": "Charles Town, Race 5, ALW Charles Town Races Slots , Saturday, November 07, 2026, Race 5 ALW 7 furlongs $35,300 Fillies and Mares 3 yo's up Dirt FT Summon the Glam Juba - Summon the Spirit Namaste Madefromlucky - Ridden Out Box Top Gift Box - Holiday Shopping View Details Watch Replay"
+      "title": "Charles Town, Race 7, ALW",
+      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Saturday, November 07, 2026, Race 7 ALW 7 furlongs $35,300 Fillies and Mares 3 yo's up Dirt FT Won Ton Tonalist - Theonewewaitedfor Quality of Essence Essential Quality - Shippy Clean Winner Charlatan - Rocket Maker View Details Watch Replay"
     }
   ]
 }
