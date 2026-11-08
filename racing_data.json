@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 08, 2026 - 09:00 PM",
+  "last_updated": "November 08, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -63,6 +63,30 @@
       "isUsa": true
     },
     {
+      "name": "Awad S.",
+      "raw_name": "Awad S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Turf)",
+      "purse": "$175,000",
+      "date": "11/14",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Stewart Manor S.",
+      "raw_name": "Stewart Manor S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Inner turf)",
+      "purse": "$175,000",
+      "date": "11/14",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Dream Supreme S.",
       "raw_name": "Dream Supreme S.",
       "track": "Churchill Downs",
@@ -94,6 +118,30 @@
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
       "date": "11/14",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Thirty Eight Go Go S.",
+      "raw_name": "Thirty Eight Go Go S.",
+      "track": "Laurel Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$100,000",
+      "date": "11/14",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Juvenile Sprint S.",
+      "raw_name": "Juvenile Sprint S.",
+      "track": "Gulfstream Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "11/15",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -315,6 +363,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 8, MCL",
+      "details": "Belmont Park, Race 8, MCL Belmont Park , Sunday, November 08, 2026, Race 8 MCL 1 mile $38,000 3 yo's up Dirt FT Sfumato Connect - Sunset Ridge Where's Your Boom Rock Your World - Aristra Mr R T Medaglia d'Oro - Almashooqa View Details"
+    },
+    {
+      "title": "Belmont Park, Race 7, AOC",
+      "details": "Belmont Park, Race 7, AOC Belmont Park , Sunday, November 08, 2026, Race 7 AOC 1 mile $108,000 3 yo's up Dirt FT Dreamlike Gun Runner - Time to Tap Secured Landing Omaha Beach - Select Friday Time to Win Not This Time - Nagambie View Details"
+    },
+    {
       "title": "Belmont Park, Race 6, MSW",
       "details": "Belmont Park, Race 6, MSW Belmont Park , Sunday, November 08, 2026, Race 6 MSW 1 mile $100,000 Fillies 2 yo Turf GD Inflect Uncle Mo - Marceline Sellonthenews (GB) Lope de Vega (IRE) - Marbling (GB) Kindness Wins American Pharoah - Misericordia (GB) View Details"
     },
@@ -329,6 +385,18 @@
     {
       "title": "Belmont Park, Race 1, AOC",
       "details": "Belmont Park, Race 1, AOC Belmont Park , Sunday, November 08, 2026, Race 1 AOC 1 mile $105,000 2 yo Dirt FT Hullabaloo Ray Ray Jackie's Warrior - Applauding Its Saturday Night Mandaloun - Centsational Johnny Hockey Omaha Beach - Emilia's Moon View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 10, MSW",
+      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Sunday, November 08, 2026, Race 10 MSW 1 mile $120,000 Fillies 2 yo Turf FM Shelley B War of Will - Mattieandmorgan Just Peachy Golden Pal - Flowering Peach (IRE) Girl On a Tear Uncle Mo - The Girl Herself View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 9, AOC",
+      "details": "Churchill Downs, Race 9, AOC Churchill Downs , Sunday, November 08, 2026, Race 9 AOC 6 furlongs $134,000 Fillies 3 yo Dirt FT Sneaky Good Into Mischief - Gale Unfaithful Rose Vino Rosso - Starshipunfaithful Sina Gun Runner - Sittin At the Bar View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, ALW",
+      "details": "Churchill Downs, Race 7, ALW Churchill Downs , Sunday, November 08, 2026, Race 7 ALW 1 1/16 miles $127,000 2 yo Turf FM Arrival Time Not This Time - Look Me Over Jaded Olympiad - Lady Pewitt Mad Mo Mo Donegal - Line of Vision View Details"
     },
     {
       "title": "Churchill Downs, Race 6, MCL",
@@ -351,28 +419,8 @@
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Sunday, November 08, 2026, Race 1 MCL 1 mile $69,000 Fillies and Mares 3 yo's up Dirt FT Prairie Princess Essential Quality - Made to Measure Reachingforthemoon Essential Quality - Glory and Power Enchantingmistress Charlatan - Enchanting Lady View Details"
     },
     {
-      "title": "Laurel Park, Race 7, MSW",
-      "details": "Laurel Park, Race 7, MSW Laurel Park , Sunday, November 08, 2026, Race 7 MSW 7 furlongs $51,995 2 yo Dirt FT Jerry Inspires Engage - Munning's Favorite Lasting Peace Authentic - Eternal Peace Konrad's Corner Blofeld - Girls Got Rhythum View Details"
-    },
-    {
-      "title": "Laurel Park, Race 6, MSW",
-      "details": "Laurel Park, Race 6, MSW Laurel Park , Sunday, November 08, 2026, Race 6 MSW 5 1/2 furlongs $47,470 2 yo Dirt FT Razorknife Cyberknife - Warrior Hall Letem Great Notion - Sista Imperial Charter Constitution - Russian Influence View Details"
-    },
-    {
-      "title": "Laurel Park, Race 4, MCL",
-      "details": "Laurel Park, Race 4, MCL Laurel Park , Sunday, November 08, 2026, Race 4 MCL 5 1/2 furlongs $35,550 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Pneumo Warrior Warrior's Reward - Munning's Favorite Peace Before Chaos Mosler - Fay Ro's Sis Kinda Krazy Good Samaritan - Wild Eyed View Details"
-    },
-    {
-      "title": "Laurel Park, Race 3, MCL",
-      "details": "Laurel Park, Race 3, MCL Laurel Park , Sunday, November 08, 2026, Race 3 MCL 1 mile $31,320 3, 4, 5 6 yo's Dirt FT Nantucket Love Higher Power - Playful Love Live Like Jeff Tom's d'Etat - Patty's Pride Fiery Debut Friesan Fire - Annie Boo Boo View Details"
-    },
-    {
-      "title": "Laurel Park, Race 1, MCL",
-      "details": "Laurel Park, Race 1, MCL Laurel Park , Sunday, November 08, 2026, Race 1 MCL 5 1/2 furlongs $34,650 Fillies 2 yo Dirt FT Wendy Darling Blofeld - Pixie Dust Money Queen Munnings - Ginger Tap Quadratic Formula Paynter - Landing Zone View Details"
-    },
-    {
-      "title": "Woodbine, Race 3, AOC",
-      "details": "Woodbine, Race 3, AOC Woodbine , Sunday, November 08, 2026, Race 3 AOC 6 1/2 furlongs $88,525 2 yo All Weather Track FT Verge Vino Rosso - Fleeting Sensation Morrisseau Munnings - Bellize Groovinharmony Girvin - Speightharmony View Details"
+      "title": "Del Mar, Race 3, AOC",
+      "details": "Del Mar, Race 3, AOC Del Mar , Sunday, November 08, 2026, Race 3 AOC 1 mile $67,000 Fillies and Mares 3 yo's up Turf FM Ellen Jorth Grazen - Carpathia Princess Snow Sir Prancealot (IRE) - Full Snow Moon Dorie Miller Grazen - Queenofhercastle View Details"
     }
   ]
 }
