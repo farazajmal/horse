@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 09, 2026 - 07:00 PM",
+  "last_updated": "November 09, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -46,6 +46,30 @@
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
       "date": "11/12",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Miss Indiana S.",
+      "raw_name": "Miss Indiana S.",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$100,000",
+      "date": "11/13",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Indiana Futurity",
+      "raw_name": "Indiana Futurity",
+      "track": "Horseshoe Indianapolis",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$100,000",
+      "date": "11/13",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -351,6 +375,14 @@
   ],
   "recent_results": [
     {
+      "title": "Shesastonecoldfox S.",
+      "details": "Shesastonecoldfox S. Finger Lakes , Monday, November 09, 2026, Race 7 STK 6 furlongs $45,000 Fillies 2 yo Dirt FT DH- Cozzy Trickstress Charlatan - Cozzy Spring DH- My Bestie Game Winner - Song of Melody Redzone Gal Redesdale - Zismokin Gal View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 6, AOC",
+      "details": "Finger Lakes, Race 6, AOC Finger Lakes , Monday, November 09, 2026, Race 6 AOC 5 1/2 furlongs $25,000 3 yo's up Dirt FT In the Chase Weekend Hideaway - She's Always Ready Sir Kartrite Maclean's Music - Water of Life Lord King King for a Day - Higher Incentive View Details"
+    },
+    {
       "title": "Tin Cup Chalice S.",
       "details": "Tin Cup Chalice S. Finger Lakes , Monday, November 09, 2026, Race 3 STK 6 furlongs $45,000 2 yo Dirt FT Silver Knight Mitole - Silver Cloud Playinmindgames Mind Control - Playinwiththeboys Bajan Sugar Courageous Cat - Bajan Beach View Details"
     },
@@ -359,8 +391,32 @@
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, November 09, 2026, Race 1 ALW 5 1/2 furlongs $27,300 3 yo's up Dirt FT Guilty Twirling Candy - Pharoah Fawcett Banker's Jet Classic Empire - Poppy's Baby Girl (GB) Cast a Coin Central Banker - Light the Dynamite View Details"
     },
     {
+      "title": "Horseshoe Indianapolis, Race 4, MSW",
+      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Monday, November 09, 2026, Race 4 MSW 1 mile $32,000 Fillies 2 yo Dirt FT Conga Nyquist - Gone to Town Run Kiki Run Essential Quality - Pliant Rocksie Girl Upstart - Shananies Song View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 3, ALW",
+      "details": "Horseshoe Indianapolis, Race 3, ALW Horseshoe Indianapolis , Monday, November 09, 2026, Race 3 ALW 1 1/16 miles $43,000 3 yo's up Turf FM Turbeau Man Turbo Compressor - Ms. Shannon Gunzo Forever d'Oro - War Angel Vienna Charm Charming Kitten - Vienna Rose View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 7, ALW",
+      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Monday, November 09, 2026, Race 7 ALW 1 mile 70 Yards $40,900 3 yo's up Dirt FT Ekati's Way Tale of Ekati - Sharon's Way General Mathis Run Away and Hide - Dynatap Ronnis Second Wind Indy Wind - Ronni's Secret View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 4, MSW",
+      "details": "Mahoning Valley Racecourse, Race 4, MSW MAHONING VALLEY RACECOURSE , Monday, November 09, 2026, Race 4 MSW 6 furlongs $31,800 2 yo Dirt FT Slingshot Dominus - Untainted Full of Malice Da Big Hoss - Callmebella Lord Buckeye Dominus - My Mancita View Details"
+    },
+    {
       "title": "Mahoning Valley Racecourse, Race 3, ALW",
       "details": "Mahoning Valley Racecourse, Race 3, ALW MAHONING VALLEY RACECOURSE , Monday, November 09, 2026, Race 3 ALW 6 furlongs $33,700 3 yo's up Dirt FT Killa Creed Jimmy Creed - Moon Date Bukele Tapiture - Myositis Mystique Leftitforyou Enticed - Poco Uno View Details"
+    },
+    {
+      "title": "Parx Racing, Race 8, AOC",
+      "details": "Parx Racing, Race 8, AOC Parx Racing , Monday, November 09, 2026, Race 8 AOC 6 1/2 furlongs $62,000 3 yo's up Dirt FT Carentan Omaha Beach - Spectacular Sky Quasi Warrior Weigelia - Awesome Angie Cody Pass Warrior's Reward - Laurella View Details"
+    },
+    {
+      "title": "Parx Racing, Race 7, MSW",
+      "details": "Parx Racing, Race 7, MSW Parx Racing , Monday, November 09, 2026, Race 7 MSW 6 1/2 furlongs $50,000 3 yo's up Dirt FT Wholelotoftrouble World of Trouble - Awesome Beauty Resolute Tapit - Conquest (IRE) Kid Mo Uncle Mo - American Caviar View Details"
     },
     {
       "title": "Belmont Park, Race 8, MCL",
@@ -377,38 +433,6 @@
     {
       "title": "Belmont Park, Race 5, MCL",
       "details": "Belmont Park, Race 5, MCL Belmont Park , Sunday, November 08, 2026, Race 5 MCL 6 1/2 furlongs $59,000 3 yo's up Inner turf GD Munny Problem Munnings - Malibu Bonnie Turbo Launch Authentic - She's All Scat Frenchquarter Note City of Light - You Make Me Sing View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 3, MSW",
-      "details": "Belmont Park, Race 3, MSW Belmont Park , Sunday, November 08, 2026, Race 3 MSW 1 1/16 miles $100,000 Fillies and Mares 3 yo's up All Weather Track FT Flying Hawley Curlin - Vault Hypnotica Charlatan - Samantha Nicole Candidly Medaglia d'Oro - Bernin Midnight View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 1, AOC",
-      "details": "Belmont Park, Race 1, AOC Belmont Park , Sunday, November 08, 2026, Race 1 AOC 1 mile $105,000 2 yo Dirt FT Hullabaloo Ray Ray Jackie's Warrior - Applauding Its Saturday Night Mandaloun - Centsational Johnny Hockey Omaha Beach - Emilia's Moon View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 10, MSW",
-      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Sunday, November 08, 2026, Race 10 MSW 1 mile $120,000 Fillies 2 yo Turf FM Shelley B War of Will - Mattieandmorgan Just Peachy Golden Pal - Flowering Peach (IRE) Girl On a Tear Uncle Mo - The Girl Herself View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, AOC",
-      "details": "Churchill Downs, Race 9, AOC Churchill Downs , Sunday, November 08, 2026, Race 9 AOC 6 furlongs $134,000 Fillies 3 yo Dirt FT Sneaky Good Into Mischief - Gale Unfaithful Rose Vino Rosso - Starshipunfaithful Sina Gun Runner - Sittin At the Bar View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 7, ALW",
-      "details": "Churchill Downs, Race 7, ALW Churchill Downs , Sunday, November 08, 2026, Race 7 ALW 1 1/16 miles $127,000 2 yo Turf FM Arrival Time Not This Time - Look Me Over Jaded Olympiad - Lady Pewitt Mad Mo Mo Donegal - Line of Vision View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 6, MCL",
-      "details": "Churchill Downs, Race 6, MCL Churchill Downs , Sunday, November 08, 2026, Race 6 MCL 6 1/2 furlongs $67,000 3 yo's up Dirt FT Mizzou Munnings - Mo'ne Davis Torre Eiffel Cupid - Lost Badge Bedeviled Gun Runner - Devilite View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, MCL",
-      "details": "Churchill Downs, Race 5, MCL Churchill Downs , Sunday, November 08, 2026, Race 5 MCL 6 furlongs $48,000 Fillies 2 yo Dirt FT Prank At Dawn Practical Joke - Enchanted Sunrise Sheza Go Getter Jackie's Warrior - Samurai Charm Three Sock Sadie Basin - Smiles From Sadie View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 4, AOC",
-      "details": "Churchill Downs, Race 4, AOC Churchill Downs , Sunday, November 08, 2026, Race 4 AOC 6 furlongs $134,000 3 yo Dirt FT Just Deeds Liam's Map - Pretty Greeley Creole Chrome Volatile - Funny Moon Circle Tap Twirling Candy - Rattataptap View Details"
     }
   ]
 }
