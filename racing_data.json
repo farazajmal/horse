@@ -1,19 +1,7 @@
 {
-  "last_updated": "November 11, 2026 - 05:00 AM",
+  "last_updated": "November 11, 2026 - 07:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Disco Chick S.",
-      "raw_name": "Disco Chick S.",
-      "track": "Parx Racing",
-      "grade": "Stakes",
-      "dist": "7 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "11/10",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Glacial Princess S.",
       "raw_name": "Glacial Princess S.",
