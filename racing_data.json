@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 11, 2026 - 09:00 PM",
+  "last_updated": "November 11, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -145,6 +145,18 @@
       "country": "Canada",
       "flag": "🇨🇦",
       "isUsa": false
+    },
+    {
+      "name": "Bob Hope S.",
+      "raw_name": "Bob Hope S.",
+      "track": "Del Mar",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/15",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     },
     {
       "name": "Juvenile Sprint S.",
@@ -375,6 +387,18 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 9, MSW",
+      "details": "Churchill Downs, Race 9, MSW Churchill Downs , Wednesday, November 11, 2026, Race 9 MSW 6 1/2 furlongs $92,000 2 yo Dirt FT Double Arrow Independence Hall - French Curline Final Statement Violence - Closing Statement McDavid Hard Spun - Dancing Anna View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, ALW",
+      "details": "Churchill Downs, Race 8, ALW Churchill Downs , Wednesday, November 11, 2026, Race 8 ALW 1 mile $127,000 3 yo's up Turf FM Epic Horsepower Not This Time - Sweet Candy Dance Taterpie Flameaway - Delightful Melody Sheriff Bart Oscar Performance - Maddie P View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, MCL",
+      "details": "Churchill Downs, Race 7, MCL Churchill Downs , Wednesday, November 11, 2026, Race 7 MCL 6 furlongs $48,000 2 yo Dirt FT Uncle With Money Upstart - Roll Up Mo Money Cybersteel Cyberknife - Touchy Feely Clever Heist Yaupon - Bagh of Jewelz View Details"
+    },
+    {
       "title": "Churchill Downs, Race 6, STR",
       "details": "Churchill Downs, Race 6, STR Churchill Downs , Wednesday, November 11, 2026, Race 6 STR 1 mile $62,000 Fillies and Mares 3 yo's up Dirt FT Lost Chord Maxfield - Fancy and Flashy Love Knicks Hart Knicks Go - Love for Scarlett Tizianna Beau Liam - Radiant Ruby View Details"
     },
@@ -407,32 +431,20 @@
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, November 11, 2026, Race 1 ALW 5 1/2 furlongs $26,500 Fillies and Mares 3 yo's up Dirt FT Playingon Broadway Bustin Stones - Any Valid Saturday Celeslia Mr. Monomoy - Surprise Cameo Moriches Bay Mission Impazible - Alphadora View Details"
     },
     {
+      "title": "Horseshoe Indianapolis, Race 6, MSW",
+      "details": "Horseshoe Indianapolis, Race 6, MSW Horseshoe Indianapolis , Wednesday, November 11, 2026, Race 6 MSW 1 mile $36,000 2 yo Dirt FT Red Clay Runaway Lookin At Lucky - Cactus Joe Blues Rocker Rock Your World - Lady Blue Tricked You Maximus Mischief - Triple A View Details"
+    },
+    {
+      "title": "Horseshoe Indianapolis, Race 5, ALW",
+      "details": "Horseshoe Indianapolis, Race 5, ALW Horseshoe Indianapolis , Wednesday, November 11, 2026, Race 5 ALW 1 1/16 miles $40,000 3 yo's up Turf FM Which Side R U On Paynter - Aurea Aura Zach Pass Rush - Miss Artie Forever Greedy Forever d'Oro - Greedy American View Details"
+    },
+    {
       "title": "Horseshoe Indianapolis, Race 2, ALW",
       "details": "Horseshoe Indianapolis, Race 2, ALW Horseshoe Indianapolis , Wednesday, November 11, 2026, Race 2 ALW 1 mile 70 Yards $41,000 3 yo's up Dirt FT Infinite Speed Sombeyay - Infinity of Humor Four Star General General a Rod - Midnightinpositano Mi Sargento Speightsong - Lil Sucrette View Details"
     },
     {
       "title": "Horseshoe Indianapolis, Race 1, MSW",
       "details": "Horseshoe Indianapolis, Race 1, MSW Horseshoe Indianapolis , Wednesday, November 11, 2026, Race 1 MSW 1 mile $32,000 2 yo Dirt FT Apotheon Gun Runner - Indulgent Family Crest Justify - Secret Keeper Toll Booth Willy Shancelot - Pay the Toll View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 8, MSW",
-      "details": "Mahoning Valley Racecourse, Race 8, MSW MAHONING VALLEY RACECOURSE , Wednesday, November 11, 2026, Race 8 MSW 1 mile $31,800 3, 4, 5 6 yo's Dirt FT Remix From Phoenix Itsthesameoldsong - Heatherfromphoenix Kashman Rivers Run Deep - Hawt Mess Classic David Air Strike - Classy Katherine View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 6, ALW",
-      "details": "Mahoning Valley Racecourse, Race 6, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 11, 2026, Race 6 ALW 6 furlongs $33,700 2 yo Dirt FT Tulsi Frosted - Kerfluffle Hardway Mike Dominus - Bossy Girl Little Truck Indy Wind - Small Secret View Details"
-    },
-    {
-      "title": "Parx Racing, Race 8, AOC",
-      "details": "Parx Racing, Race 8, AOC Parx Racing , Wednesday, November 11, 2026, Race 8 AOC 6 1/2 furlongs $52,000 3 yo's up Dirt FT Dr. Steve Jump Start - Moonstone Beach Concord Bridge Medaglia d'Oro - Pauline Revere Beach Colt (CHI) Competitive Edge - Summer Plot View Details"
-    },
-    {
-      "title": "Parx Racing, Race 4, MCL",
-      "details": "Parx Racing, Race 4, MCL Parx Racing , Wednesday, November 11, 2026, Race 4 MCL 1 mile $26,000 Fillies 2 yo Dirt FT Peephole Improbable - Tribal Spy Fiordo Di Furore Epicenter - Amalfi Spritz Flamenca Violence - Tap Diva View Details"
-    },
-    {
-      "title": "Finger Lakes, Race 3, ALW",
-      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Tuesday, November 10, 2026, Race 3 ALW 5 1/2 furlongs $27,300 Fillies and Mares 3 yo's up Dirt FT Angel Gift Connect - Georgie's Angel Daniella Marie Honest Mischief - Blue Hen Madness Paula's a Star Tapiture - Seeking a Star View Details Watch Replay"
     }
   ]
 }
