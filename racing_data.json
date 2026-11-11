@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 11, 2026 - 05:00 PM",
+  "last_updated": "November 11, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -69,6 +69,18 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$300,000",
+      "date": "11/14",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "My Sister Pearl S.",
+      "raw_name": "My Sister Pearl S.",
+      "track": "Charles Town Races Slots",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$75,000",
       "date": "11/14",
       "country": "USA",
       "flag": "🇺🇸",
@@ -339,6 +351,14 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 2, MSW",
+      "details": "Churchill Downs, Race 2, MSW Churchill Downs , Wednesday, November 11, 2026, Race 2 MSW 1 mile $92,000 2 yo Dirt FT Charging Force Take Charge Indy - Cypriana Moycullen Girvin - Darene Salty Viking Mind Control - Glitzy Lady View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 1, ALW",
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Wednesday, November 11, 2026, Race 1 ALW 5 1/2 furlongs $26,500 Fillies and Mares 3 yo's up Dirt FT Playingon Broadway Bustin Stones - Any Valid Saturday Celeslia Mr. Monomoy - Surprise Cameo Moriches Bay Mission Impazible - Alphadora View Details"
+    },
+    {
       "title": "Finger Lakes, Race 3, ALW",
       "details": "Finger Lakes, Race 3, ALW Finger Lakes , Tuesday, November 10, 2026, Race 3 ALW 5 1/2 furlongs $27,300 Fillies and Mares 3 yo's up Dirt FT Angel Gift Connect - Georgie's Angel Daniella Marie Honest Mischief - Blue Hen Madness Paula's a Star Tapiture - Seeking a Star View Details Watch Replay"
     },
@@ -389,14 +409,6 @@
     {
       "title": "Zia Park, Race 6, ALW",
       "details": "Zia Park, Race 6, ALW Zia Park , Tuesday, November 10, 2026, Race 6 ALW 6 furlongs $62,000 3, 4, 5 yo's Dirt FT Cash Waterfall Sporting Chance - Pink Cadillac Exit Strategy Punctuate - J Dreamer American Century American Anthem - She's Plain Jane View Details"
-    },
-    {
-      "title": "Zia Park, Race 5, ALW",
-      "details": "Zia Park, Race 5, ALW Zia Park , Tuesday, November 10, 2026, Race 5 ALW 6 furlongs $55,000 Fillies and Mares 3 yo's up Dirt FT Sunset Sizzle McKinzie - Pacific Heat Alexandra Elaine Munnings - Piccadilly Line Lamorna Inn Munnings - Wall of Compassion View Details"
-    },
-    {
-      "title": "Zia Park, Race 3, ALW",
-      "details": "Zia Park, Race 3, ALW Zia Park , Tuesday, November 10, 2026, Race 3 ALW 1 mile $52,500 3 yo's up Dirt FT Unrivaled Hero Authentic - Incredible You Bill Classic Empire - That's Speightful Misinformation Essential Quality - Noelle's Mischief View Details"
     }
   ]
 }
