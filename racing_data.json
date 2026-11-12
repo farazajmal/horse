@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 12, 2026 - 07:00 PM",
+  "last_updated": "November 12, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -166,6 +166,54 @@
       "dist": "6 furlongs (Dirt)",
       "purse": "$75,000",
       "date": "11/15",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Ashbridges Bay S.",
+      "raw_name": "Ashbridges Bay S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (All Weather Track)",
+      "purse": "$150,000",
+      "date": "11/15",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "Lake Ontario S.",
+      "raw_name": "Lake Ontario S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (All Weather Track)",
+      "purse": "$150,000",
+      "date": "11/15",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "John Valene Memorial S.",
+      "raw_name": "John Valene Memorial S.",
+      "track": "Fair Grounds",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$100,000",
+      "date": "11/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Joseph R. Peluso Memorial S.",
+      "raw_name": "Joseph R. Peluso Memorial S.",
+      "track": "Fair Grounds",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/19",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -387,6 +435,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 4, MSW",
+      "details": "Belmont Park, Race 4, MSW Belmont Park , Thursday, November 12, 2026, Race 4 MSW 6 furlongs $100,000 Fillies 2 yo All Weather Track FT Saintly Villain Jackie's Warrior - Portal Creek Harpist Flightline - Daisy Ready Set Roll Upstart - Adventurous Lady View Details"
+    },
+    {
+      "title": "Belmont Park, Race 3, STR",
+      "details": "Belmont Park, Race 3, STR Belmont Park , Thursday, November 12, 2026, Race 3 STR 1 mile $65,000 3 yo's up All Weather Track FT Salt Spartan Classic Empire - Pastel Gal Manor Park Improbable - Fresco Smilensaycheese Solomini - Picture Day View Details"
+    },
+    {
       "title": "Belmont Park, Race 2, MSW",
       "details": "Belmont Park, Race 2, MSW Belmont Park , Thursday, November 12, 2026, Race 2 MSW 7 furlongs $100,000 3 yo's up Dirt MY Kaz Toro Name Changer - Pocket of Aces Valentine Crusader Honest Mischief - Absenceispresence Tap Rules Tacitus - Judiciary View Details"
     },
@@ -395,56 +451,48 @@
       "details": "Belmont Park, Race 1, MCL Belmont Park , Thursday, November 12, 2026, Race 1 MCL 1 mile $59,000 3 yo's up Dirt MY Determinedfinisher Practical Joke - New Hope Road Blue Mountains Midnight Lute - Runninwithanangel Sorrentino Gun Runner - Bonita View Details"
     },
     {
+      "title": "Churchill Downs, Race 6, ALW",
+      "details": "Churchill Downs, Race 6, ALW Churchill Downs , Thursday, November 12, 2026, Race 6 ALW 1 mile $127,000 Fillies and Mares 3 yo's up Turf FM Tramuntana Practical Joke - Sue's Sweet Sioux Moonlight Dash Maclean's Music - Moon Dash High South Hightail - Southern Dynamo View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 5, MCL",
+      "details": "Churchill Downs, Race 5, MCL Churchill Downs , Thursday, November 12, 2026, Race 5 MCL 6 furlongs $72,000 Fillies and Mares 3 yo's up Dirt FT Order Restored Tom's d'Etat - Grammajo Got the Ring Liam's Map - Owlette Leedu Independence Hall - Will Do View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 3, MSW",
+      "details": "Churchill Downs, Race 3, MSW Churchill Downs , Thursday, November 12, 2026, Race 3 MSW 5 1/2 furlongs $120,000 3 yo's up Turf FM Boston Time Not This Time - Downwind Helpful Howie Midshipman - Worldly Heiress Rockfest Rock Your World - Anniversary Kitty View Details"
+    },
+    {
       "title": "Churchill Downs, Race 1, MSW",
       "details": "Churchill Downs, Race 1, MSW Churchill Downs , Thursday, November 12, 2026, Race 1 MSW 6 furlongs $120,000 2 yo Dirt FT I Like to Party Life Is Good - Lady Aces Drain the Bourbon Drain the Clock - Huckleberry Boss Speaker's Corner - War of the States View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 8, ALW",
+      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 8 ALW 1 mile $36,200 3 yo's up Dirt SY Water Into Wine Always Dreaming - Intercoastal Skytree Yoshida (JPN) - Callisto Mor Stormy Mor Spirit - Stormy Justice View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 7, ALW",
+      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 7 ALW 1 mile $27,500 3 yo's up Dirt SY Carnival Rock Rock Your World - Filo Di Arianna Jupiter Upstart - Magnanimous Semper Anticus Liam's Map - Semper Sententiae View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 5, MSW",
+      "details": "Mahoning Valley Racecourse, Race 5, MSW MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 5 MSW 6 furlongs $31,800 Fillies and Mares 3, 4, 5 6 yo's Dirt SY Sweet Kylie Independence Hall - Kyles Marigold Rabbi Rosette Vino Rosso - Proper Discretion Shesahotsummer Summer Front - Mastic View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 3, MSW",
+      "details": "Mahoning Valley Racecourse, Race 3, MSW MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 3 MSW 6 furlongs $24,300 3, 4, 5 6 yo's Dirt SY Nacua Core Beliefs - Shop Girl Exodus Not This Time - Moon Medal Golden Hurricane Lookin At Lee - Majestic Angel View Details"
     },
     {
       "title": "Glacial Princess S.",
       "details": "Glacial Princess S. MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 2 STK 6 furlongs $75,000 Fillies 2 yo Dirt SY Rosie B Dominus - Classy Katherine Moxie Roxy King of the Roxy - Poco Uno Star Sapphire Dominus - Sky Gazer View Details"
     },
     {
+      "title": "Parx Racing, Race 7, MSW",
+      "details": "Parx Racing, Race 7, MSW Parx Racing , Thursday, November 12, 2026, Race 7 MSW 6 furlongs $50,000 2 yo Dirt FT Hard Money Man Hard Spun - Legal Tender Sir Patrick Pat On the Back - Friday Mass Bishops Gate Improbable - Bouquet of Roses View Details"
+    },
+    {
       "title": "Churchill Downs, Race 9, MSW",
       "details": "Churchill Downs, Race 9, MSW Churchill Downs , Wednesday, November 11, 2026, Race 9 MSW 6 1/2 furlongs $92,000 2 yo Dirt FT Double Arrow Independence Hall - French Curline Final Statement Violence - Closing Statement McDavid Hard Spun - Dancing Anna View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 8, ALW",
-      "details": "Churchill Downs, Race 8, ALW Churchill Downs , Wednesday, November 11, 2026, Race 8 ALW 1 mile $127,000 3 yo's up Turf FM Epic Horsepower Not This Time - Sweet Candy Dance Taterpie Flameaway - Delightful Melody Sheriff Bart Oscar Performance - Maddie P View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 7, MCL",
-      "details": "Churchill Downs, Race 7, MCL Churchill Downs , Wednesday, November 11, 2026, Race 7 MCL 6 furlongs $48,000 2 yo Dirt FT Uncle With Money Upstart - Roll Up Mo Money Cybersteel Cyberknife - Touchy Feely Clever Heist Yaupon - Bagh of Jewelz View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 6, STR",
-      "details": "Churchill Downs, Race 6, STR Churchill Downs , Wednesday, November 11, 2026, Race 6 STR 1 mile $62,000 Fillies and Mares 3 yo's up Dirt FT Lost Chord Maxfield - Fancy and Flashy Love Knicks Hart Knicks Go - Love for Scarlett Tizianna Beau Liam - Radiant Ruby View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, MSW",
-      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Wednesday, November 11, 2026, Race 5 MSW 1 1/16 miles $120,000 2 yo Turf FM Mo Misery Uncle Mo - Sosua Sweeten the Pot Maxfield - Candy Flower Col Frank Slade Oscar Performance - Miss Voluptuous View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 4, MSW",
-      "details": "Churchill Downs, Race 4, MSW Churchill Downs , Wednesday, November 11, 2026, Race 4 MSW 1 mile $120,000 2 yo Dirt FT Belzoni Gun Runner - Flor de La Mar Torcello Constitution - Golden Mischief Johnny Wyoming American Pharoah - Belle de Nuit (ARG) View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, MSW",
-      "details": "Churchill Downs, Race 2, MSW Churchill Downs , Wednesday, November 11, 2026, Race 2 MSW 1 mile $92,000 2 yo Dirt FT Charging Force Take Charge Indy - Cypriana Moycullen Girvin - Darene Salty Viking Mind Control - Glitzy Lady View Details"
-    },
-    {
-      "title": "Charles Town, Race 6, MSW",
-      "details": "Charles Town, Race 6, MSW Charles Town Races Slots , Wednesday, November 11, 2026, Race 6 MSW 6 1/2 furlongs $32,900 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Revealing Cupid - Decollete Soul Healer Higher Power - Chase the Punch Cici's River Long River - Ciella View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 4, MSW",
-      "details": "Charles Town, Race 4, MSW Charles Town Races Slots , Wednesday, November 11, 2026, Race 4 MSW 6 1/2 furlongs $32,900 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Angels Are Bowling Midnight Storm - Benedicta Silent Sam By My Standards - Tavrida Lovely Bella Talent Search - Stonely Heart View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 2, MSW",
-      "details": "Charles Town, Race 2, MSW Charles Town Races Slots , Wednesday, November 11, 2026, Race 2 MSW 4 1/2 furlongs $32,900 Fillies 2 yo Dirt FT Reddam Island Drain the Clock - Kiana's Dream Graciously Paynter - Goodness Gracious Cut the Mischief Cancun - Stonecutter View Details Watch Replay"
-    },
-    {
-      "title": "Delta Downs, Race 6, STR",
-      "details": "Delta Downs, Race 6, STR Delta Downs , Wednesday, November 11, 2026, Race 6 STR 5 furlongs $28,000 Fillies and Mares 3 yo's up Dirt FT Snazzy Gal Munnings - Bonaca Two Jet Daaher - Tommeyesgold Crusin Like a Cat Catalina Cruiser - Go and Wander View Details Watch Replay"
     }
   ]
 }
