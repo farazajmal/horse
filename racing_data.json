@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 12, 2026 - 09:00 PM",
+  "last_updated": "November 12, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -435,6 +435,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 7, AOC",
+      "details": "Belmont Park, Race 7, AOC Belmont Park , Thursday, November 12, 2026, Race 7 AOC 1 3/16 miles $105,000 Fillies and Mares 3 yo's up All Weather Track FT Stand the Rain Liam's Map - Super Surprise Abigail Constitution - Auntjenn Alibi Munnings - Fools Gold View Details"
+    },
+    {
+      "title": "Belmont Park, Race 6, MSW",
+      "details": "Belmont Park, Race 6, MSW Belmont Park , Thursday, November 12, 2026, Race 6 MSW 1 1/16 miles $100,000 Fillies and Mares 3 yo's up All Weather Track FT Vicked Vekoma - Kelly's Prize Alesiamae Tacitus - Passe Ganderella Hard Spun - Noudha View Details"
+    },
+    {
       "title": "Belmont Park, Race 4, MSW",
       "details": "Belmont Park, Race 4, MSW Belmont Park , Thursday, November 12, 2026, Race 4 MSW 6 furlongs $100,000 Fillies 2 yo All Weather Track FT Saintly Villain Jackie's Warrior - Portal Creek Harpist Flightline - Daisy Ready Set Roll Upstart - Adventurous Lady View Details"
     },
@@ -449,6 +457,18 @@
     {
       "title": "Belmont Park, Race 1, MCL",
       "details": "Belmont Park, Race 1, MCL Belmont Park , Thursday, November 12, 2026, Race 1 MCL 1 mile $59,000 3 yo's up Dirt MY Determinedfinisher Practical Joke - New Hope Road Blue Mountains Midnight Lute - Runninwithanangel Sorrentino Gun Runner - Bonita View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 9, CLM",
+      "details": "Churchill Downs, Race 9, CLM Churchill Downs , Thursday, November 12, 2026, Race 9 CLM 1 1/16 miles $78,000 3 yo's up Turf FM Real Fast Kitten's Joy - Kiss Me Now (BRZ) Sea Singer (IRE) Sea The Moon (GER) - Isobel Baillie (GB) Demolition Duke Good Magic - Media Madness View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, CLM",
+      "details": "Churchill Downs, Race 8, CLM Churchill Downs , Thursday, November 12, 2026, Race 8 CLM 6 1/2 furlongs $89,000 3 yo's up Dirt FT Charlie Foxtrot Army Mule - Madagascat Accretive Practical Joke - Mallory Street Can't Hush This Not This Time - Awe Hush View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, MCL",
+      "details": "Churchill Downs, Race 7, MCL Churchill Downs , Thursday, November 12, 2026, Race 7 MCL 1 1/16 miles $48,000 3 yo's up Dirt FT Obra Prima Quality Road - Paulistinha Feeling Grand Instagrand - Feeling Good Berniedott Maximum Security - Cora Mesa View Details"
     },
     {
       "title": "Churchill Downs, Race 6, ALW",
@@ -467,32 +487,12 @@
       "details": "Churchill Downs, Race 1, MSW Churchill Downs , Thursday, November 12, 2026, Race 1 MSW 6 furlongs $120,000 2 yo Dirt FT I Like to Party Life Is Good - Lady Aces Drain the Bourbon Drain the Clock - Huckleberry Boss Speaker's Corner - War of the States View Details"
     },
     {
-      "title": "Mahoning Valley Racecourse, Race 8, ALW",
-      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 8 ALW 1 mile $36,200 3 yo's up Dirt SY Water Into Wine Always Dreaming - Intercoastal Skytree Yoshida (JPN) - Callisto Mor Stormy Mor Spirit - Stormy Justice View Details"
+      "title": "Horseshoe Indianapolis, Race 7, ALW",
+      "details": "Horseshoe Indianapolis, Race 7, ALW Horseshoe Indianapolis , Thursday, November 12, 2026, Race 7 ALW 1 1/16 miles $43,000 Fillies and Mares 3 yo's up Turf GD Smokinghot Justice Harry's Holiday - Fireball Katie Spooky Ridge Forever d'Oro - Amberly Village Sweet Jannaelise Harry's Holiday - Bank Candy View Details"
     },
     {
-      "title": "Mahoning Valley Racecourse, Race 7, ALW",
-      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 7 ALW 1 mile $27,500 3 yo's up Dirt SY Carnival Rock Rock Your World - Filo Di Arianna Jupiter Upstart - Magnanimous Semper Anticus Liam's Map - Semper Sententiae View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 5, MSW",
-      "details": "Mahoning Valley Racecourse, Race 5, MSW MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 5 MSW 6 furlongs $31,800 Fillies and Mares 3, 4, 5 6 yo's Dirt SY Sweet Kylie Independence Hall - Kyles Marigold Rabbi Rosette Vino Rosso - Proper Discretion Shesahotsummer Summer Front - Mastic View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 3, MSW",
-      "details": "Mahoning Valley Racecourse, Race 3, MSW MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 3 MSW 6 furlongs $24,300 3, 4, 5 6 yo's Dirt SY Nacua Core Beliefs - Shop Girl Exodus Not This Time - Moon Medal Golden Hurricane Lookin At Lee - Majestic Angel View Details"
-    },
-    {
-      "title": "Glacial Princess S.",
-      "details": "Glacial Princess S. MAHONING VALLEY RACECOURSE , Thursday, November 12, 2026, Race 2 STK 6 furlongs $75,000 Fillies 2 yo Dirt SY Rosie B Dominus - Classy Katherine Moxie Roxy King of the Roxy - Poco Uno Star Sapphire Dominus - Sky Gazer View Details"
-    },
-    {
-      "title": "Parx Racing, Race 7, MSW",
-      "details": "Parx Racing, Race 7, MSW Parx Racing , Thursday, November 12, 2026, Race 7 MSW 6 furlongs $50,000 2 yo Dirt FT Hard Money Man Hard Spun - Legal Tender Sir Patrick Pat On the Back - Friday Mass Bishops Gate Improbable - Bouquet of Roses View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, MSW",
-      "details": "Churchill Downs, Race 9, MSW Churchill Downs , Wednesday, November 11, 2026, Race 9 MSW 6 1/2 furlongs $92,000 2 yo Dirt FT Double Arrow Independence Hall - French Curline Final Statement Violence - Closing Statement McDavid Hard Spun - Dancing Anna View Details"
+      "title": "Horseshoe Indianapolis, Race 4, MSW",
+      "details": "Horseshoe Indianapolis, Race 4, MSW Horseshoe Indianapolis , Thursday, November 12, 2026, Race 4 MSW 6 furlongs $38,500 3 yo's up Dirt SY Mikestrumpcard Prayer for Relief - Eileen Evelyn Indy Flyer Skylord - Annieindy Succy's Song Speightsong - Lil Sucrette View Details"
     }
   ]
 }
