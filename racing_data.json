@@ -1,19 +1,7 @@
 {
-  "last_updated": "November 13, 2026 - 03:00 AM",
+  "last_updated": "November 13, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Glacial Princess S.",
-      "raw_name": "Glacial Princess S.",
-      "track": "MAHONING VALLEY RACECOURSE",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$75,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Miss Indiana S.",
       "raw_name": "Miss Indiana S.",
@@ -21,7 +9,7 @@
       "grade": "Stakes",
       "dist": "1 mile 70 Yards (Dirt)",
       "purse": "$100,000",
-      "date": "11/13",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -33,7 +21,7 @@
       "grade": "Stakes",
       "dist": "1 mile 70 Yards (Dirt)",
       "purse": "$100,000",
-      "date": "11/13",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -487,12 +475,12 @@
       "details": "Churchill Downs, Race 1, MSW Churchill Downs , Thursday, November 12, 2026, Race 1 MSW 6 furlongs $120,000 2 yo Dirt FT I Like to Party Life Is Good - Lady Aces Drain the Bourbon Drain the Clock - Huckleberry Boss Speaker's Corner - War of the States View Details"
     },
     {
-      "title": "Charles Town, Race 5, MSW",
-      "details": "Charles Town, Race 5, MSW Charles Town Races Slots , Thursday, November 12, 2026, Race 5 MSW 4 1/2 furlongs $30,600 2 yo Dirt FT Hundley Army Mule - Saint Penny I Am the Guardian Saratoga Syndicate - Work Wife Pepperoni Tony Golden Years - Stone Cold Flirt View Details Watch Replay"
+      "title": "Charles Town, Race 7, ALW",
+      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Thursday, November 12, 2026, Race 7 ALW 6 1/2 furlongs $34,100 Fillies and Mares 3 yo's up Dirt FT Collecting Angels Collected - Believe in Angels Julita Bonita Aldrin - Julie B Miss Nine One O Redirect - Fluvanna View Details Watch Replay"
     },
     {
-      "title": "Charles Town, Race 2, MSW",
-      "details": "Charles Town, Race 2, MSW Charles Town Races Slots , Thursday, November 12, 2026, Race 2 MSW 4 1/2 furlongs $32,900 Fillies 2 yo Dirt FT Menina Bonita Army Mule - Nominate Water Slide Early Voting - Rocky Policy Ashley H Mitole - Awesome Ashley View Details Watch Replay"
+      "title": "Charles Town, Race 6, AOC",
+      "details": "Charles Town, Race 6, AOC Charles Town Races Slots , Thursday, November 12, 2026, Race 6 AOC 4 1/2 furlongs $29,800 3 yo's up Dirt FT Congrats On Fifty Congrats - Manille Restless Girvin - Prada's Bling No Time to Boogie Uncle Lino - Kluvyabye View Details Watch Replay"
     }
   ]
 }
