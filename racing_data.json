@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 13, 2026 - 05:00 PM",
+  "last_updated": "November 13, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -214,6 +214,18 @@
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
       "date": "11/19",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Donovan L. Ferguson Memorial S.",
+      "raw_name": "Donovan L. Ferguson Memorial S.",
+      "track": "Fair Grounds",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/20",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -435,6 +447,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 1, MSW",
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Friday, November 13, 2026, Race 1 MSW 6 1/2 furlongs $100,000 Fillies 2 yo Dirt SY Very Clever Curlin - Innovative Idea Mysticious Mitole - Kit Keller Cornichiwa Corniche - Chaybaby View Details"
+    },
+    {
+      "title": "Laurel Park, Race 3, MSW",
+      "details": "Laurel Park, Race 3, MSW Laurel Park , Friday, November 13, 2026, Race 3 MSW 1 mile $53,060 2 yo Turf GD Playin for Gin Win Win Win - Quality Control Ecce Quam Bonum (IRE) State of Rest (IRE) - Love and Bubbles Toledo Bend Twirling Candy - Como Square View Details"
+    },
+    {
       "title": "Belmont Park, Race 7, AOC",
       "details": "Belmont Park, Race 7, AOC Belmont Park , Thursday, November 12, 2026, Race 7 AOC 1 3/16 miles $105,000 Fillies and Mares 3 yo's up All Weather Track FT Stand the Rain Liam's Map - Super Surprise Abigail Constitution - Auntjenn Alibi Munnings - Fools Gold View Details Watch Replay"
     },
@@ -485,14 +505,6 @@
     {
       "title": "Churchill Downs, Race 1, MSW",
       "details": "Churchill Downs, Race 1, MSW Churchill Downs , Thursday, November 12, 2026, Race 1 MSW 6 furlongs $120,000 2 yo Dirt FT I Like to Party Life Is Good - Lady Aces Drain the Bourbon Drain the Clock - Huckleberry Boss Speaker's Corner - War of the States View Details"
-    },
-    {
-      "title": "Charles Town, Race 7, ALW",
-      "details": "Charles Town, Race 7, ALW Charles Town Races Slots , Thursday, November 12, 2026, Race 7 ALW 6 1/2 furlongs $34,100 Fillies and Mares 3 yo's up Dirt FT Collecting Angels Collected - Believe in Angels Julita Bonita Aldrin - Julie B Miss Nine One O Redirect - Fluvanna View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 6, AOC",
-      "details": "Charles Town, Race 6, AOC Charles Town Races Slots , Thursday, November 12, 2026, Race 6 AOC 4 1/2 furlongs $29,800 3 yo's up Dirt FT Congrats On Fifty Congrats - Manille Restless Girvin - Prada's Bling No Time to Boogie Uncle Lino - Kluvyabye View Details Watch Replay"
     }
   ]
 }
