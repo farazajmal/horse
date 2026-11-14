@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 14, 2026 - 05:00 PM",
+  "last_updated": "November 14, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -202,6 +202,18 @@
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
       "date": "11/20",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Commonwealth Turf S. (G3T)",
+      "raw_name": "Commonwealth Turf S. (G3T)",
+      "track": "Churchill Downs",
+      "grade": "Grade 3",
+      "dist": "1 1/16 miles (Turf)",
+      "purse": "$300,000",
+      "date": "11/21",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -423,6 +435,30 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 2, AOC",
+      "details": "Belmont Park, Race 2, AOC Belmont Park , Saturday, November 14, 2026, Race 2 AOC 1 mile $108,000 3 yo's up All Weather Track FT Burhan (GB) Siyouni (FR) - Jousi (GB) Spirit Prince Cairo Prince - Dottie's Spirit Ciao Chuck Adios Charlie - Under Over View Details"
+    },
+    {
+      "title": "Belmont Park, Race 1, MSW",
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, November 14, 2026, Race 1 MSW 6 1/2 furlongs $100,000 2 yo Dirt MY Donegal Luster City of Light - Rehearsed Smead Essential Quality - Miss Mischievous Warspite Flightline - Paulassilverlining View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 2, MSW",
+      "details": "Churchill Downs, Race 2, MSW Churchill Downs , Saturday, November 14, 2026, Race 2 MSW 6 furlongs $120,000 Fillies and Mares 3 yo's up Dirt FT Fletch's Rockette Tiz the Law - Feline Flatline Quality Lace Quality Road - Embellish the Lace Isabelle's Music Maclean's Music - Vincaia View Details"
+    },
+    {
+      "title": "Laurel Park, Race 4, MCL",
+      "details": "Laurel Park, Race 4, MCL Laurel Park , Saturday, November 14, 2026, Race 4 MCL 5 1/2 furlongs $45,255 Fillies 2 yo Dirt FT Perpetual Notion Great Notion - Elusory Ayni Vino Rosso - Determined Honor Sao Siam Uncle Lino - Double First View Details"
+    },
+    {
+      "title": "Laurel Park, Race 3, MCL",
+      "details": "Laurel Park, Race 3, MCL Laurel Park , Saturday, November 14, 2026, Race 3 MCL 1 mile $36,500 Fillies 2 yo Turf GD Open Range Epicenter - Osage Treaty Liam Reward Colonel Liam - Hillary D Good Wishes Good Magic - Sunlight Cat View Details"
+    },
+    {
+      "title": "Laurel Park, Race 1, MCL",
+      "details": "Laurel Park, Race 1, MCL Laurel Park , Saturday, November 14, 2026, Race 1 MCL 5 1/2 furlongs $31,160 3, 4, 5 6 yo's Turf GD House of David Bolt d'Oro - Sail On Danner Omaha Beach - Pioneer Queen Notion in Motion Great Notion - Emma'sdiamonddiva View Details"
+    },
+    {
       "title": "Belmont Park, Race 8, MSW",
       "details": "Belmont Park, Race 8, MSW Belmont Park , Friday, November 13, 2026, Race 8 MSW 6 furlongs $100,000 Fillies 2 yo All Weather Track FT Plum Island Yaupon - Canyon Ready Gold Control Mind Control - Earth Shaking Magic Mira Good Magic - Mirapoix View Details Watch Replay"
     },
@@ -457,30 +493,6 @@
     {
       "title": "Churchill Downs, Race 9, CLM",
       "details": "Churchill Downs, Race 9, CLM Churchill Downs , Friday, November 13, 2026, Race 9 CLM 6 furlongs $78,000 3 yo's up Dirt MY Camp Hale Mo Town - Magic Hour Map to the Stars Liam's Map - Include Me Out State Conceal Silver State - Calypsa View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 8, MSW",
-      "details": "Churchill Downs, Race 8, MSW Churchill Downs , Friday, November 13, 2026, Race 8 MSW 6 furlongs $120,000 Fillies 2 yo Dirt MY It's the Law Tiz the Law - Kathy's Clown Seaton Springs Maclean's Music - Melody Maiden Discharged Omaha Beach - Jazz Lady View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 7, ALW",
-      "details": "Churchill Downs, Race 7, ALW Churchill Downs , Friday, November 13, 2026, Race 7 ALW 5 1/2 furlongs $127,000 3 yo's up Dirt MY Strate Cash Tiz the Law - Conquest Strate Up Livehappy Runhappy - Artistic Life Bronze Bullet Leinster - Renovation View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, MCL",
-      "details": "Churchill Downs, Race 5, MCL Churchill Downs , Friday, November 13, 2026, Race 5 MCL 6 1/2 furlongs $57,000 Fillies 2 yo Dirt MY Queens Ambition Hog Creek Hustle - Queen of the Lake Maui Meow Aloha West - Metry Kitten Avie Mo Mo Town - Avie's Paradise View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 4, ALW",
-      "details": "Churchill Downs, Race 4, ALW Churchill Downs , Friday, November 13, 2026, Race 4 ALW 1 mile $127,000 Fillies and Mares 3 yo's up Dirt MY Defiant Lass Dialed In - Defiant Honor Last Curtain Call Oscar Performance - Precious Love Lady Sybil Cairo Prince - Lady Grantham View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 3, CLM",
-      "details": "Churchill Downs, Race 3, CLM Churchill Downs , Friday, November 13, 2026, Race 3 CLM 1 mile $82,000 3 yo's up Dirt MY Landing Craft Omaha Beach - Bridgette Bordeaux Find No Fault Blame - Road Tiger Pimlott Maxfield - Hitechnoweenie View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, MCL",
-      "details": "Churchill Downs, Race 2, MCL Churchill Downs , Friday, November 13, 2026, Race 2 MCL 7 1/2 furlongs $69,000 2 yo Dirt MY Apexion Cyberknife - Freethinker April Fools Charlatan - Always Aware J'accuse Blame - Oaks Gold View Details"
     }
   ]
 }
