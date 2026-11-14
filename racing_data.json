@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 14, 2026 - 09:00 PM",
+  "last_updated": "November 14, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -471,6 +471,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 10, ALW",
+      "details": "Belmont Park, Race 10, ALW Belmont Park , Saturday, November 14, 2026, Race 10 ALW 1 mile $105,000 3 yo's up Dirt GD Filoso City of Light - Kenda Cocktailsnkringle Preservationist - Casual Cocktail Mo the Merrier Uncle Mo - Bambalina View Details"
+    },
+    {
+      "title": "Stewart Manor S. (BT)",
+      "details": "Stewart Manor S. (BT) Belmont Park , Saturday, November 14, 2026, Race 9 STK 6 furlongs $175,000 Fillies 2 yo All Weather Track FT Pink Venom (IRE) Soldier's Call (GB) - Periwinkle (IRE) Brickyard Belle Yaupon - Ready to Unleash Yuquot (FR) Kingman (GB) - Nootka Sound View Details"
+    },
+    {
       "title": "Awad S. (BT)",
       "details": "Awad S. (BT) Belmont Park , Saturday, November 14, 2026, Race 8 STK 6 furlongs $175,000 2 yo All Weather Track FT Arctic Wolf Frosted - Firewolves Metallican Volatile - Bearsatlanticmist Riyadh Way Karakontie (JPN) - Happy Joy Joy View Details"
     },
@@ -491,6 +499,18 @@
       "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, November 14, 2026, Race 1 MSW 6 1/2 furlongs $100,000 2 yo Dirt MY Donegal Luster City of Light - Rehearsed Smead Essential Quality - Miss Mischievous Warspite Flightline - Paulassilverlining View Details"
     },
     {
+      "title": "Churchill Downs, Race 9, STR",
+      "details": "Churchill Downs, Race 9, STR Churchill Downs , Saturday, November 14, 2026, Race 9 STR 5 1/2 furlongs $150,000 3 yo's up Turf FM Shape Note Mendelssohn - Burma Road Itzel Mo Town - Catch That Song Meroney Midshipman - Money for Makeup View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, STR",
+      "details": "Churchill Downs, Race 8, STR Churchill Downs , Saturday, November 14, 2026, Race 8 STR 6 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Miracle Ball Competitive Edge - Cotton Ball Talkin in Cursive Speightster - Old South Ball Progeny Goldencents - Cabbage Key View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, STR",
+      "details": "Churchill Downs, Race 7, STR Churchill Downs , Saturday, November 14, 2026, Race 7 STR 1 1/16 miles $100,000 3 yo's up Dirt FT Metatron's Muse Flatter - Countess Curlin Cowboy Mike Smiling Tiger - Lutess Freedom Road Malibu Moon - Lovable Lady View Details"
+    },
+    {
       "title": "Churchill Downs, Race 6, STR",
       "details": "Churchill Downs, Race 6, STR Churchill Downs , Saturday, November 14, 2026, Race 6 STR 1 mile $100,000 Fillies and Mares 3 yo's up Dirt FT Stay Beautiful Volatile - Light of the Nile Coquito Connect - Troubles No Mo No Other Like You Tiz the Law - Secret No More View Details"
     },
@@ -509,26 +529,6 @@
     {
       "title": "Churchill Downs, Race 2, MSW",
       "details": "Churchill Downs, Race 2, MSW Churchill Downs , Saturday, November 14, 2026, Race 2 MSW 6 furlongs $120,000 Fillies and Mares 3 yo's up Dirt FT Fletch's Rockette Tiz the Law - Feline Flatline Quality Lace Quality Road - Embellish the Lace Isabelle's Music Maclean's Music - Vincaia View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 7, MSW",
-      "details": "Gulfstream Park, Race 7, MSW Gulfstream Park , Saturday, November 14, 2026, Race 7 MSW 6 1/2 furlongs $50,000 Fillies 2 yo Dirt FT Saytara Constitution - Zaajel Lady Cross Hard Spun - Noncommital Street Queen Title Ready - Tale of the Street View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 3, MSW",
-      "details": "Gulfstream Park, Race 3, MSW Gulfstream Park , Saturday, November 14, 2026, Race 3 MSW 1 mile 70 Yards $50,000 Fillies 2 yo All Weather Track FT Delightful Diva Justify - Alydiva Starship Patriot Constitution - Super Patriot Sogno Always Dreaming - Vada View Details"
-    },
-    {
-      "title": "Laurel Park, Race 8, MSW",
-      "details": "Laurel Park, Race 8, MSW Laurel Park , Saturday, November 14, 2026, Race 8 MSW 5 1/2 furlongs $49,470 Fillies and Mares 3, 4, 5 6 yo's Turf GD Steel the Moment Gun Runner - Restless Rider Mad Misty Raging Bull (FR) - Misty On Pointe Lux City of Light - Sweet Repent View Details"
-    },
-    {
-      "title": "Laurel Park, Race 7, ALW",
-      "details": "Laurel Park, Race 7, ALW Laurel Park , Saturday, November 14, 2026, Race 7 ALW 6 furlongs $50,755 3 yo's up Dirt FT Frustrated Maclean's Music - Embur's Zip Surgical Precision Complexity - Lazy Daisy Lundi Loot First Mondays - Persnickity View Details"
-    },
-    {
-      "title": "Laurel Park, Race 6, ALW",
-      "details": "Laurel Park, Race 6, ALW Laurel Park , Saturday, November 14, 2026, Race 6 ALW 5 1/2 furlongs $60,635 3 yo's up Turf GD World On Fire Friesan Fire - Stormy Mama Brightshininglight More Than Ready - Shimmering Aspen Big Bolton Holy Boss - Hot Friesia View Details"
     }
   ]
 }
