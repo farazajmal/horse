@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 15, 2026 - 07:00 PM",
+  "last_updated": "November 15, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -140,6 +140,42 @@
       "track": "Fair Grounds",
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Dave's Friend S.",
+      "raw_name": "Dave's Friend S.",
+      "track": "Laurel Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Willa On the Move S.",
+      "raw_name": "Willa On the Move S.",
+      "track": "Laurel Park",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Richard W. Small S.",
+      "raw_name": "Richard W. Small S.",
+      "track": "Laurel Park",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Dirt)",
       "purse": "$100,000",
       "date": "11/21",
       "country": "USA",
@@ -363,16 +399,56 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 6, CLM",
+      "details": "Belmont Park, Race 6, CLM Belmont Park , Sunday, November 15, 2026, Race 6 CLM 7 furlongs $75,000 3 yo's up Dirt FT Inexorable Outwork - White Pants Night Barb Candy Ride (ARG) - Classic Point Normandy Coast Omaha Beach - Alliteration View Details"
+    },
+    {
+      "title": "Belmont Park, Race 4, AOC",
+      "details": "Belmont Park, Race 4, AOC Belmont Park , Sunday, November 15, 2026, Race 4 AOC 1 mile $108,000 Fillies and Mares 3 yo's up All Weather Track FT Grace and Grit Munnings - Sheriffa Charlottesuniverse Into Mischief - Solar Surge All of It Mendelssohn - Indy's Lady View Details"
+    },
+    {
       "title": "Belmont Park, Race 1, MSW",
       "details": "Belmont Park, Race 1, MSW Belmont Park , Sunday, November 15, 2026, Race 1 MSW 7 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Okay Annie Tiz the Law - Freudie Anne Into the Unknown Solomini - Gale Storm All Bright Vino Rosso - Diplomat Lady View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 5, MSW",
+      "details": "Churchill Downs, Race 5, MSW Churchill Downs , Sunday, November 15, 2026, Race 5 MSW 6 furlongs $120,000 3 yo's up Dirt FT Justice Justify - Irish Blessing Rank Honor A. P. - Fabulous Babe Patriot Moon Independence Hall - Moon Abduction View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 4, MCL",
+      "details": "Churchill Downs, Race 4, MCL Churchill Downs , Sunday, November 15, 2026, Race 4 MCL 1 1/16 miles $67,000 2 yo Dirt FT Mined That Gold Mineshaft - Bold Intent Goal to Go Life Is Good - Classofsixtythree Mo Que Uncle Mo - Quebec View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 3, CLM",
+      "details": "Churchill Downs, Race 3, CLM Churchill Downs , Sunday, November 15, 2026, Race 3 CLM 6 furlongs $78,000 Fillies and Mares 3 yo's up Dirt FT Huck's Agenda Known Agenda - Huckleberry Tetiaroa Vekoma - Legacy Just Do Believe Dialed In - Faith in Cathy View Details"
+    },
+    {
+      "title": "Juvenile Sprint S. (BT)",
+      "details": "Juvenile Sprint S. (BT) Gulfstream Park , Sunday, November 15, 2026, Race 7 STK 6 furlongs $75,000 2 yo Dirt FT Real Gone Olympiad - No Better Terms Mane Affair Practical Joke - Mane Attraction Ford Roadster Roadster - She Nailed It View Details"
     },
     {
       "title": "Gulfstream Park, Race 1, MSW",
       "details": "Gulfstream Park, Race 1, MSW Gulfstream Park , Sunday, November 15, 2026, Race 1 MSW 6 1/2 furlongs $50,000 2 yo Dirt FT Ring for Peace Liam's Map - Hay Dilly Resilient Bob Roadster - San Antonio Stroll Quality Gray Essential Quality - Pink Scatillac View Details"
     },
     {
+      "title": "Laurel Park, Race 8, ALW",
+      "details": "Laurel Park, Race 8, ALW Laurel Park , Sunday, November 15, 2026, Race 8 ALW 1 1/16 miles $55,755 3 yo's up Turf GD Skyrayleigh Medaglia d'Oro - Enaya Alrabb Sound Bite (IRE) Teofilo (IRE) - Catchphrase (IRE) Hanksdiviningrod Divining Rod - Watrugonnadorosie View Details"
+    },
+    {
+      "title": "Laurel Park, Race 7, ALW",
+      "details": "Laurel Park, Race 7, ALW Laurel Park , Sunday, November 15, 2026, Race 7 ALW 1 mile $55,430 3 yo's up Dirt FT Love Yourself Blofeld - La Piu Bella The Great Oscar Tapiture - Unfulfilled Dream Forrest City Munnings - Richwood View Details"
+    },
+    {
+      "title": "Laurel Park, Race 5, MCL",
+      "details": "Laurel Park, Race 5, MCL Laurel Park , Sunday, November 15, 2026, Race 5 MCL 1 mile $41,370 3, 4, 5 6 yo's Turf GD Souper Cha Ching Medaglia d'Oro - Unbridled Humor Zencat Hightail - Zenbennie Agendum Known Agenda - Bettyfromtheblock View Details"
+    },
+    {
       "title": "Laurel Park, Race 4, AOC",
       "details": "Laurel Park, Race 4, AOC Laurel Park , Sunday, November 15, 2026, Race 4 AOC 1 1/16 miles $49,000 2 yo Dirt FT Cartridge Maxfield - Tent City I'm With Her Dialed In - C M Victoria Rose Day Made Midshipman - Itsherluckyday View Details"
+    },
+    {
+      "title": "Woodbine, Race 3, MSW",
+      "details": "Woodbine, Race 3, MSW Woodbine , Sunday, November 15, 2026, Race 3 MSW 1 1/8 miles $87,942 3 yo's up All Weather Track FT Ashlee B Country House - Georgia Clay Very Special Ghostzapper - Crowning Jewel Toronto City Temple City - Thekidsarealright View Details"
     },
     {
       "title": "Belmont Park, Race 10, ALW",
@@ -381,46 +457,6 @@
     {
       "title": "Stewart Manor S. (BT)",
       "details": "Stewart Manor S. (BT) Belmont Park , Saturday, November 14, 2026, Race 9 STK 6 furlongs $175,000 Fillies 2 yo All Weather Track FT Pink Venom (IRE) Soldier's Call (GB) - Periwinkle (IRE) Brickyard Belle Yaupon - Ready to Unleash Yuquot (FR) Kingman (GB) - Nootka Sound View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Awad S. (BT)",
-      "details": "Awad S. (BT) Belmont Park , Saturday, November 14, 2026, Race 8 STK 6 furlongs $175,000 2 yo All Weather Track FT Arctic Wolf Frosted - Firewolves Metallican Volatile - Bearsatlanticmist Riyadh Way Karakontie (JPN) - Happy Joy Joy View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Belmont Park, Race 6, AOC",
-      "details": "Belmont Park, Race 6, AOC Belmont Park , Saturday, November 14, 2026, Race 6 AOC 6 furlongs $108,000 3 yo's up All Weather Track FT Mission Improbable Improbable - Pay Off Bosun Midshipman - Kipling's Joy Antisocial Not This Time - Sociable View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 5, MSW",
-      "details": "Belmont Park, Race 5, MSW Belmont Park , Saturday, November 14, 2026, Race 5 MSW 1 1/16 miles $100,000 2 yo All Weather Track FT Bring Cash Sea The Moon (GER) - Lovee Dovee (GB) Katz in the Cradle Bolt d'Oro - McNally Air Devil Practical Joke - Lucky Latkes View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 2, AOC",
-      "details": "Belmont Park, Race 2, AOC Belmont Park , Saturday, November 14, 2026, Race 2 AOC 1 mile $108,000 3 yo's up All Weather Track FT Burhan (GB) Siyouni (FR) - Jousi (GB) Spirit Prince Cairo Prince - Dottie's Spirit Ciao Chuck Adios Charlie - Under Over View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 1, MSW",
-      "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, November 14, 2026, Race 1 MSW 6 1/2 furlongs $100,000 2 yo Dirt MY Donegal Luster City of Light - Rehearsed Smead Essential Quality - Miss Mischievous Warspite Flightline - Paulassilverlining View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 12, STR",
-      "details": "Churchill Downs, Race 12, STR Churchill Downs , Saturday, November 14, 2026, Race 12 STR 1 1/16 miles $175,000 3 yo's up Turf FM Magical Ways Maclean's Music - You Make Luvin Fun War Officer War Front - Claire de Lune (IRE) Free Advice Kantharos - Free Rein View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 11, STR",
-      "details": "Churchill Downs, Race 11, STR Churchill Downs , Saturday, November 14, 2026, Race 11 STR 1 1/8 miles $200,000 3 yo's up Dirt FT Groveland Street Sense - Lucknow Expect the Best Khozan - Gulf Coast Gal Break Out Good Samaritan - Afternoon Tango View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 10, STR",
-      "details": "Churchill Downs, Race 10, STR Churchill Downs , Saturday, November 14, 2026, Race 10 STR 7 furlongs $125,000 3 yo's up Dirt FT Air of Defiance Quality Road - Faypien Dr. Storm Vino Rosso - War Relic Just Asap Maxfield - Movie Moment View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, STR",
-      "details": "Churchill Downs, Race 9, STR Churchill Downs , Saturday, November 14, 2026, Race 9 STR 5 1/2 furlongs $150,000 3 yo's up Turf FM Shape Note Mendelssohn - Burma Road Itzel Mo Town - Catch That Song Meroney Midshipman - Money for Makeup View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 8, STR",
-      "details": "Churchill Downs, Race 8, STR Churchill Downs , Saturday, November 14, 2026, Race 8 STR 6 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Miracle Ball Competitive Edge - Cotton Ball Talkin in Cursive Speightster - Old South Ball Progeny Goldencents - Cabbage Key View Details"
     }
   ]
 }
