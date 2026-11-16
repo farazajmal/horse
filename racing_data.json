@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 16, 2026 - 09:00 AM",
+  "last_updated": "November 16, 2026 - 11:00 AM",
   "year": 2026,
   "races": [
     {
@@ -270,8 +270,8 @@
     {
       "rank": 1,
       "name": "Flavien Prat",
-      "sub": "Starts: 1,220 • Wins: 299 (25%)",
-      "cash": "$42,960,193",
+      "sub": "Starts: 1,225 • Wins: 301 (25%)",
+      "cash": "$43,076,393",
       "flag": "👤"
     },
     {
@@ -291,8 +291,8 @@
     {
       "rank": 4,
       "name": "Tyler Gaffalione",
-      "sub": "Starts: 1,269 • Wins: 192 (15%)",
-      "cash": "$26,890,113",
+      "sub": "Starts: 1,274 • Wins: 193 (15%)",
+      "cash": "$26,960,801",
       "flag": "👤"
     },
     {
@@ -305,8 +305,8 @@
     {
       "rank": 6,
       "name": "Luis Saez",
-      "sub": "Starts: 1,140 • Wins: 194 (17%)",
-      "cash": "$23,217,267",
+      "sub": "Starts: 1,146 • Wins: 196 (17%)",
+      "cash": "$23,308,208",
       "flag": "👤"
     },
     {
@@ -326,8 +326,8 @@
     {
       "rank": 9,
       "name": "Paco Lopez",
-      "sub": "Starts: 1,321 • Wins: 322 (24%)",
-      "cash": "$15,253,183",
+      "sub": "Starts: 1,327 • Wins: 326 (25%)",
+      "cash": "$15,321,448",
       "flag": "👤"
     },
     {
@@ -340,36 +340,36 @@
     {
       "rank": 11,
       "name": "Juan J. Hernandez",
-      "sub": "Starts: 628 • Wins: 142 (23%)",
-      "cash": "$11,649,937",
+      "sub": "Starts: 636 • Wins: 143 (22%)",
+      "cash": "$11,722,677",
       "flag": "👤"
     },
     {
       "rank": 12,
-      "name": "Kendrick Carmouche",
-      "sub": "Starts: 758 • Wins: 120 (16%)",
-      "cash": "$11,624,371",
+      "name": "Javier Castellano",
+      "sub": "Starts: 677 • Wins: 110 (16%)",
+      "cash": "$11,682,182",
       "flag": "👤"
     },
     {
       "rank": 13,
-      "name": "Javier Castellano",
-      "sub": "Starts: 671 • Wins: 108 (16%)",
-      "cash": "$11,598,552",
+      "name": "Kendrick Carmouche",
+      "sub": "Starts: 761 • Wins: 120 (16%)",
+      "cash": "$11,638,731",
       "flag": "👤"
     },
     {
       "rank": 14,
       "name": "Joel Rosario",
-      "sub": "Starts: 744 • Wins: 128 (17%)",
-      "cash": "$10,629,501",
+      "sub": "Starts: 751 • Wins: 128 (17%)",
+      "cash": "$10,666,881",
       "flag": "👤"
     },
     {
       "rank": 15,
       "name": "Francisco Arrieta",
-      "sub": "Starts: 669 • Wins: 109 (16%)",
-      "cash": "$10,288,375",
+      "sub": "Starts: 674 • Wins: 110 (16%)",
+      "cash": "$10,346,021",
       "flag": "👤"
     }
   ],
