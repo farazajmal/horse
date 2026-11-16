@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 16, 2026 - 03:00 PM",
+  "last_updated": "November 16, 2026 - 06:09 PM",
   "year": 2026,
   "races": [
     {
@@ -375,6 +375,10 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 1, ALW",
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, November 16, 2026, Race 1 ALW 6 furlongs $26,500 3 yo's up Dirt MY Tony Hooks Joevia - Cassidy's Reward B Provocateur Take Charge Indy - Barrel of Joy Bootsy's a Rascal Mineshaft - Not Now Hillary View Details"
+    },
+    {
       "title": "Belmont Park, Race 8, MCL",
       "details": "Belmont Park, Race 8, MCL Belmont Park , Sunday, November 15, 2026, Race 8 MCL 1 mile $56,000 Fillies and Mares 3 yo's up All Weather Track FT Italianne Vino Rosso - Lake Toccet Raynham Hall Independence Hall - Cloud Jumper Whatta Weekend Weekend Hideaway - Cottonwood Falls View Details Watch Replay"
     },
@@ -429,10 +433,6 @@
     {
       "title": "Del Mar, Race 7, AOC",
       "details": "Del Mar, Race 7, AOC Del Mar , Sunday, November 15, 2026, Race 7 AOC 1 mile $68,000 3 yo's up Turf GD Known Idea Goldencents - Snap Out of It DH- Charlie's to Blame Blame - Silent Bond DH- Twirling Point Twirling Candy - Kitten's Point View Details Watch Replay"
-    },
-    {
-      "title": "Del Mar, Race 6, AOC",
-      "details": "Del Mar, Race 6, AOC Del Mar , Sunday, November 15, 2026, Race 6 AOC 6 1/2 furlongs $67,000 Fillies and Mares 3 yo's up Dirt FT Danzingwith Maxine Danzing Candy - Melanistic Scary Fast Ride Clubhouse Ride - Scary Fast Berry Valley Curlin to Mischief - Noe Valley View Details Watch Replay"
     }
   ]
 }
