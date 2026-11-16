@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 16, 2026 - 09:00 PM",
+  "last_updated": "November 16, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -154,6 +154,102 @@
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$100,000",
       "date": "11/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New Mexico Classic Distaff S.",
+      "raw_name": "New Mexico Classic Distaff S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New Mexico Classic Derby",
+      "raw_name": "New Mexico Classic Derby",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New Mexico Classic Juvenile S.",
+      "raw_name": "New Mexico Classic Juvenile S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New Mexico Classic Lassie S.",
+      "raw_name": "New Mexico Classic Lassie S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New Mexico Classic Sprint S.",
+      "raw_name": "New Mexico Classic Sprint S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "New Mexico Classic Oaks",
+      "raw_name": "New Mexico Classic Oaks",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Peppers Pride New Mexico Classic S.",
+      "raw_name": "Peppers Pride New Mexico Classic S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$200,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Rocky Gulch New Mexico Classic S.",
+      "raw_name": "Rocky Gulch New Mexico Classic S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$200,000",
+      "date": "11/23",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -395,12 +491,20 @@
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Monday, November 16, 2026, Race 1 ALW 6 furlongs $26,500 3 yo's up Dirt MY Tony Hooks Joevia - Cassidy's Reward B Provocateur Take Charge Indy - Barrel of Joy Bootsy's a Rascal Mineshaft - Not Now Hillary View Details"
     },
     {
+      "title": "Mahoning Valley Racecourse, Race 8, ALW",
+      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Monday, November 16, 2026, Race 8 ALW 1 mile $25,900 3 yo's up Dirt MY Cool Couple Uptowncharlybrown - Sterling Madame Vino Couragio Vino Rosso - Catrageous El Guty Practical Joke - Langtry View Details"
+    },
+    {
       "title": "Parx Racing, Race 8, ALW",
       "details": "Parx Racing, Race 8, ALW Parx Racing , Monday, November 16, 2026, Race 8 ALW 6 1/2 furlongs $61,000 Fillies and Mares 3 yo's up Dirt FT Show Em Up Eastwood - Start the Show Qualified Hire Madefromlucky - Gwendolyn Humoresque Practical Joke - Lookout Lady View Details"
     },
     {
       "title": "Parx Racing, Race 7, AOC",
       "details": "Parx Racing, Race 7, AOC Parx Racing , Monday, November 16, 2026, Race 7 AOC 1 mile 70 Yards $52,000 Fillies and Mares 3 yo's up Dirt FT Pure Lure Mineshaft - Fix You Dancing On My Own Drill - Pursuing Fate Flowers for Me West Coast - I Do Declare View Details"
+    },
+    {
+      "title": "Zia Park, Race 5, MSW",
+      "details": "Zia Park, Race 5, MSW Zia Park , Monday, November 16, 2026, Race 5 MSW 5 furlongs $60,000 Fillies 2 yo Dirt FT Remarkable Me Marking - Plenty of Joy Untapit Kentucky Summer - Te Fiti D'linda Delhomme - D'tatway View Details"
     },
     {
       "title": "Zia Park, Race 2, MCL",
@@ -425,14 +529,6 @@
     {
       "title": "Belmont Park, Race 1, MSW",
       "details": "Belmont Park, Race 1, MSW Belmont Park , Sunday, November 15, 2026, Race 1 MSW 7 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Okay Annie Tiz the Law - Freudie Anne Into the Unknown Solomini - Gale Storm All Bright Vino Rosso - Diplomat Lady View Details Watch Replay"
-    },
-    {
-      "title": "Churchill Downs, Race 10, MSW",
-      "details": "Churchill Downs, Race 10, MSW Churchill Downs , Sunday, November 15, 2026, Race 10 MSW 6 1/2 furlongs $92,000 Fillies 2 yo Dirt FT Timbertop Jackie's Warrior - Tiz News Finally No Drama Liam's Map - She's No Drama Bourbon Ice Girvin - Silver At Midnight View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, AOC",
-      "details": "Churchill Downs, Race 9, AOC Churchill Downs , Sunday, November 15, 2026, Race 9 AOC 1 mile $134,000 Fillies and Mares 3 yo's up Turf FM Icona (IRE) Kingman (GB) - A New Dawn (IRE) Princess Attitude Frankel (GB) - Keertana Fiery Lucy (GB) Without Parole (GB) - Craighall (GB) View Details"
     }
   ]
 }
