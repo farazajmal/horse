@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 - 05:00 PM",
+  "last_updated": "November 17, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -154,6 +154,90 @@
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$100,000",
       "date": "11/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Ruff/Kirchberg Memorial S.",
+      "raw_name": "Ruff/Kirchberg Memorial S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$75,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "First Lady S.",
+      "raw_name": "First Lady S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Cardinal S.",
+      "raw_name": "Cardinal S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Leona's Reward S.",
+      "raw_name": "Leona's Reward S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$75,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Hollywood Gaming Mahoning Distaff S.",
+      "raw_name": "Hollywood Gaming Mahoning Distaff S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$150,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Cheryl S. White Memorial S.",
+      "raw_name": "Cheryl S. White Memorial S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$200,000",
+      "date": "11/23",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Steel Valley Sprint S.",
+      "raw_name": "Steel Valley Sprint S.",
+      "track": "MAHONING VALLEY RACECOURSE",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$300,000",
+      "date": "11/23",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -470,6 +554,14 @@
     }
   ],
   "recent_results": [
+    {
+      "title": "Finger Lakes, Race 3, AOC",
+      "details": "Finger Lakes, Race 3, AOC Finger Lakes , Tuesday, November 17, 2026, Race 3 AOC 1 mile $25,000 3 yo's up Dirt GD Free Dance Tapiture - Pirouette Spettro Ghostzapper - Conga Bella Leftembehind Accelerate - Late 'n Left View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 1, ALW",
+      "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, November 17, 2026, Race 1 ALW 6 furlongs $24,500 3 yo's up Dirt GD Lord King King for a Day - Higher Incentive Muscle Shoals Redesdale - Chevy to the Levy Not for Hire Not This Time - She's a Truckin View Details"
+    },
     {
       "title": "Finger Lakes, Race 7, ALW",
       "details": "Finger Lakes, Race 7, ALW Finger Lakes , Monday, November 16, 2026, Race 7 ALW 1 mile 70 Yards $26,900 3 yo's up Dirt GD Hey Pal Bustin Stones - Aspree Isola d'Oro Goldencents - Piccola Isola Start the Day Upstart - Celtic Sunrise View Details Watch Replay"
