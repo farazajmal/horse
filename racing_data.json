@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 - 07:00 PM",
+  "last_updated": "November 17, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -154,6 +154,42 @@
       "dist": "1 1/8 miles (Dirt)",
       "purse": "$100,000",
       "date": "11/21",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Raymond G. Woolfe Memorial S.",
+      "raw_name": "Raymond G. Woolfe Memorial S.",
+      "track": "Camden",
+      "grade": "Stakes",
+      "dist": "2 1/8 miles (Hurdle)",
+      "purse": "$50,000",
+      "date": "11/22",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Marion duPont Scott Colonial Cup S. (G1T)",
+      "raw_name": "Marion duPont Scott Colonial Cup S. (G1T)",
+      "track": "Camden",
+      "grade": "Grade 1",
+      "dist": "2 5/8 miles (Hurdle)",
+      "purse": "$150,000",
+      "date": "11/22",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Hobkirk Hill S.",
+      "raw_name": "Hobkirk Hill S.",
+      "track": "Camden",
+      "grade": "Stakes",
+      "dist": "2 1/2 miles (Hurdle)",
+      "purse": "$57,000",
+      "date": "11/22",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -563,6 +599,22 @@
       "details": "Finger Lakes, Race 1, ALW Finger Lakes , Tuesday, November 17, 2026, Race 1 ALW 6 furlongs $24,500 3 yo's up Dirt GD Lord King King for a Day - Higher Incentive Muscle Shoals Redesdale - Chevy to the Levy Not for Hire Not This Time - She's a Truckin View Details"
     },
     {
+      "title": "Mahoning Valley Racecourse, Race 8, ALW",
+      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Tuesday, November 17, 2026, Race 8 ALW 6 furlongs $26,400 Fillies and Mares 3 yo's up Dirt MY Moon Mystique Malibu Moon - Mrs. Boss (BRZ) Cowgirl Chic Klimt - Portend Jen d'Oro Bolt d'Oro - Jennemily View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 6, ALW",
+      "details": "Mahoning Valley Racecourse, Race 6, ALW MAHONING VALLEY RACECOURSE , Tuesday, November 17, 2026, Race 6 ALW 1 mile $33,700 Fillies and Mares 3 yo's up Dirt MY Holiday Coal Twinspired - Canaryinacoalmine Bionic Saint Biondetti - Deniro's Saint Anicetta Snag - Chain Yanker View Details"
+    },
+    {
+      "title": "Parx Racing, Race 7, ALW",
+      "details": "Parx Racing, Race 7, ALW Parx Racing , Tuesday, November 17, 2026, Race 7 ALW 1 mile $61,000 3 yo's up Dirt FT Donnelly's Hollow Bernardini - Fix You Our Notion Great Notion - Line of Music L Golden Boy Weigelia - Special Included View Details"
+    },
+    {
+      "title": "Zia Park, Race 3, MSW",
+      "details": "Zia Park, Race 3, MSW Zia Park , Tuesday, November 17, 2026, Race 3 MSW 6 furlongs $60,000 2 yo Dirt FT Shows Promise Sporting Chance - Pink Cadillac Never Surrender Marking - Our Flying Angel Prince Marking Marking - Princess of China View Details"
+    },
+    {
       "title": "Finger Lakes, Race 7, ALW",
       "details": "Finger Lakes, Race 7, ALW Finger Lakes , Monday, November 16, 2026, Race 7 ALW 1 mile 70 Yards $26,900 3 yo's up Dirt GD Hey Pal Bustin Stones - Aspree Isola d'Oro Goldencents - Piccola Isola Start the Day Upstart - Celtic Sunrise View Details Watch Replay"
     },
@@ -597,10 +649,6 @@
     {
       "title": "Zia Park, Race 5, MSW",
       "details": "Zia Park, Race 5, MSW Zia Park , Monday, November 16, 2026, Race 5 MSW 5 furlongs $60,000 Fillies 2 yo Dirt FT Remarkable Me Marking - Plenty of Joy Untapit Kentucky Summer - Te Fiti D'linda Delhomme - D'tatway View Details"
-    },
-    {
-      "title": "Zia Park, Race 2, MCL",
-      "details": "Zia Park, Race 2, MCL Zia Park , Monday, November 16, 2026, Race 2 MCL 5 1/2 furlongs $32,000 Fillies 2 yo Dirt FT Bernlet Bernster - Where's Scarlet Diaz Is Fine Marking - Fine Assay Miss Lemon Mr. Gold Mover - Majestic Tap View Details"
     }
   ]
 }
