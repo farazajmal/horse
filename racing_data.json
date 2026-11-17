@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 - 09:00 PM",
+  "last_updated": "November 17, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -373,6 +373,90 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Zia Park Juvenile S.",
+      "raw_name": "Zia Park Juvenile S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Zia Park Sprint S.",
+      "raw_name": "Zia Park Sprint S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Zia Park Distaff S.",
+      "raw_name": "Zia Park Distaff S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Zia Park Princess S.",
+      "raw_name": "Zia Park Princess S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Zia Park Championship S.",
+      "raw_name": "Zia Park Championship S.",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$100,000",
+      "date": "11/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Zia Park Oaks",
+      "raw_name": "Zia Park Oaks",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$300,000",
+      "date": "11/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Zia Park Derby",
+      "raw_name": "Zia Park Derby",
+      "track": "Zia Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$350,000",
+      "date": "11/24",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -591,6 +675,10 @@
   ],
   "recent_results": [
     {
+      "title": "Finger Lakes, Race 8, ALW",
+      "details": "Finger Lakes, Race 8, ALW Finger Lakes , Tuesday, November 17, 2026, Race 8 ALW 1 mile 70 Yards $24,500 3 yo's up Dirt FT Specialagentjonson Klimt - Alb Probability Improbable - Perazzi Aelfgar Leofric - Star Orchid View Details"
+    },
+    {
       "title": "Finger Lakes, Race 3, AOC",
       "details": "Finger Lakes, Race 3, AOC Finger Lakes , Tuesday, November 17, 2026, Race 3 AOC 1 mile $25,000 3 yo's up Dirt GD Free Dance Tapiture - Pirouette Spettro Ghostzapper - Conga Bella Leftembehind Accelerate - Late 'n Left View Details"
     },
@@ -607,8 +695,16 @@
       "details": "Mahoning Valley Racecourse, Race 6, ALW MAHONING VALLEY RACECOURSE , Tuesday, November 17, 2026, Race 6 ALW 1 mile $33,700 Fillies and Mares 3 yo's up Dirt MY Holiday Coal Twinspired - Canaryinacoalmine Bionic Saint Biondetti - Deniro's Saint Anicetta Snag - Chain Yanker View Details"
     },
     {
+      "title": "Parx Racing, Race 8, ALW",
+      "details": "Parx Racing, Race 8, ALW Parx Racing , Tuesday, November 17, 2026, Race 8 ALW 6 1/2 furlongs $50,000 Fillies and Mares 3 yo's up Dirt FT West of Lex Practical Joke - Classydame Coppedge Independence Hall - Moon's Prospect Angie's Reward Warrior's Reward - Awesome Angie View Details"
+    },
+    {
       "title": "Parx Racing, Race 7, ALW",
       "details": "Parx Racing, Race 7, ALW Parx Racing , Tuesday, November 17, 2026, Race 7 ALW 1 mile $61,000 3 yo's up Dirt FT Donnelly's Hollow Bernardini - Fix You Our Notion Great Notion - Line of Music L Golden Boy Weigelia - Special Included View Details"
+    },
+    {
+      "title": "Zia Park, Race 7, MSW",
+      "details": "Zia Park, Race 7, MSW Zia Park , Tuesday, November 17, 2026, Race 7 MSW 5 furlongs $60,000 2 yo Dirt FT Zactoattack Punctuate - I Like Tricks Bryn's Lil Homme Delhomme - Brynlee's Lemonade Az Danger Lotsa Mischief - Arizona Ranger View Details"
     },
     {
       "title": "Zia Park, Race 3, MSW",
@@ -637,18 +733,6 @@
     {
       "title": "Mahoning Valley Racecourse, Race 8, ALW",
       "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Monday, November 16, 2026, Race 8 ALW 1 mile $25,900 3 yo's up Dirt MY Cool Couple Uptowncharlybrown - Sterling Madame Vino Couragio Vino Rosso - Catrageous El Guty Practical Joke - Langtry View Details"
-    },
-    {
-      "title": "Parx Racing, Race 8, ALW",
-      "details": "Parx Racing, Race 8, ALW Parx Racing , Monday, November 16, 2026, Race 8 ALW 6 1/2 furlongs $61,000 Fillies and Mares 3 yo's up Dirt FT Show Em Up Eastwood - Start the Show Qualified Hire Madefromlucky - Gwendolyn Humoresque Practical Joke - Lookout Lady View Details Watch Replay"
-    },
-    {
-      "title": "Parx Racing, Race 7, AOC",
-      "details": "Parx Racing, Race 7, AOC Parx Racing , Monday, November 16, 2026, Race 7 AOC 1 mile 70 Yards $52,000 Fillies and Mares 3 yo's up Dirt FT Pure Lure Mineshaft - Fix You Dancing On My Own Drill - Pursuing Fate Flowers for Me West Coast - I Do Declare View Details Watch Replay"
-    },
-    {
-      "title": "Zia Park, Race 5, MSW",
-      "details": "Zia Park, Race 5, MSW Zia Park , Monday, November 16, 2026, Race 5 MSW 5 furlongs $60,000 Fillies 2 yo Dirt FT Remarkable Me Marking - Plenty of Joy Untapit Kentucky Summer - Te Fiti D'linda Delhomme - D'tatway View Details"
     }
   ]
 }
