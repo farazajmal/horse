@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 18, 2026 - 07:00 PM",
+  "last_updated": "November 18, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -169,6 +169,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Shady Well S.",
+      "raw_name": "Shady Well S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "6 furlongs (All Weather Track)",
+      "purse": "$150,000",
+      "date": "11/21",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
     },
     {
       "name": "Raymond G. Woolfe Memorial S.",
@@ -469,6 +481,30 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "South Mountain S.",
+      "raw_name": "South Mountain S.",
+      "track": "Penn National",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "11/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Blue Mountain S.",
+      "raw_name": "Blue Mountain S.",
+      "track": "Penn National",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "11/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -687,12 +723,48 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 5, MCL",
+      "details": "Churchill Downs, Race 5, MCL Churchill Downs , Wednesday, November 18, 2026, Race 5 MCL 7 1/2 furlongs $69,000 Fillies 2 yo Dirt FT First Look Life Is Good - Jemison Oro Estrella Bolt d'Oro - Fierce Scarlett Golden Latte Golden Pal - La Luna Latte View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 3, MSW",
+      "details": "Churchill Downs, Race 3, MSW Churchill Downs , Wednesday, November 18, 2026, Race 3 MSW 5 1/2 furlongs $120,000 2 yo Turf FM Colortime Not This Time - Definitive Big Star Bound Golden Pal - Wish Way Arsenal Star Munnings - Carnaby Street View Details"
+    },
+    {
       "title": "Churchill Downs, Race 1, MSW",
       "details": "Churchill Downs, Race 1, MSW Churchill Downs , Wednesday, November 18, 2026, Race 1 MSW 5 furlongs $92,000 Fillies 2 yo Dirt FT Flaming Verdict Speaker's Corner - Ms. Dragonette I Want Her Practical Joke - Sabinos Pride Puunene Good Magic - Kauai Katie View Details"
     },
     {
+      "title": "Finger Lakes, Race 4, MSW",
+      "details": "Finger Lakes, Race 4, MSW Finger Lakes , Wednesday, November 18, 2026, Race 4 MSW 1 mile $32,600 3 yo's up Dirt FT Striker Joe Liam's Map - Cahirciveen Drop Me a Dime Instagrand - Court of Love Damask Master James - Intravenus View Details"
+    },
+    {
       "title": "Finger Lakes, Race 3, ALW",
       "details": "Finger Lakes, Race 3, ALW Finger Lakes , Wednesday, November 18, 2026, Race 3 ALW 1 mile 70 Yards $26,500 Fillies and Mares 3 yo's up Dirt FT Rock Steady Babe King for a Day - Very Accomplished Little Finch Constitution - Stowe White Straca Spun to Run - A Cut Ahead View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 8, MSW",
+      "details": "Mahoning Valley Racecourse, Race 8, MSW MAHONING VALLEY RACECOURSE , Wednesday, November 18, 2026, Race 8 MSW 6 furlongs $31,800 Fillies 2 yo Dirt MY The Way It Is Drill - Way to Fly Kellykoz Tenkoz - Fancy Kelly Baroness One Sided - Cowboy's Princess View Details"
+    },
+    {
+      "title": "Parx Racing, Race 8, AOC",
+      "details": "Parx Racing, Race 8, AOC Parx Racing , Wednesday, November 18, 2026, Race 8 AOC 1 mile $52,000 3 yo's up Dirt FT Red Zone Runner Practical Joke - Look Deep Waitlist Not This Time - Grandezza Paco the Taco Man Bandbox - Flexible Ethics View Details"
+    },
+    {
+      "title": "Parx Racing, Race 7, AOC",
+      "details": "Parx Racing, Race 7, AOC Parx Racing , Wednesday, November 18, 2026, Race 7 AOC 6 furlongs $52,000 Fillies and Mares 3 yo's up Dirt FT Centre Court Champ Dominus - Wimbledon Star Volleyballprincess Mo Town - Prom Dress Eclair Blanc Funtastic - Sweet Sway View Details"
+    },
+    {
+      "title": "Parx Racing, Race 6, MSW",
+      "details": "Parx Racing, Race 6, MSW Parx Racing , Wednesday, November 18, 2026, Race 6 MSW 6 furlongs $50,000 Fillies 2 yo Dirt FT Tiz It Is Paynter - Tiz May West Show's Last Gift Eastwood - Start the Show Globe Runner Global Campaign - Christiansted View Details"
+    },
+    {
+      "title": "Tampa Bay Downs, Race 6, AOC",
+      "details": "Tampa Bay Downs, Race 6, AOC Tampa Bay Downs , Wednesday, November 18, 2026, Race 6 AOC 6 furlongs $56,000 3 yo's up Dirt FT No Bees Bee Jersey - No Extensions Celtic Pride St Patrick's Day - Lovely Lexi Cockeyed Khozan - Dark Farewell View Details"
+    },
+    {
+      "title": "Tampa Bay Downs, Race 5, AOC",
+      "details": "Tampa Bay Downs, Race 5, AOC Tampa Bay Downs , Wednesday, November 18, 2026, Race 5 AOC 1 mile 40 Yards $57,000 Fillies and Mares 3 yo's up Dirt FT Stillthinkingofyou Daredevil - Courageisamajority Nancy's Shawl Mohaymen - Shawl Dynamic Actress Oscar Performance - Dyno Temper View Details"
     },
     {
       "title": "Finger Lakes, Race 8, ALW",
@@ -709,34 +781,6 @@
     {
       "title": "Mountaineer, Race 4, MSW",
       "details": "Mountaineer, Race 4, MSW Mountaineer Race Track And Gaming Resort , Tuesday, November 17, 2026, Race 4 MSW 5 furlongs $19,000 Fillies 2 yo Dirt FT Yalina Rainbow Heir - Alter Rhythm Girvinette Girvin - Vast La Misteriosa Higher Power - Ghostzipper View Details Watch Replay"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 8, ALW",
-      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Tuesday, November 17, 2026, Race 8 ALW 6 furlongs $26,400 Fillies and Mares 3 yo's up Dirt MY Moon Mystique Malibu Moon - Mrs. Boss (BRZ) Cowgirl Chic Klimt - Portend Jen d'Oro Bolt d'Oro - Jennemily View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 6, ALW",
-      "details": "Mahoning Valley Racecourse, Race 6, ALW MAHONING VALLEY RACECOURSE , Tuesday, November 17, 2026, Race 6 ALW 1 mile $33,700 Fillies and Mares 3 yo's up Dirt MY Holiday Coal Twinspired - Canaryinacoalmine Bionic Saint Biondetti - Deniro's Saint Anicetta Snag - Chain Yanker View Details"
-    },
-    {
-      "title": "Parx Racing, Race 8, ALW",
-      "details": "Parx Racing, Race 8, ALW Parx Racing , Tuesday, November 17, 2026, Race 8 ALW 6 1/2 furlongs $50,000 Fillies and Mares 3 yo's up Dirt FT West of Lex Practical Joke - Classydame Coppedge Independence Hall - Moon's Prospect Angie's Reward Warrior's Reward - Awesome Angie View Details Watch Replay"
-    },
-    {
-      "title": "Parx Racing, Race 7, ALW",
-      "details": "Parx Racing, Race 7, ALW Parx Racing , Tuesday, November 17, 2026, Race 7 ALW 1 mile $61,000 3 yo's up Dirt FT Donnelly's Hollow Bernardini - Fix You Our Notion Great Notion - Line of Music L Golden Boy Weigelia - Special Included View Details Watch Replay"
-    },
-    {
-      "title": "Zia Park, Race 10, ALW",
-      "details": "Zia Park, Race 10, ALW Zia Park , Tuesday, November 17, 2026, Race 10 ALW 5 1/2 furlongs $67,000 3 yo's up Dirt FT C Jack Chipshot - Devons Cat Hold My Scotch Sway Away - Wickedly Sweet Jmark Marking - She's Plain Jane View Details"
-    },
-    {
-      "title": "Zia Park, Race 7, MSW",
-      "details": "Zia Park, Race 7, MSW Zia Park , Tuesday, November 17, 2026, Race 7 MSW 5 furlongs $60,000 2 yo Dirt FT Zactoattack Punctuate - I Like Tricks Bryn's Lil Homme Delhomme - Brynlee's Lemonade Az Danger Lotsa Mischief - Arizona Ranger View Details"
-    },
-    {
-      "title": "Zia Park, Race 3, MSW",
-      "details": "Zia Park, Race 3, MSW Zia Park , Tuesday, November 17, 2026, Race 3 MSW 6 furlongs $60,000 2 yo Dirt FT Shows Promise Sporting Chance - Pink Cadillac Never Surrender Marking - Our Flying Angel Prince Marking Marking - Princess of China View Details"
     }
   ]
 }
