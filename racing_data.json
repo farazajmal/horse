@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 19, 2026 - 05:00 PM",
+  "last_updated": "November 19, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -541,6 +541,90 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Turkey Trot S.",
+      "raw_name": "Turkey Trot S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "1 mile 70 Yards (Dirt)",
+      "purse": "$75,000",
+      "date": "11/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Let's Give Thanks S.",
+      "raw_name": "Let's Give Thanks S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "11/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Cornucopia S.",
+      "raw_name": "Cornucopia S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$75,000",
+      "date": "11/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Pennsylvania Nursery S.",
+      "raw_name": "Pennsylvania Nursery S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Shamrock Rose S.",
+      "raw_name": "Shamrock Rose S.",
+      "track": "Parx Racing",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/25",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Cardinal S. Presented by Resolute Racing",
+      "raw_name": "Cardinal S. Presented by Resolute Racing",
+      "track": "Churchill Downs",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (Turf)",
+      "purse": "$300,000",
+      "date": "11/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Falls City S. (G3)",
+      "raw_name": "Falls City S. (G3)",
+      "track": "Churchill Downs",
+      "grade": "Grade 3",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$300,000",
+      "date": "11/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -759,6 +843,22 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 2, MSW",
+      "details": "Belmont Park, Race 2, MSW Belmont Park , Thursday, November 19, 2026, Race 2 MSW 6 furlongs $100,000 3 yo's up Inner turf FM About Face Candy Ride (ARG) - Hot Topic He's My Kind Hard Spun - She's My Type (FR) Daythemusiclived Maclean's Music - Avie's Mineshaft View Details"
+    },
+    {
+      "title": "Belmont Park, Race 1, AOC",
+      "details": "Belmont Park, Race 1, AOC Belmont Park , Thursday, November 19, 2026, Race 1 AOC 6 furlongs $105,000 Fillies 2 yo Dirt FT Beauty Truth Good Into Mischief - Nonna Madeline Tia Melanie Upstart - Listen to Libby Girls Wear Pearls Hard Spun - Pearl Heist View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 2, MCL",
+      "details": "Churchill Downs, Race 2, MCL Churchill Downs , Thursday, November 19, 2026, Race 2 MCL 1 1/16 miles $48,000 Fillies 2 yo Dirt FT Sock Monkey Greatest Honour - Starlite Mission Glamour N Glitz Mandaloun - Guadalupe High Dagny Taggart Maclean's Music - My Impression View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 1, STR",
+      "details": "Churchill Downs, Race 1, STR Churchill Downs , Thursday, November 19, 2026, Race 1 STR 1 1/16 miles $83,000 3 yo's up Dirt FT Pied Piper Take Charge Indy - Maho Bay Ramblin Ghostzapper - Verdura Suited and Booted Classic Empire - Cocoanut Row View Details"
+    },
+    {
       "title": "Churchill Downs, Race 9, MCL",
       "details": "Churchill Downs, Race 9, MCL Churchill Downs , Wednesday, November 18, 2026, Race 9 MCL 1 1/16 miles $67,000 Fillies 2 yo Dirt FT Elowyn's Honor Honor A. P. - St. Louise Batcycle Blame - Barbara Gordon Upside Out Upstart - Koto View Details"
     },
@@ -801,22 +901,6 @@
     {
       "title": "Delta Downs, Race 8, AOC",
       "details": "Delta Downs, Race 8, AOC Delta Downs , Wednesday, November 18, 2026, Race 8 AOC 6 1/2 furlongs $36,000 Fillies and Mares 3 yo's up Dirt FT Echo Juliet Echo Town - Prima Diva The Long Embrace Tom's d'Etat - Embracing Caroom's Croupier Hamazing Destiny - Paddle Out View Details Watch Replay"
-    },
-    {
-      "title": "Delta Downs, Race 3, MCL",
-      "details": "Delta Downs, Race 3, MCL Delta Downs , Wednesday, November 18, 2026, Race 3 MCL 5 furlongs $27,000 Fillies 2 yo Dirt FT Secret Hint Imperial Hint - Custom Trainwreck Free Deal El Deal - Just You Wait Powerful Rose Strike Power - Take Charge Rose View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 4, MSW",
-      "details": "Finger Lakes, Race 4, MSW Finger Lakes , Wednesday, November 18, 2026, Race 4 MSW 1 mile $32,600 3 yo's up Dirt FT Striker Joe Liam's Map - Cahirciveen Drop Me a Dime Instagrand - Court of Love Damask Master James - Intravenus View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 3, ALW",
-      "details": "Finger Lakes, Race 3, ALW Finger Lakes , Wednesday, November 18, 2026, Race 3 ALW 1 mile 70 Yards $26,500 Fillies and Mares 3 yo's up Dirt FT Rock Steady Babe King for a Day - Very Accomplished Little Finch Constitution - Stowe White Straca Spun to Run - A Cut Ahead View Details Watch Replay"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 8, MSW",
-      "details": "Mahoning Valley Racecourse, Race 8, MSW MAHONING VALLEY RACECOURSE , Wednesday, November 18, 2026, Race 8 MSW 6 furlongs $31,800 Fillies 2 yo Dirt MY The Way It Is Drill - Way to Fly Kellykoz Tenkoz - Fancy Kelly Baroness One Sided - Cowboy's Princess View Details"
     }
   ]
 }
