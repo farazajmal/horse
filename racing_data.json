@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 19, 2026 - 07:00 PM",
+  "last_updated": "November 19, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -253,6 +253,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Clarendon S.",
+      "raw_name": "Clarendon S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "6 furlongs (All Weather Track)",
+      "purse": "$150,000",
+      "date": "11/22",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
     },
     {
       "name": "Ruff/Kirchberg Memorial S.",
@@ -625,6 +637,18 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Thanksgiving Classic S.",
+      "raw_name": "Thanksgiving Classic S.",
+      "track": "Fair Grounds",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Dirt)",
+      "purse": "$175,000",
+      "date": "11/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -843,12 +867,36 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 6, AOC",
+      "details": "Belmont Park, Race 6, AOC Belmont Park , Thursday, November 19, 2026, Race 6 AOC 1 1/16 miles $108,000 3 yo's up Dirt FT Quick to Accuse Accelerate - Speightful Affair Three B's Collected - Dattt Echo Moe Eighty Eight Solomini - Autumn Ash View Details"
+    },
+    {
+      "title": "Belmont Park, Race 5, MSW",
+      "details": "Belmont Park, Race 5, MSW Belmont Park , Thursday, November 19, 2026, Race 5 MSW 6 furlongs $100,000 2 yo Inner turf FM Mysterio Constitution - Into Mystic Castle Pines Jack Christopher - Glorious Chant Hundreds Munnings - Mischievous Kiss View Details"
+    },
+    {
+      "title": "Belmont Park, Race 4, ALW",
+      "details": "Belmont Park, Race 4, ALW Belmont Park , Thursday, November 19, 2026, Race 4 ALW 6 1/2 furlongs $105,000 Fillies and Mares 3 yo's up Turf FM Carmen Amalia Combatant - Sapphire Sky Great Happenings Runhappy - The Great Johanna Sacred Goddess Kantharos - That's My Cue View Details"
+    },
+    {
+      "title": "Belmont Park, Race 3, ALW",
+      "details": "Belmont Park, Race 3, ALW Belmont Park , Thursday, November 19, 2026, Race 3 ALW 1 mile $105,000 Fillies and Mares 3 yo's up Dirt FT Lady Wisdom Solomini - Myself Aqua Blaze Flameaway - Thicker Than Water Full Pour Vino Rosso - Extra Impact View Details"
+    },
+    {
       "title": "Belmont Park, Race 2, MSW",
       "details": "Belmont Park, Race 2, MSW Belmont Park , Thursday, November 19, 2026, Race 2 MSW 6 furlongs $100,000 3 yo's up Inner turf FM About Face Candy Ride (ARG) - Hot Topic He's My Kind Hard Spun - She's My Type (FR) Daythemusiclived Maclean's Music - Avie's Mineshaft View Details"
     },
     {
       "title": "Belmont Park, Race 1, AOC",
       "details": "Belmont Park, Race 1, AOC Belmont Park , Thursday, November 19, 2026, Race 1 AOC 6 furlongs $105,000 Fillies 2 yo Dirt FT Beauty Truth Good Into Mischief - Nonna Madeline Tia Melanie Upstart - Listen to Libby Girls Wear Pearls Hard Spun - Pearl Heist View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 4, MSW",
+      "details": "Churchill Downs, Race 4, MSW Churchill Downs , Thursday, November 19, 2026, Race 4 MSW 5 1/2 furlongs $92,000 2 yo Dirt FT City of Rome Army Mule - Mulholland Bergkamp Golden Pal - Tarty to the Party Victor Domino Corniche - Zurlin View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 3, MSW",
+      "details": "Churchill Downs, Race 3, MSW Churchill Downs , Thursday, November 19, 2026, Race 3 MSW 5 1/2 furlongs $120,000 Fillies 2 yo Turf FM Bush Munnings - Forest Caraway Practical Patsy Practical Joke - Wonderfuladventure Sing the Blues Practical Joke - Georgia Blue View Details"
     },
     {
       "title": "Churchill Downs, Race 2, MCL",
@@ -859,48 +907,24 @@
       "details": "Churchill Downs, Race 1, STR Churchill Downs , Thursday, November 19, 2026, Race 1 STR 1 1/16 miles $83,000 3 yo's up Dirt FT Pied Piper Take Charge Indy - Maho Bay Ramblin Ghostzapper - Verdura Suited and Booted Classic Empire - Cocoanut Row View Details"
     },
     {
+      "title": "John Valene Memorial S. (BT)",
+      "details": "John Valene Memorial S. (BT) Fair Grounds , Thursday, November 19, 2026, Race 2 STK 1 mile 70 Yards $100,000 Fillies and Mares 3 yo's up Dirt FT Margie's Intention Honor A. P. - Playful Dancer Blue Fire Aurelius Maximus - Mystic Blue Little Miss Curlin Charlatan - Mylady Curlin View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 8, ALW",
+      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Thursday, November 19, 2026, Race 8 ALW 6 furlongs $25,900 Fillies and Mares 3 yo's up Dirt MY Critikal Sense Street Sense - Bajan Sang Klimt - Capri Song Proud Words Thousand Words - Free and Proud View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 7, ALW",
+      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Thursday, November 19, 2026, Race 7 ALW 1 mile $33,700 3 yo's up Dirt MY Boaz Sky Kingdom - Miss Posse Sammy's Halo Drill - Reflecting Riva Curious Corn Kettle Corn - Curious Ruth View Details"
+    },
+    {
+      "title": "Parx Racing, Race 8, ALW",
+      "details": "Parx Racing, Race 8, ALW Parx Racing , Thursday, November 19, 2026, Race 8 ALW 1 mile 70 Yards $50,000 Fillies and Mares 3 yo's up Dirt FT Tiz Purple Tiz the Law - Purple Lights Tavin Girvin - Tashmoo I Can Run Tourist - Hana J View Details"
+    },
+    {
       "title": "Churchill Downs, Race 9, MCL",
       "details": "Churchill Downs, Race 9, MCL Churchill Downs , Wednesday, November 18, 2026, Race 9 MCL 1 1/16 miles $67,000 Fillies 2 yo Dirt FT Elowyn's Honor Honor A. P. - St. Louise Batcycle Blame - Barbara Gordon Upside Out Upstart - Koto View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 8, ALW",
-      "details": "Churchill Downs, Race 8, ALW Churchill Downs , Wednesday, November 18, 2026, Race 8 ALW 1 1/8 miles $127,000 3 yo's up Dirt FT Rugged Love Cupid - Princess Addy Pagode Constitution - Pretty Girl (ARG) King of Ashes Street Sense - Causeforcommotion View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 6, STR",
-      "details": "Churchill Downs, Race 6, STR Churchill Downs , Wednesday, November 18, 2026, Race 6 STR 1 1/16 miles $83,000 Fillies and Mares 3 yo's up Turf FM Annelle Mendelssohn - Steely Magnolia Amazing Lady Tonalist - Cold Desert French Mistress Cairo Prince - Quest (GB) View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 5, MCL",
-      "details": "Churchill Downs, Race 5, MCL Churchill Downs , Wednesday, November 18, 2026, Race 5 MCL 7 1/2 furlongs $69,000 Fillies 2 yo Dirt FT First Look Life Is Good - Jemison Oro Estrella Bolt d'Oro - Fierce Scarlett Golden Latte Golden Pal - La Luna Latte View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 3, MSW",
-      "details": "Churchill Downs, Race 3, MSW Churchill Downs , Wednesday, November 18, 2026, Race 3 MSW 5 1/2 furlongs $120,000 2 yo Turf FM Colortime Not This Time - Definitive Big Star Bound Golden Pal - Wish Way Arsenal Star Munnings - Carnaby Street View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 1, MSW",
-      "details": "Churchill Downs, Race 1, MSW Churchill Downs , Wednesday, November 18, 2026, Race 1 MSW 5 furlongs $92,000 Fillies 2 yo Dirt FT Flaming Verdict Speaker's Corner - Ms. Dragonette I Want Her Practical Joke - Sabinos Pride Puunene Good Magic - Kauai Katie View Details"
-    },
-    {
-      "title": "Charles Town, Race 7, AOC",
-      "details": "Charles Town, Race 7, AOC Charles Town Races Slots , Wednesday, November 18, 2026, Race 7 AOC 6 1/2 furlongs $36,600 Fillies and Mares 3 yo's up Dirt FT Tap Dancin Cowgirl Tapiture - Dallas Cowgirl Wynsome Cat Mitole - Wyn Jym Chasing Sunsets Authentic - Dayienu View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 5, ALW",
-      "details": "Charles Town, Race 5, ALW Charles Town Races Slots , Wednesday, November 18, 2026, Race 5 ALW 7 furlongs $34,100 Fillies and Mares 3 yo's up Dirt FT Maskedandmummed Candygram - Mummers Parade Devastating Volatile - Riboletti Full of Charm Uncle Lino - Full of Intent View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 4, ALW",
-      "details": "Charles Town, Race 4, ALW Charles Town Races Slots , Wednesday, November 18, 2026, Race 4 ALW 6 1/2 furlongs $34,100 3 yo's up Dirt FT McDougal Central Banker - Statuesque Screaminvengeance The Lady's Groom - Smooth Arrival Ifthedevildanced Declan's Warrior - Brass Magnolia View Details Watch Replay"
-    },
-    {
-      "title": "Charles Town, Race 2, ALW",
-      "details": "Charles Town, Race 2, ALW Charles Town Races Slots , Wednesday, November 18, 2026, Race 2 ALW 6 1/2 furlongs $34,100 3 yo's up Dirt FT Dewy's Beast The Big Beast - Lilikoi Mi Dinero Mitole - Fully Equipped Mr. Dumbledore Mr Speaker - Rock n' Gold View Details Watch Replay"
-    },
-    {
-      "title": "Delta Downs, Race 8, AOC",
-      "details": "Delta Downs, Race 8, AOC Delta Downs , Wednesday, November 18, 2026, Race 8 AOC 6 1/2 furlongs $36,000 Fillies and Mares 3 yo's up Dirt FT Echo Juliet Echo Town - Prima Diva The Long Embrace Tom's d'Etat - Embracing Caroom's Croupier Hamazing Destiny - Paddle Out View Details Watch Replay"
     }
   ]
 }
