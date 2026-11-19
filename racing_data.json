@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 19, 2026 - 09:00 PM",
+  "last_updated": "November 19, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -639,6 +639,18 @@
       "isUsa": true
     },
     {
+      "name": "Red Carpet S.",
+      "raw_name": "Red Carpet S.",
+      "track": "Del Mar",
+      "grade": "Stakes",
+      "dist": "1 3/8 miles (Turf)",
+      "purse": "$100,000",
+      "date": "11/26",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Thanksgiving Classic S.",
       "raw_name": "Thanksgiving Classic S.",
       "track": "Fair Grounds",
@@ -867,6 +879,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 8, STR",
+      "details": "Belmont Park, Race 8, STR Belmont Park , Thursday, November 19, 2026, Race 8 STR 1 1/16 miles $65,000 Fillies and Mares 3 yo's up All Weather Track FT Pelican Pride Slumber (GB) - Reason to Smile Felixyn Mendelssohn - Glory to Kitten Vino Samara Vino Rosso - Samara View Details"
+    },
+    {
+      "title": "Belmont Park, Race 7, SOC",
+      "details": "Belmont Park, Race 7, SOC Belmont Park , Thursday, November 19, 2026, Race 7 SOC 1 mile $75,000 Fillies and Mares 3 yo's up Turf FM Lendalfoot Galawi (IRE) - My Mischief Spinning Class Twirling Candy - My Impression La Ceiba (FR) Make Believe (GB) - Octavine (IRE) View Details"
+    },
+    {
       "title": "Belmont Park, Race 6, AOC",
       "details": "Belmont Park, Race 6, AOC Belmont Park , Thursday, November 19, 2026, Race 6 AOC 1 1/16 miles $108,000 3 yo's up Dirt FT Quick to Accuse Accelerate - Speightful Affair Three B's Collected - Dattt Echo Moe Eighty Eight Solomini - Autumn Ash View Details"
     },
@@ -891,6 +911,18 @@
       "details": "Belmont Park, Race 1, AOC Belmont Park , Thursday, November 19, 2026, Race 1 AOC 6 furlongs $105,000 Fillies 2 yo Dirt FT Beauty Truth Good Into Mischief - Nonna Madeline Tia Melanie Upstart - Listen to Libby Girls Wear Pearls Hard Spun - Pearl Heist View Details"
     },
     {
+      "title": "Churchill Downs, Race 9, MSW",
+      "details": "Churchill Downs, Race 9, MSW Churchill Downs , Thursday, November 19, 2026, Race 9 MSW 5 1/2 furlongs $120,000 Fillies 2 yo Turf FM Avalon Beach Omaha Beach - Chelsea Road Midwinter Munnings - Marlinspike Blazing Sunset Candy Ride (ARG) - Bellehaven View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, ALW",
+      "details": "Churchill Downs, Race 8, ALW Churchill Downs , Thursday, November 19, 2026, Race 8 ALW 1 1/8 miles $127,000 Fillies and Mares 3 yo's up Dirt FT Classic Glide Classic Empire - Glide On By Episist Outwork - Silent Candy Leinani Omaha Beach - Romy View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, MSW",
+      "details": "Churchill Downs, Race 7, MSW Churchill Downs , Thursday, November 19, 2026, Race 7 MSW 1 mile $120,000 2 yo Dirt FT Bourbon Neat Flightline - Hennesey Smash Fair Chase Twirling Candy - Aerial Assets Conley Curlin - Jamyson 'n Ginger View Details"
+    },
+    {
       "title": "Churchill Downs, Race 4, MSW",
       "details": "Churchill Downs, Race 4, MSW Churchill Downs , Thursday, November 19, 2026, Race 4 MSW 5 1/2 furlongs $92,000 2 yo Dirt FT City of Rome Army Mule - Mulholland Bergkamp Golden Pal - Tarty to the Party Victor Domino Corniche - Zurlin View Details"
     },
@@ -905,26 +937,6 @@
     {
       "title": "Churchill Downs, Race 1, STR",
       "details": "Churchill Downs, Race 1, STR Churchill Downs , Thursday, November 19, 2026, Race 1 STR 1 1/16 miles $83,000 3 yo's up Dirt FT Pied Piper Take Charge Indy - Maho Bay Ramblin Ghostzapper - Verdura Suited and Booted Classic Empire - Cocoanut Row View Details"
-    },
-    {
-      "title": "John Valene Memorial S. (BT)",
-      "details": "John Valene Memorial S. (BT) Fair Grounds , Thursday, November 19, 2026, Race 2 STK 1 mile 70 Yards $100,000 Fillies and Mares 3 yo's up Dirt FT Margie's Intention Honor A. P. - Playful Dancer Blue Fire Aurelius Maximus - Mystic Blue Little Miss Curlin Charlatan - Mylady Curlin View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 8, ALW",
-      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Thursday, November 19, 2026, Race 8 ALW 6 furlongs $25,900 Fillies and Mares 3 yo's up Dirt MY Critikal Sense Street Sense - Bajan Sang Klimt - Capri Song Proud Words Thousand Words - Free and Proud View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 7, ALW",
-      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Thursday, November 19, 2026, Race 7 ALW 1 mile $33,700 3 yo's up Dirt MY Boaz Sky Kingdom - Miss Posse Sammy's Halo Drill - Reflecting Riva Curious Corn Kettle Corn - Curious Ruth View Details"
-    },
-    {
-      "title": "Parx Racing, Race 8, ALW",
-      "details": "Parx Racing, Race 8, ALW Parx Racing , Thursday, November 19, 2026, Race 8 ALW 1 mile 70 Yards $50,000 Fillies and Mares 3 yo's up Dirt FT Tiz Purple Tiz the Law - Purple Lights Tavin Girvin - Tashmoo I Can Run Tourist - Hana J View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 9, MCL",
-      "details": "Churchill Downs, Race 9, MCL Churchill Downs , Wednesday, November 18, 2026, Race 9 MCL 1 1/16 miles $67,000 Fillies 2 yo Dirt FT Elowyn's Honor Honor A. P. - St. Louise Batcycle Blame - Barbara Gordon Upside Out Upstart - Koto View Details"
     }
   ]
 }
