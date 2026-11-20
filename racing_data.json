@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 20, 2026 - 05:00 PM",
+  "last_updated": "November 20, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -649,6 +649,42 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Mrs. Revere S. (G2T)",
+      "raw_name": "Mrs. Revere S. (G2T)",
+      "track": "Churchill Downs",
+      "grade": "Grade 2",
+      "dist": "1 1/16 miles (Turf)",
+      "purse": "$300,000",
+      "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Clark S. Presented by Norton Healthcare (G2)",
+      "raw_name": "Clark S. Presented by Norton Healthcare (G2)",
+      "track": "Churchill Downs",
+      "grade": "Grade 2",
+      "dist": "1 1/8 miles (Dirt)",
+      "purse": "$700,000",
+      "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Hot Springs S.",
+      "raw_name": "Hot Springs S.",
+      "track": "Oaklawn Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Dirt)",
+      "purse": "$150,000",
+      "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -867,6 +903,22 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 2, MCL",
+      "details": "Belmont Park, Race 2, MCL Belmont Park , Friday, November 20, 2026, Race 2 MCL 6 1/2 furlongs $52,000 3 yo's up Dirt FT Onepac Cupid - Dress Up Chili Palmer Essential Quality - Ducru Fightforallegiance Violence - Startwithsilver View Details"
+    },
+    {
+      "title": "Belmont Park, Race 1, MSW",
+      "details": "Belmont Park, Race 1, MSW Belmont Park , Friday, November 20, 2026, Race 1 MSW 1 mile $100,000 3 yo's up Dirt FT Grittiness Curlin - Coach Rocks Old Time Rocknroll Maclean's Music - Sevnteeneightysevn Ize a Runner Gun Runner - Harmonize View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 1, MCL",
+      "details": "Churchill Downs, Race 1, MCL Churchill Downs , Friday, November 20, 2026, Race 1 MCL 6 furlongs $57,000 3 yo's up Dirt FT Chartered Liam's Map - Sip Sip Can't Stop Willis Nyquist - Indelible Castle Run Daredevil - Seasoned Warrior View Details"
+    },
+    {
+      "title": "Laurel Park, Race 3, MCL",
+      "details": "Laurel Park, Race 3, MCL Laurel Park , Friday, November 20, 2026, Race 3 MCL 5 1/2 furlongs $32,270 Fillies and Mares 3, 4, 5 6 yo's Turf FM Gotta Be Da Shoes Holy Boss - Sensible Shoes Lady Madeleine Blofeld - Lady George Law of Lory Constitution - Lory View Details"
+    },
+    {
       "title": "Belmont Park, Race 8, STR",
       "details": "Belmont Park, Race 8, STR Belmont Park , Thursday, November 19, 2026, Race 8 STR 1 1/16 miles $65,000 Fillies and Mares 3 yo's up All Weather Track FT Pelican Pride Slumber (GB) - Reason to Smile Felixyn Mendelssohn - Glory to Kitten Vino Samara Vino Rosso - Samara View Details Watch Replay"
     },
@@ -909,22 +961,6 @@
     {
       "title": "Churchill Downs, Race 7, MSW",
       "details": "Churchill Downs, Race 7, MSW Churchill Downs , Thursday, November 19, 2026, Race 7 MSW 1 mile $120,000 2 yo Dirt FT Bourbon Neat Flightline - Hennesey Smash Fair Chase Twirling Candy - Aerial Assets Conley Curlin - Jamyson 'n Ginger View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 4, MSW",
-      "details": "Churchill Downs, Race 4, MSW Churchill Downs , Thursday, November 19, 2026, Race 4 MSW 5 1/2 furlongs $92,000 2 yo Dirt FT City of Rome Army Mule - Mulholland Bergkamp Golden Pal - Tarty to the Party Victor Domino Corniche - Zurlin View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 3, MSW",
-      "details": "Churchill Downs, Race 3, MSW Churchill Downs , Thursday, November 19, 2026, Race 3 MSW 5 1/2 furlongs $120,000 Fillies 2 yo Turf FM Bush Munnings - Forest Caraway Practical Patsy Practical Joke - Wonderfuladventure Sing the Blues Practical Joke - Georgia Blue View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, MCL",
-      "details": "Churchill Downs, Race 2, MCL Churchill Downs , Thursday, November 19, 2026, Race 2 MCL 1 1/16 miles $48,000 Fillies 2 yo Dirt FT Sock Monkey Greatest Honour - Starlite Mission Glamour N Glitz Mandaloun - Guadalupe High Dagny Taggart Maclean's Music - My Impression View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 1, STR",
-      "details": "Churchill Downs, Race 1, STR Churchill Downs , Thursday, November 19, 2026, Race 1 STR 1 1/16 miles $83,000 3 yo's up Dirt FT Pied Piper Take Charge Indy - Maho Bay Ramblin Ghostzapper - Verdura Suited and Booted Classic Empire - Cocoanut Row View Details"
     }
   ]
 }
