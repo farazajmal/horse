@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 20, 2026 - 09:00 PM",
+  "last_updated": "November 20, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -651,6 +651,42 @@
       "isUsa": true
     },
     {
+      "name": "Chelsey Flower S.",
+      "raw_name": "Chelsey Flower S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (Turf)",
+      "purse": "$175,000",
+      "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Aqueduct Turf Sprint Championship S.",
+      "raw_name": "Aqueduct Turf Sprint Championship S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "6 furlongs (Inner turf)",
+      "purse": "$175,000",
+      "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Noble Damsel S.",
+      "raw_name": "Noble Damsel S.",
+      "track": "Belmont Park",
+      "grade": "Stakes",
+      "dist": "1 mile (Turf)",
+      "purse": "$175,000",
+      "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Mrs. Revere S. (G2T)",
       "raw_name": "Mrs. Revere S. (G2T)",
       "track": "Churchill Downs",
@@ -903,6 +939,14 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 8, MCL",
+      "details": "Belmont Park, Race 8, MCL Belmont Park , Friday, November 20, 2026, Race 8 MCL 1 1/16 miles $56,000 2 yo All Weather Track FT Rugby Golden Pal - Siparia Nystateofmind Solomini - Dovey Lovey Papa Brez Slumber (GB) - Elevator Shaft View Details"
+    },
+    {
+      "title": "Belmont Park, Race 7, ALW",
+      "details": "Belmont Park, Race 7, ALW Belmont Park , Friday, November 20, 2026, Race 7 ALW 6 1/2 furlongs $105,000 Fillies and Mares 3 yo's up Inner turf FM Silsbee Vekoma - Grace's Treasure Charlibu Charlatan - Malibu Stacy Aporia War Front - Complicated View Details"
+    },
+    {
       "title": "Belmont Park, Race 6, MCL",
       "details": "Belmont Park, Race 6, MCL Belmont Park , Friday, November 20, 2026, Race 6 MCL 6 furlongs $56,000 Fillies 2 yo Dirt FT As Pretty She Is Munnings - Amazing Shoes Gnosis Mind Control - Into the South Risky Mission Mission Impazible - Pont de l'Alma View Details"
     },
@@ -927,6 +971,18 @@
       "details": "Belmont Park, Race 1, MSW Belmont Park , Friday, November 20, 2026, Race 1 MSW 1 mile $100,000 3 yo's up Dirt FT Grittiness Curlin - Coach Rocks Old Time Rocknroll Maclean's Music - Sevnteeneightysevn Ize a Runner Gun Runner - Harmonize View Details"
     },
     {
+      "title": "Churchill Downs, Race 9, AOC",
+      "details": "Churchill Downs, Race 9, AOC Churchill Downs , Friday, November 20, 2026, Race 9 AOC 1 1/16 miles $141,000 3 yo's up Turf FM DH- Clever Mischief Into Mischief - Suraya DH- Judge Davis Distorted Humor - Mylitta Plensa Caravaggio - Proximity Bias View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, AOC",
+      "details": "Churchill Downs, Race 8, AOC Churchill Downs , Friday, November 20, 2026, Race 8 AOC 6 1/2 furlongs $134,000 3 yo's up Dirt FT Tagermeen Into Mischief - Silk Route Dr Ruben M Vino Rosso - Xoxo Eagles Flight Curlin - Feathered View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, MSW",
+      "details": "Churchill Downs, Race 7, MSW Churchill Downs , Friday, November 20, 2026, Race 7 MSW 1 mile $120,000 Fillies 2 yo Dirt FT Tiger Baby Plainsman - The Mary Rose Maranello Not This Time - Stave Black Market Candy Ride (ARG) - Miss Bling Bling View Details"
+    },
+    {
       "title": "Churchill Downs, Race 6, MSW",
       "details": "Churchill Downs, Race 6, MSW Churchill Downs , Friday, November 20, 2026, Race 6 MSW 1 mile $120,000 Fillies and Mares 3 yo's up Turf FM She's On a Roll Charlatan - Summersault Ageeba Beach Cairo Prince - Surfs Edge Eat Hay Run Curlin - Strut the Course View Details"
     },
@@ -939,28 +995,8 @@
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Friday, November 20, 2026, Race 1 MCL 6 furlongs $57,000 3 yo's up Dirt FT Chartered Liam's Map - Sip Sip Can't Stop Willis Nyquist - Indelible Castle Run Daredevil - Seasoned Warrior View Details"
     },
     {
-      "title": "Del Mar, Race 1, MSW",
-      "details": "Del Mar, Race 1, MSW Del Mar , Friday, November 20, 2026, Race 1 MSW 1 mile $65,000 2 yo Dirt GD Mixit McKinzie - Mapit Moonflight Flightline - Harvest Moon Absolution Jack Christopher - Divine Mercy View Details"
-    },
-    {
-      "title": "Fair Grounds, Race 3, AOC",
-      "details": "Fair Grounds, Race 3, AOC Fair Grounds , Friday, November 20, 2026, Race 3 AOC 1 1/16 miles $53,000 Fillies 2 yo Dirt FT Razor Rockette Life Is Good - Surprise Attack Midnight Escapade Silver State - Fold Em Tahaluf Curlin - Shurakaa View Details"
-    },
-    {
-      "title": "Gulfstream Park, Race 6, MSW",
-      "details": "Gulfstream Park, Race 6, MSW Gulfstream Park , Friday, November 20, 2026, Race 6 MSW 1 mile $50,000 3 yo's up Dirt FT Golden Decree Constitution - Golden Mischief Valen Time Not This Time - Almost a Valentine Parnassus Blame - Saint J J View Details"
-    },
-    {
-      "title": "Laurel Park, Race 3, MCL",
-      "details": "Laurel Park, Race 3, MCL Laurel Park , Friday, November 20, 2026, Race 3 MCL 5 1/2 furlongs $32,270 Fillies and Mares 3, 4, 5 6 yo's Turf FM Gotta Be Da Shoes Holy Boss - Sensible Shoes Lady Madeleine Blofeld - Lady George Law of Lory Constitution - Lory View Details"
-    },
-    {
-      "title": "Tampa Bay Downs, Race 6, AOC",
-      "details": "Tampa Bay Downs, Race 6, AOC Tampa Bay Downs , Friday, November 20, 2026, Race 6 AOC 6 furlongs $57,500 3 yo's up Dirt FT El Principito Accelerate - Roxie Fast Moon My Boy Star Bucchero - My Sarasota Star Rome's Conquest Coal Front - True Chick View Details"
-    },
-    {
-      "title": "Tampa Bay Downs, Race 5, ALW",
-      "details": "Tampa Bay Downs, Race 5, ALW Tampa Bay Downs , Friday, November 20, 2026, Race 5 ALW 1 1/16 miles $56,000 3 yo's up Dirt FT Aegon Targaryen The Factor - The Goddess Lyssa Globes Brethren - Pink Poppy Six Fortyfive Laoban - Aristra View Details"
+      "title": "Del Mar, Race 4, MSW",
+      "details": "Del Mar, Race 4, MSW Del Mar , Friday, November 20, 2026, Race 4 MSW 5 furlongs $65,000 Fillies and Mares 3 yo's up Turf GD Blazing Grace Straight Fire - Gracie Ragazza Easy Motion Smiling Tiger - Pearls for Girls Happy to Buy Good Magic - I'mnotshyi'llbuy View Details"
     }
   ]
 }
