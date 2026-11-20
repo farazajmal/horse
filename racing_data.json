@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 20, 2026 - 09:00 AM",
+  "last_updated": "November 20, 2026 - 11:00 AM",
   "year": 2026,
   "races": [
     {
@@ -762,8 +762,8 @@
     {
       "rank": 1,
       "name": "Flavien Prat",
-      "sub": "Starts: 1,225 • Wins: 301 (25%)",
-      "cash": "$43,076,393",
+      "sub": "Starts: 1,230 • Wins: 301 (24%)",
+      "cash": "$43,129,093",
       "flag": "👤"
     },
     {
@@ -797,29 +797,29 @@
     {
       "rank": 6,
       "name": "Luis Saez",
-      "sub": "Starts: 1,153 • Wins: 198 (17%)",
-      "cash": "$23,447,096",
+      "sub": "Starts: 1,159 • Wins: 200 (17%)",
+      "cash": "$23,597,485",
       "flag": "👤"
     },
     {
       "rank": 7,
       "name": "John R. Velazquez",
-      "sub": "Starts: 778 • Wins: 124 (16%)",
-      "cash": "$21,511,873",
+      "sub": "Starts: 783 • Wins: 125 (16%)",
+      "cash": "$21,591,158",
       "flag": "👤"
     },
     {
       "rank": 8,
       "name": "Junior Alvarado",
-      "sub": "Starts: 695 • Wins: 100 (14%)",
-      "cash": "$17,709,622",
+      "sub": "Starts: 700 • Wins: 101 (14%)",
+      "cash": "$17,823,184",
       "flag": "👤"
     },
     {
       "rank": 9,
       "name": "Paco Lopez",
-      "sub": "Starts: 1,331 • Wins: 328 (25%)",
-      "cash": "$15,355,918",
+      "sub": "Starts: 1,337 • Wins: 328 (25%)",
+      "cash": "$15,395,768",
       "flag": "👤"
     },
     {
@@ -831,23 +831,23 @@
     },
     {
       "rank": 11,
+      "name": "Javier Castellano",
+      "sub": "Starts: 681 • Wins: 111 (16%)",
+      "cash": "$11,738,829",
+      "flag": "👤"
+    },
+    {
+      "rank": 12,
       "name": "Juan J. Hernandez",
       "sub": "Starts: 636 • Wins: 143 (22%)",
       "cash": "$11,722,677",
       "flag": "👤"
     },
     {
-      "rank": 12,
-      "name": "Javier Castellano",
-      "sub": "Starts: 677 • Wins: 110 (16%)",
-      "cash": "$11,682,182",
-      "flag": "👤"
-    },
-    {
       "rank": 13,
       "name": "Kendrick Carmouche",
-      "sub": "Starts: 762 • Wins: 120 (16%)",
-      "cash": "$11,646,341",
+      "sub": "Starts: 766 • Wins: 121 (16%)",
+      "cash": "$11,716,841",
       "flag": "👤"
     },
     {
