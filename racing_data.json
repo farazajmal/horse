@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 21, 2026 - 07:00 PM",
+  "last_updated": "November 21, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -699,6 +699,30 @@
       "isUsa": true
     },
     {
+      "name": "Gin Talking S.",
+      "raw_name": "Gin Talking S.",
+      "track": "Laurel Park",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Heft S.",
+      "raw_name": "Heft S.",
+      "track": "Laurel Park",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$100,000",
+      "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Hot Springs S.",
       "raw_name": "Hot Springs S.",
       "track": "Oaklawn Park",
@@ -706,6 +730,66 @@
       "dist": "1 mile (Dirt)",
       "purse": "$150,000",
       "date": "11/27",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Fern Creek S.",
+      "raw_name": "Fern Creek S.",
+      "track": "Churchill Downs",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$225,000",
+      "date": "11/28",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Fasig-Tipton Golden Rod S. (G2)",
+      "raw_name": "Fasig-Tipton Golden Rod S. (G2)",
+      "track": "Churchill Downs",
+      "grade": "Grade 2",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$400,000",
+      "date": "11/28",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Ed Brown S.",
+      "raw_name": "Ed Brown S.",
+      "track": "Churchill Downs",
+      "grade": "Stakes",
+      "dist": "6 1/2 furlongs (Dirt)",
+      "purse": "$225,000",
+      "date": "11/28",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Kentucky Jockey Club S. (G2)",
+      "raw_name": "Kentucky Jockey Club S. (G2)",
+      "track": "Churchill Downs",
+      "grade": "Grade 2",
+      "dist": "1 1/16 miles (Dirt)",
+      "purse": "$400,000",
+      "date": "11/28",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Pan Zareta S.",
+      "raw_name": "Pan Zareta S.",
+      "track": "Fair Grounds",
+      "grade": "Stakes",
+      "dist": "5 1/2 furlongs (Turf)",
+      "purse": "$100,000",
+      "date": "11/28",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -927,6 +1011,22 @@
   ],
   "recent_results": [
     {
+      "title": "Autumn Days S. (BT)",
+      "details": "Autumn Days S. (BT) Belmont Park , Saturday, November 21, 2026, Race 8 STK 6 furlongs $175,000 Fillies and Mares 3 yo's up Inner turf FM Capturing More Than Ready - Capture Jody's Pride American Pharoah - Jody's Song Love Cervere Into Mischief - Panther Strike View Details"
+    },
+    {
+      "title": "Belmont Park, Race 7, AOC",
+      "details": "Belmont Park, Race 7, AOC Belmont Park , Saturday, November 21, 2026, Race 7 AOC 1 1/16 miles $105,000 Fillies and Mares 3 yo's up Dirt FT Bow Draw Oxbow - Wicked Draw I'm Buzzy Long Island Sound - Merry Merry Bee Moonlit Daredevil - Eres Tu View Details"
+    },
+    {
+      "title": "Belmont Park, Race 6, ALW",
+      "details": "Belmont Park, Race 6, ALW Belmont Park , Saturday, November 21, 2026, Race 6 ALW 1 mile $105,000 3 yo's up Turf FM Sammy C Note Good Samaritan - Bargaining Table Calvin's Ride Temple City - Pride of Paris Charles J Cairo Prince - Laughing Girl View Details"
+    },
+    {
+      "title": "Belmont Park, Race 5, MSW",
+      "details": "Belmont Park, Race 5, MSW Belmont Park , Saturday, November 21, 2026, Race 5 MSW 6 furlongs $100,000 2 yo Inner turf FM Arinato Nyquist - Curlin's Truth Celtic Beau Yaupon - Acushla Boer War War Dancer - My Cousin Martha View Details"
+    },
+    {
       "title": "Belmont Park, Race 4, MCL",
       "details": "Belmont Park, Race 4, MCL Belmont Park , Saturday, November 21, 2026, Race 4 MCL 7 1/2 furlongs $56,000 2 yo Dirt FT Purple Potato Idol - Cabaret Starlet Ed Charles Keepmeinmind - Kaiserin Be in Monty's Mind Mind Control - Biamonte View Details"
     },
@@ -943,48 +1043,32 @@
       "details": "Belmont Park, Race 1, MSW Belmont Park , Saturday, November 21, 2026, Race 1 MSW 6 furlongs $100,000 Fillies 2 yo Dirt FT Mia's Warrior Jackie's Warrior - Crafty's Dream Roar of Kenna King for a Day - On the Hop Outlaw Annie Tiz the Law - Freudie Anne View Details"
     },
     {
+      "title": "Churchill Downs, Race 6, STR",
+      "details": "Churchill Downs, Race 6, STR Churchill Downs , Saturday, November 21, 2026, Race 6 STR 1 1/16 miles $83,000 2 yo Dirt FT Vissino Preservationist - Treat Maddy Mania Tapiture - Margaux Mania No Autographs Global Campaign - Rachel Wall View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 4, MSW",
+      "details": "Churchill Downs, Race 4, MSW Churchill Downs , Saturday, November 21, 2026, Race 4 MSW 1 mile $120,000 3 yo's up Turf FM Jaydeevee Kitten's Joy - Ruby Notion War and Majesty War of Will - Julia Tuttle Puteketeke Omaha Beach - Cleopatra's Charm View Details"
+    },
+    {
       "title": "Churchill Downs, Race 1, MCL",
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Saturday, November 21, 2026, Race 1 MCL 1 mile $67,000 3 yo's up Dirt FT Max Is Him McKinzie - Viva Sheila Flume's Vino Vino Rosso - Flume Bestball Justify - Wembley View Details"
     },
     {
-      "title": "Dave's Friend S. (BT)",
-      "details": "Dave's Friend S. (BT) Laurel Park , Saturday, November 21, 2026, Race 4 STK 6 furlongs $100,000 3 yo's up Dirt FT Celtic Contender Irish War Cry - Celtic Katie J J Zo Zo Sea Wizard - Lost Princess Band Camp Bandbox - Lookin At Royalty View Details"
+      "title": "Fair Grounds, Race 3, AOC",
+      "details": "Fair Grounds, Race 3, AOC Fair Grounds , Saturday, November 21, 2026, Race 3 AOC 1 1/16 miles $55,000 3 yo's up Turf FM Montador Nyquist - Lady Montdore Theismann Quality Road - Brielle's Appeal For Love and Honor Sky Mesa - Calidez View Details"
     },
     {
-      "title": "Laurel Park, Race 2, MCL",
-      "details": "Laurel Park, Race 2, MCL Laurel Park , Saturday, November 21, 2026, Race 2 MCL 5 1/2 furlongs $42,700 2 yo Dirt FT Sunday Legacy Engage - Silent Legacy Rapido Rosario Mosler - Tripscar McGirvin Girvin - Mine All Mine View Details"
+      "title": "Fair Grounds, Race 2, MSW",
+      "details": "Fair Grounds, Race 2, MSW Fair Grounds , Saturday, November 21, 2026, Race 2 MSW 6 furlongs $52,000 Fillies and Mares 3 yo's up Dirt FT Jus Mink Me Tom's d'Etat - Jus Wow Cairo Empress Cairo Prince - Mo Wheels Up Melissa Gale Maximum Security - Maren's Storm View Details"
     },
     {
-      "title": "Belmont Park, Race 8, MCL",
-      "details": "Belmont Park, Race 8, MCL Belmont Park , Friday, November 20, 2026, Race 8 MCL 1 1/16 miles $56,000 2 yo All Weather Track FT Rugby Golden Pal - Siparia Nystateofmind Solomini - Dovey Lovey Papa Brez Slumber (GB) - Elevator Shaft View Details Watch Replay"
+      "title": "Willa On the Move S. (BT)",
+      "details": "Willa On the Move S. (BT) Laurel Park , Saturday, November 21, 2026, Race 7 STK 6 1/2 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Maida Improbable - Eve Giselle Carmelina Maximus Mischief - Complete St. Onyx Ten Street Magician - Chattolanee View Details"
     },
     {
-      "title": "Belmont Park, Race 7, ALW",
-      "details": "Belmont Park, Race 7, ALW Belmont Park , Friday, November 20, 2026, Race 7 ALW 6 1/2 furlongs $105,000 Fillies and Mares 3 yo's up Inner turf FM Silsbee Vekoma - Grace's Treasure Charlibu Charlatan - Malibu Stacy Aporia War Front - Complicated View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 6, MCL",
-      "details": "Belmont Park, Race 6, MCL Belmont Park , Friday, November 20, 2026, Race 6 MCL 6 furlongs $56,000 Fillies 2 yo Dirt FT As Pretty She Is Munnings - Amazing Shoes Gnosis Mind Control - Into the South Risky Mission Mission Impazible - Pont de l'Alma View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 5, MSW",
-      "details": "Belmont Park, Race 5, MSW Belmont Park , Friday, November 20, 2026, Race 5 MSW 1 1/16 miles $100,000 Fillies 2 yo Turf FM Doves and Hawks Twirling Candy - Friendly Skies Delta Sun Cairo Prince - Ursulina Peaceably Epicenter - Peaceful View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 4, SOC",
-      "details": "Belmont Park, Race 4, SOC Belmont Park , Friday, November 20, 2026, Race 4 SOC 6 1/2 furlongs $75,000 Fillies and Mares 3 yo's up Dirt FT Gracie's Delight American Pharoah - Ultima D Bellacose Audible - Little Bullet That'sthefactjack The Factor - Chi Omega View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 3, AOC",
-      "details": "Belmont Park, Race 3, AOC Belmont Park , Friday, November 20, 2026, Race 3 AOC 1 1/4 miles $108,000 Fillies and Mares 3 yo's up Inner turf FM Amie's Symphony Mendelssohn - Amie's Legend Don't Jinx It Kitten's Joy - Endless Fancy Carmensita (ARG) Treasure Beach (GB) - Carmelinda (ARG) View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 2, MCL",
-      "details": "Belmont Park, Race 2, MCL Belmont Park , Friday, November 20, 2026, Race 2 MCL 6 1/2 furlongs $52,000 3 yo's up Dirt FT Onepac Cupid - Dress Up Chili Palmer Essential Quality - Ducru Fightforallegiance Violence - Startwithsilver View Details Watch Replay"
-    },
-    {
-      "title": "Belmont Park, Race 1, MSW",
-      "details": "Belmont Park, Race 1, MSW Belmont Park , Friday, November 20, 2026, Race 1 MSW 1 mile $100,000 3 yo's up Dirt FT Grittiness Curlin - Coach Rocks Old Time Rocknroll Maclean's Music - Sevnteeneightysevn Ize a Runner Gun Runner - Harmonize View Details Watch Replay"
+      "title": "Laurel Park, Race 5, MCL",
+      "details": "Laurel Park, Race 5, MCL Laurel Park , Saturday, November 21, 2026, Race 5 MCL 7 furlongs $32,040 2 yo Dirt FT Sgt. Finley Mitole - Estival Boyz Kingdom Engage - Little Bit of This Golden Gavin Engage - Golden Angel View Details"
     }
   ]
 }
