@@ -1,19 +1,7 @@
 {
-  "last_updated": "November 21, 2026 - 05:00 AM",
+  "last_updated": "November 21, 2026 - 07:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Donovan L. Ferguson Memorial S.",
-      "raw_name": "Donovan L. Ferguson Memorial S.",
-      "track": "Fair Grounds",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "11/20",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "Autumn Days S.",
       "raw_name": "Autumn Days S.",
