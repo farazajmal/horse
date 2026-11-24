@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 24, 2026 - 09:00 PM",
+  "last_updated": "November 24, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -867,6 +867,10 @@
   ],
   "recent_results": [
     {
+      "title": "Delta Downs, Race 7, ALW",
+      "details": "Delta Downs, Race 7, ALW Delta Downs , Tuesday, November 24, 2026, Race 7 ALW 1 mile $37,000 Fillies and Mares 3 yo's up Dirt FT Brisa Veloz Munnings - Canny Tortuga Coast West Coast - Super Bobbie Faire Plaisir Distorted Humor - Excuses Begone View Details"
+    },
+    {
       "title": "Finger Lakes, Race 5, MSW",
       "details": "Finger Lakes, Race 5, MSW Finger Lakes , Tuesday, November 24, 2026, Race 5 MSW 6 furlongs $32,600 Fillies 2 yo Dirt FT Leslie's Choice Honest Mischief - Chosen Wisely Surf Drive Mendelssohn - Belongs to Dixie Endless Appeal Enticed - Pass the Bar View Details"
     },
@@ -891,6 +895,22 @@
       "details": "Mahoning Valley Racecourse, Race 1, MSW MAHONING VALLEY RACECOURSE , Tuesday, November 24, 2026, Race 1 MSW 5 1/2 furlongs $31,800 Fillies 2 yo Dirt FT Mas Amor Spun to Run - Show Cat Cyber Queen Cyberknife - Proper Discretion Ice Bee Keen Ice - Lady Bee View Details"
     },
     {
+      "title": "Zia Park Princess S. (BT)",
+      "details": "Zia Park Princess S. (BT) Zia Park , Tuesday, November 24, 2026, Race 7 STK 6 furlongs $100,000 Fillies 2 yo Dirt FT Sorcha Maxfield - Master of Hope Hot Fries Jackie's Warrior - Fast Gator Lexi's Charm Lexitonian - Stormy Allure View Details"
+    },
+    {
+      "title": "Zia Park Distaff S. (BT)",
+      "details": "Zia Park Distaff S. (BT) Zia Park , Tuesday, November 24, 2026, Race 6 STK 6 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Practical Dream Practical Joke - Imforeal Pink Pacific Improbable - Pacific Pink Tiz the Spirit Tiz the Law - Phantom Rising View Details"
+    },
+    {
+      "title": "Zia Park Sprint S.",
+      "details": "Zia Park Sprint S. Zia Park , Tuesday, November 24, 2026, Race 5 STK 6 furlongs $100,000 3 yo's up Dirt FT Jimmy's Dailys Vekoma - Mama Joyce Walter the Mason Heart to Heart - Heir of Light Bertani Vino Rosso - Wild N Ready View Details"
+    },
+    {
+      "title": "Zia Park Juvenile S. (BT)",
+      "details": "Zia Park Juvenile S. (BT) Zia Park , Tuesday, November 24, 2026, Race 4 STK 6 furlongs $100,000 2 yo Dirt FT T V Time Out Jackie's Warrior - So Lively Eternal Legacy Maximus Mischief - Field of Flowers My Name Is El Jefe World of Trouble - Uncle Junior View Details"
+    },
+    {
       "title": "Zia Park, Race 3, MSW",
       "details": "Zia Park, Race 3, MSW Zia Park , Tuesday, November 24, 2026, Race 3 MSW 6 furlongs $67,500 Fillies 2 yo Dirt FT Chocolate Praline Uncle Chuck - Chocolate Almond Aisle Nine Early Voting - Filibustin Sox Appeal Essential Quality - Warm Sunshine View Details"
     },
@@ -905,26 +925,6 @@
     {
       "title": "Finger Lakes, Race 7, AOC",
       "details": "Finger Lakes, Race 7, AOC Finger Lakes , Monday, November 23, 2026, Race 7 AOC 1 mile 70 Yards $29,000 3 yo's up Dirt FT Kolomio Constitution - Graceland Kitten Ouster Outwork - Northern City King's Leap King for a Day - Mine as Well View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 4, ALW",
-      "details": "Finger Lakes, Race 4, ALW Finger Lakes , Monday, November 23, 2026, Race 4 ALW 5 1/2 furlongs $26,900 Fillies and Mares 3 yo's up Dirt FT La Gran Artesana In Speight Ofitall - Omi's Vindication Observer Lookin At Lucky - Bedside Posse Enterprisingly Maxfield - Estilo Femenino View Details Watch Replay"
-    },
-    {
-      "title": "Mountaineer, Race 6, MSW",
-      "details": "Mountaineer, Race 6, MSW Mountaineer Race Track And Gaming Resort , Monday, November 23, 2026, Race 6 MSW 6 furlongs $19,000 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Can't Argue That Speightster - Coldgreydawn Have a Happy Curlin's Honor - Rate Change Spicy Soldier War Dancer - Call Her Karma View Details Watch Replay"
-    },
-    {
-      "title": "Mountaineer, Race 3, MSW",
-      "details": "Mountaineer, Race 3, MSW Mountaineer Race Track And Gaming Resort , Monday, November 23, 2026, Race 3 MSW 6 furlongs $19,000 3, 4, 5 6 yo's Dirt FT Caesarea Texas Ryano - Twinkle Toes Data Warrior Algorithms - War Queen (IRE) Finn d'Oro Bolt d'Oro - Bay Finn View Details Watch Replay"
-    },
-    {
-      "title": "Steel Valley Sprint S. (BT)",
-      "details": "Steel Valley Sprint S. (BT) MAHONING VALLEY RACECOURSE , Monday, November 23, 2026, Race 10 STK 6 furlongs $300,000 3 yo Dirt FT Trouble Calling Dialed In - Into Trouble Rockies Balboa Girvin - Toni Ann's Miracle Langvad Awesome Slew - Malibu Melody View Details View Stakes Recap"
-    },
-    {
-      "title": "Cheryl S. White Memorial S. (BT)",
-      "details": "Cheryl S. White Memorial S. (BT) MAHONING VALLEY RACECOURSE , Monday, November 23, 2026, Race 9 STK 6 furlongs $200,000 Fillies 3 yo Dirt FT Where Luck Lives Nyquist - Holiday Soiree Mythical St Patrick's Day - Lailoni Canton Liam's Map - Appenzell View Details View Stakes Recap"
     }
   ]
 }
