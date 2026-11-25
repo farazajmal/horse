@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 25, 2026 - 05:00 PM",
+  "last_updated": "November 25, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -399,6 +399,18 @@
       "isUsa": true
     },
     {
+      "name": "West Virginia Futurity",
+      "raw_name": "West Virginia Futurity",
+      "track": "Charles Town Races Slots",
+      "grade": "Stakes",
+      "dist": "7 furlongs (Dirt)",
+      "purse": "$50,000",
+      "date": "11/28",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
       "name": "Jimmy Durante S. (G3T)",
       "raw_name": "Jimmy Durante S. (G3T)",
       "track": "Del Mar",
@@ -783,6 +795,34 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 2, MSW",
+      "details": "Churchill Downs, Race 2, MSW Churchill Downs , Wednesday, November 25, 2026, Race 2 MSW 1 1/16 miles $120,000 Fillies and Mares 3 yo's up Dirt GD Al Ghadeer Gun Runner - Classofsixtythree Noble Glow Gun Runner - Summer Love (ARG) Permutation Maxfield - Broadway Show View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 1, MCL",
+      "details": "Churchill Downs, Race 1, MCL Churchill Downs , Wednesday, November 25, 2026, Race 1 MCL 7 furlongs $67,000 Fillies 2 yo Dirt GD Dance Like This Jackie's Warrior - On My Way Fiery Rufina Authentic - Iwasreadyyesterday Benevolencia Street Sense - Please Be Kind View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 2, MSW",
+      "details": "Mahoning Valley Racecourse, Race 2, MSW MAHONING VALLEY RACECOURSE , Wednesday, November 25, 2026, Race 2 MSW 6 furlongs $24,300 3, 4, 5 6 yo's Dirt FT Flaming Johnny Flameaway - Venetian Army Fever Army Mule - Fighting Market My Friend Wilson Good Samaritan - Crossed View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 1, ALW",
+      "details": "Mahoning Valley Racecourse, Race 1, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 25, 2026, Race 1 ALW 6 furlongs $35,100 3 yo's up Dirt FT Killa Creed Jimmy Creed - Moon Date Atlas Falls Bernardini - Oldfashioned Style Machico Madeira Echo Town - Angelina View Details"
+    },
+    {
+      "title": "Turkey Trot S. (BT)",
+      "details": "Turkey Trot S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 3 STK 1 mile 70 Yards $75,000 3 yo's up Dirt FT Bartlett Not This Time - Brilliant Sunshine Warp Nine Hightail - Powertap Wild Vine Red Vine - Praslin View Details"
+    },
+    {
+      "title": "Parx Racing, Race 1, MSW",
+      "details": "Parx Racing, Race 1, MSW Parx Racing , Wednesday, November 25, 2026, Race 1 MSW 6 1/2 furlongs $60,000 2 yo Dirt FT Sir Patrick Pat On the Back - Friday Mass Chef Sparrow Maximus Mischief - Bouquet of Gold Penniless Pauly Eastwood - Streak of Kitten View Details"
+    },
+    {
+      "title": "Tampa Bay Downs, Race 3, MSW",
+      "details": "Tampa Bay Downs, Race 3, MSW Tampa Bay Downs , Wednesday, November 25, 2026, Race 3 MSW 6 furlongs $56,000 Fillies and Mares 3 yo's up Dirt SY Heiroza Khozan - Bridled Heiress Lady Cajun Long On Value - Cajun Lady Lady Burek American Pharoah - Bluesville View Details"
+    },
+    {
       "title": "Delta Downs, Race 7, ALW",
       "details": "Delta Downs, Race 7, ALW Delta Downs , Tuesday, November 24, 2026, Race 7 ALW 1 mile $37,000 Fillies and Mares 3 yo's up Dirt FT Brisa Veloz Munnings - Canny Tortuga Coast West Coast - Super Bobbie Faire Plaisir Distorted Humor - Excuses Begone View Details Watch Replay"
     },
@@ -813,34 +853,6 @@
     {
       "title": "Mahoning Valley Racecourse, Race 2, ALW",
       "details": "Mahoning Valley Racecourse, Race 2, ALW MAHONING VALLEY RACECOURSE , Tuesday, November 24, 2026, Race 2 ALW 6 furlongs $27,500 3 yo's up Dirt FT Jupiter Upstart - Magnanimous Soco Kid Improbable - Ten Halos Call Shadd Dialed In - Where's Liam View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 1, MSW",
-      "details": "Mahoning Valley Racecourse, Race 1, MSW MAHONING VALLEY RACECOURSE , Tuesday, November 24, 2026, Race 1 MSW 5 1/2 furlongs $31,800 Fillies 2 yo Dirt FT Mas Amor Spun to Run - Show Cat Cyber Queen Cyberknife - Proper Discretion Ice Bee Keen Ice - Lady Bee View Details"
-    },
-    {
-      "title": "Zia Park Derby (BT)",
-      "details": "Zia Park Derby (BT) Zia Park , Tuesday, November 24, 2026, Race 10 STK 1 1/16 miles $350,000 3 yo Dirt FT The Hell We Did Authentic - Rose's Desert Preside Tiz the Law - Georgian Dancer Silent Tactic Tacitus - Magical Sign View Details View Stakes Recap"
-    },
-    {
-      "title": "Zia Park Oaks (BT)",
-      "details": "Zia Park Oaks (BT) Zia Park , Tuesday, November 24, 2026, Race 9 STK 1 1/16 miles $300,000 Fillies 3 yo Dirt FT A. P.'s Girl Honor A. P. - March X Press Skyforge Gun Runner - Awesome Flower Bank Shot Game Winner - Puskita View Details View Stakes Recap"
-    },
-    {
-      "title": "Zia Park Championship S. (BT)",
-      "details": "Zia Park Championship S. (BT) Zia Park , Tuesday, November 24, 2026, Race 8 STK 1 1/16 miles $100,000 3 yo's up Dirt FT Heroic Move Quality Road - Family Tree Tiztastic Tiz the Law - Keesha Awesome Road Quality Road - Orate View Details View Stakes Recap"
-    },
-    {
-      "title": "Zia Park Princess S. (BT)",
-      "details": "Zia Park Princess S. (BT) Zia Park , Tuesday, November 24, 2026, Race 7 STK 6 furlongs $100,000 Fillies 2 yo Dirt FT Sorcha Maxfield - Master of Hope Hot Fries Jackie's Warrior - Fast Gator Lexi's Charm Lexitonian - Stormy Allure View Details View Stakes Recap"
-    },
-    {
-      "title": "Zia Park Distaff S. (BT)",
-      "details": "Zia Park Distaff S. (BT) Zia Park , Tuesday, November 24, 2026, Race 6 STK 6 furlongs $100,000 Fillies and Mares 3 yo's up Dirt FT Practical Dream Practical Joke - Imforeal Pink Pacific Improbable - Pacific Pink Tiz the Spirit Tiz the Law - Phantom Rising View Details View Stakes Recap"
-    },
-    {
-      "title": "Zia Park Sprint S.",
-      "details": "Zia Park Sprint S. Zia Park , Tuesday, November 24, 2026, Race 5 STK 6 furlongs $100,000 3 yo's up Dirt FT Jimmy's Dailys Vekoma - Mama Joyce Walter the Mason Heart to Heart - Heir of Light Bertani Vino Rosso - Wild N Ready View Details View Stakes Recap"
     }
   ]
 }
