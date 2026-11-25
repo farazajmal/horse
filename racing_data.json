@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 25, 2026 - 07:00 PM",
+  "last_updated": "November 25, 2026 - 09:00 PM",
   "year": 2026,
   "races": [
     {
@@ -531,6 +531,30 @@
       "isUsa": true
     },
     {
+      "name": "Princess Elizabeth S.",
+      "raw_name": "Princess Elizabeth S.",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "1 1/16 miles (All Weather Track)",
+      "purse": "$300,000",
+      "date": "11/28",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
+      "name": "Coronation Futurity",
+      "raw_name": "Coronation Futurity",
+      "track": "Woodbine",
+      "grade": "Stakes",
+      "dist": "1 1/8 miles (All Weather Track)",
+      "purse": "$300,000",
+      "date": "11/28",
+      "country": "Canada",
+      "flag": "🇨🇦",
+      "isUsa": false
+    },
+    {
       "name": "Lure S.",
       "raw_name": "Lure S.",
       "track": "Belmont Park",
@@ -795,12 +819,36 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 6, MCL",
+      "details": "Churchill Downs, Race 6, MCL Churchill Downs , Wednesday, November 25, 2026, Race 6 MCL 5 1/2 furlongs $64,000 Fillies and Mares 3 yo's up Dirt FT Enticing Moves Enticed - Central Moves Grant's Gretchen Munnings - Sutton's Smile Amani's Music Maclean's Music - Amani (CHI) View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 4, CLM",
+      "details": "Churchill Downs, Race 4, CLM Churchill Downs , Wednesday, November 25, 2026, Race 4 CLM 1 1/16 miles $86,000 Fillies and Mares 3 yo's up Turf GD Dozen Diamonds Mendelssohn - Twelve Jewels Yellow Sun Dress Karakontie (JPN) - Frippery Take My Picture Demarchelier (GB) - Free N Clear View Details"
+    },
+    {
       "title": "Churchill Downs, Race 2, MSW",
       "details": "Churchill Downs, Race 2, MSW Churchill Downs , Wednesday, November 25, 2026, Race 2 MSW 1 1/16 miles $120,000 Fillies and Mares 3 yo's up Dirt GD Al Ghadeer Gun Runner - Classofsixtythree Noble Glow Gun Runner - Summer Love (ARG) Permutation Maxfield - Broadway Show View Details"
     },
     {
       "title": "Churchill Downs, Race 1, MCL",
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Wednesday, November 25, 2026, Race 1 MCL 7 furlongs $67,000 Fillies 2 yo Dirt GD Dance Like This Jackie's Warrior - On My Way Fiery Rufina Authentic - Iwasreadyyesterday Benevolencia Street Sense - Please Be Kind View Details"
+    },
+    {
+      "title": "Delta Downs, Race 2, MCL",
+      "details": "Delta Downs, Race 2, MCL Delta Downs , Wednesday, November 25, 2026, Race 2 MCL 7 furlongs $30,000 Fillies 2 yo Dirt FT Shirley Our Joy Mucho Macho Man - Dina's Joy Olympiad's Choice Olympiad - Critic's Choice Kai Aloha Aloha West - Camorra View Details"
+    },
+    {
+      "title": "Finger Lakes, Race 7, AOC",
+      "details": "Finger Lakes, Race 7, AOC Finger Lakes , Wednesday, November 25, 2026, Race 7 AOC 6 furlongs $25,000 3 yo's up Dirt FT Pompous Prince Palace - Pompous Lady In the Chase Weekend Hideaway - She's Always Ready Stars N Stones Bustin Stones - Rockin Emmzy View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 8, ALW",
+      "details": "Mahoning Valley Racecourse, Race 8, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 25, 2026, Race 8 ALW 6 furlongs $35,100 3 yo's up Dirt FT Duo Drill - Dotthei Rich On the River Rivers Run Deep - Doll Dreams Strike Plate Itsthesameoldsong - Added Delight View Details"
+    },
+    {
+      "title": "Mahoning Valley Racecourse, Race 6, MSW",
+      "details": "Mahoning Valley Racecourse, Race 6, MSW MAHONING VALLEY RACECOURSE , Wednesday, November 25, 2026, Race 6 MSW 6 furlongs $31,800 2 yo Dirt FT Ten Toes In Copper Bullet - Sassy Appeal Flashy Idol Idol - Flashy G All Nine Yards Temple City - Merry Lady View Details"
     },
     {
       "title": "Mahoning Valley Racecourse, Race 2, MSW",
@@ -811,48 +859,24 @@
       "details": "Mahoning Valley Racecourse, Race 1, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 25, 2026, Race 1 ALW 6 furlongs $35,100 3 yo's up Dirt FT Killa Creed Jimmy Creed - Moon Date Atlas Falls Bernardini - Oldfashioned Style Machico Madeira Echo Town - Angelina View Details"
     },
     {
+      "title": "Pennsylvania Nursery S. (BT)",
+      "details": "Pennsylvania Nursery S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 8 STK 7 furlongs $100,000 2 yo Dirt FT Vero Vekoma - Precious The Answer Eastwood - My Best Friend Schubert Sonata Mendelssohn - Keltoi View Details"
+    },
+    {
+      "title": "Cornucopia S. (BT)",
+      "details": "Cornucopia S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 7 STK 6 1/2 furlongs $75,000 Fillies and Mares 3 yo's up Dirt FT More Than Grace More Than Ready - Trace of Grace Boutwell Time Not This Time - Del Mar May Mary Q Social Inclusion - Musket Mary View Details"
+    },
+    {
+      "title": "Let's Give Thanks S. (BT)",
+      "details": "Let's Give Thanks S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 4 STK 6 1/2 furlongs $75,000 3 yo's up Dirt FT Howgreatisnate Speightster - Bee Dees Bid Spikezone Speightster - Blameitontheice Maximus Meridius Maximus Mischief - Quiet Virtue View Details"
+    },
+    {
       "title": "Turkey Trot S. (BT)",
       "details": "Turkey Trot S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 3 STK 1 mile 70 Yards $75,000 3 yo's up Dirt FT Bartlett Not This Time - Brilliant Sunshine Warp Nine Hightail - Powertap Wild Vine Red Vine - Praslin View Details"
     },
     {
       "title": "Parx Racing, Race 1, MSW",
       "details": "Parx Racing, Race 1, MSW Parx Racing , Wednesday, November 25, 2026, Race 1 MSW 6 1/2 furlongs $60,000 2 yo Dirt FT Sir Patrick Pat On the Back - Friday Mass Chef Sparrow Maximus Mischief - Bouquet of Gold Penniless Pauly Eastwood - Streak of Kitten View Details"
-    },
-    {
-      "title": "Tampa Bay Downs, Race 3, MSW",
-      "details": "Tampa Bay Downs, Race 3, MSW Tampa Bay Downs , Wednesday, November 25, 2026, Race 3 MSW 6 furlongs $56,000 Fillies and Mares 3 yo's up Dirt SY Heiroza Khozan - Bridled Heiress Lady Cajun Long On Value - Cajun Lady Lady Burek American Pharoah - Bluesville View Details"
-    },
-    {
-      "title": "Delta Downs, Race 7, ALW",
-      "details": "Delta Downs, Race 7, ALW Delta Downs , Tuesday, November 24, 2026, Race 7 ALW 1 mile $37,000 Fillies and Mares 3 yo's up Dirt FT Brisa Veloz Munnings - Canny Tortuga Coast West Coast - Super Bobbie Faire Plaisir Distorted Humor - Excuses Begone View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 5, MSW",
-      "details": "Finger Lakes, Race 5, MSW Finger Lakes , Tuesday, November 24, 2026, Race 5 MSW 6 furlongs $32,600 Fillies 2 yo Dirt FT Leslie's Choice Honest Mischief - Chosen Wisely Surf Drive Mendelssohn - Belongs to Dixie Endless Appeal Enticed - Pass the Bar View Details Watch Replay"
-    },
-    {
-      "title": "Finger Lakes, Race 4, MSW",
-      "details": "Finger Lakes, Race 4, MSW Finger Lakes , Tuesday, November 24, 2026, Race 4 MSW 6 furlongs $32,600 2 yo Dirt FT Johnny Castle Known Agenda - Dance and Dance Locked Horns Twirling Candy - Pharoah Fawcett Zolfo Mind Control - Pretty Cozzy View Details Watch Replay"
-    },
-    {
-      "title": "Mountaineer, Race 5, MSW",
-      "details": "Mountaineer, Race 5, MSW Mountaineer Race Track And Gaming Resort , Tuesday, November 24, 2026, Race 5 MSW 4 1/2 furlongs $19,000 2 yo Dirt FT Breakaway Kid Unbridled Energy - Lemon Sparkle Birthday Reminder Unbridled Energy - Boucan Bet a Fortune Unbridled Energy - Sky Fortune View Details Watch Replay"
-    },
-    {
-      "title": "Mountaineer, Race 3, MSW",
-      "details": "Mountaineer, Race 3, MSW Mountaineer Race Track And Gaming Resort , Tuesday, November 24, 2026, Race 3 MSW 5 1/2 furlongs $19,000 Fillies and Mares 3, 4, 5 6 yo's Dirt FT Flat Foot Ami's Flatter - Bethwithoutthehalo Aspiring Queen Unbridled Energy - Princess Janelle K's Cal Cal Nation - Reyoro View Details Watch Replay"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 7, ALW",
-      "details": "Mahoning Valley Racecourse, Race 7, ALW MAHONING VALLEY RACECOURSE , Tuesday, November 24, 2026, Race 7 ALW 1 mile $33,700 3 yo's up Dirt FT Lightning Speed Tom's d'Etat - Radiant Sky Bukele Tapiture - Myositis Mystique Jolly Mon Echo Town - Hey Monba View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 5, MSW",
-      "details": "Mahoning Valley Racecourse, Race 5, MSW MAHONING VALLEY RACECOURSE , Tuesday, November 24, 2026, Race 5 MSW 6 furlongs $31,800 2 yo Dirt FT Munnings Master Dominus - Theloveofmunnings Cape Colombard Dominus - Pinotage Full of Malice Da Big Hoss - Callmebella View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 2, ALW",
-      "details": "Mahoning Valley Racecourse, Race 2, ALW MAHONING VALLEY RACECOURSE , Tuesday, November 24, 2026, Race 2 ALW 6 furlongs $27,500 3 yo's up Dirt FT Jupiter Upstart - Magnanimous Soco Kid Improbable - Ten Halos Call Shadd Dialed In - Where's Liam View Details"
     }
   ]
 }
