@@ -1,91 +1,7 @@
 {
-  "last_updated": "November 25, 2026 - 03:00 AM",
+  "last_updated": "November 25, 2026 - 05:00 AM",
   "year": 2026,
   "races": [
-    {
-      "name": "Zia Park Juvenile S.",
-      "raw_name": "Zia Park Juvenile S.",
-      "track": "Zia Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Zia Park Sprint S.",
-      "raw_name": "Zia Park Sprint S.",
-      "track": "Zia Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Zia Park Distaff S.",
-      "raw_name": "Zia Park Distaff S.",
-      "track": "Zia Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Zia Park Princess S.",
-      "raw_name": "Zia Park Princess S.",
-      "track": "Zia Park",
-      "grade": "Stakes",
-      "dist": "6 furlongs (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Zia Park Championship S.",
-      "raw_name": "Zia Park Championship S.",
-      "track": "Zia Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$100,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Zia Park Oaks",
-      "raw_name": "Zia Park Oaks",
-      "track": "Zia Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$300,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
-    {
-      "name": "Zia Park Derby",
-      "raw_name": "Zia Park Derby",
-      "track": "Zia Park",
-      "grade": "Stakes",
-      "dist": "1 1/16 miles (Dirt)",
-      "purse": "$350,000",
-      "date": "Today",
-      "country": "USA",
-      "flag": "🇺🇸",
-      "isUsa": true
-    },
     {
       "name": "South Mountain S.",
       "raw_name": "South Mountain S.",
@@ -93,7 +9,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "11/25",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -105,7 +21,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$50,000",
-      "date": "11/25",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -117,7 +33,7 @@
       "grade": "Stakes",
       "dist": "1 mile 70 Yards (Dirt)",
       "purse": "$75,000",
-      "date": "11/25",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -129,7 +45,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "11/25",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -141,7 +57,7 @@
       "grade": "Stakes",
       "dist": "6 1/2 furlongs (Dirt)",
       "purse": "$75,000",
-      "date": "11/25",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -153,7 +69,7 @@
       "grade": "Stakes",
       "dist": "7 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "11/25",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
@@ -165,7 +81,7 @@
       "grade": "Stakes",
       "dist": "6 furlongs (Dirt)",
       "purse": "$100,000",
-      "date": "11/25",
+      "date": "Today",
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
