@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 25, 2026 - 09:00 PM",
+  "last_updated": "November 25, 2026 - 11:00 PM",
   "year": 2026,
   "races": [
     {
@@ -601,6 +601,54 @@
       "country": "USA",
       "flag": "🇺🇸",
       "isUsa": true
+    },
+    {
+      "name": "Cecil B. DeMille S. (G3T)",
+      "raw_name": "Cecil B. DeMille S. (G3T)",
+      "track": "Del Mar",
+      "grade": "Grade 3",
+      "dist": "1 mile (Turf)",
+      "purse": "$100,000",
+      "date": "11/29",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Stormy Liberal S.",
+      "raw_name": "Stormy Liberal S.",
+      "track": "Del Mar",
+      "grade": "Stakes",
+      "dist": "5 furlongs (Turf)",
+      "purse": "$100,000",
+      "date": "11/29",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Matriarch S. (G1T)",
+      "raw_name": "Matriarch S. (G1T)",
+      "track": "Del Mar",
+      "grade": "Grade 1",
+      "dist": "1 mile (Turf)",
+      "purse": "$300,000",
+      "date": "11/29",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
+    },
+    {
+      "name": "Bayakoa S. (G3)",
+      "raw_name": "Bayakoa S. (G3)",
+      "track": "Del Mar",
+      "grade": "Grade 3",
+      "dist": "1 mile (Dirt)",
+      "purse": "$100,000",
+      "date": "11/29",
+      "country": "USA",
+      "flag": "🇺🇸",
+      "isUsa": true
     }
   ],
   "horses": [
@@ -819,6 +867,22 @@
   ],
   "recent_results": [
     {
+      "title": "Churchill Downs, Race 10, ALW",
+      "details": "Churchill Downs, Race 10, ALW Churchill Downs , Wednesday, November 25, 2026, Race 10 ALW 5 1/2 furlongs $127,000 Fillies and Mares 3 yo's up Turf GD Lexi V. Lexitonian - Vinca Storm Cloud Rising Runhappy - Demigoddess Windy Houston Munnings - Windy Forecast View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 9, STR",
+      "details": "Churchill Downs, Race 9, STR Churchill Downs , Wednesday, November 25, 2026, Race 9 STR 6 1/2 furlongs $83,000 2 yo Dirt FT Karajan Hard Spun - Chosen Road Trim Castle Collected - Rouge Ez Pal Golden Pal - Gun Girl View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 8, MSW",
+      "details": "Churchill Downs, Race 8, MSW Churchill Downs , Wednesday, November 25, 2026, Race 8 MSW 1 1/16 miles $92,000 2 yo Dirt FT Pirate Ship Midshipman - La Perla Nera Wild Streak Twirling Candy - Beautified Sunfyre McKinzie - Debase the Dollar View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 7, AOC",
+      "details": "Churchill Downs, Race 7, AOC Churchill Downs , Wednesday, November 25, 2026, Race 7 AOC 1 1/8 miles $134,000 Fillies and Mares 3 yo's up Turf GD Daisy Flyer Mshawish - Starstruck (IRE) Night of Rose (BRZ) Drosselmeyer - Name of Rose (BRZ) Pretty Tapit Tapit - Pretty At War View Details"
+    },
+    {
       "title": "Churchill Downs, Race 6, MCL",
       "details": "Churchill Downs, Race 6, MCL Churchill Downs , Wednesday, November 25, 2026, Race 6 MCL 5 1/2 furlongs $64,000 Fillies and Mares 3 yo's up Dirt FT Enticing Moves Enticed - Central Moves Grant's Gretchen Munnings - Sutton's Smile Amani's Music Maclean's Music - Amani (CHI) View Details"
     },
@@ -833,6 +897,14 @@
     {
       "title": "Churchill Downs, Race 1, MCL",
       "details": "Churchill Downs, Race 1, MCL Churchill Downs , Wednesday, November 25, 2026, Race 1 MCL 7 furlongs $67,000 Fillies 2 yo Dirt GD Dance Like This Jackie's Warrior - On My Way Fiery Rufina Authentic - Iwasreadyyesterday Benevolencia Street Sense - Please Be Kind View Details"
+    },
+    {
+      "title": "Delta Downs, Race 7, AOC",
+      "details": "Delta Downs, Race 7, AOC Delta Downs , Wednesday, November 25, 2026, Race 7 AOC 5 furlongs $37,000 Fillies and Mares 3 yo's up Dirt FT Bet Towinit Star Guitar - Giagiajoe My Other Half Half Ours - Those Lion Eyes Miss Dealority Apriority - Miss Dealbreaker View Details"
+    },
+    {
+      "title": "Delta Downs, Race 6, AOC",
+      "details": "Delta Downs, Race 6, AOC Delta Downs , Wednesday, November 25, 2026, Race 6 AOC 7 1/2 furlongs $45,000 3 yo's up Dirt FT Pacificislandtime Catalina Red - Aqualane Shores Cajun Ami Congrats - Jcs American Dream Party At Jays Jay Gatsby - Mind View Details"
     },
     {
       "title": "Delta Downs, Race 2, MCL",
@@ -853,30 +925,6 @@
     {
       "title": "Mahoning Valley Racecourse, Race 2, MSW",
       "details": "Mahoning Valley Racecourse, Race 2, MSW MAHONING VALLEY RACECOURSE , Wednesday, November 25, 2026, Race 2 MSW 6 furlongs $24,300 3, 4, 5 6 yo's Dirt FT Flaming Johnny Flameaway - Venetian Army Fever Army Mule - Fighting Market My Friend Wilson Good Samaritan - Crossed View Details"
-    },
-    {
-      "title": "Mahoning Valley Racecourse, Race 1, ALW",
-      "details": "Mahoning Valley Racecourse, Race 1, ALW MAHONING VALLEY RACECOURSE , Wednesday, November 25, 2026, Race 1 ALW 6 furlongs $35,100 3 yo's up Dirt FT Killa Creed Jimmy Creed - Moon Date Atlas Falls Bernardini - Oldfashioned Style Machico Madeira Echo Town - Angelina View Details"
-    },
-    {
-      "title": "Pennsylvania Nursery S. (BT)",
-      "details": "Pennsylvania Nursery S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 8 STK 7 furlongs $100,000 2 yo Dirt FT Vero Vekoma - Precious The Answer Eastwood - My Best Friend Schubert Sonata Mendelssohn - Keltoi View Details"
-    },
-    {
-      "title": "Cornucopia S. (BT)",
-      "details": "Cornucopia S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 7 STK 6 1/2 furlongs $75,000 Fillies and Mares 3 yo's up Dirt FT More Than Grace More Than Ready - Trace of Grace Boutwell Time Not This Time - Del Mar May Mary Q Social Inclusion - Musket Mary View Details"
-    },
-    {
-      "title": "Let's Give Thanks S. (BT)",
-      "details": "Let's Give Thanks S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 4 STK 6 1/2 furlongs $75,000 3 yo's up Dirt FT Howgreatisnate Speightster - Bee Dees Bid Spikezone Speightster - Blameitontheice Maximus Meridius Maximus Mischief - Quiet Virtue View Details"
-    },
-    {
-      "title": "Turkey Trot S. (BT)",
-      "details": "Turkey Trot S. (BT) Parx Racing , Wednesday, November 25, 2026, Race 3 STK 1 mile 70 Yards $75,000 3 yo's up Dirt FT Bartlett Not This Time - Brilliant Sunshine Warp Nine Hightail - Powertap Wild Vine Red Vine - Praslin View Details"
-    },
-    {
-      "title": "Parx Racing, Race 1, MSW",
-      "details": "Parx Racing, Race 1, MSW Parx Racing , Wednesday, November 25, 2026, Race 1 MSW 6 1/2 furlongs $60,000 2 yo Dirt FT Sir Patrick Pat On the Back - Friday Mass Chef Sparrow Maximus Mischief - Bouquet of Gold Penniless Pauly Eastwood - Streak of Kitten View Details"
     }
   ]
 }
