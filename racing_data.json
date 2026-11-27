@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 27, 2026 - 05:00 PM",
+  "last_updated": "November 27, 2026 - 07:00 PM",
   "year": 2026,
   "races": [
     {
@@ -711,6 +711,26 @@
   ],
   "recent_results": [
     {
+      "title": "Belmont Park, Race 2, AOC",
+      "details": "Belmont Park, Race 2, AOC Belmont Park , Friday, November 27, 2026, Race 2 AOC 6 furlongs $108,000 3 yo's up Dirt MY Factually Correct Tourist - Kacy Lauren Vekinda Vekoma - Vinda What's Up Bro Dialed In - Lady On Holiday View Details"
+    },
+    {
+      "title": "Belmont Park, Race 1, MCL",
+      "details": "Belmont Park, Race 1, MCL Belmont Park , Friday, November 27, 2026, Race 1 MCL 6 furlongs $45,000 2 yo Dirt MY Captain G Nashville - Quiet Pirate Max O Nidas Drain the Clock - Miselly Executive Force Colonel Liam - Beauty Boss View Details"
+    },
+    {
+      "title": "Churchill Downs, Race 2, MSW",
+      "details": "Churchill Downs, Race 2, MSW Churchill Downs , Friday, November 27, 2026, Race 2 MSW 7 1/2 furlongs $120,000 Fillies and Mares 3 yo's up Dirt SY Madison's Charm Vekoma - Truckstop Diamond Bisclavret Not This Time - Werewolf Love Divine Into Mischief - Victim of Love View Details"
+    },
+    {
+      "title": "Laurel Park, Race 3, MCL",
+      "details": "Laurel Park, Race 3, MCL Laurel Park , Friday, November 27, 2026, Race 3 MCL 5 1/2 furlongs $31,500 2 yo Dirt GD Infused Omaha Beach - Smokin Mischief Imperial Charter Constitution - Russian Influence Henry M Instagrand - Naria View Details"
+    },
+    {
+      "title": "Parx Racing, Race 3, MCL",
+      "details": "Parx Racing, Race 3, MCL Parx Racing , Friday, November 27, 2026, Race 3 MCL 6 1/2 furlongs $32,000 3 yo's up Dirt MY Problem Solved Game Winner - Socialite My Box of Light Gift Box - Slant of Light Philly Strong Wicked Strong - One Smart Philly View Details"
+    },
+    {
       "title": "Churchill Downs, Race 12, MSW",
       "details": "Churchill Downs, Race 12, MSW Churchill Downs , Thursday, November 26, 2026, Race 12 MSW 1 mile $120,000 Fillies and Mares 3 yo's up Dirt SY Sweet Reward Candy Ride (ARG) - Ultimate Reward Altadena Bolt d'Oro - Cat Walk Dyna Quality Road - Social Queen View Details"
     },
@@ -749,26 +769,6 @@
     {
       "title": "Churchill Downs, Race 3, STR",
       "details": "Churchill Downs, Race 3, STR Churchill Downs , Thursday, November 26, 2026, Race 3 STR 6 1/2 furlongs $83,000 Fillies 2 yo Dirt SY She's Toasty Army Mule - Upsetter Keep Vekoma - Fly On Angel For the Win Drain the Clock - Fleeting Glimpse View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 2, STR",
-      "details": "Churchill Downs, Race 2, STR Churchill Downs , Thursday, November 26, 2026, Race 2 STR 7 1/2 furlongs $62,000 Fillies and Mares 3 yo's up Dirt SY Watershed Moment Omaha Beach - Tiz Briska Diablo Shiraz Daredevil - Forever Vow Don't Be Salty Audible - Sweet Spell View Details"
-    },
-    {
-      "title": "Churchill Downs, Race 1, MCL",
-      "details": "Churchill Downs, Race 1, MCL Churchill Downs , Thursday, November 26, 2026, Race 1 MCL 7 furlongs $72,000 Fillies and Mares 3 yo's up Dirt SY Black Magic River Maxfield - Takechargedelilah Leedu Independence Hall - Will Do Romala Constitution - Solent View Details"
-    },
-    {
-      "title": "Red Carpet S. (BT)",
-      "details": "Red Carpet S. (BT) Del Mar , Thursday, November 26, 2026, Race 8 STK 1 3/8 miles $100,000 Fillies and Mares 3 yo's up Turf FM Kentucky Gal (IRE) Churchill (IRE) - Hold Me Now Massarat Curlin - Ayaady Lubie's Music Maclean's Music - Aunt Lubie View Details Watch Replay View Stakes Recap"
-    },
-    {
-      "title": "Del Mar, Race 7, AOC",
-      "details": "Del Mar, Race 7, AOC Del Mar , Thursday, November 26, 2026, Race 7 AOC 1 mile $67,000 Fillies and Mares 3 yo's up Dirt FT Issa Court Acclamation - Subpoena the Dress Miss Practical Practical Joke - Miss Metropolitan Berry Valley Curlin to Mischief - Noe Valley View Details Watch Replay"
-    },
-    {
-      "title": "Del Mar, Race 6, MSW",
-      "details": "Del Mar, Race 6, MSW Del Mar , Thursday, November 26, 2026, Race 6 MSW 5 furlongs $65,000 3 yo's up Turf FM Benny and the Jet Clubhouse Ride - Jen's Tribe Fair Question Oscar Nominated - Time for Sally Modest A. P. Rumpus Cat - Modest View Details Watch Replay"
     }
   ]
 }
